@@ -1,0 +1,9 @@
+# Datasets catalogue {#sec-appA .unnumbered}
+
+::: {.callout-note}
+## Draft pending
+From `teaching/ecu4413_world_econ/module_design/datasets_by_topic.md` (near camera-ready):
+per-topic datasets with student-ready / illustrative / specialist flags, the four-questions
+mapping, and what a student could do with each.
+:::
+

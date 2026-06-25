@@ -1,0 +1,12 @@
+# The high-medieval boom and the Mongol climax {#sec-ch04}
+
+> *The system's fullest premodern extent — then the great shock.*
+
+::: {.callout-note}
+## Draft pending
+**Period:** c.1000–1400. This chapter is a stub. Draft it from the standardized template
+(`_chapter-template.qmd`) using its story spine
+(`teaching/ecu4413_world_econ/module_design/topic_04_story_spine_2026-06-19.md`), the matching topic brief, the
+centre-of-gravity ledger, the data compendium, and `datasets_by_topic.md`.
+:::
+

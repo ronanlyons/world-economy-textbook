@@ -1,0 +1,30 @@
+# Conclusion: How strong is the spine? {#sec-conclusion}
+
+> *Now that the evidence is in, re-weigh the bounded-anomaly claim.*
+
+::: {.callout-note}
+## Draft pending
+Draft from `11_synthesis.md` + the end-of-module revisit: re-weigh the 'bounded anomaly';
+the 1945-vs-1970s break; aggregate-vs-per-capita 'return'; what the very long run teaches.
+:::
+
+## Cross-cutting questions {.unnumbered}
+
+The bank of essay/exam questions that span several chapters lives here; each chapter points
+forward to the ones it feeds. *Build by collecting every chapter's "Cross-cutting questions"
+callout, grouped by thread — centre-of-gravity, quantity to quality, follow-the-silver, channels,
+forces, data-and-bias.*
+
+::: {.callout-note}
+## Draft pending — seeded from @sec-ch02 and @sec-ch07
+1. **Bullion as tracer.** Compare the eastward Roman drain (@sec-ch02) with the eastward
+   early-modern silver flow (@sec-ch05): in what sense does "follow the bullion" locate the same
+   kind of centre in both, and where does the analogy break down?
+2. **Quantity vs quality.** Across @sec-ch02, @sec-ch06 and @sec-ch07, when is it legitimate to
+   call a "thriving" empire *rich*, and when only *big*? Build the answer from
+   aggregate-vs-per-capita evidence.
+3. **How bounded is the anomaly?** Holding @sec-ch07's timing debate (late-&-contingent vs
+   early-&-structural) against @sec-ch10's partial return, how strong a version of "European
+   dominance as anomaly" can the evidence support? *(The spine's final adjudication.)*
+:::
+

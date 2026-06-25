@@ -1,0 +1,13 @@
+% Map the few non-ASCII glyphs the prose uses so pdfLaTeX (MiKTeX) renders them.
+% HTML uses the Unicode directly; this is PDF-only (see _quarto.yml pdf format).
+\usepackage{newunicodechar}
+\newunicodechar{→}{\ensuremath{\rightarrow}}
+\newunicodechar{←}{\ensuremath{\leftarrow}}
+\newunicodechar{↔}{\ensuremath{\leftrightarrow}}
+\newunicodechar{≈}{\ensuremath{\approx}}
+\newunicodechar{≤}{\ensuremath{\leq}}
+\newunicodechar{≥}{\ensuremath{\geq}}
+\newunicodechar{⅓}{\ensuremath{\tfrac{1}{3}}}
+\newunicodechar{⅔}{\ensuremath{\tfrac{2}{3}}}
+\newunicodechar{¼}{\ensuremath{\tfrac{1}{4}}}
+\newunicodechar{⅔}{\ensuremath{\tfrac{2}{3}}}

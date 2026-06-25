@@ -1,0 +1,9 @@
+# The centre-of-gravity ledger {#sec-appC .unnumbered}
+
+::: {.callout-note}
+## Draft pending
+The arc at a glance, as one consolidated table, from
+`teaching/ecu4413_world_econ/module_design/centre_of_gravity_ledger.md` — each chapter's
+verdict and confidence level in one place.
+:::
+

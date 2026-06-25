@@ -1,0 +1,9 @@
+# A guide to the sources and their biases {#sec-appB .unnumbered}
+
+::: {.callout-note}
+## Draft pending
+The 'data survival and bias' thread, consolidated: record-keeping conventions, climate/
+preservation, 'absence is not absence', and 'through whose eyes'. From the module's
+data-survival note and each chapter's 'How we know'.
+:::
+

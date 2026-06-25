@@ -1,0 +1,375 @@
+# The first world system: Rome was the customer, Asia the workshop {#sec-ch02}
+
+> *For the first time we can ask where the economy's centre lay — and the answer is not Rome.*
+
+## Follow one thing: a stream of Roman silver running east {.unnumbered}
+
+Around the middle of the first century CE, the elder Pliny grumbled that the Roman
+empire was haemorrhaging precious metal to pay for the luxuries of the East — by one of
+his figures, 100 million sesterces a year drained away to India, China and Arabia. The
+number is rhetorical and much argued over, but the *direction* is not. Across the early
+centuries CE, Roman silver and gold flowed steadily eastward across the Indian Ocean and,
+having arrived, largely stayed: it was melted, re-struck by the Kushan and Saka rulers of
+north-west India, and absorbed into Asian economies that valued it as metal. Follow that one
+stream of metal and you have the argument of this chapter. The richest, hungriest consumer of
+the ancient world paid, in hard coin, an economy whose workshops sat not on the Tiber but on
+the Tamil coast and beyond. Rome was the customer. Asia was the workshop.^[**Sources:** Pliny, *Natural History* 6.101, 12.84, via Dalrymple, *The Golden Road* (2024); McLaughlin, *The Roman Empire and the Indian Ocean* (2014). **Read more:** De Romanis, *The Indo-Roman Pepper Trade and the Muziris Papyrus* (2020) on what the figures can and cannot bear.]
+
+## Where we are on the arc {.unnumbered}
+
+In @sec-ch01 there was no centre to find — only loosely linked riverine cores and the slow
+diffusion of metals and crops along three nascent channels. This chapter is where, for the
+first time, the question *where is the centre of gravity?* can actually be asked, because for
+the first time the channels fuse into a single, measurable trans-Eurasian relay running from
+Roman Britain to Han China. The conventional answer is "Rome." This chapter tests that answer
+by following the goods and the money — and finds that the connected economy's productive core
+lay in Asia, with Rome as its structurally dependent western terminus.^[**Sources:** Findlay & O'Rourke, *Power and Plenty* (2007), ch. 1; the centre-of-gravity ledger, `module_design/centre_of_gravity_ledger.md`. **Read more:** Beaujard, *The Worlds of the Indian Ocean*, vol. 1 (2019).]
+
+![Centre-of-gravity locator (c.150 CE): Asia the production core of a multipolar relay; Rome the western consumer-terminus.](figures/cog-locator-02.png){#fig-cog02}
+
+## The stage and the cast
+
+The right mental picture is **not** a wheel with Rome at the hub and spokes running out to
+the provinces and beyond. It is a **triangle** — Rome, India and China — connected by a relay
+of intermediary empires, each of which took its cut. The main chain ran Rome to Parthia and the
+Kushans to Han China; Aksum (in the Red Sea), the Arabian incense kingdoms, and the Indian
+states rounded out the cast. No single merchant or polity ran the system end to end. It was a
+**relay of empires, not one market** — a distinction we will need when we ask, later, whether
+this was really "one" world economy.^[**Sources:** Findlay & O'Rourke (2007), ch. 1; McLaughlin (2014). **Read more:** Abu-Lughod, *Before European Hegemony* (1989), on the "relay" structure of pre-modern world systems.]
+
+::: {.callout-tip}
+## Dramatis personae
+- **Rome** — rich, hungry, and paying in coin. An unusual state: a commercial-fiscal empire
+  whose treasury leaned on the customs of trade, and whose appetite for eastern goods it could
+  satisfy only by exporting bullion.
+- **Parthia and the Kushans** — the middlemen who taxed the overland silk route and re-minted
+  the silver that reached them. Their cut is the reason no one "ran" the Silk Road.
+- **Han China** — Rome's mirror image: a vast agrarian empire run on salt-and-iron monopolies,
+  with wealth flatter and land taxes heavier; the eastern anchor of the chain.
+- **India** *(present in every chapter of this book)* — not China, but **India** was Rome's
+  greatest trading partner; the Indian Ocean was so thick with Indian shipping that one
+  scholar calls it "India's lake." Pataliputra may have held some 200,000 people, dwarfing the
+  Rome of a few centuries earlier; the Tamil south was the workshop that supplied Rome's pepper.
+- **Aksum, Arabia, Alexandria** — the Red Sea entrepôts that funnelled the trade.
+
+*Sources: von Glahn,* The Economic History of China *(2016), on Han; Dalrymple (2024) on the Indian cities and "India's lake"; McLaughlin (2014) on the Red Sea entrepôts.*
+:::
+
+::: {.callout-note}
+## How we know
+Our evidence for this system is thin, indirect, and skewed. It comes mainly from three
+sources: merchant **handbooks** (above all the *Periplus of the Erythraean Sea*); **coin
+hoards**, especially the Roman coins that pile up in southern India; and a single, astonishing
+commercial document, the **Muziris papyrus**, recording the financing and valuation of one
+ship's cargo. The problem is that almost all of it is written *through Roman eyes* — which is
+exactly how the trade came to be read as a Roman story. A useful corrective sits on the island
+of **Socotra**, in the mouth of the Gulf of Aden, where a cave preserves graffiti left by
+ancient sailors: of 219 inscriptions, **192 are Indic** — Brahmi and Indian names — against a
+handful of others. Whose ocean was it? The sailors answered the question themselves.
+
+*Sources: Casson (ed.),* The Periplus Maris Erythraei *(1989); De Romanis (2020) on the Muziris papyrus; Strauch (ed.),* Foreign Sailors on Socotra *(2012) on the cave graffiti. Read more: the data-survival-and-bias note, `module_design/datasets_by_topic.md`.*
+:::
+
+### Inside the economies: three machines, all agrarian
+
+Before following the trade outward, step inside each economy — because the long-distance trade
+this chapter is about touched only a sliver of any of them. **All these economies were
+overwhelmingly agrarian**; the vast majority of people, everywhere, farmed, and never touched a
+trans-Eurasian trade good. What differed was the *machinery* on top of the farms. **Rome** was
+the outlier: a comparatively commercial-fiscal state, its land taxes relatively light, with
+customs duties supplying perhaps a third of imperial revenue. **Han China** was the mirror — an
+agrarian state run on state monopolies of salt and iron, its wealth far flatter (its largest
+private estates a fraction of Rome's greatest fortunes). **India** was deeply commercial, threaded
+with merchant guilds — and yet its internal economy is the one we can least measure, precisely
+because its record did not survive in the Roman manner. Keep this in view: when we later locate the
+"centre of gravity," we are locating the centre of the *connected* economy, not of total output.^[**Sources:** McLaughlin (2014) on the customs share of Roman revenue; von Glahn (2016) on Han monopolies and wealth distribution. **Read more:** Scheidel & Friesen, "The size of the economy and the distribution of income in the Roman Empire," *Journal of Roman Studies* 99 (2009).]
+
+## The period on its own terms: one rise, one fall, in five phases
+
+The first world system had a life-cycle — a single rise and a single fall — that can be read
+in five phases.^[**Source:** this five-phase framing follows the Topic 2 story spine, `module_design/topic_02_story_spine_2026-06-18.md`, built from Findlay & O'Rourke (2007) and McLaughlin (2014).]
+
+**Phase 1 — Opening (c.500–30 BCE).** Alexander's conquests and their Hellenistic successors
+prise open the channels between the Mediterranean and the East; Parthia rises astride the
+overland route; Qin and then Han unify China; Indian Ocean trade begins to thicken. The poles
+of the future system take shape.^[**Read more:** Cunliffe, *By Steppe, Desert, and Ocean* (2015), on the opening of the channels.]
+
+**Phase 2 — Switch-on (30 BCE–1st c. CE).** Rome's annexation of Egypt in **30 BCE** gives it
+direct access to the Red Sea and the monsoon trade. Mastery of the monsoon wind system lets
+ships sail the open ocean rather than creep along the coast, and the volume of Roman shipping
+to India jumps — by Strabo's report, roughly **sixfold**. The eastward bullion drain begins in
+earnest.^[**Sources:** Strabo, *Geography* 2.5.12 (the "120 ships" passage), via McLaughlin (2014). **Read more:** Sidebotham, *Berenike and the Ancient Maritime Spice Route* (2011).]
+
+**Phase 3 — Apogee (1st–2nd c. CE).** At the system's height all four poles flourish together.
+The clearest emblem of connection comes in **166 CE**, when an embassy claiming to come from the
+Roman emperor "Antun" (Antoninus or Marcus Aurelius) is recorded reaching the Han court — the
+two ends of Eurasia, however faintly, in direct contact.^[**Source:** the *Hou Hanshu* account, via von Glahn (2016). **Read more:** Raoul McLaughlin, *The Roman Empire and the Silk Routes* (2016).]
+
+**Phase 4 — The turn (c.165–200).** The same routes that carried goods carried disease. The
+**Antonine Plague** — probably smallpox — travels westward along the trade arteries and guts the
+Roman and the Han worlds alike; the Han military is hollowed out. Integration's gift becomes its
+curse.^[**Read more:** Harper, *The Fate of Rome: Climate, Disease, and the End of an Empire* (2017), ch. 3, for the case (and its critics) on the Antonine Plague's scale.]
+
+**Phase 5 — Synchronised collapse (c.220–300).** The poles fall *together*. The Han dynasty
+ends in 220; Rome plunges into its third-century crisis; the Kushan empire fragments. That the
+ends of the system unravelled in near-unison is itself the strongest evidence that they had been
+parts of one connected whole.^[**Sources:** von Glahn (2016) on the fall of Han; standard accounts of the third-century crisis. **Read more:** the synchrony argument in Findlay & O'Rourke (2007), ch. 1.]
+
+## Reading the period: the four questions
+
+**Was the system integrating or disintegrating** (Q1)? Integrating, then disintegrating — and
+the *synchrony* of the five phases is the proof that it was one system. The poles rose together
+and fell together. But the very fact that the Antonine Plague could travel from one end to the
+other teaches the first of this book's running lessons: **the routes that integrate also
+transmit shocks.** Integration is not costless.^[**Read more:** on "integration breeds fragility" as a recurring mechanism, see the module synthesis, `module_design/11_synthesis.md`, Q1.]
+
+**Which routes carried the integration** (Q2)? Both sea and land, as **complements**, not
+rivals. The **sea** carried bulk — pepper, gems, textiles — by the shipload, and it was far
+cheaper than land carriage. (*How much* cheaper is itself disputed: our sources support a range
+from roughly fivefold to thirtyfold, and the book takes the gap as a teaching point rather than
+papering over it — see the Debate below.) The **overland** routes carried high-value, low-bulk
+silk westward through a chain of Parthian and Kushan tolls, with each intermediary taking a cut,
+which is why no single merchant ran the route's length. And a crucial **third leg** ran directly
+between **India and China**, by the Bay of Bengal and the Kushan passes, bypassing the
+Mediterranean altogether. Picture the triangle again: three legs, and **Rome is only one
+corner**.^[**Sources:** Dalrymple (2024) and McLaughlin (2014) on relative carriage costs (the two ends of the 5×–30× range); on the India–China leg, Sen, *Buddhism, Diplomacy, and Trade* (2003). **Read more:** Diocletian's *Edict on Maximum Prices* (301 CE) as the anchor for land-vs-sea cost ratios.]
+
+::: {.callout-important}
+## Follow the money
+**Which flow did the actual integrating** (Q3)? Treat bullion as a **good**, and it points
+straight to the answer. Roman precious metal flowed **east** and stayed there. *Why* east?
+Because the relative price of gold to silver differed across the system — gold was relatively
+cheaper in Rome, silver relatively dearer in India — so silver shipped east bought more.
+Arbitrage, in a word. The metal moved **toward the production centre**, because that is where
+the goods the rest of the world wanted were made and where the silver came to rest, re-minted by
+Kushan and Saka rulers. To grasp the scale of a single voyage: the cargo of one returning
+Indiaman, as valued in the **Muziris papyrus**, was worth a fortune — on one reckoning enough to
+pay roughly eleven thousand legionaries for a year. And the traders who carried it were, despite
+the Roman tint of our sources, **substantially Indian**. Follow the bullion, and the workshop sits
+in Asia.
+
+*Sources: De Romanis (2020) on the Muziris papyrus valuation; McLaughlin (2014) on the gold–silver arbitrage; Strauch (2012) on Indic trader presence. Read more: this is the first instalment of the book's running bullion tracer (see the Introduction, "the bullion tracer, and why it flips").*
+:::
+
+**What, then, was Europe's role** (Q4)? Rome was a **wealthy consumer** whose fiscal base rested
+on a flow of eastern goods and the customs they generated — a flow it did not control and could
+not produce. Powerful, rich, militarily dominant in its own sphere; but in the *economic* relay
+of Eurasia, the structurally dependent western terminus. Behind the whole cycle stood the
+**forces**: a benign climate that helped the apogee along, and then disease that took it away.^[**Read more:** Harper, *The Fate of Rome* (2017), for the climate-and-disease framing of Rome's trajectory (and Scheidel's and others' cautions about over-reading it).]
+
+## The verdict: where was the centre?
+
+The first world system had **no single political centre** — it was a multipolar relay. But by
+**value of production and by the direction of bullion, Asia was its productive core**, and Rome
+its structurally dependent consumer. That is the centre-of-gravity verdict for this period, and
+it is well triangulated; what remains genuinely contested is the *scale* of the eastern trade,
+not its direction. *(Confidence: moderate-to-good.)*^[**Source:** centre-of-gravity ledger, `module_design/centre_of_gravity_ledger.md`, Topic 2 entry.]
+
+It is essential to size the claim **honestly**, and this is where the chapter sharpens rather
+than inflates the spine. The eastern luxury trade was, on a reasonable estimate, only around
+**5% of Roman output** — large for its reach, but marginal within an economy whose real weight
+was internal grain and oil. (Indeed the single largest sea trade in the Roman world was not the
+pepper run at all, but the **Mediterranean grain and oil** that fed the cities.) So "centre of
+gravity" here does **not** mean the centre of total output, which was overwhelmingly agrarian
+everywhere. It marks the centre of the **connected** economy — where the world's *valued* goods
+were made and where its bullion pooled. And the "success" we are measuring is **aggregate scale**,
+not income per head. The per-capita switch — the thing that will eventually make European
+dominance possible — comes much later, in @sec-ch07. (This is the **quantity to quality** thread,
+set running here.)^[**Sources:** the ~5%-of-GDP estimate follows the scale discussion in `module_design/topic_02_research_scale_internal_buddhism_2026-06-18.md`, drawing on Scheidel and on Temin, *The Roman Market Economy* (2013). **Read more:** on the quantity-vs-quality distinction across the book, see the Introduction.]
+
+::: {.callout-warning}
+## The debate: a luxury haemorrhage, or high-volume mass trade?
+Was the Indo-Roman trade a thin trickle of ruinously expensive luxuries for a tiny elite — the
+"haemorrhage" of Pliny's complaint — or a **high-volume commerce** in goods like pepper and
+ordinary textiles that reached well down the social scale? The older view emphasised luxury and
+elite consumption; a revisionist line (De Romanis; Cobb) reads the **Muziris papyrus** and the
+scale of the pepper trade as evidence of something much closer to a mass market. The dispute
+matters because it changes how *economically* significant the system was, and it is bound up with
+a second, unresolved quarrel — the value of the *Hermapollon* cargo recorded in that papyrus,
+which different scholars reconstruct very differently (a full value around 9 million sesterces, on
+one reading, with duty above 2 million). This book does **not** quietly pick a winner. The gap in
+the cost-of-carriage figures (roughly 5× versus 30×) and the *Hermapollon* reconstruction are
+presented as exactly what they are: open questions where the evidence underdetermines the answer.
+
+*Sources: De Romanis,* The Indo-Roman Pepper Trade and the Muziris Papyrus *(2020); Cobb,* Rome and the Indian Ocean Trade from Augustus to the Early Third Century CE *(2018).*
+:::
+
+::: {.column-page}
+**Data exhibit — Roman coin hoards in southern India.** The densest physical trace of the
+bullion drain is the distribution of Roman silver and gold coins found in hoards across the
+Indian peninsula, clustering in the Tamil south and trailing off north and east. Plotted against
+the *Periplus*'s port list and the Muziris papyrus, the hoards turn a literary claim ("metal
+flowed east") into a mappable pattern. *Caveats:* hoards record **deposition and non-recovery**,
+not flow — a coin buried and never retrieved is over-represented relative to one that kept
+circulating; and find-spots reflect where modern archaeology has looked. *What you could do with
+this:* combine published hoard catalogues with port locations to ask whether coin density tracks
+the *Periplus*'s emporia, and test how sensitive the picture is to the deposition bias.
+
+*Sources: published Roman-coin-hoard catalogues for South Asia (e.g. Turner, 1989; updated finds); Casson (1989) for the* Periplus *ports. See the per-topic dataset entry in `module_design/datasets_by_topic.md`, Topic 2.*
+:::
+
+## Threads forward
+
+This chapter set three of the book's threads running. The **centre-of-gravity** verdict gets its
+first real entry (Asia the productive core of a multipolar relay; moderate-to-good confidence).
+The **quantity-versus-quality** thread is introduced with a warning we will need for every
+"thriving" empire to come: aggregate scale is not income per head. And **integration breeds
+fragility** got its first demonstration in the Antonine Plague.^[**Read more:** the six cross-cutting threads are set out in the Introduction; their per-chapter payoffs are tracked in `module_design/11_synthesis.md`.]
+
+One actor deserves a closing look, because it carries us into @sec-ch03. In India, **Buddhism**
+and long-distance trade reinforced one another. Congenial to mobile merchants because it sat
+lightly on the caste-ritual barriers that constrained others, it was endowed by merchant guilds —
+the donative inscriptions at **Nasik** (the financier Ushavadata) and **Karle** (the *setthi*
+Bhutapala; named **Yavana**, i.e. Greek/Roman, donors) record the flow of commercial wealth into
+the monasteries. Sited on the trade routes, those monasteries became **proto-financial
+institutions**: they took perpetual endowments (*akshaya-nivi*) and lent at interest, supplying
+credit and trust along the roads — and carrying Buddhism itself on toward China. (Note the careful
+claim: *proto-banks*, not "the first banks," and we drop the once-common story that a Brahmanical
+"sea taboo" drove merchants into Buddhism — the evidence does not support the causal link.) Hold
+on to that pairing of **religion and trade**, because the next chapter opens a new order built
+around two faiths — Islam and a Tang-Chinese world — in which religion again lubricates the
+exchange.^[**Sources:** Schopen, *Bones, Stones, and Buddhist Monks* (1997) and *Buddhist Monks and Business Matters* (2004) on monastic endowments and lending; Ray, *The Winds of Change* (1994) and Neelis, *Early Buddhist Transmission and Trade Networks* (2011) on monasteries and routes; Gernet, *Buddhism in Chinese Society* (1995). **Read more:** the evidence note `module_design/topic_02_research_scale_internal_buddhism_2026-06-18.md`.]
+
+---
+
+## Classic research: the foundations {.unnumbered}
+
+The modern debate sits on top of a century-old argument among economic historians about *what
+kind of economy* antiquity even had — an argument worth knowing, because this chapter's "one
+market or a chain of empires?" question is its direct descendant.
+
+- **Rostovtzeff (1926)**, *The Social and Economic History of the Roman Empire* — the
+  **"modernist"** foundation: a Roman world of vigorous trade, investment and a quasi-bourgeois
+  commercial class. [Internet Archive](https://archive.org/details/rostovtzeff-1926-sehre)
+- **Tenney Frank, ed. (1933–40)**, *An Economic Survey of Ancient Rome* (5 vols) — the
+  foundational compilation that first assembled the scattered quantitative evidence.
+- **Polanyi, Arensberg & Pearson, eds (1957)**, *Trade and Market in the Early Empires* — the
+  **"substantivist"** view: ancient exchange was *embedded* in social and political institutions,
+  not a self-regulating market. The intellectual root of "relay of empires, not one market."
+- **Finley (1973)**, *The Ancient Economy* — the **"primitivist"** classic that dominated for a
+  generation: status, not markets, organised ancient economic life; long-distance trade was
+  marginal. The paradigm the quantitative turn was built to test.
+  [UC Press](https://www.ucpress.edu/book/9780520219465/the-ancient-economy)
+- **Hopkins (1980)**, "Taxes and Trade in the Roman Empire (200 B.C.–A.D. 400)," *Journal of
+  Roman Studies* 70: 101–125 — the **seminal quantitative model** linking taxation, money and
+  trade; the hinge between Finley's qualitative world and modern cliometrics.
+  [JSTOR](https://www.jstor.org/stable/299558)
+- *On this chapter's exact subject* — **Warmington (1928)**, *The Commerce between the Roman
+  Empire and India*, the classic synthesis of the Indo-Roman trade
+  ([Internet Archive](https://archive.org/details/in.ernet.dli.2015.282092)); and **Wheeler,
+  Ghosh & Krishna Deva (1946)**, "Arikamedu," *Ancient India* 2 — the excavation that put the
+  trade on a material footing.
+
+## At the research frontier: recent cliometric work {.unnumbered}
+
+A quantitative ("cliometric") literature now tries to put **numbers** on the ancient economy —
+output, living standards, market integration — and it is moving quickly. The list below reflects
+a sweep of **NBER, CEPR and RePEc/IDEAS** (plus the leading archaeology/ancient-history venues),
+recent first. *One honest result of the sweep:* NBER surfaced no ancient-economy working paper;
+the economics-discipline action is in **CEPR / *Review of Economic Studies*** and **JEP / EHR**,
+while the field's empirical depth sits in **OXREP / JRS / *Science Advances***.
+
+- **Flückiger, Hornung, Larch, Ludwig & Mees (2022)**, "Roman Transport Network Connectivity and
+  Economic Integration," *Review of Economic Studies* 89(2): 774–810 — the headline
+  economics-discipline paper: uses spatially disaggregated excavated-ceramics data to show Roman
+  transport connectivity drove **market integration** (and still shapes integration two millennia
+  on). Squarely on this chapter's **Q2 (channels)**. Circulated as a CEPR Discussion Paper.
+  [DOI](https://doi.org/10.1093/restud/rdab036) · [RePEc](https://ideas.repec.org/a/oup/restud/v89y2022i2p774-810..html) · [CEPR column](https://cepr.org/voxeu/columns/how-roman-transport-network-connectivity-shapes-economic-integration)
+- **Ortman, Lobo, Lodwick, Wiseman, Bulik, Harbison & Bettencourt (2024)**, "Identification and
+  measurement of intensive economic growth in a Roman imperial province," *Science Advances*
+  10(27): eadk5517 — settlement-scaling methods find *modest per-capita* (intensive) growth in
+  Roman Britain over four centuries. A direct test for this book's **quantity-vs-quality** thread.
+  [DOI](https://doi.org/10.1126/sciadv.adk5517)
+- **Kessler & Temin (2007)**, "The organization of the grain trade in the early Roman Empire,"
+  *Economic History Review* 60(2): 313–332 — uses grain-price gradients to argue for an
+  **integrated** Mediterranean market; a key plank of the "modernist/market" revival.
+- **Temin (2006)**, "The Economy of the Early Roman Empire," *Journal of Economic Perspectives*
+  20(1): 133–151 — the accessible economics-discipline statement of the market case, expanded in
+  his *The Roman Market Economy* (2013). [DOI](https://doi.org/10.1257/089533006776526148)
+- **De Romanis (2020)**, *The Indo-Roman Pepper Trade and the Muziris Papyrus* (OUP) — the
+  definitive quantitative reconstruction behind this chapter's central document; the empirical core
+  of the luxury-vs-mass-trade debate.
+- **Bowman & Wilson, eds (2009– )**, *Quantifying the Roman Economy* and the ongoing **Oxford
+  Roman Economy Project** — the standing programme turning proxies (shipwrecks, amphorae, coins,
+  mining pollution) into economic indicators; the methodological backbone of the field.
+- **Scheidel & Friesen (2009)**, "The size of the economy and the distribution of income in the
+  Roman Empire," *Journal of Roman Studies* 99: 61–91 — the benchmark Roman-GDP estimate behind
+  this chapter's "~5% of output" sizing.
+- **Milanović, Lindert & Williamson (2011)**, "Pre-industrial inequality," *Economic Journal* 121:
+  255–272 — places Rome in a comparative inequality frame (the "inequality possibility frontier").
+
+::: {.callout-note}
+## Keeping this current (verification gate)
+Sweep run 2026-06-25 across NBER, CEPR, RePEc/IDEAS, Crossref and JSTOR; every entry above was
+citation-verified (DOI/stable URL). The deepest *ancient*-economy cliometrics still sits in
+archaeology/ancient-history venues more than in NBER/CEPR (which skew modern). Refresh before
+publication and **never list an unverified working paper**. The "Classic research" + "research
+frontier" pair recurs in every chapter; later chapters (7–10) will be far more NBER/CEPR-heavy.
+:::
+
+---
+
+### Questions for consideration {.unnumbered}
+
+*Essay / exam style — each rewards the four-questions toolkit and the chapter's live debate, not recall.*
+
+1. *"Rome was the consumer, Asia the centre."* Assess this claim using the eastward bullion drain.
+2. Was the first Eurasian system **one market** or **a chain of empires**? Use the synchrony of
+   its rise and fall, and the role of the middlemen, in your answer.
+3. *"The Indo-Roman trade was a luxury sideshow, not a structural feature of either economy."*
+   How would you test this — and how far do the data (the ~5%-of-output estimate; the Muziris
+   papyrus) let you?
+4. How much explanatory weight should **climate and disease** carry in the rise and fall of the
+   first world system? Discuss with reference to the Antonine Plague and the third-century crisis.
+5. *"Absence of evidence is not evidence of absence."* Using the Socotra graffiti and the Roman
+   coin hoards, discuss how the **survival and bias** of the sources shapes what we can claim about
+   who ran this trade.
+
+::: {.callout-tip}
+## Cross-cutting questions (collected at the end of the book)
+The book closes with a bank of questions that span several chapters. Two that this chapter feeds:
+- **Bullion as tracer.** Compare the eastward Roman drain (this chapter) with the eastward
+  early-modern silver flow (@sec-ch05): in what sense does "follow the bullion" locate the same
+  kind of centre in both, and where does the analogy break down?
+- **Quantity vs quality.** Across @sec-ch02, @sec-ch06 and @sec-ch07, when is it legitimate to call
+  a "thriving" empire *rich*, and when only *big*? Build your answer from aggregate-vs-per-capita
+  evidence.
+:::
+
+### Data exercise {.unnumbered}
+
+```{r}
+#| label: ch-02-exercise
+#| eval: false
+# Indo-Roman coin hoards vs Periplus ports (datasets_by_topic.md, Topic 2).
+# 1. Load a published catalogue of Roman coin hoards in South Asia (find-spot, count, date-range).
+# 2. Load Periplus emporia coordinates.
+# 3. Map hoard density; test whether it tracks the port list.
+# 4. Discuss the deposition/non-recovery bias before drawing inferences about "flow".
+```
+
+### Key data {.unnumbered}
+
+| Figure | Value | Source (to wire to `references.bib`) |
+|---|---|---|
+| Roman drain east (rhetorical) | ~100m sesterces/yr | Pliny, via Dalrymple 2024 |
+| Customs share of Roman revenue | ~1/3 | McLaughlin 2014 |
+| Sea vs land carriage cost | ~5×–30× cheaper (disputed) | Dalrymple 2024 / McLaughlin 2014 |
+| Monsoon-era shipping increase | ~6× | Strabo, via McLaughlin 2014 |
+| Eastern trade as share of Roman output | ~5% | Scheidel; research note |
+| *Hermapollon* cargo value | ~9m sesterces full; duty >2m (disputed) | De Romanis 2020 |
+| Socotra graffiti | 192 of 219 Indic | Strauch 2012 |
+| Direct Rome–Han contact | "Antun" embassy, 166 CE | *Hou Hanshu*, via von Glahn 2016 |
+| Pataliputra population | ~200,000 | Dalrymple 2024 |
+
+*The two figures flagged "disputed" are presented in the Debate, not silently resolved. Formal
+citation keys are wired during the Phase-3 bibliography consolidation.*
+
+### Further reading {.unnumbered}
+
+- **Core:** Findlay & O'Rourke, *Power and Plenty* (2007), ch. 1; McLaughlin, *The Roman Empire
+  and the Indian Ocean* (2014).
+- **Supplementary:** Dalrymple, *The Golden Road* (2024); von Glahn, *The Economic History of
+  China* (2016), on the Han anchor; Casson (ed.), *The Periplus Maris Erythraei* (1989, primary).
+- **The debate:** De Romanis (2020) and Cobb (2018) on the Muziris papyrus and luxury-vs-mass
+  trade; on Buddhism and commerce, Ray (1994), Schopen (1997, 2004), Neelis (2011).

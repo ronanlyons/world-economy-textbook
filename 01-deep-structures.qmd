@@ -1,0 +1,12 @@
+# Deep structures: a world without a centre {#sec-ch01}
+
+> *Before prices, the only measure of integration is the diffusion of goods and ideas.*
+
+::: {.callout-note}
+## Draft pending
+**Period:** c.3500–500 BCE. This chapter is a stub. Draft it from the standardized template
+(`_chapter-template.qmd`) using its story spine
+(`teaching/ecu4413_world_econ/module_design/topic_01_story_spine_2026-06-19.md`), the matching topic brief, the
+centre-of-gravity ledger, the data compendium, and `datasets_by_topic.md`.
+:::
+

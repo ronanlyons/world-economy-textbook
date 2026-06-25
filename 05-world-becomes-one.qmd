@@ -1,0 +1,12 @@
+# The world becomes one — and stays Asian {#sec-ch05}
+
+> *Three oceans connect; silver welds the globe; the sink is still in Asia.*
+
+::: {.callout-note}
+## Draft pending
+**Period:** c.1400–1600. This chapter is a stub. Draft it from the standardized template
+(`_chapter-template.qmd`) using its story spine
+(`teaching/ecu4413_world_econ/module_design/topic_05_story_spine_2026-06-19.md`), the matching topic brief, the
+centre-of-gravity ledger, the data compendium, and `datasets_by_topic.md`.
+:::
+

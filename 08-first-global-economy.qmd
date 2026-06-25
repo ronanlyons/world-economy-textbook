@@ -1,0 +1,12 @@
+# The first global economy: integration on colonial terms {#sec-ch08}
+
+> *Steam, Suez and empire — peak Western dominance, resting on the ocean it governed.*
+
+::: {.callout-note}
+## Draft pending
+**Period:** c.1850–1914. This chapter is a stub. Draft it from the standardized template
+(`_chapter-template.qmd`) using its story spine
+(`teaching/ecu4413_world_econ/module_design/topic_08_story_spine_2026-06-20.md`), the matching topic brief, the
+centre-of-gravity ledger, the data compendium, and `datasets_by_topic.md`.
+:::
+

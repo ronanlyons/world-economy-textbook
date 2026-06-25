@@ -1,0 +1,148 @@
+<!--
+STANDARDIZED CHAPTER TEMPLATE — apparatus standardized, narrative free.
+Copy this file to NN-slug.qmd. Keep the section ORDER and the recurring callouts;
+write the "period on its own terms" section freely (length flexes per period).
+Weave the four questions into prose — do NOT use four rigid labelled subsections.
+Every number must trace to a source; present disputed figures as teaching points.
+Sources: story spine (narrative) · brief (analysis) · ledger (verdict) · compendium
+(data) · datasets_by_topic (exercise) · module_reading_long_list (further reading).
+
+THREE STANDING CONVENTIONS (every chapter):
+1. PER-PARAGRAPH SOURCING. End each substantive paragraph with a footnote giving its
+   sources + a "Read more:" pointer, e.g.  ...claim.^[**Sources:** Author (year).
+   **Read more:** Author (year).]  Callouts carry an italic "Sources:" line instead.
+   Keep prose clean (house style: provenance in the apparatus, not mid-sentence).
+2. TWO RESEARCH SECTIONS, paired: "CLASSIC RESEARCH: the foundations" (early seminal
+   economic-history work on the topic — the paradigms the chapter's debate descends from;
+   JSTOR/archive links) THEN "AT THE RESEARCH FRONTIER" (recent cliometric work; sweep
+   NBER/CEPR/RePEc + leading field venues, recent-first, one-line review + link). ALWAYS
+   end with the verification-gate callout. NEVER fabricate a citation — verify every entry
+   (Crossref/RePEc/JSTOR) before listing.
+3. QUESTIONS — 3–5 essay/exam-style "Questions for consideration", PLUS a callout
+   pointing to the book-level cross-cutting questions this chapter feeds (bank lives in
+   the Conclusion).
+-->
+
+# Chapter title — a message-carrying sentence {#sec-chNN}
+
+> *One-line chapter epigraph: the period in a sentence.*
+
+## Follow one thing {.unnumbered}
+
+<!-- The opening hook: one object that carries the whole period's story. -->
+
+## Where we are on the arc {.unnumbered}
+
+<!-- One paragraph locating the period on the spine + the recurring CoG locator map. -->
+
+![Centre-of-gravity locator: where the weight sits this period.](figures/cog-locator-NN.png){#fig-cogNN}
+
+## The stage and the cast
+
+<!-- Geography/deep structures for the period. -->
+
+::: {.callout-tip}
+## Dramatis personae
+The economic actors this period — and *what changed since last chapter*. **India appears
+every chapter.**
+:::
+
+::: {.callout-note}
+## How we know
+The sources for this period, their gaps and biases, and the state of measurement.
+:::
+
+## The period on its own terms
+
+<!-- The chronological, phased narrative (the "meat"). Flexes per period. From the story spine. -->
+
+## Reading the period: the four questions
+
+<!-- Woven prose, NOT four rigid headings. Direction · Channels · Modes · Europe.
+     Use the "Follow the money" callout for the bullion/silver/capital tracer. -->
+
+::: {.callout-important}
+## Follow the money
+The bullion/silver/capital tracer for this period — which way it ran, and what that tells
+us about where the centre of gravity sat.
+:::
+
+## The verdict: where was the centre?
+
+<!-- CoG verdict + an explicit confidence level (the evidence-ledger entry). -->
+
+::: {.callout-warning}
+## The debate
+The live scholarly controversy of this chapter, presented as genuinely contested, with the
+contending positions named.
+:::
+
+::: {.column-page}
+**Data exhibit — [title].** The chapter's empirical centrepiece: one series/figure with
+full provenance *and* caveats. *What you could do with this:* the research hook.
+:::
+
+## Threads forward
+
+<!-- How the chapter advances the cross-cutting threads + the hand-off to the next chapter.
+     End each paragraph with its ^[**Sources:** … **Read more:** …] footnote. -->
+
+---
+
+## Classic research: the foundations {.unnumbered}
+
+<!-- Early seminal economic-history work on the topic — the paradigms/debates the chapter
+     descends from. Each: citation · one-line review · JSTOR/archive link. VERIFY every entry. -->
+
+- **Author (year)**, *Title* — what it established / which paradigm. [JSTOR/archive]
+
+## At the research frontier: recent cliometric work {.unnumbered}
+
+<!-- Recent-first; sweep NBER/CEPR/RePEc + leading field venues. Each: citation · one-line
+     review tying it to a thread/debate · link (DOI/working-paper URL). VERIFY — never fabricate.
+     Note honestly where the discipline's action actually is for this period. -->
+
+- **Author et al. (year)**, "Title," *Venue* — one-line review + why it matters here. [DOI/URL]
+
+::: {.callout-note}
+## Keeping this current (verification gate)
+Sweep date + repositories searched; every entry citation-verified. Refresh before publication;
+**never list an unverified working paper**. Note where the discipline's action actually sits.
+:::
+
+---
+
+### Questions for consideration {.unnumbered}
+
+*Essay / exam style — reward the four-questions toolkit and the live debate, not recall.*
+
+1.
+2.
+3.
+4. <!-- 3–5 questions -->
+
+::: {.callout-tip}
+## Cross-cutting questions (collected at the end of the book)
+The book closes with a bank of questions spanning several chapters. Those this chapter feeds:
+- …
+:::
+
+### Data exercise {.unnumbered}
+
+```{r}
+#| label: ch-NN-exercise
+#| eval: false
+# Reproducible exercise on this chapter's dataset (datasets_by_topic.md).
+```
+
+### Key data {.unnumbered}
+
+| Figure | Value | Source |
+|---|---|---|
+|  |  |  |
+
+### Further reading {.unnumbered}
+
+- **Core:**
+- **Supplementary:**
+- **The debate:**

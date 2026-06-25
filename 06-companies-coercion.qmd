@@ -1,0 +1,12 @@
+# Companies, coercion and the contest of the oceans {#sec-ch06}
+
+> *Europe gains organised, armed leverage — while Asia stays the workshop.*
+
+::: {.callout-note}
+## Draft pending
+**Period:** c.1600–1760. This chapter is a stub. Draft it from the standardized template
+(`_chapter-template.qmd`) using its story spine
+(`teaching/ecu4413_world_econ/module_design/topic_06_story_spine_2026-06-19.md`), the matching topic brief, the
+centre-of-gravity ledger, the data compendium, and `datasets_by_topic.md`.
+:::
+

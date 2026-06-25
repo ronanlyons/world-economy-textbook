@@ -1,0 +1,62 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: "The World Economy over the Very Long Run"
+  subtitle: "A History in Data and Debates"
+  author: "Ronan Lyons"
+  date: today
+  search: true
+  downloads: [pdf]
+  sidebar:
+    style: docked
+  chapters:
+    - index.qmd
+    - 00-introduction.qmd
+    - part: "I — A world without a centre"
+      chapters:
+        - 01-deep-structures.qmd
+        - 02-first-world-system.qmd
+    - part: "II — The ocean at its height"
+      chapters:
+        - 03-maritime-apogee.qmd
+        - 04-high-medieval-mongol.qmd
+    - part: "III — The world becomes one — and stays Asian"
+      chapters:
+        - 05-world-becomes-one.qmd
+        - 06-companies-coercion.qmd
+    - part: "IV — The great reversal"
+      chapters:
+        - 07-great-divergence.qmd
+        - 08-first-global-economy.qmd
+    - part: "V — Break and return"
+      chapters:
+        - 09-disintegration.qmd
+        - 10-asian-rebalancing.qmd
+    - 11-conclusion.qmd
+  appendices:
+    - appendix-a-datasets.qmd
+    - appendix-b-sources.qmd
+    - appendix-c-ledger.qmd
+    - references.qmd
+
+bibliography: references.bib
+# csl: re-enable once references.bib is populated (Phase 3); default style until then.
+
+format:
+  html:
+    theme:
+      - cosmo
+      - style/world-economy.scss
+    toc: true
+    number-sections: false
+  pdf:
+    documentclass: scrbook
+    papersize: a4
+    number-sections: false
+    pdf-engine: xelatex
+    include-in-header: tex/unicode-map.tex
+
+# Open-access: licensed CC BY (confirm before first public render).
+license: "CC BY"

@@ -1,0 +1,17 @@
+# Quarto build output
+/.quarto/
+/_book/
+/_freeze/
+/site_libs/
+
+# LaTeX / render intermediates at project root (keeps tex/unicode-map.tex tracked)
+/*.tex
+/*.log
+*.aux
+*.toc
+*.out
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.Rproj.user

@@ -1,0 +1,12 @@
+# Maritime apogee: Baghdad and Guangzhou, not Aachen {#sec-ch03}
+
+> *The premodern Indian Ocean at its height — and Europe at its most peripheral.*
+
+::: {.callout-note}
+## Draft pending
+**Period:** c.500–1000. This chapter is a stub. Draft it from the standardized template
+(`_chapter-template.qmd`) using its story spine
+(`teaching/ecu4413_world_econ/module_design/topic_03_story_spine_2026-06-19.md`), the matching topic brief, the
+centre-of-gravity ledger, the data compendium, and `datasets_by_topic.md`.
+:::
+

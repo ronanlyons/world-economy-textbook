@@ -1,0 +1,12 @@
+# Disintegration: the mirror of the global economy {#sec-ch09}
+
+> *Deglobalisation — and how the cracking of the core empowered the periphery.*
+
+::: {.callout-note}
+## Draft pending
+**Period:** 1914–1945. This chapter is a stub. Draft it from the standardized template
+(`_chapter-template.qmd`) using its story spine
+(`teaching/ecu4413_world_econ/module_design/topic_09_story_spine_2026-06-20.md`), the matching topic brief, the
+centre-of-gravity ledger, the data compendium, and `datasets_by_topic.md`.
+:::
+

@@ -8,7 +8,11 @@ Sources: story spine (narrative) · brief (analysis) · ledger (verdict) · comp
 (data) · datasets_by_topic (exercise) · module_reading_long_list (further reading).
 
 PROSE STYLE (see STYLE.md): bold ONLY for bullet-point subtitles — never mid-sentence
-emphasis; italics sparingly; avoid LLM-isms/clichés (read it aloud — sound human).
+emphasis; italics sparingly; avoid LLM-isms/clichés (read it aloud — sound human);
+PAST TENSE for historical narration (no historical present); START EAST (lead with Asia,
+profiles run east→west). Actor profiles = collapsible panels, each with a stylised structure
+map + an explicit Trade profile (exports/imports/markets/sources); ~600–900 words per major
+actor; phases ~600–700 words each; ~11,000-word chapters.
 
 THREE STANDING CONVENTIONS (every chapter):
 1. PER-PARAGRAPH SOURCING. End each substantive paragraph with a footnote giving its

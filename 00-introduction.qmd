@@ -9,167 +9,153 @@ coast, or the deck of a dhow running before the monsoon from Aden to Gujarat. It
 deliberately awkward place to stand, because almost every long-run history of the world
 economy is written from somewhere else — from the North Atlantic, looking outward, with
 Europe as the active party and the rest of the world as the stage on which European energy
-plays out. Tell the story that way and its shape is foreordained: the world is poor and
-static until, around 1500 or 1750, Europe stirs, and modern prosperity radiates from a
-single source.
+plays out. Tell the story that way and its shape is settled in advance: the world is poor and
+static until, around 1500 or 1750, Europe stirs, and modern prosperity radiates from a single
+source.
 
 Stand on the Indian Ocean shore instead and a different shape appears. You notice that for
-most of recorded history the **largest, richest, most commercially sophisticated economies
-were in Asia** — Han and Song China, the Abbasid caliphate, Mughal India — and that the
-flow of the world's most coveted store of value, silver and gold, ran *toward* them, not
-away. You notice that Europe spent long centuries as a **periphery**: an exporter of slaves,
-furs and raw metal, an importer of manufactures and ideas, paying for what it wanted in
-bullion it could not itself produce in quantity. And you notice that the period in which
-Europe genuinely ran the world economy is **short** — concentrated in the century or so
-after 1750 — and that even at its height it rested on the Asian periphery it governed.
+most of recorded history the largest and richest economies, and the most commercially
+developed, were in Asia — Han and Song China, the Abbasid caliphate, Mughal India — and that
+the world's most coveted store of value, silver and gold, flowed toward them, not away.
+Europe, by contrast, spent long centuries as a periphery: an exporter of slaves, furs and raw
+metal, an importer of manufactures and ideas, paying for what it wanted in bullion it could
+barely produce itself. And the period in which Europe genuinely ran the world economy is
+short — concentrated in the century or so after 1750 — and even at its height it rested on the
+Asian periphery it governed.
 
-This book takes that view seriously enough to build a whole history around it. But the
-vantage point is an **engine, not a slogan**. The argument it generates is a claim — and the
-job of the book is to *test* that claim, period by period, against what the evidence will
-actually bear, and to be candid about where the evidence is thin and where serious scholars
-disagree.
+This book takes that view seriously enough to build a whole history around it. But the vantage
+point is a tool, not a slogan. The argument it generates is a claim, and the book's job is to
+test that claim, period by period, against what the evidence will bear, and to be candid about
+where the evidence is thin and where serious scholars disagree.
 
 ## The spine: the claim we are testing
 
-Here is the argument in one paragraph. It is worth reading twice, because the rest of the
-book is an extended interrogation of it:
+Here is the argument in one paragraph; the rest of the book interrogates it.
 
 > *Viewed from the Indian Ocean, the world economy spent most of its history centred on
 > Asia — visible in the direction bullion flowed and in where the world's goods were made.
 > Integration advanced and retreated in waves shaped by climate, disease, technology and
 > money, along a durable maritime channel and a periodically resurgent overland one. Europe's
-> dominance was real and transformative but **bounded** — concentrated in the century after
+> dominance was real and transformative but bounded — concentrated in the century after
 > 1750, built partly on the Asian centrality it overturned, and resting at its height on the
 > Indian Ocean periphery it governed. Its timing and depth remain debated, and the East's
 > aggregate return — measurable but partial, achieved within a Western-built order — is the
 > long arc closing, not simply repeating.*
 
-Call this **the spine**. Its most provocative move is to treat European dominance as an
-**interruption** rather than a destination — but a *bounded* interruption, calibrated rather
-than triumphalist. Four qualifications keep that honest, and they recur throughout the book:
+Call this the spine. It treats European dominance as an interruption rather than a
+destination, but a bounded one. Four qualifications bound the claim, and they recur throughout
+the book:
 
-1. the interruption was **consequential** — roughly two transformative centuries, not a blip;
-2. its **timing and depth are genuinely open** — the crux of @sec-ch07, where the
-   Great Divergence is debated;
-3. the eventual return east is **partial** — aggregate weight, *not* a restoration of
-   per-capita parity; and
-4. it is **system-dependent** — the Asian re-rise happened *within* a US-anchored order.
+1. the interruption was consequential — roughly two transformative centuries, not a blip;
+2. its timing and depth are genuinely open, debated in @sec-ch07 over the Great Divergence;
+3. the eventual return east is partial — aggregate weight, not a restoration of per-capita
+   parity; and
+4. it is system-dependent — the Asian re-rise happened within a US-anchored order.
 
-We do not settle the spine in this Introduction. We assemble the tools to test it, and we
-return to weigh it in the @sec-conclusion.
+We do not settle the spine here. We assemble the tools to test it, and return to weigh it in
+the @sec-conclusion.
 
 ## The four questions
 
-The book asks the **same four questions of every period**. They are how each chapter is
-organised, and they are the analytic toolkit the book is trying to hand you. Together they
-answer the spine — *where is the centre of gravity, and is it moving?* — without
-pre-judging it.
+The book asks the same four questions of every period. They organise every chapter and are the
+method the book hands you. Together they answer the spine — *where is the centre of gravity,
+and is it moving?* — without pre-judging it.
 
 ::: {.callout-important}
 ## The four motivating questions
-**Q1 — Direction.** Is the system *integrating or disintegrating*? (Two refinements the
-evidence forces on the simple cycle: *integration breeds fragility* — the links that carry
-goods carry shocks; and *disintegration has winners* — a fracturing core can loosen the
-grip on a periphery.)
-
-**Q2 — Channels.** *Which routes* carry the integrating weight — **maritime** or **overland**
-— and are they complements or substitutes? (The maritime Indian Ocean is the durable artery;
-the overland corridor had **one** true climax, the Mongol Pax of @sec-ch04.)
-
-**Q3 — Modes.** *Which of the four flows* — **goods, technology, people, capital** — is doing
-the integrating? Here lies the book's key analytic move: treat **bullion as a *good* until the
-nineteenth century, then as *money/capital* after** — and use its direction as the running
-tracer of the centre of gravity.
-
-**Q4 — Europe.** What is *Europe's role* — peripheral, entrant, dominant, one of several cores
-— and how does it change? Asked as an open question, not assumed.
+- **Q1 — Direction.** Is the system integrating or disintegrating? (Two refinements the
+  evidence forces on the simple cycle: integration breeds fragility, since the links that carry
+  goods carry shocks; and disintegration has winners, since a fracturing core can loosen its
+  grip on a periphery.)
+- **Q2 — Channels.** Which routes carry the integrating weight, maritime or overland, and are
+  they complements or substitutes? (The maritime Indian Ocean is the durable artery; the
+  overland corridor had one true climax, the Mongol Pax of @sec-ch04.)
+- **Q3 — Modes.** Which of the four flows — goods, technology, people, capital — is doing the
+  integrating? Here the book makes one move: treat bullion as a *good* until the nineteenth
+  century, then as *money and capital* after, and read its direction as the running tracer of
+  the centre of gravity.
+- **Q4 — Europe.** What is Europe's role — peripheral, entrant, dominant, one of several
+  cores — and how does it change? Asked as an open question, not assumed.
 :::
 
-The spine is answered jointly by **Q3** (follow the bullion, then the capital) and **Q4**
-(Europe's changing role); **Q1** and **Q2** describe *how* the system that holds the centre is
-wired at each moment. The arc the four questions trace, chapter by chapter, is this:
+The spine is answered jointly by Q3, which follows the bullion and then the capital, and Q4,
+Europe's changing role; Q1 and Q2 describe how the system that holds the centre is wired at
+each moment. The arc the four questions trace, chapter by chapter, is this:
 
 > no single centre (Ch 1) $\to$ Asia the production-centre of a multipolar relay (Ch 2) $\to$
 > Asia central, Europe peripheral (Ch 3) $\to$ Asia central, a first north-west-European seed
 > (Ch 4) $\to$ Asia the silver sink (Ch 5) $\to$ Asia the workshop, Europe armed (Ch 6) $\to$
-> **the hinge: the centre moves west (Ch 7)** $\to$ peak Western dominance on an Indian-Ocean
+> the hinge, the centre moves west (Ch 7) $\to$ peak Western dominance on an Indian-Ocean
 > base (Ch 8) $\to$ the order cracks within the West (Ch 9) $\to$ the return toward Asia (Ch 10).
 
 ### The bullion tracer, and why it flips
 
-The reason to follow bullion is that, before modern capital markets, **metal moved toward the
-workshop**. People who made things the rest of the world wanted — Indian cotton, Chinese silk
-and porcelain — were paid in silver and gold, which therefore pooled where production was most
-valued. So in antiquity Roman silver drained *east* to India (@sec-ch02); in the early-modern
-centuries the New World's silver flowed *east* to China (@sec-ch05). The tracer even works
-in reverse where it should: the Abbasid core paid silver *north* to its slave-and-fur periphery
-(@sec-ch03), mirroring Rome.
+Before modern capital markets, metal moved toward the workshop. People who made things the
+rest of the world wanted — Indian cotton, Chinese silk and porcelain — were paid in silver and
+gold, which pooled where production was most valued. So in antiquity Roman silver drained
+*east* to India (@sec-ch02); in the early-modern centuries New World silver flowed *east* to
+China (@sec-ch05). The tracer even works in reverse where it should: the Abbasid core paid
+silver *north* to its slave-and-fur periphery (@sec-ch03), mirroring Rome.
 
-After the nineteenth century the logic flips, because bullion's economic role changes. Under
-the classical gold standard and integrated capital markets, gold becomes **money/capital**, and
-following it leads not to the workshop but to the **financial core** — London, then New York.
-But the book insists you note *who underwrote that core*: India's colonial "drain" helped
-finance Britain's payments deficits (@sec-ch08). Sourced in the periphery, intermediated by
-the core.
+After the nineteenth century the logic flips, because bullion's role changes. Under the
+classical gold standard and integrated capital markets, gold becomes money and capital, and
+following it leads not to the workshop but to the financial core — London, then New York. But
+note who underwrote that core: India's colonial "drain" helped finance Britain's payments
+deficits (@sec-ch08), sourced in the periphery and intermediated by the core.
 
 ## Six threads that run the length of the book
 
-Beyond the four questions, six **cross-cutting threads** are set up here and paid off later.
+Beyond the four questions, six threads run through the book; this section sets them out.
 
-1. **Centre of gravity** — the spine itself, tracked with an explicit *evidence ledger* entry
-   and a stated **confidence level** in every chapter's verdict.
-2. **Measurement of success: quantity to quality.** This is the book's quiet antidote to a
-   recurring error. Before about 1800, like every other species, humans turned prosperity into
-   **numbers** — more people, more total output, bigger empires (aggregate, *extensive* growth).
-   Only after about 1800 did any society turn it into **sustained income per head** (per-capita,
-   *intensive* growth — the escape from the Malthusian ceiling, uniquely modern). The thread is
-   set up in @sec-ch01, made the centrepiece of the silver story in @sec-ch05 and
-   @sec-ch06, and resolves at @sec-ch07: **the Great Divergence *is* this switch.** It is
-   what stops us reading every "thriving" empire — Han, Song, Mughal, Qing — as if it were
-   growing in the modern sense.
-3. **Follow the silver** — the early-modern operationalisation of the bullion tracer
-   (@sec-ch05 to @sec-ch07): the same American silver met different monetary conditions
-   and so had different fates — Asia absorbed and specialised, the Ottomans inflated, West
-   Africa debased and depleted, and **Europe converted its monetary "loss" into armed-trade and
-   financial power** — the bridge to the divergence.
-4. **Measurement of integration — how we know.** The evidence available to measure integration
-   itself improves over time: from the mere **diffusion** of goods and ideas, to **bullion
-   flows**, to **wages and prices**, to **GDP**, to a computed centre of gravity. Before prices,
-   only the diffusion prong exists — which constrains what @sec-ch01 and @sec-ch02 can
-   claim.
-5. **Forces.** Four drivers sit behind Q1's direction — **climate, disease, technology,
-   policy** — two of them natural, a reminder that the world economy has always been embedded
-   in a natural system.
+1. **Centre of gravity** — the spine itself, tracked with an explicit evidence-ledger entry
+   and a stated confidence level in every chapter's verdict.
+2. **Measurement of success: quantity to quality.** This thread corrects a recurring error.
+   Before about 1800, like every other species, humans turned prosperity into numbers — more
+   people, more output, bigger empires (aggregate, *extensive* growth). Only after about 1800
+   did any society turn it into sustained income per head (per-capita, *intensive* growth, the
+   escape from the Malthusian ceiling, and a uniquely modern one). The thread is set up in
+   @sec-ch01, runs through the silver story in @sec-ch05 and @sec-ch06, and resolves at
+   @sec-ch07, where the Great Divergence *is* the switch. It is what stops us reading every
+   "thriving" empire — Han, Song, Mughal, Qing — as growth in the modern sense.
+3. **Follow the silver** — the early-modern form of the bullion tracer (@sec-ch05 to
+   @sec-ch07). The same American silver met different monetary conditions and so had different
+   fates: Asia absorbed and specialised, the Ottomans inflated, West Africa debased and
+   depleted, and Europe converted its monetary loss into armed-trade and financial power. That
+   last fate is the bridge to the divergence.
+4. **Measurement of integration: how we know.** The evidence for measuring integration improves
+   over time, from the diffusion of goods and ideas, to bullion flows, to wages and prices, to
+   GDP, to a computed centre of gravity. Before prices, only the diffusion prong exists, which
+   limits what @sec-ch01 and @sec-ch02 can claim.
+5. **Forces.** Four drivers sit behind Q1's direction — climate, disease, technology, policy —
+   two of them natural, a reminder that the world economy has always been embedded in a natural
+   system.
 6. **Data survival and bias.** What survives reflects record-keeping conventions and the
-   accidents of climate and preservation. **Absence of data is not absence of activity**, and
-   the surviving record systematically under-documents the very Indian-Ocean world this book
-   centres on. Whose eyes we are seeing through is itself a running question.
+   accidents of climate and preservation. Absence of data is not absence of activity, and the
+   surviving record under-documents the very Indian-Ocean world this book centres on. Whose
+   eyes we see through is itself a running question.
 
-## A note on method, and on honesty
+## A note on method
 
-Two methodological commitments follow from all this, and they are why the subtitle is *data
-and debates*.
+Two commitments follow, and they are why the subtitle is *data and debates*.
 
-**Data.** The book leans on numbers — trade volumes, bullion flows, real wages, output shares,
-the computed economic centre of gravity — because numbers are how you adjudicate a claim like
-the spine rather than merely asserting it. The figures and tables are **reproducible**:
-generated from datasets you can download and re-run. But the book is equally insistent that
-the data thin out dramatically as you go back, and that they are biased toward the literate,
-fiscal, European end of the record. A chapter on the Bronze Age and a chapter on the twentieth
-century are *not* equally evidenced, and the book will not pretend otherwise.
-
-**Debates.** Where the scholarship is genuinely contested — *when* the Great Divergence began
-and *why*; whether interwar disintegration was man-made or inevitable; when "globalisation"
-really started — the book stages the disagreement rather than smuggling in a verdict. Disputed
-figures are presented as teaching points, not silently resolved. The aim is not to tell you
-what to think about the world economy, but to hand you the questions, the evidence and the
-live arguments, and let you test the spine yourself.
+- **Data.** The book leans on numbers — trade volumes, bullion flows, real wages, output
+  shares, the computed centre of gravity — because numbers are how you adjudicate a claim like
+  the spine rather than just asserting it. The figures and tables are reproducible: generated
+  from datasets you can download and re-run. But the data thin out sharply as you go back, and
+  they are biased toward the literate, fiscal, European end of the record. A chapter on the
+  Bronze Age and a chapter on the twentieth century are not equally evidenced, and the book
+  says so.
+- **Debates.** Where the scholarship is genuinely contested — when the Great Divergence began
+  and why; whether interwar disintegration was man-made or inevitable; when "globalisation"
+  really started — the book presents the disagreement rather than resolving it quietly.
+  Disputed figures are flagged and taught, not silently resolved. The aim is to hand you the
+  questions, the evidence and the open arguments, so you can test the spine yourself.
 
 ::: {.callout-note}
 ## How to read the chapters
-Each chapter opens by **following one object** that carries its period's story, locates the
-period **on the arc**, sets out **the cast** and **how we know**, narrates **the period on its
-own terms**, then reads it through **the four questions**, delivers a **centre-of-gravity
-verdict** with a confidence level, and hands off to the next. Look out for the recurring
-**Data exhibit** and **Debate**, and the **Follow the money** and **How we know** callouts.
+Each chapter opens by following one object that carries its period's story, locates the period
+on the arc, sets out the cast and how we know, narrates the period on its own terms, then reads
+it through the four questions, delivers a centre-of-gravity verdict with a confidence level,
+and hands off to the next. Look out for the recurring Data exhibit and Debate, and the Follow
+the money and How we know callouts.
 :::

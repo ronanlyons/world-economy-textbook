@@ -17,3 +17,6 @@ Thumbs.db
 .Rproj.user
 
 **/*.quarto_ipynb
+
+# Internal build/working notes (not for the public repo)
+/_prep/

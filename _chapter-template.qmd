@@ -7,6 +7,9 @@ Every number must trace to a source; present disputed figures as teaching points
 Sources: story spine (narrative) · brief (analysis) · ledger (verdict) · compendium
 (data) · datasets_by_topic (exercise) · module_reading_long_list (further reading).
 
+PROSE STYLE (see STYLE.md): bold ONLY for bullet-point subtitles — never mid-sentence
+emphasis; italics sparingly; avoid LLM-isms/clichés (read it aloud — sound human).
+
 THREE STANDING CONVENTIONS (every chapter):
 1. PER-PARAGRAPH SOURCING. End each substantive paragraph with a footnote giving its
    sources + a "Read more:" pointer, e.g.  ...claim.^[**Sources:** Author (year).

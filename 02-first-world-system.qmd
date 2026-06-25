@@ -1,13 +1,18 @@
 # The first world system: Rome was the customer, Asia the workshop {#sec-ch02}
 
-> *For the first time we can ask where the economy's centre lay — and the answer is not Rome.*
+> *India, the Seres and the Arabian peninsula take from our empire, at the lowest reckoning, a
+> hundred million sesterces every year — so dearly do we pay for our luxury and our women.*
+> — Pliny the Elder, *Natural History* 12.84 (mid-first century CE)
+
+> *The beautiful ships of the Yavanas came with gold and left with pepper, churning to white foam
+> the waters of the Periyar, the river of Kerala.*
+> — *Akananuru* 149, Tamil Sangam poetry (1st–2nd century CE)
 
 ## Follow one thing: a stream of Roman silver running east {.unnumbered}
 
-Around the middle of the first century CE, the elder Pliny grumbled that the Roman
-empire was haemorrhaging precious metal to pay for the luxuries of the East — by one of
-his figures, 100 million sesterces a year drained away to India, China and Arabia. The
-number is rhetorical and much argued over, but the direction is not. Across the early
+The complaint above is the elder Pliny's, written around the middle of the first century CE:
+the Roman empire was haemorrhaging precious metal to pay for the luxuries of the East. The
+number was rhetorical and much argued over, but the direction was not. Across the early
 centuries CE, Roman silver and gold flowed steadily eastward across the Indian Ocean and,
 having arrived, largely stayed: it was melted, re-struck by the Kushan and Saka rulers of
 north-west India, and absorbed into Asian economies that valued it as metal. Follow that one
@@ -212,8 +217,44 @@ Externally, Rome was the system's wealthy terminus — its hungriest consumer, p
 
 ![A gold coin of King Ezana of Aksum (c. 340–400 CE), the Red Sea kingdom on the rim. British Museum; photo Ismoon, CC BY-SA 4.0.](figures/photos/coin_aksum.jpg){width=50%}
 
-The rim that funnelled the trade: the Red Sea kingdom of Aksum, the incense kingdoms of Arabia,
-and Alexandria — Rome's great western emporium and the gateway to the monsoon route.^[**Source:** McLaughlin, *The Roman Empire and the Indian Ocean* (2014).]
+Three smaller powers ringed the system's western end, and one of them mattered out of all
+proportion to its size. The most important were the incense kingdoms of Arabia. The southern
+corner of the peninsula — the "Arabia Felix" of Roman writers — and the Horn of Africa held a
+near-monopoly on the world's frankincense and myrrh, the aromatic resins that Rome burned in
+great quantities at its altars and funerals. The trees grew in a narrow band around Dhofar,
+perhaps 1.3 million hectares of them, yielding on the order of a thousand tons of frankincense and
+two hundred of myrrh in a single harvest — a crop McLaughlin values at more than fifty million
+sesterces. The Sabaean kingdom alone was reckoned to produce over forty million sesterces of
+incense a year, and Rome paid for it, as it paid the East, in coin: by Pliny's account more than
+fifty million sesterces of bullion went to Arabia annually for aromatics. Here was a second
+eastward drain running in parallel with the Indian one, and a clear case of regional
+specialisation — a whole economy organised around a single high-value export to Rome.^[**Sources:** McLaughlin, *Indian Ocean* (Loc 3384–3386) on the Dhofar groves and the >50M-sesterce harvest, (Loc 352) on the Sabaean kingdom's >40M-sesterce annual output, and (Loc 1657) on the >50M sesterces of bullion Rome sent to Arabia for incense. **Read more:** Pliny, *Natural History*, book 12, on the incense lands.]
+
+The middlemen of that trade were the Nabataeans of Petra, whose wealth the Greeks had remarked on
+since the fourth century BCE. They controlled the overland Incense Trail up the western flank of
+Arabia and taxed it at every stage — some 688 denarii were levied on a single camel-load on the
+stretch between southern Arabia and Nabataea — and they could field thousands of camel-mounted
+fighters to guard it; in 312 BCE a raiding Greek army carried off five hundred talents of their
+silver along with a store of incense. As the maritime Red Sea route thickened in the first century
+CE, much of the aromatic traffic shifted from their caravans to ships — the Nabataeans themselves
+ran cord-sewn vessels of up to thirty tons — and the overland road lost its grip; Rome annexed the
+Nabataean kingdom outright in 106 CE.^[**Sources:** McLaughlin, *Indian Ocean* (Loc 1450–1456) on Nabataean wealth, (Loc 290) on the 688-denarii camel-load toll, (Loc 1463, 1471) on the 312 BCE raid and the camel cavalry, (Loc 1622–1625) on the cord-sewn dhows, and (Loc 1659) on the annexation of 106 CE. **Read more:** the brief `module_design/02_topic_2.md`.]
+
+Aksum, on the African shore of the Red Sea, was the third. It rose in the first century CE as it
+took the port of Adulis, the great outlet for African ivory, and grew into a trading power that
+struck its own coinage and dealt in ivory, gold and aromatics — at once a partner and a rival to
+the South Arabians across the water. Alexandria, finally, was less a producer than a valve: Rome's
+western emporium and the customs choke point through which the eastern goods entered the empire
+and were taxed, and where the Muziris-papyrus loan was registered. The rim, then, was not mere
+backdrop. Arabia ran a parallel luxury drain of its own, and Alexandria was the gate at which Rome
+turned the whole eastern trade into revenue.^[**Sources:** McLaughlin, *Indian Ocean* (Loc 3030, 3337) on Aksum's seizure of Adulis; the brief `module_design/02_topic_2.md`, §1, on Alexandria as the western emporium and customs point. **Read more:** McLaughlin, *The Roman Empire and the Indian Ocean* (2014).]
+
+**Trade profile**
+
+- **Main exports** — frankincense and myrrh (Arabia); ivory, gold and aromatics (Aksum); for Alexandria, customs revenue rather than goods of its own.
+- **Main imports** — gold and silver coin above all, paid by Rome for incense and ivory.
+- **Export markets** — Rome and the Mediterranean, reached by the Incense Trail and the Red Sea.
+- **Import sources** — Rome (bullion); India and the wider Indian Ocean, whose goods passed through on the way west.^[**Sources:** McLaughlin, *Indian Ocean* (Loc 352, 1657, 3384–3386). **Read more:** the brief `module_design/02_topic_2.md`.]
 :::
 
 ::: {.callout-note}

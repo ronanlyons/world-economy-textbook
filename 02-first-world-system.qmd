@@ -37,22 +37,86 @@ states rounded out the cast. No single merchant or polity ran the system end to 
 **relay of empires, not one market** — a distinction we will need when we ask, later, whether
 this was really "one" world economy.^[**Sources:** Findlay & O'Rourke (2007), ch. 1; McLaughlin (2014). **Read more:** Abu-Lughod, *Before European Hegemony* (1989), on the "relay" structure of pre-modern world systems.]
 
-::: {.callout-tip}
-## Dramatis personae
-- **Rome** — rich, hungry, and paying in coin. An unusual state: a commercial-fiscal empire
-  whose treasury leaned on the customs of trade, and whose appetite for eastern goods it could
-  satisfy only by exporting bullion.
-- **Parthia and the Kushans** — the middlemen who taxed the overland silk route and re-minted
-  the silver that reached them. Their cut is the reason no one "ran" the Silk Road.
-- **Han China** — Rome's mirror image: a vast agrarian empire run on salt-and-iron monopolies,
-  with wealth flatter and land taxes heavier; the eastern anchor of the chain.
-- **India** *(present in every chapter of this book)* — not China, but **India** was Rome's
-  greatest trading partner; the Indian Ocean was so thick with Indian shipping that one
-  scholar calls it "India's lake." Pataliputra may have held some 200,000 people, dwarfing the
-  Rome of a few centuries earlier; the Tamil south was the workshop that supplied Rome's pepper.
-- **Aksum, Arabia, Alexandria** — the Red Sea entrepôts that funnelled the trade.
+The cast of this chapter — Rome, Parthia and the Kushans, Han China, India, and the smaller
+players around the rim — is profiled below. Click any actor to expand how its economy worked,
+at home and in the relay. India, present in every chapter of this book, is given the fullest
+treatment.
 
-*Sources: von Glahn,* The Economic History of China *(2016), on Han; Dalrymple (2024) on the Indian cities and "India's lake"; McLaughlin (2014) on the Red Sea entrepôts.*
+::: {.callout-tip collapse="true"}
+## Rome — the wealthy consumer
+Rich, hungry, and paying in coin. An unusual state for its time: a commercial-fiscal empire
+whose treasury leaned heavily on the customs of trade, and whose appetite for eastern goods it
+could satisfy only by exporting bullion it could not replace at home.^[**Source:** McLaughlin, *The Roman Empire and the Indian Ocean* (2014).]
+:::
+
+::: {.callout-tip collapse="true"}
+## Parthia and the Kushans — the middlemen
+The intermediary empires that held the overland middle: Parthia astride the routes west of the
+Euphrates, the Kushans astride the passes of the Hindu Kush and the gateway to Central Asia.
+They taxed the silk that passed through and re-minted the silver that reached them — their cut
+is the reason no single merchant ever "ran" the Silk Road end to end.^[**Sources:** the brief `module_design/02_topic_2.md`; Dalrymple (Loc 1550) on Kushan control of the Hindu Kush passes.]
+:::
+
+::: {.callout-tip collapse="true"}
+## Han China — the agrarian mirror
+Rome's structural opposite: a vast agrarian empire of some 59.6 million people at the census of
+2 CE, run not on trade customs but on state monopolies of salt and iron and a land tax, and with
+private wealth far flatter than Rome's — the largest Han estate under a tenth of a great Roman
+one. The eastern anchor of the chain, and the source of the silk that moved west.^[**Sources:** von Glahn, *The Economic History of China* (2016), the 2 CE census (59.6m) and Han fiscal structure; Lewis, *The Early Chinese Empires* (p.115), on the estate comparison.]
+:::
+
+::: {.callout-tip collapse="true"}
+## India — the production core
+India in this period is not a single polity but a layered economy spread across the
+subcontinent. In the north, the Mauryan empire (c.320–185 BCE) had built South Asia's first
+centralised administrative-fiscal state, governed from Pataliputra — a city of perhaps 200,000
+people, around twice the size of early Rome — and tied together by royal roads running from
+Taxila in the north-west to the Bay of Bengal port of Tamralipti. After the Mauryas fragmented,
+economic weight shifted south and west: the Satavahanas held the Deccan, while the Tamil
+kingdoms of the far south — Chera, Chola and Pandya — commanded the Malabar pepper coast that
+Rome most wanted. To the north-west, the Kushans straddled the Hindu Kush and the overland road
+to China.^[**Sources:** Roy (p.24) on the Mauryan state; Dalrymple (Loc 713) on Pataliputra's size; Dalrymple (Loc 799) on Ashoka's roads; Roy (p.32) and Dalrymple (Loc 1550) on the southern kingdoms and the Kushan passes. **Read more:** the brief `module_design/02_topic_2.md`.]
+
+As everywhere in this period, the base of the economy was agriculture and the village. What set
+India apart was the unusually developed commercial and craft sector built on top of it — and, in
+particular, the two export industries that would define the subcontinent for the next eighteen
+centuries: cotton textiles and pepper. The Malabar coast was the world's principal source of
+pepper for roughly fifteen centuries, a spice so woven into Roman cooking that around four-fifths
+of the 478 recipes in the cookbook of Apicius call for it; the Latin and Greek words for pepper
+and ginger are themselves loans from Tamil. Production and long-distance exchange were organised
+through merchant guilds (the *śreṇi*) and, distinctively, through Buddhist monasteries placed on
+the trade routes, which took perpetual endowments (*akshaya-nivi*) and lent at interest —
+proto-financial institutions endowed by the merchant class, as the donative inscriptions at Nasik
+and Karle still record.^[**Sources:** Eaton (Loc 3659) on Malabar pepper; Dalrymple (Loc 1294, 1298) on Apicius and the Tamil loan-words; on guilds and monastic finance, Schopen (1997, 2004), Ray (1994) and Neelis (2011), with the Nasik (Ushavadata) and Karle (Bhutapala; Yavana donors) inscriptions. **Read more:** the research note `module_design/topic_02_research_scale_internal_buddhism_2026-06-18.md`.]
+
+India's monetary arrangements tell the centre-of-gravity story in miniature. Indian states
+minted their own coin — punch-marked silver in the north, local issues in the south — but they
+treated incoming Roman gold and silver less as foreign currency to be spent than as bullion to be
+valued by weight and, increasingly, melted and re-struck. The incentive was structural: gold
+stood at roughly 10 to 1 against silver in India and on the Kushan and Saka frontier, against
+about 12 to 1 in Rome, so a given weight of silver carried east bought something like a fifth
+more goods. That arbitrage pulled Roman metal in and kept it. The clearest measure of how deep it
+ran is that the Kushan ruler Vima Kadphises struck India's first gold coinage on the weight
+standard of the Roman aureus — the empire's own bullion, re-minted as the subcontinent's coin.^[**Sources:** McLaughlin, *Indian Ocean* (Loc 4323), on the 10:1-versus-12:1 ratio and the resulting margin; Dalrymple (Loc 1634, 1636) on Vima Kadphises's gold coinage.]
+
+Externally, India was the fulcrum of the whole system — the hinge where its maritime and overland
+arms met. Its trade with Rome ran through three coasts: Barygaza in Gujarat to the north-west,
+Muziris and Nelkynda on the Malabar pepper coast, and the Coromandel ports facing the Bay of
+Bengal. The same merchants and the same monsoon knowledge also worked the leg eastward to
+Southeast Asia and Han China — the third side of the Rome–India–China triangle, and the part of
+the system least visible through Roman eyes. The balance of this trade ran heavily in India's
+favour, because Rome wanted Indian pepper, cotton, gems and ivory while India wanted little that
+Rome made, so the exchange settled in precious metal. So lopsided was it that, on Pliny's
+telling, Indian goods resold in Rome for up to a hundred times their price at source, and the
+Pandya and Chera kings of the south judged the relationship worth cultivating with embassies to
+Rome. India was, in short, where the system's most valued goods were made and where its bullion
+came to rest: the production core of the first world system.^[**Sources:** Roy (p.32) on the three coasts; Dalrymple (Loc 1323, 1326, 1335, 1338) on the hundredfold markup and the southern embassies. **Read more:** the India compendium `readings/notes/kindle_compendium/10_india_longrun.md`.]
+:::
+
+::: {.callout-tip collapse="true"}
+## The smaller players — Aksum, Arabia, Alexandria
+The rim that funnelled the trade: the Red Sea kingdom of Aksum, the incense kingdoms of Arabia,
+and Alexandria — Rome's great western emporium and the gateway to the monsoon route.^[**Source:** McLaughlin, *The Roman Empire and the Indian Ocean* (2014).]
 :::
 
 ::: {.callout-note}
@@ -94,11 +158,40 @@ prise open the channels between the Mediterranean and the East; Parthia rises as
 overland route; Qin and then Han unify China; Indian Ocean trade begins to thicken. The poles
 of the future system take shape.^[**Read more:** Cunliffe, *By Steppe, Desert, and Ocean* (2015), on the opening of the channels.]
 
-**Phase 2 — Switch-on (30 BCE–1st c. CE).** Rome's annexation of Egypt in **30 BCE** gives it
-direct access to the Red Sea and the monsoon trade. Mastery of the monsoon wind system lets
-ships sail the open ocean rather than creep along the coast, and the volume of Roman shipping
-to India jumps — by Strabo's report, roughly **sixfold**. The eastward bullion drain begins in
-earnest.^[**Sources:** Strabo, *Geography* 2.5.12 (the "120 ships" passage), via McLaughlin (2014). **Read more:** Sidebotham, *Berenike and the Ancient Maritime Spice Route* (2011).]
+**Phase 2 — the switch-on (30 BCE to the first century CE).** What turned sporadic contact across
+the Indian Ocean into a high-volume artery was, first of all, a political event: Rome's annexation
+of Ptolemaic Egypt in 30 BCE. Egypt handed Rome direct control of the Red Sea coast and its
+India-facing ports, together with the accumulated Ptolemaic experience of the eastern trade. The
+Greek navigator Eudoxus of Cyzicus had opened regular sailings to India around 118 BCE, and over
+the following century Greco-Roman skippers learned to use the monsoon — the seasonal reversal of
+winds, traditionally credited to a pilot named Hippalus — to run straight across the open ocean
+rather than creep around its rim.^[**Sources:** Dalrymple (Loc 1227, 1234) on Eudoxus and the Hippalus monsoon crossing; the brief `module_design/02_topic_2.md`, §1. **Read more:** Sidebotham, *Berenike and the Ancient Maritime Spice Route* (2011).]
+
+The change in volume was dramatic. Where the Ptolemies had sent perhaps twenty ships a year to
+India, Strabo reports around 120 leaving the single Red Sea port of Myos Hormos in the early
+imperial period — more than a sixfold rise.^[**Source:** McLaughlin, *The Roman Empire and the Indian Ocean* (2014), Loc 2106, citing Strabo, *Geography* 2.5.12.] The infrastructure behind that figure is
+unusually well documented for the ancient world. Two Red Sea ports, Berenike and Myos Hormos,
+were the Roman points of departure; the prize destination was Muziris, the Malabar pepper
+emporium. A merchant's handbook, the *Periplus of the Erythraean Sea*, written around the middle
+of the first century CE, survives to set out the ports, cargoes and sailing seasons of the whole
+route — the closest thing the period gives us to a commercial manual. And the cargoes were large:
+a single returning pepper ship of around 200 tons could carry goods worth more than six million
+sesterces, enough to pay six thousand legionaries for a year.^[**Sources:** Casson (ed.), *The Periplus Maris Erythraei* (1989); McLaughlin, *Indian Ocean* (Loc 2766), on the 200-ton cargo and its value.]
+
+The defining feature of the switch-on, though, was the direction in which payment flowed. Rome
+bought pepper, fine cottons, gems, silk and incense, and paid for them overwhelmingly in gold and
+silver coin, because the East wanted little that Rome made. The monetary arbitrage worked in the
+same direction — roughly 10 to 1 gold-to-silver in India against 12 to 1 in Rome — giving the
+metal a further reason to move east. And move east it did, in quantities large enough to enter the
+Roman imagination as a grievance: this is the period in which the eastward bullion drain that
+defines this chapter begins in earnest.^[**Source:** McLaughlin, *Indian Ocean* (Loc 4323), on the arbitrage and the drain.] It is also the period in which pepper crossed from luxury to
+near-staple — the spice appears in some four-fifths of the recipes in Apicius, a reach that points
+to a broad market rather than only an elite one, and the empirical seed of the
+luxury-versus-mass-trade debate this chapter will stage.^[**Sources:** Dalrymple (Loc 1294) on Apicius; on the debate, De Romanis (2020) and Cobb (2018).]
+
+By the end of the first century CE the route was regular, mature and fiscally important — customs
+on the eastern trade would come to supply something like a third of imperial revenue — and the
+stage was set for the apogee, when all four poles of the system flourished at once.
 
 **Phase 3 — Apogee (1st–2nd c. CE).** At the system's height all four poles flourish together.
 The clearest emblem of connection comes in **166 CE**, when an embassy claiming to come from the

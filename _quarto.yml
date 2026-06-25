@@ -50,12 +50,22 @@ format:
       - cosmo
       - style/world-economy.scss
     toc: true
+    toc-title: "On this page"
     number-sections: false
+    reference-location: margin   # source endnotes set in the right margin (Tufte-style)
+    linestretch: 1.62
+    grid:
+      sidebar-width: 270px
+      body-width: 760px
+      margin-width: 340px
+      gutter-width: 1.6rem
   pdf:
     documentclass: scrbook
     papersize: a4
     number-sections: false
     pdf-engine: xelatex
+    mainfont: "TeX Gyre Pagella"   # Palatino-like book serif; ships with TinyTeX (reproducible)
+    sansfont: "TeX Gyre Heros"
     include-in-header: tex/unicode-map.tex
 
 # Open-access: licensed CC BY (confirm before first public render).

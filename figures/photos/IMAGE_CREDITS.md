@@ -82,3 +82,19 @@ Reused from the ECU4413 Topic 5 deck art pass (licence-verified 2026-06-19 via t
 | `coin-rupee.jpg` | Mughal silver rupee of Akbar | Wikimedia Commons | Public domain |
 | `potosi.jpg` | Cerro Rico, Potosi (the silver mountain) | Mhwater (Wikimedia) | Public domain |
 | `cowries.jpg` | Cowrie shells used as currency | Gary Todd (Wikimedia) | CC0 |
+
+---
+
+# Photograph credits — Chapter 6
+
+Reused from the ECU4413 Topic 6 deck art pass (licence-verified 2026-06-19 via the Wikimedia Commons API; all open-access / public domain). Attributed in each on-page caption.
+
+| File | Subject | Source | Licence |
+|---|---|---|---|
+| `calico.jpg` | Indian *sarasa* chintz (painted/printed cotton) | Wikimedia Commons ("Sarasa chintz.jpg") | Public domain |
+| `calico-block.jpg` | Block-printed Indian cotton (found at Fustat) | Wikimedia Commons ("Fustat Indian.jpg") | Public domain |
+| `voc-ship.jpg` | A Dutch East-Indiaman off Hoorn | Lorenzo a Castro (Google Art Project), Wikimedia | Public domain |
+| `divider-crisis.jpg` | Winter landscape with ice skaters (Little Ice Age) | Hendrick Avercamp, Wikimedia | Public domain |
+| `divider-plassey.jpg` | Robert Clive and Mir Jafar after Plassey, 1757 | Francis Hayman (c.1762), Wikimedia | Public domain |
+
+*The Topic 6 deck's `divider-loom.jpg` (Coromandel chintz palampore, ~2.2 MB) and `divider-eastindiaman.jpg` were left out of the chapter to keep the web build light; the calico and East-Indiaman themes are carried by `calico.jpg`, `calico-block.jpg` and `voc-ship.jpg`.*

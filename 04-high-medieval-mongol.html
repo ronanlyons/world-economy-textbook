@@ -23,6 +23,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -73,10 +108,39 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
-<body class="nav-sidebar docked quarto-light">
+<body class="nav-sidebar docked slimcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -274,11 +338,31 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#follow-one-thing" id="toc-follow-one-thing" class="nav-link active" data-scroll-target="#follow-one-thing">Follow one thing</a></li>
+  <li><a href="#where-we-are-on-the-arc" id="toc-where-we-are-on-the-arc" class="nav-link" data-scroll-target="#where-we-are-on-the-arc">Where we are on the arc</a></li>
+  <li><a href="#the-stage-and-the-cast" id="toc-the-stage-and-the-cast" class="nav-link" data-scroll-target="#the-stage-and-the-cast">The stage and the cast</a></li>
+  <li><a href="#the-period-on-its-own-terms" id="toc-the-period-on-its-own-terms" class="nav-link" data-scroll-target="#the-period-on-its-own-terms">The period on its own terms</a></li>
+  <li><a href="#reading-the-period-the-four-questions" id="toc-reading-the-period-the-four-questions" class="nav-link" data-scroll-target="#reading-the-period-the-four-questions">Reading the period: the four questions</a></li>
+  <li><a href="#the-verdict-where-was-the-centre" id="toc-the-verdict-where-was-the-centre" class="nav-link" data-scroll-target="#the-verdict-where-was-the-centre">The verdict: where was the centre?</a></li>
+  <li><a href="#threads-forward" id="toc-threads-forward" class="nav-link" data-scroll-target="#threads-forward">Threads forward</a></li>
+  <li><a href="#classic-research-the-foundations" id="toc-classic-research-the-foundations" class="nav-link" data-scroll-target="#classic-research-the-foundations">Classic research: the foundations</a></li>
+  <li><a href="#at-the-research-frontier-recent-cliometric-work" id="toc-at-the-research-frontier-recent-cliometric-work" class="nav-link" data-scroll-target="#at-the-research-frontier-recent-cliometric-work">At the research frontier: recent cliometric work</a>
+  <ul class="collapse">
+  <li><a href="#questions-for-consideration" id="toc-questions-for-consideration" class="nav-link" data-scroll-target="#questions-for-consideration">Questions for consideration</a></li>
+  <li><a href="#data-exercise" id="toc-data-exercise" class="nav-link" data-scroll-target="#data-exercise">Data exercise</a></li>
+  <li><a href="#key-data" id="toc-key-data" class="nav-link" data-scroll-target="#key-data">Key data</a></li>
+  <li><a href="#further-reading" id="toc-further-reading" class="nav-link" data-scroll-target="#further-reading">Further reading</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./03-maritime-apogee.html">II — The ocean at its height</a></li><li class="breadcrumb-item"><a href="./04-high-medieval-mongol.html"><span class="chapter-title">The high-medieval boom and the Mongol climax</span></a></li></ol></nav>
 <div class="quarto-title">
@@ -299,23 +383,589 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<div class="callout callout-style-simple callout-important">
+<div class="callout-body d-flex">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-body-container">
+<p><strong>Preliminary draft — under review.</strong> Published for review; content, figures and citations may still change.</p>
+</div>
+</div>
+</div>
 <blockquote class="blockquote">
 <p><em>The system’s fullest premodern extent — then the great shock.</em></p>
 </blockquote>
+<blockquote class="blockquote">
+<p>“For one shipload of pepper that goes to Alexandria or elsewhere, destined for Christendom, there come a hundred such, aye and more too, to this haven of Zayton; for it is one of the two greatest havens in the world for commerce.” — Marco Polo, on Quanzhou, late 13th century</p>
+</blockquote>
+<section id="follow-one-thing" class="level2 unnumbered page-columns page-full">
+<h2 class="unnumbered anchored" data-anchor-id="follow-one-thing">Follow one thing</h2>
+<p>Follow a sack of pepper. Picked on the Malabar coast of south-west India, where it had grown for fifteen centuries and would grow for centuries more, it could go two ways. West, it crossed the Arabian Sea to Aden, was assessed and trans-shipped up the Red Sea, crossed to the Nile, and reached Alexandria, where Venetian and Genoese galleys paid customs of up to thirty per cent to carry it on to a Christendom that prized it. East, it sailed the Bay of Bengal to the Straits and on to the Chinese port of Quanzhou. Marco Polo, who saw both ends of the trade, left the ratio between them: for every shipload that reached Alexandria for Europe, he reckoned, a hundred reached Quanzhou. The figure is a traveller’s flourish, not a customs return, but it points the right way. The pepper trade, like the silk and the porcelain and the cotton, ran overwhelmingly within Asia and to its richest market in China, and Europe was the small, expensive tail of it. This chapter is the one place in the book where that can be said most precisely, because for the first time there are wages and prices and city sizes to count, and they all point east. It is also the chapter where, in the wreckage of the century’s great catastrophe, the first faint signal appears that the weight might one day move the other way.<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn1"><p><sup>1</sup>&nbsp;<strong>Sources:</strong> Eaton (Loc 3659) on Malabar as the world’s principal pepper source; on the Alexandria customs and the Quanzhou ratio, Marco Polo via Abu-Lughod (1989). <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div></div></section>
+<section id="where-we-are-on-the-arc" class="level2 unnumbered page-columns page-full">
+<h2 class="unnumbered anchored" data-anchor-id="where-we-are-on-the-arc">Where we are on the arc</h2>
+<p>The last chapter left the Abbasid–Tang world at its maritime apogee, the centre of gravity firmly in Asia and the Islamic world. This chapter takes that system to its fullest pre-modern extent and then watches it suffer the era’s greatest shock. Across these four centuries the Afro-Eurasian economy knit itself into what Janet Abu-Lughod called a polycentric world system — roughly eight overlapping circuits, peaking between about 1250 and 1350, with no single hegemon and, in particular, no European one. Song China ran the most advanced economy on earth; India was the workshop in the middle of the ocean; Egypt and its Karimi merchants formed a major western core; and for a few decades the Mongol peace let the overland Silk Road surge back one last time. Then the Black Death tore through the routes that bound it together. The centre stayed Asian, and this is where we can say so most precisely — but it is also where the first counter-current appears, in a post-plague wage rise on the far north-western margin that this book will follow all the way to the Great Divergence.<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn2"><p><sup>2</sup>&nbsp;<strong>Sources:</strong> the centre-of-gravity reading, Abu-Lughod (1989) on the polycentric system; Pamuk (2007) on the post-plague north-western wage rise. <strong>Read more:</strong> Findlay &amp; O’Rourke, <em>Power and Plenty</em> (2007).</p></div></div><div id="fig-cog04" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-cog04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/cog-locator-04.png" class="img-fluid figure-img" style="width:76.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-cog04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.1: Centre-of-gravity locator: across c.1000–1400 the weight sat firmly in Asia — Song China the most advanced economy on earth, in a polycentric system with no European hegemony. The first faint north-western counter-current (the post-plague wage rise) appears at the close, a seed and not yet a shift (stylised; not to scale).
+</figcaption>
+</figure>
+</div>
+</section>
+<section id="the-stage-and-the-cast" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-stage-and-the-cast">The stage and the cast</h2>
+<p>The stage was an ocean with four corners and, for a few decades, a land bridge thrown across the top of it. The maritime Indian Ocean had reached its widest pre-modern span, organised around four great nodes: Fatimid and then Mamluk Egypt with its Karimi spice merchants at the western end, the Chola of the Tamil south in the centre, Srivijaya at the Straits of Malacca, and Song China at the east. The Cairo Geniza and the travellers’ books of the age — Marco Polo, Ibn Battuta, the merchant Pegolotti — light this world more brightly than any before it. Over the top of the ocean, from the early thirteenth century, the Mongol conquests laid a brief overland peace that made the Silk Road safe and taxable, the one moment in the book when the land channel surged back inside a maritime era. And behind both ran two slower forces that would decide the period’s end: a climate turning colder from about 1300, and a disease gathering on the steppe that the trade routes themselves would carry to the world.<a href="#fn3" class="footnote-ref" id="fnref3" role="doc-noteref"><sup>3</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn3"><p><sup>3</sup>&nbsp;<strong>Sources:</strong> Abu-Lughod (1989) on the four-node ocean and the polycentric system; Favereau (2021) on the Mongol overland peace; Campbell (2016) on the climate turn. <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div></div><div id="fig-fournode" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-fournode-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/map-fournode-04.png" class="img-fluid figure-img" style="width:92.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-fournode-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.2: Orientation: the four-node maritime system at its fullest extent — Fatimid/Mamluk Egypt and the Karimi (Red Sea), the Chola of South India, Srivijaya at the Straits, and Song China (Quanzhou) — with the Pax Mongolica overland arc thrown briefly across the top (Tana <span class="math inline">\(\to\)</span> China), and Aden the hinge to the Mediterranean (stylised; not to scale).
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Dramatis personae
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The economic actors of c.1000–1400, profiled east to west. The ocean is at its fullest extent, so these are the corners of a connected system rather than loosely linked cores. <strong>India appears in every chapter at the fullest depth</strong> — here as the Chola of the Tamil south, workshop and now sea power. The Mongols enter as the overland engine; Europe, still, as the peripheral entrant — though for the first time one that is learning fast.</p>
+</div>
+</div>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Song and Yuan China — the world’s leading economy
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>China entered this period already the largest economy on earth, with perhaps a hundred million people by about 1100 out of a world of some two hundred and fifty million, and the most extensive foreign trade of any state. What set the Song apart from the Tang of the previous chapter, though, was not size but kind. Under the Song the inward-facing dynasty of grain and conscript labour gave way to the world’s first urban-commercial revolution, an economy run through markets, coin and paper rather than through the granary and the levy. The demographic centre had completed its long slide to the wet-rice south, where by 1100 roughly two-thirds of the population now lived, and the southern paddy, the canal that carried its surplus and the craft towns strung along the rivers had become the engine of the whole.<a href="#fn4" class="footnote-ref" id="fnref4" role="doc-noteref"><sup>4</sup></a></p>
+<p>The metallurgy alone marked the gap with the rest of the world. By the late eleventh century Chinese iron and steel output reached on the order of 125,000 tons a year, more than the whole of Europe combined would produce, smelted in foundry clusters such as the thirty-six works at Liguo that ran perhaps seven thousand tons a year between them. The same surge ran through ceramics, where the kiln town of Jingdezhen worked some three hundred kilns and twenty-four thousand hands; through the improved, faster-ripening Champa rice that lifted southern yields; and through a run of inventions that would travel far beyond China — gunpowder, water-powered machinery, the movable-type print, and the magnetic compass first described by Shen Kuo around 1086. Cities grew to a scale Europe would not match for centuries: Kaifeng in the north, Hangzhou the southern capital running perhaps a million and a half, and the great southern port of Quanzhou around a million by 1080, rising to some one and a quarter million by the 1240s.<a href="#fn5" class="footnote-ref" id="fnref5" role="doc-noteref"><sup>5</sup></a></p>
+<p>It was the money economy that ran furthest ahead of the rest of the world. The Song minted bronze cash at a scale without precedent — coin output peaked at roughly six billion coins a year around 1080, and on the order of two hundred and sixty billion across the Northern Song as a whole. So central had coin become to the state that under Wang Anshi’s New Policies of 1067 to 1085 it reached up to eighty-one per cent of state income, where a century earlier kind had carried most of the fisc. And out of the strain of moving so much cash came the decisive step: from 1024 the government took over the privately issued jiaozi of Sichuan and ran the world’s first paper money, made permanent and silver-backed from about 1170. A third channel bound the commercial core together internally — the Grand Canal, the roughly eighteen-hundred-kilometre artery that carried the rice surplus of the south to the cities and armies of the north, a riverine spine the land-and-sea account of the period easily forgets.<a href="#fn6" class="footnote-ref" id="fnref6" role="doc-noteref"><sup>6</sup></a></p>
+<div id="fig-jiaozi" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-jiaozi-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/photos/song-jiaozi.jpg" class="img-fluid figure-img" style="width:50.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-jiaozi-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.3: Song <em>jiaozi</em> — the world’s first government paper money, issued from 1024 and put on a permanent silver-backed footing by about 1170. China ran the deepest coin-and-paper economy on earth. Public domain, Wikimedia Commons.
+</figcaption>
+</figure>
+</div>
+<p>All of this poses a question the chapter raises but leaves open. If China around 1100 was the most advanced economy in the world — in iron, in money, in cities, in invention — why did it not go on to an industrial revolution, leaving that breakthrough to a far poorer Europe seven centuries later? Mark Elvin’s answer, the “high-level equilibrium trap,” held that Chinese agriculture and craft grew so efficient and labour so abundant that the incentive to mechanise fell away; others reject the framing entirely. The debate belongs properly to a later chapter (see <a href="07-great-divergence.html" class="quarto-xref"><span>The Great Divergence: the centre moves west</span></a>), and is flagged here, not resolved.<a href="#fn7" class="footnote-ref" id="fnref7" role="doc-noteref"><sup>7</sup></a></p>
+<p>Externally, the Song met the ocean through a string of customs ports — nine of them, against the single licensed port of the Tang — and through them the eastern node of the four-node maritime system reached India, the Gulf and the Middle East. Quanzhou, the Zaiton of Arab and later European traders, became the greatest of these, surpassing Guangzhou around 1200; a maritime trade superintendent was appointed there in 1087, and customs took one to two million strings of cash a year. Then came the conquest. The Mongols took the Jin north in 1234 and seized Hangzhou under Qubilai in 1276, completing the Yuan takeover by 1279, and the commercial machine ran on under new masters — the same ports, the same canal, a unified paper currency from 1260. The fourteenth century broke it. From the 1340s drought, repeated Yellow River floods and the collapse of Yuan finance and order set off a fall of at least fifteen and perhaps a third of the population between 1340 and 1370 — a catastrophe of misgovernment, flood and war rather than the Black-Death-scale pandemic that struck Europe, a point von Glahn presses against easy parallels. In 1368 the Red Turbans and the rising Ming ejected the Yuan from China.<a href="#fn8" class="footnote-ref" id="fnref8" role="doc-noteref"><sup>8</sup></a></p>
+<p><strong>Trade profile</strong></p>
+<ul>
+<li><strong>Main exports</strong> — ceramics above all (the Jingdezhen and Fujian kilns producing for an overseas market), silk and fine textiles, and bronze cash, which leaked abroad to become de facto currency in Japan and beyond.</li>
+<li><strong>Main imports</strong> — aromatics, incense and spices (sandalwood, musk, aloeswood, camphor, cloves and frankincense, recorded in Song pharmacy prescriptions), pepper, ivory, rare woods and other tropical produce of the southern ocean.</li>
+<li><strong>Export markets</strong> — the four-node maritime world reached through Quanzhou and the other customs ports: Srivijaya and Southeast Asia, the Chola south of India, and the Gulf and Middle East; overland, the Pax Mongolica routes west.</li>
+<li><strong>Import sources</strong> — India and the Indian Ocean, Srivijaya and the Straits, and the Gulf at the far end of the sea road, feeding the southern ports.<a href="#fn9" class="footnote-ref" id="fnref9" role="doc-noteref"><sup>9</sup></a></li>
+</ul>
+<div id="fig-mapchina04" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-mapchina04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/map-china-04.png" class="img-fluid figure-img" style="width:85.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-mapchina04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.4: Song China as the world’s leading economy: the Grand Canal binding the rice-growing south to the northern capitals, nine maritime customs ports against the Tang’s one, and Quanzhou (Zaiton) the great eastern anchor of the four-node ocean — iron at ~125,000 tons a year and the world’s first paper money behind it (stylised; not to scale).
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="no-row-height column-margin column-container"><div id="fn9"><p><sup>9</sup>&nbsp;<strong>Sources:</strong> Hansen (Loc 3290, 3730, 3771); von Glahn (Loc 3184); Findlay &amp; O’Rourke (p.63). <strong>Read more:</strong> Hansen, <em>The Year 1000</em> (2020).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn8"><p><sup>8</sup>&nbsp;<strong>Sources:</strong> Findlay &amp; O’Rourke (p.63) on nine customs ports; Hansen (Loc 3636, 3749); von Glahn (Loc 3490, 3283, 3661, 3724); Ball (Loc 3349). <strong>Read more:</strong> von Glahn (2016).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn7"><p><sup>7</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 4528) on the later Jiangnan-versus-England productivity comparison. <strong>Read more:</strong> Elvin, <em>The Pattern of the Chinese Past</em> (1973).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn6"><p><sup>6</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 3004, 3007, 3088, 2992); Hansen (Loc 3612, 3768); Ball (Loc 3562). <strong>Read more:</strong> von Glahn (2016).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn5"><p><sup>5</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 3148, 3151, 3184); Ball (Loc 4401); Hansen (Loc 3749, 3783). <strong>Read more:</strong> Hansen, <em>The Year 1000</em> (2020).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn4"><p><sup>4</sup>&nbsp;<strong>Sources:</strong> Hansen (Loc 437, 508); von Glahn (Loc 2620, 2650). <strong>Read more:</strong> von Glahn, <em>The Economic History of China</em> (2016).</p></div></div><div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Srivijaya and the Straits — the fading entrepot
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Srivijaya entered this period as the power it had been in the last: a thalassocracy at Palembang on the Musi river, living off the single fact that ships sailing between China and the western ocean had to thread the Straits of Malacca. By the eleventh century that living was no longer secure. In 1025 a fleet of the Chola king Rajendra I crossed the Bay of Bengal and raided the entrepot directly, sacking its ports in a campaign without obvious territorial aim — a strike by one maritime power against the chokepoint that taxed its merchants. Srivijaya survived the raid but never recovered its old command of the strait, and the centuries that followed eroded the basis of its wealth.<a href="#fn10" class="footnote-ref" id="fnref10" role="doc-noteref"><sup>10</sup></a></p>
+<p>What eroded it was partly success elsewhere. As Chinese shipping grew under the Song and direct sailing became more common, fewer cargoes needed breaking and storing at a single guarded entrepot; the Song listed Srivijaya among its leading trading partners around 1016, but the traffic increasingly found other ports and other routes. New emporia rose along the Straits and the Java Sea, and the redistributive monopoly that had made Palembang rich thinned as the network around it multiplied its nodes. The polity did not vanish — it remained a transit point on a busy sea — but it slid from keeper of the strait to one harbour among several.<a href="#fn11" class="footnote-ref" id="fnref11" role="doc-noteref"><sup>11</sup></a></p>
+<p><strong>Trade profile</strong></p>
+<ul>
+<li><strong>Main exports</strong> — the service of transit above all, monetised through tolls and harbour dues, plus Sumatran forest and sea products (aromatic woods, resins, camphor) re-exported east and west.</li>
+<li><strong>Main imports</strong> — Chinese ceramics and silk and Indian and Middle-Eastern manufactures moving through in transit.</li>
+<li><strong>Export markets</strong> — Song China to the east and the Indian-Ocean trading world to the west, increasingly shared with rival ports.</li>
+<li><strong>Import sources</strong> — China, India and the Sumatran hinterland feeding the entrepot.<a href="#fn12" class="footnote-ref" id="fnref12" role="doc-noteref"><sup>12</sup></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="no-row-height column-margin column-container"><div id="fn12"><p><sup>12</sup>&nbsp;<strong>Sources:</strong> Hansen (Loc 3290) on the China traffic. <strong>Read more:</strong> Alpers, <em>The Indian Ocean in World History</em> (2014).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn11"><p><sup>11</sup>&nbsp;<strong>Sources:</strong> Hansen (Loc 3290) on Srivijaya as a top Song trading partner in 1016; Hansen (Loc 3553) on the compass and direct sailing. <strong>Read more:</strong> Alpers, <em>The Indian Ocean in World History</em> (2014).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn10"><p><sup>10</sup>&nbsp;<strong>Sources:</strong> Hansen (Loc 3290, 3310) on China’s top trading partners c.1016 including Srivijaya, and the Srivijaya monastery at Nagapattinam; Kanisetti (2022) on Rajendra Chola’s 1025 raid. <strong>Read more:</strong> Kanisetti, <em>Lords of the Deccan</em> (2022).</p></div></div><div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>The Chola and South India — the maritime workshop
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>South India had risen from the rim of the ocean to one of its commanding nodes. Through the early centuries the Tamil south had been a producer and a way-station; in this period it became a sea power. The turn came under the Cholas of the Kaveri delta, who emerged as the primary Tamil house when Rajaraja I established himself from 985 and pushed out across the peninsula and the sea over the half-century that followed. The Chola state was an agrarian-temple economy at its core: its wealth grew on the irrigated rice of the Kaveri, channelled through a dense fabric of village assemblies and, above all, through the great royal temple. The Brihadishvara temple endowed at Thanjavur in 1003 stood for the whole arrangement — its tower rose 190 feet in fourteen storeys, among the largest free-standing structures then on earth, and its foundation gifts ran to thousands of kilograms of gold and silver and hundreds of gemstones. A temple on that scale was not only a shrine but a landholder, an employer and a bank, recycling agrarian surplus into craft, ritual and credit. The temple boom of the eleventh and twelfth centuries along the east coast amounted, on one reading, to India’s third urbanisation after the Indus and the Ganga valleys.<a href="#fn13" class="footnote-ref" id="fnref13" role="doc-noteref"><sup>13</sup></a></p>
+<p>Beneath the temple lay the two export industries that had marked the Indian coast since the age of Rome and would mark it for centuries more: pepper and cotton. The Malabar coast remained the world’s principal pepper source — a position it held for roughly fifteen hundred years — and pepper still moved as the ocean’s signature bulk luxury, with China now its largest single consumer; Marco Polo’s later report put Hangzhou’s pepper consumption above four thousand kilograms a day. Cotton was the deeper story of the period. The subcontinent was the great workshop of cloth, and Indian block-printed cottons were reaching as far as Fatimid Egypt from at least the eleventh century. Production and exchange were organised commercially: in the Deccan and the south, copper and gold coin was minted by private workshops under royal supervision, and credit ran at interest rates of thirty to forty per cent a year — a monetised, lending economy rather than a barter one. A guild inscription from Mysore around 1050 listed the goods that passed through these hands — elephants, horses, sapphires, pearls, rubies, diamonds, cardamom, cloves, sandalwood, camphor and musk — the whole tropical luxury trade in a single document.<a href="#fn14" class="footnote-ref" id="fnref14" role="doc-noteref"><sup>14</sup></a></p>
+<p>The institutions that ran this trade were among the most striking in the medieval ocean: the Tamil merchant guilds. The greatest of them, the Ainurruvar — the Ayyavole or “Five Hundred” — had grown by the eleventh and twelfth centuries into a self-styled corporate body, the “Five Hundred of the Thousand Directions in all the Eighteen Lands,” with tens of thousands of members. Alongside it worked the Manigramam. These were not loose associations of individual traders but standing organisations with their own charters, militias and temples, able to negotiate, lend and protect caravans and cargoes across the Bay of Bengal and into Southeast Asia and China. They were the South Indian counterpart to the credit-and-partnership institutions that ran the western ocean, and the clearest sign that the Tamil south exported not only goods but commercial organisation.<a href="#fn15" class="footnote-ref" id="fnref15" role="doc-noteref"><sup>15</sup></a></p>
+<div id="fig-nataraja" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-nataraja-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/photos/chola-bronze.jpg" class="img-fluid figure-img" style="width:46.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-nataraja-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.5: Shiva as Nataraja, Lord of the Dance — an eleventh-century Chola bronze. The great Chola temple recycled the Kaveri’s agrarian surplus into craft, ritual and credit, acting as landholder, employer and bank at once. Photo: LACMA, public domain.
+</figcaption>
+</figure>
+</div>
+<p>Externally, the Chola south was the South Indian corner of a four-node maritime system that by about 1000 linked Fatimid Egypt and the Red Sea, the Cholas at the Palk Strait, Srivijaya at the Straits of Malacca, and Song China — the fullest extent the Indian Ocean economy reached before the modern age. India sat as the indispensable midpoint and workshop of that ocean, supplying the pepper and the cottons that moved in both directions and lending its harbours and pilots to the long sea road. To the west, the Malabar pepper coast fed the Arabian Sea trade up toward Aden, the hinge between the ocean and the Mediterranean, and into the world the Cairo Geniza documents have opened to view — the records of the Jewish “India traders” whose letters track cargoes of pepper, iron and textiles between the Malabar coast and Fatimid Egypt. The horse trade ran the other way along this same western arm: imports were reckoned at roughly a tenth of India’s existing stock, their value exceeding what Bengal later exported to all the European companies combined.<a href="#fn16" class="footnote-ref" id="fnref16" role="doc-noteref"><sup>16</sup></a></p>
+<p>To the east, the Cholas did what no earlier Indian power had done: they projected naval force across the Bay of Bengal. Rajaraja’s successor Rajendra first marched the army some 1,600 kilometres north to the Ganges around 1022, and then, in 1025, sent a fleet against Srivijaya itself, sacking Kadaram and Kedah and breaking the Straits power’s monopoly over the eastern passage. The raid was a commercial act as much as a military one — the fleet returned to the Coromandel coast in 1026 laden with booty, and Chola embassies continued to reach the Song court, the first in 1015 bearing twenty-one thousand ounces of pearls, sixty elephant tusks and sixty catties of frankincense. The deeper trace of this reach lay at the Chinese end of the route: at the great southern port of Quanzhou, Tamil inscriptions and Shaiva temples appeared after 1025, the physical residue of a South Indian mercantile community settled at the far edge of the ocean. China’s own customs records named the Chola among its top trading partners. The Tamil south, in short, was at its widest span in this period both a workshop and a sea power — the producing core of the ocean’s middle that could now also strike across it.<a href="#fn17" class="footnote-ref" id="fnref17" role="doc-noteref"><sup>17</sup></a></p>
+<p><strong>Trade profile</strong></p>
+<ul>
+<li><strong>Main exports</strong> — pepper above all (Malabar the world’s principal source); cotton textiles, including block-printed cottons reaching Egypt; gems, sandalwood, camphor, ivory and other tropical luxuries.</li>
+<li><strong>Main imports</strong> — war-horses from the Gulf and Arabia (reckoned at roughly a tenth of the existing stock); gold and silver bullion; Chinese ceramics and silk drawn in along the eastern route.</li>
+<li><strong>Export markets</strong> — Fatimid Egypt and the Red Sea by way of the Malabar coast and Aden; Srivijaya, Southeast Asia and Song China across the Bay of Bengal, reached through the Coromandel ports and a settled Tamil community as far as Quanzhou.</li>
+<li><strong>Import sources</strong> — the Persian Gulf and Arabia (horses, bullion, reached via Aden); China and Srivijaya (ceramics, silk, eastern goods) at the far end of the sea road.<a href="#fn18" class="footnote-ref" id="fnref18" role="doc-noteref"><sup>18</sup></a></li>
+</ul>
+<div id="fig-mapchola04" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-mapchola04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/map-chola-04.png" class="img-fluid figure-img" style="width:85.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-mapchola04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.6: The Chola and South India: the agrarian-temple core of the Kaveri delta, the Malabar pepper coast feeding Aden and the Geniza “India traders” to the west, and Rajendra Chola’s 1025 naval raid across the Bay of Bengal against Srivijaya to the east — workshop and sea power at once (stylised; not to scale).
+</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="no-row-height column-margin column-container"><div id="fn18"><p><sup>18</sup>&nbsp;<strong>Sources:</strong> Eaton (Loc 3659, 2475) on pepper and cottons; Hansen (Loc 3357) on the Mysore guild’s luxury list; Roy (p.38, p.63) on the horse trade and its scale; Kanisetti (Loc 6160) on the Tamil community at Quanzhou. <strong>Read more:</strong> Roy, <em>India in the World Economy</em> (2012).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn17"><p><sup>17</sup>&nbsp;<strong>Sources:</strong> Eaton (Loc 713) and Dalrymple (Loc 4402) on Rajendra’s c.1022 northern march of ~1,600 km to the Ganges; Kanisetti (Loc 5974, 6090, 6092) on the 1025 raid on Srivijaya, the sack of Kadaram/Kedah and the laden return in 1026; Kanisetti (Loc 5954, 5957) on the 1015 embassy to Song (21,000 oz pearls, 60 tusks, 60 catties frankincense); Kanisetti (Loc 6160) on Tamil inscriptions and Shaiva temples at Quanzhou after 1025; Hansen (Loc 3290) on the Chola among China’s top trading partners. <strong>Read more:</strong> Kanisetti, <em>Lords of the Deccan</em> (2022).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn16"><p><sup>16</sup>&nbsp;<strong>Sources:</strong> Kanisetti (Loc 5671) on the four-node system of Fatimids, Cholas, Srivijaya and Song by about 1000; Roy (p.38, p.63) on the Persian Gulf-Aden horse trade and its scale. <strong>Read more:</strong> Goitein &amp; Friedman, <em>India Traders of the Middle Ages</em> (2008); Margariti, <em>Aden and the Indian Ocean Trade</em> (2007).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn15"><p><sup>15</sup>&nbsp;<strong>Sources:</strong> Kanisetti (Loc 5920, 5924) on the Ainurruvar/Ayyavole grown into the “Five Hundred of the Thousand Directions” with tens of thousands of members. <strong>Read more:</strong> Kanisetti, <em>Lords of the Deccan</em> (2022).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn14"><p><sup>14</sup>&nbsp;<strong>Sources:</strong> Eaton (Loc 3659, 3664) on Malabar as the world’s principal pepper source and China the largest consumer; Eaton (Loc 2475) on block-printed cottons reaching Egypt from the eleventh century; Kanisetti (Loc 6899, 6908) on private minting under royal supervision and 30-40 per cent credit; Hansen (Loc 3357) on the Mysore guild inscription. <strong>Read more:</strong> Roy, <em>India in the World Economy</em> (2012).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn13"><p><sup>13</sup>&nbsp;<strong>Sources:</strong> Kanisetti (Loc 5598) on Rajaraja from 985; Kanisetti (Loc 5675, 5694, 5699, 5681) on the Brihadishvara temple, its 190-foot tower and its gold-and-silver endowment; Kanisetti (Loc 5930) on the east-coast temple boom as a third urbanisation. <strong>Read more:</strong> Kanisetti, <em>Lords of the Deccan</em> (2022).</p></div></div><div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-5-contents" aria-controls="callout-5" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Fatimid and Mamluk Egypt, and the Karimi — the western hinge
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-5" class="callout-5-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>At the western end of the four-node ocean sat Egypt, and after 969 its centre was Cairo, founded by the Fatimids and grown into the largest city in Africa. The geography that mattered was a short overland and riverine link between two seas: spices and other eastern goods came up the Red Sea, crossed to the Nile, and went on to Alexandria and the Mediterranean carriers waiting there. The Fatimid caliphate held this hinge through the eleventh and twelfth centuries; the Mamluk sultans who took power after 1250 held it through the thirteenth and fourteenth, and made the transit trade a pillar of state revenue. Whoever ruled Cairo controlled the cheapest passage between the Indian Ocean and Europe, and taxed it heavily.<a href="#fn19" class="footnote-ref" id="fnref19" role="doc-noteref"><sup>19</sup></a></p>
+<p>The pivot of the system was Aden, the Yemeni port at the mouth of the Red Sea where the monsoon ocean met the route to the Mediterranean. Ships from India and the further east discharged at Aden; their cargoes were assessed, taxed and trans-shipped onward toward Egypt; and the port’s customs house was the gate through which the spice trade passed. Aden was the place where the two halves of the world’s richest trade were joined, and the institutions that governed it — the customs, the brokers, the credit — made it the working hinge of the whole western ocean rather than a mere stopping-point.<a href="#fn20" class="footnote-ref" id="fnref20" role="doc-noteref"><sup>20</sup></a></p>
+<p>The merchants who worked this trade at its richest were the Karimi, a wealthy network of spice traders, mostly based in Cairo and the Red Sea ports, who dominated the pepper and spice business between India and the Mediterranean under the Ayyubids and Mamluks. They moved goods in bulk, extended credit, and amassed fortunes large enough to lend to sultans. Alongside them, and partly before them, ran the Jewish India-traders whose papers survive by accident in the Cairo Geniza — the discarded documents of a Fustat synagogue, salvaged centuries later — which open a close documentary window on how the medieval ocean actually did business: the partnerships, the consignments, the letters of credit, the family firms reaching from Cairo to Aden to the Malabar coast.<a href="#fn21" class="footnote-ref" id="fnref21" role="doc-noteref"><sup>21</sup></a></p>
+<p>The cost of using this hinge was high, and deliberately so. Alexandria’s customs were among the steepest on any route in the system: duties there ran in the order of ten to thirty per cent, far above the three to five per cent levied in the Black Sea, and the trade was lucrative enough that Aragon’s fines on its merchants for breaking the embargo on Alexandria could approach half the king’s Catalan revenues. The high customs were the price Europe paid to reach the spices, and they were one reason the sea route around Africa, once found, would be worth so much — but that lay in the next chapter.<a href="#fn22" class="footnote-ref" id="fnref22" role="doc-noteref"><sup>22</sup></a></p>
+<p><strong>Trade profile</strong></p>
+<ul>
+<li><strong>Main exports</strong> — as carrier, the eastern spices and pepper trans-shipped to the Mediterranean above all; Egyptian textiles and other manufactures; the transit service itself, taxed at Alexandria.</li>
+<li><strong>Main imports</strong> — pepper, spices and fine eastern goods up the Red Sea from India and beyond; Mediterranean silver and European cloth and goods coming the other way.</li>
+<li><strong>Export markets</strong> — Venice, Genoa and the Mediterranean world drawing spices through Alexandria; the Red Sea and Indian Ocean for Egyptian manufactures.</li>
+<li><strong>Import sources</strong> — India and the eastern ocean via Aden and the Red Sea; Venice and Genoa bringing silver and European goods to Alexandria.<a href="#fn23" class="footnote-ref" id="fnref23" role="doc-noteref"><sup>23</sup></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="no-row-height column-margin column-container"><div id="fn23"><p><sup>23</sup>&nbsp;<strong>Sources:</strong> Margariti (2007) on Aden; Abulafia (loc 6381) on the Alexandria trade. <strong>Read more:</strong> Margariti, <em>Aden and the Indian Ocean Trade</em> (2007).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn22"><p><sup>22</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 3735-3746) on Alexandria duties of 10-30% against Black Sea duties of 3-5%; Abulafia (loc 6381) on Aragonese fines on the Alexandria trade approaching half of Catalan royal revenue. <strong>Read more:</strong> Abulafia, <em>The Great Sea</em> (2011).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn21"><p><sup>21</sup>&nbsp;<strong>Sources:</strong> Goitein on the Cairo Geniza and the Jewish India-traders; Abulafia (loc 4992) on Geniza-era trade. <strong>Read more:</strong> Goitein &amp; Friedman, <em>India Traders of the Middle Ages</em> (2008).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn20"><p><sup>20</sup>&nbsp;<strong>Sources:</strong> Margariti (2007) on Aden as the pivot between the Indian Ocean and the Mediterranean. <strong>Read more:</strong> Margariti, <em>Aden and the Indian Ocean Trade</em> (2007).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn19"><p><sup>19</sup>&nbsp;<strong>Sources:</strong> Hansen (Loc 2316, 2340) on Cairo founded 969, the largest African city; Abulafia (loc 4963) on the Fatimid move to Cairo. <strong>Read more:</strong> Goitein &amp; Friedman, <em>India Traders of the Middle Ages</em> (2008).</p></div></div><div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-6-contents" aria-controls="callout-6" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>The Mongols and the Pax Mongolica — the overland climax
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-6" class="callout-6-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>The Mongols were the new power of the age, and the only actor in this chapter whose weight lay on land rather than water. From 1206, when Temujin was proclaimed Chinggis Khan, a single steppe confederation expanded across Eurasia faster than any before it, and within two generations broke into four khanates — the Yuan in China, the Ilkhanate in Iran, the Chaghatai ulus in Central Asia, and the Golden Horde on the western steppe. The conquest was savage: the campaign of Hulegu that took Baghdad in 1258 ended the Abbasid caliphate that had anchored the Islamic world for five centuries, killing the caliph and, by the chroniclers’ inflated counts, a great part of the city. But out of the unified empire came something the overland route had lacked for centuries — a single authority able to make the Silk Road safe.<a href="#fn24" class="footnote-ref" id="fnref24" role="doc-noteref"><sup>24</sup></a></p>
+<p>For a few decades the road was not only safe but taxable, and the scale of integration was real. The Florentine merchant Pegolotti’s commercial handbook of the 1330s and 1340s laid out the route from Tana on the Black Sea to China as a known quantity: a journey of seven to eleven months, with duties along the way amounting to no more than about 1.6 per cent of the value carried. The Mongols ran a relay system, the <em>yam</em>, with post-stations and remounts that could carry a message across enormous distances — Volga to Irtysh in some eight weeks. Marco Polo, Ibn Battuta, missionaries and merchants crossed the continent in these decades. Beyond letting goods pass, the Mongols moved them deliberately: as Allsen showed, the khans shifted artisans, textiles, craftsmen and technical knowledge between Iran and China by design, treating skilled people and useful techniques as spoils to be redistributed across the empire.<a href="#fn25" class="footnote-ref" id="fnref25" role="doc-noteref"><sup>25</sup></a></p>
+<div id="fig-silkroad" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-silkroad-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/photos/divider-silkroad.jpg" class="img-fluid figure-img" style="width:80.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-silkroad-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.7: The caravanserai at Tash Rabat, Kyrgyzstan — the kind of waystation that made the Pax Mongolica overland route briefly safe and taxable, the one moment in the period the land channel surged back. Photo: Peter Schepens, Wikimedia Commons, CC BY 2.0.
+</figcaption>
+</figure>
+</div>
+<p>Yet even at this climax the land channel did not overtake the sea. The same Pegolotti numbers that made the overland route look cheap sat beside duties at Alexandria of ten to thirty per cent and in the Black Sea of three to five per cent — and the sea, carrying far greater bulk at far lower cost per ton, remained the cheaper artery for almost everything heavy. The Pax Mongolica was a brief surge of the land route inside a durably maritime era, not a reversal of it. And the surge was short. By about 1325 to 1340 the khanates were fragmenting, the <em>yam</em> faltering, and the overland trade thinning even before the plague tore through the routes that had carried it. This was the one moment in the chapter when the land channel came back — and it came back briefly, inside a world the sea still governed.<a href="#fn26" class="footnote-ref" id="fnref26" role="doc-noteref"><sup>26</sup></a></p>
+<p><strong>Trade profile</strong></p>
+<ul>
+<li><strong>Main exports</strong> — as a taxing and moving power rather than a producer: the transit trade of silk and eastern goods passing west along the road, levied lightly under the Pax; tribute and plunder funnelled inward; and furs (over 500,000 pelts a year off the northern forests of the Horde).</li>
+<li><strong>Main imports</strong> — the same long-distance luxuries drawn into the khans’ courts; artisans, craftsmen and technical knowledge moved deliberately between Iran and China.</li>
+<li><strong>Export markets</strong> — the Black Sea and Mediterranean termini (Tana, Caffa) where the overland route met the European carriers; the settled economies the khanates taxed.</li>
+<li><strong>Import sources</strong> — China and Iran at the two ends of the road; the steppe and forest north for furs; the settled cores for the manufactures and people the system redistributed.<a href="#fn27" class="footnote-ref" id="fnref27" role="doc-noteref"><sup>27</sup></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="no-row-height column-margin column-container"><div id="fn27"><p><sup>27</sup>&nbsp;<strong>Sources:</strong> Favereau on the Horde’s fur economy (&gt;500,000 pelts/year) and four-zone silver-bar money; Allsen (2001) on the Iran-China movement of artisans and knowledge. <strong>Read more:</strong> Favereau, <em>The Horde</em> (2021).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn26"><p><sup>26</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 3735-3746) on Black Sea duties of 3-5% versus 10-30% at Alexandria, the sea cheaper even at the overland climax; on the Pax fraying by c.1325-1340. <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn25"><p><sup>25</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 3735-3746) on Pegolotti’s Tana-China route, 7-11 months at a tax of &lt;=1.6%, and the <em>yam</em> relay Volga to Irtysh in ~8 weeks; Allsen (2001) on the deliberate Mongol movement of goods, artisans and knowledge between Iran and China. <strong>Read more:</strong> Allsen, <em>Culture and Conquest in Mongol Eurasia</em> (2001).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn24"><p><sup>24</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 686) on Chinggis proclaimed 1206; Favereau (Loc 374) on the split into khanates; Favereau (Loc 2550, 2553) and Eaton (Loc 1307) on the 1258 sack of Baghdad ending the Abbasid caliphate. <strong>Read more:</strong> Favereau, <em>The Horde</em> (2021).</p></div></div><div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-7-contents" aria-controls="callout-7" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Europe — the peripheral entrant
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-7" class="callout-7-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>Europe entered this chapter much as it had left the last: on the margin of a wealthy Asian and Islamic world, a net importer plugged into networks it had not built. It bought spices, silk and fine eastern goods through Alexandria and the Black Sea, and paid for them largely in silver and rough manufactures. What had changed since the Carolingian margin was not Europe’s place in the relay — still subordinate — but its growing skill at the commercial mechanics of plugging in. Its advances in this period were institutional and financial rather than industrial: it learned to organise money and risk better than before, while remaining a customer at the end of other people’s trade.<a href="#fn28" class="footnote-ref" id="fnref28" role="doc-noteref"><sup>28</sup></a></p>
+<p>Three innovations marked the change. Venice ran a system of public debt, the <em>prestiti</em> — forced loans on its citizens that paid interest at about five per cent, issued from 1171 and traded as a market in claims on the state, an early machinery of sovereign finance. The <em>commenda</em> partnership let a sedentary investor and a travelling merchant pool capital and share risk on a single voyage, with the active partner typically taking three-quarters of the profit; it spread risk and mobilised idle money for long-distance trade. And in 1205 Leonardo of Pisa, Fibonacci, brought Hindu-Arabic numerals and the commercial arithmetic of the Islamic world into European practice with his <em>Liber Abaci</em> — by the fourteenth century up to a thousand youths attended the abacus schools of Florence, learning the calculation a merchant economy ran on. None of this was Europe’s invention from nothing; the numerals and much of the credit practice came from the Islamic and Indian worlds it traded with.<a href="#fn29" class="footnote-ref" id="fnref29" role="doc-noteref"><sup>29</sup></a></p>
+<p>The carriers were Venice and Genoa, whose fleets worked the Mediterranean and pushed beyond it. They reached east to Alexandria for the spices coming up the Red Sea, and north into the Black Sea, where colonies such as Genoese Caffa and the port of Tana tapped the overland route the Mongols had opened. They paid the high Alexandrian customs and the lighter Black Sea duties, carried the goods on to European markets, and grew rich on the carrying trade — but they were carrying a commerce whose sources lay in Asia and whose pivot lay in Egypt. On Abu-Lughod’s reading this was the position of the whole continent: rising and learning, genuinely more capable than before, but subordinate within a polycentric system it neither dominated nor organised. Europe rose here as the old cores were battered — Baghdad sacked, the caliphate gone — not by displacing a centre that was still firmly in the east.<a href="#fn30" class="footnote-ref" id="fnref30" role="doc-noteref"><sup>30</sup></a></p>
+<p><strong>Trade profile</strong></p>
+<ul>
+<li><strong>Main exports</strong> — silver and bullion above all; woollen cloth and rough manufactures; timber, metals and slaves moving south and east into the Mediterranean and Black Sea.</li>
+<li><strong>Main imports</strong> — pepper, spices and fine eastern goods through Alexandria; silk and luxury manufactures; the commercial techniques and numerals absorbed from the Islamic and Indian worlds.</li>
+<li><strong>Export markets</strong> — Mamluk Egypt through Alexandria; the Black Sea termini of the overland route; the wider Mediterranean.</li>
+<li><strong>Import sources</strong> — the Indian Ocean by way of Egypt and the Red Sea; the Mongol overland route through Caffa and Tana; the eastern Mediterranean carriers’ networks.<a href="#fn31" class="footnote-ref" id="fnref31" role="doc-noteref"><sup>31</sup></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="no-row-height column-margin column-container"><div id="fn31"><p><sup>31</sup>&nbsp;<strong>Sources:</strong> Abulafia (loc 6381) on the Alexandria spice trade; Abu-Lughod (1989) on Venice and Genoa as carriers. <strong>Read more:</strong> Abulafia, <em>The Great Sea</em> (2011).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn30"><p><sup>30</sup>&nbsp;<strong>Sources:</strong> Abulafia (loc 6381) on the Alexandria trade and its fines; Favereau on the Black Sea termini Tana and Caffa; Abu-Lughod (1989) on a subordinate, rising Europe. <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn29"><p><sup>29</sup>&nbsp;<strong>Sources:</strong> Goetzmann (loc 3825, 3828) on Venetian <em>prestiti</em> at 5% from 1171; Goetzmann (loc 4031) on the <em>commenda</em> and the three-quarters profit share; Goetzmann (loc 4116) on the ~1,000 youths in Florentine abacus schools; on Fibonacci’s 1205 <em>Liber Abaci</em>. <strong>Read more:</strong> Goetzmann, <em>Money Changes Everything</em> (2016).</p></div></div><div class="no-row-height column-margin column-container"><div id="fn28"><p><sup>28</sup>&nbsp;<strong>Sources:</strong> Abulafia (loc 6381) on the costly Alexandria trade; Abu-Lughod (1989) on Europe as a net importer plugged into pre-existing networks. <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div></div><div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>How we know
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>For the first time the record changed kind: where the earlier chapters had to read direction off hoards and shipwrecks, this period yielded genuine economic series. Reconstructed real wages and grain prices survive for parts of Europe and the Middle East from the late thirteenth century, so a historian could at last watch a wage rise or a price spike rather than infer it from buried metal. Sevket Pamuk’s real-wage series and Gregory Clark’s English wage-rent ratios are the headline instruments, and they carry a price-convergence kind of evidence the previous chapters lacked. Alongside the series sat documents of extraordinary intimacy: the Cairo Geniza, the discarded paper of a Cairo synagogue, preserved the letters and accounts of the Jewish “India traders” who worked the Aden hinge, opening the ocean’s credit world to direct view. And there was an ingenious new proxy. Maristella Borner and Battista Severgnini used the speed at which the Black Death diffused to quantify trade integration itself, finding that ten per cent more distance slowed the spread by about five per cent, and that rivers and oceans carried contagion faster than land. The cautions are real. Whether the plague reached India or China at all is genuinely unresolved, and even its origin and dating are contested. Read the series for what they measure, and remember that the richest of them are European.</p>
+<p><em>Sources: Pamuk (2007) on the real-wage series; Clark on the English wage-rent ratios; Goitein &amp; Friedman on the Geniza India-traders; Borner &amp; Severgnini (2011) on plague-diffusion speed as a trade-integration gauge. Read more: Abu-Lughod, Before European Hegemony (1989).</em></p>
+</div>
+</div>
+</section>
+<section id="the-period-on-its-own-terms" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-period-on-its-own-terms">The period on its own terms</h2>
+<p>The high-medieval centuries had a clear shape, and it is worth running through it in sequence before the analysis takes it apart. The period climbed in five movements: a Chinese commercial revolution opened it, the maritime Indian Ocean spread to its fullest pre-modern reach, the overland Silk Road surged back one last time under the Mongols, that order then frayed as the climate turned, and the whole system met the era’s sharpest shock in the Black Death.</p>
+<div id="fig-timeline04" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-timeline04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/phase-timeline-04.png" class="img-fluid figure-img" style="width:92.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-timeline04-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.8: The high-medieval boom in five phases, c.1000–1400: the Song commercial revolution, the maritime Indian Ocean at its fullest extent, the Pax Mongolica overland climax, the fraying as the climate turned, and the Black Death and the great disintegration (stylised timeline; not to scale).
+</figcaption>
+</figure>
+</div>
+<p><strong>Phase 1 — the Song commercial revolution (c.1000–1127).</strong> Northern Song China ran what was, by any measure available, the most advanced economy on earth. Its population reached roughly 100 million around the year 1000, in a world of perhaps 250 million, and it carried on the most extensive foreign trade of any state of the age. The capital at Kaifeng and the later southern seat at Hangzhou each held something close to or above a million people, an urban scale no other society approached. The output figures were of a different order from anything seen before: cast-iron production has been put at about 125,000 tons by 1078, on the standard Hartwell estimate more than all of contemporary Europe combined, feeding tools, weapons and the cooking-pots of a commercialising society. Gunpowder, the magnetic compass, water-powered machinery, movable-type printing and the early-ripening Champa rice that lifted the southern harvests all belonged to the same surge. The single most important question the textbook plants here, and does not answer until a later chapter, is why the most advanced economy of c.1100 did not go on to an industrial revolution.<a href="#fn32" class="footnote-ref" id="fnref32" role="doc-noteref"><sup>32</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn32"><p><sup>32</sup>&nbsp;<strong>Sources:</strong> Hansen (Loc 437, 508, 518, 3783); on Song iron at 125,000 tons (1078, the Hartwell estimate) and the million-cities. <strong>Read more:</strong> von Glahn, <em>The Economic History of China</em> (2016).</p></div><div id="fn33"><p><sup>33</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 3004, 3007, 3088); Hansen (Loc 3612, 3636, 3749, 3768) on the jiaozi from 1024, Quanzhou and the silver-backed note; Findlay &amp; O’Rourke (p.63) on nine Song ports against the Tang’s one. <strong>Read more:</strong> von Glahn (2016).</p></div></div><p>Money was the spine of this economy, and it ran at a scale the rest of the world could not match. Bronze-coin output reached on the order of 6 billion pieces a year around 1080, and perhaps 260 billion over the Northern Song as a whole; under Wang Anshi’s New Policies of 1067 to 1085 coin came to make up as much as 81 per cent of state income, a depth of monetisation without precedent. The shortage of bronze for large payments produced the decisive innovation: officials in Sichuan began issuing paper money, the jiaozi, from 1024, and a permanent silver-backed note followed around 1170. Nine customs ports handled the maritime trade where the Tang had run one, and a Superintendent of Maritime Trade was appointed at Quanzhou — the port the Arabs called Zaiton — in 1087; its population has been put at a million in 1080, rising toward 1.25 million by the 1240s. The boom broke politically rather than economically: the Jurchen overran the north and took Kaifeng in 1127, driving the dynasty south, where its commercial economy carried on.<a href="#fn33" class="footnote-ref" id="fnref33" role="doc-noteref"><sup>33</sup></a></p>
+<p><strong>Phase 2 — the maritime Indian Ocean at its fullest extent (c.1000–1300).</strong> The ocean that the previous chapter left at its apogee now spread to its widest pre-modern reach, organised around four great nodes. At the western end sat Fatimid and then Mamluk Egypt, the Red Sea its outlet and the Karimi spice merchants its long-distance operators, with Aden the hinge where the Indian Ocean met the Mediterranean. In the centre stood the Chola of the Tamil south, no longer merely the workshop of the last chapter but a naval power: in 1025 Rajendra Chola launched a raid across the Bay of Bengal against Srivijaya, the third node, whose hold on the Straits of Malacca it left weakened. Song China anchored the eastern end through Quanzhou and Guangzhou, and a Chinese list of 1016 already named Arab lands, Srivijaya, Java and the Chola among its leading trading partners.<a href="#fn34" class="footnote-ref" id="fnref34" role="doc-noteref"><sup>34</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn34"><p><sup>34</sup>&nbsp;<strong>Sources:</strong> Hansen (Loc 3290, 3310) on Chola-Srivijaya and the 1016 trading partners; on the four-node Fatimid/Chola/Srivijaya/Song system and Aden the hinge. <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div><div id="fn35"><p><sup>35</sup>&nbsp;<strong>Sources:</strong> Abulafia (loc 5005, 5035) on the Alexandria-Palermo crossings; on the Cairo Geniza, the Tamil guilds and Abu-Lughod’s polycentric ~8-circuit system peaking c.1250-1350. <strong>Read more:</strong> Goitein &amp; Friedman, <em>India Traders of the Middle Ages</em> (2008).</p></div></div><p>The texture of this commerce survives in unusual detail because one corner of it left its papers behind. The documents of the Cairo Geniza opened a window on the Jewish “India traders” who worked the route between Egypt and the Malabar coast, their partnerships, credit and correspondence recovered from a synagogue store-room; a single crossing from Alexandria could put ten ships of some five hundred passengers each into a Sicilian port, the voyage running anywhere from thirteen to fifty days. The Tamil merchant guilds — the Ayyavole “Five Hundred” and the Manigramam — organised exchange along the Coromandel coast and across the bay. Out of all this Janet Abu-Lughod drew the chapter’s organising idea: a genuinely polycentric world system of roughly eight overlapping circuits, peaking between about 1250 and 1350, in which there was no European hegemony and no single dominant core. It is the module’s clearest snapshot of a connected world economy before Europe ran it.<a href="#fn35" class="footnote-ref" id="fnref35" role="doc-noteref"><sup>35</sup></a></p>
+<p><strong>Phase 3 — the Pax Mongolica and the overland climax (c.1206–1325).</strong> Into this maritime world the land channel surged back, for the only time in the period, on the back of Mongol conquest. Temujin was proclaimed Chinggis Khan in 1206; within a few decades his successors had built the largest contiguous land empire in history, and as it settled into four khanates it imposed a measure of order across the steppe corridors. The overland Silk Road became, for a stretch of decades, safe and taxable. The Florentine merchant Francesco Pegolotti’s handbook, compiled in the 1330s and 1340s, set out the route from Tana on the Black Sea through to China as a journey of seven to eleven months on which the cumulative tax burden ran to no more than about 1.6 per cent; the Mongol <em>yam</em>, the relay-post system, could carry a courier from the Volga to the Irtysh in around eight weeks. Marco Polo, Ibn Battuta, friars and merchants crossed Eurasia along these roads, and Thomas Allsen has shown that the movement of goods, artisans and knowledge was often deliberate — Mongol courts pulling Iranian and Chinese specialists in textiles, astronomy and medicine across the empire to serve them.<a href="#fn36" class="footnote-ref" id="fnref36" role="doc-noteref"><sup>36</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn36"><p><sup>36</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 686, 3735-3746) on Chinggis from 1206, Pegolotti’s Tana-China route and the <em>yam</em> relay; Allsen (2001) on the deliberate movement of artisans and knowledge. <strong>Read more:</strong> Allsen, <em>Culture and Conquest in Mongol Eurasia</em> (2001).</p></div><div id="fn37"><p><sup>37</sup>&nbsp;<strong>Sources:</strong> Eaton (Loc 1307) on the 1258 sack of Baghdad; Favereau (Loc 3052, 3070, 3735-3746) on the silver bars, the four coinage zones and the Black Sea-versus-Alexandria duties. <strong>Read more:</strong> Favereau, <em>The Horde</em> (2021).</p></div></div><p>The conquests also shattered the old order they passed through. In 1258 Hulegu’s army sacked Baghdad, killed the last Abbasid caliph along with a reported 200,000 or more of its people, and ended the caliphate that had anchored the Islamic core for five centuries — a reminder that Europe rose as the old centres were battered, not by displacing a still-dominant one. Yet the overland climax should not be overstated. Even at its height the land route was dearer than the sea: on Pegolotti’s own figures the duties on the Black Sea ran to perhaps 3 to 5 per cent against 10 to 30 per cent at Alexandria, but the carrying cost of a caravan still sat far above that of a ship, and the bulk of long-distance trade by value moved on water throughout. Silver bars served as a kind of traveller’s cheque across the Horde’s four coinage zones, knitting the Mongol west into a single monetary space. The Pax was a brief surge of the land channel inside a durably maritime era, and it had already begun to fray by the mid-1320s.<a href="#fn37" class="footnote-ref" id="fnref37" role="doc-noteref"><sup>37</sup></a></p>
+<p><strong>Phase 4 — the fraying (c.1325–1345).</strong> The Mongol order came apart before the plague reached it. The Toluid-Jochid war had split the empire from the 1260s, and through the early fourteenth century the khanates fragmented further: the Ilkhanate dissolved after Abu Sa’id died, probably poisoned, in 1335, and the western steppe descended into the succession struggles that would consume the Golden Horde. The overland route lost its security as the political guarantee behind it weakened, and the merchants who had crossed Eurasia under the Pax found the roads less safe and the protection less reliable. The land surge of the previous decades was, in retrospect, a short-lived thing.<a href="#fn38" class="footnote-ref" id="fnref38" role="doc-noteref"><sup>38</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn38"><p><sup>38</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 374, 4380) on the Toluid-Jochid split and the death of Abu Sa’id in 1335; on the Pax fraying c.1325-40. <strong>Read more:</strong> Favereau, <em>The Horde</em> (2021).</p></div><div id="fn39"><p><sup>39</sup>&nbsp;<strong>Sources:</strong> Fagan (loc 635, 3259) on the Great Famine of 1315-21 and the Indian famine of 1344-45; Pye (Loc 4768) on the sixfold grain prices; Campbell (2016) on the Great Transition / Little Ice Age onset c.1300. <strong>Read more:</strong> Campbell, <em>The Great Transition</em> (2016).</p></div></div><p>The climate turned at the same time, and it turned against everyone. The Medieval Warm Period that had lifted populations since around 1000 gave way to what Bruce Campbell has called the Great Transition — a colder, more volatile regime that marked the onset of the Little Ice Age from about 1300. Its first great blow fell on northern Europe: the rains of 1315 to 1321 brought the Great Famine, which killed perhaps 1.5 million as grain prices ran to six times their normal level. India suffered a severe famine of its own in 1344 and 1345, severe enough that even royalty was said to have gone hungry. A late-medieval bullion famine — a tightening shortage of the silver and gold on which long-distance settlement depended — set in across the same years. The system was visibly weakening, on several fronts at once, before the pestilence arrived.<a href="#fn39" class="footnote-ref" id="fnref39" role="doc-noteref"><sup>39</sup></a></p>
+<p><strong>Phase 5 — the Black Death and the great disintegration (1346–1400).</strong> The same connectivity that had carried silk now carried plague. The disease moved west along the trade routes and reached the Genoese colony of Caffa in the Crimea, where it broke out among the besieging Horde army in 1346; from the Black Sea ports it travelled on the grain ships, reaching Constantinople and Alexandria in 1347 and the Italian cities soon after. Marie Favereau’s phrase captures the mechanism exactly: the fur road became the plague road. Roughly a third of Europe died, on the order of 25 of some 80 million people, with mortality nearer 40 per cent around the Mediterranean; Cairo is reported to have lost about 200,000 of perhaps 500,000 to 600,000. Where the plague began is itself a live question: Favereau traced its deep origins back to between 1196 and 1268, while a 2022 study of ancient DNA placed the source in the Tian Shan near Lake Issyk-Kul in 1338 to 1339, and the two datings have not been reconciled.<a href="#fn40" class="footnote-ref" id="fnref40" role="doc-noteref"><sup>40</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn40"><p><sup>40</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 4466, 4478, 4564, 4590) on Caffa 1346, the spread of 1347 and the “fur road became the plague road”; Fagan (loc 828) on ~25 of ~80 million; Harper (Loc 1945, 1999) on the Tian Shan source and the Cairo toll; on Favereau’s 1196-1268 origin versus Spyrou et al.&nbsp;(2022). <strong>Read more:</strong> Spyrou et al., <em>Nature</em> (2022).</p></div></div><div id="fig-plague" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-plague-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/photos/divider-plague.jpg" class="img-fluid figure-img" style="width:66.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-plague-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.9: <em>Imago Mortis</em>, Michael Wolgemut’s 1493 woodcut. The Black Death of 1346–53 killed perhaps a third of Europe, travelling the very routes that had carried its trade — the boom carrying the seeds of its own collapse. Photograph of the woodcut: smallcurio, Wikimedia Commons, CC BY 2.0.
+</figcaption>
+</figure>
+</div>
+<p>How far east the rupture reached is contested, and the textbook teaches it as a debate rather than settling it. China saw no pandemic on the European scale in these years: the 15 to 33 per cent fall in its population between roughly 1340 and 1370 is better explained, on Richard von Glahn’s reading, by the collapse of Yuan rule, the catastrophic Yellow River flooding of the 1350s and the wars of the Ming conquest than by any single plague — though an earlier East Asian origin and the ancient-DNA evidence keep the question open. Whether the disease reached India at all is disputed in turn, with a serious revisionist case holding that neither India nor China was clearly infected before 1346. If South Asia largely escaped, the great factor-price reset that reshaped Europe and the Middle East did not reset India’s — an asymmetry that may matter later. The Yuan were ejected from China in 1368 and replaced by the Ming; the overland route collapsed with the Mongol order that had sustained it; and as the land channel failed, the maritime Indian Ocean resumed its primacy, setting up the spectacular last pre-European flourish that the next chapter takes up.<a href="#fn41" class="footnote-ref" id="fnref41" role="doc-noteref"><sup>41</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn41"><p><sup>41</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 3724) on no Black-Death-scale pandemic in China and the 15-33 per cent fall of 1340-70; Favereau (Loc 4606, 4614) on the 1350s Yellow River flooding and the Ming capture of 1368; on the contested reach to India (Eaton) and the hand-off to Zheng He. <strong>Read more:</strong> Jedwab, Johnson &amp; Koyama, <em>Journal of Economic Literature</em> (2022).</p></div></div></section>
+<section id="reading-the-period-the-four-questions" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="reading-the-period-the-four-questions">Reading the period: the four questions</h2>
+<p>The narrative of these four centuries can be condensed into answers to the four questions that drive this book, and they point, more sharply than in any chapter before, to a system that reached its fullest extent and then suffered its greatest rupture.</p>
+<p>The first question was about direction, and here the period gave the clearest case in the book of integration and disintegration in sequence. The Afro-Eurasian economy knit itself to its fullest pre-modern reach. On Janet Abu-Lughod’s reading it formed a polycentric world system of roughly eight overlapping circuits, peaking between about 1250 and 1350, with no single hegemon and, in particular, no European one. Then it broke. The Black Death of 1346 to 1353 killed perhaps a third of Europe, around twenty-five of some eighty million people, and the same connectivity that had carried silk carried the plague. The module’s recurring lesson reached its sharpest form: a more integrated system was a more exposed one, and the routes that moved goods moved death. The integration and the disintegration were not separate stories but one, the boom carrying the seeds of its own collapse.<a href="#fn42" class="footnote-ref" id="fnref42" role="doc-noteref"><sup>42</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn42"><p><sup>42</sup>&nbsp;<strong>Sources:</strong> Abu-Lughod (1989) on the polycentric ~8-circuit system peaking c.1250-1350; Favereau (Loc 4548, 4590) on the plague killing ~a third of Europe and the fur road becoming the plague road. <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div><div id="fn43"><p><sup>43</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 686) on Chinggis Khan in 1206; Favereau (Loc 3735-3746) on the Pegolotti Tana-China tax &lt;=1.6%, Black Sea 3-5% versus Alexandria 10-30%; von Glahn (Loc 2992) on the Grand Canal. <strong>Read more:</strong> Favereau, <em>The Horde</em> (2021).</p></div></div><p>The second question was about channels, and this was the one period in the whole book when the overland route climbed back. Mongol unification, from Chinggis Khan’s proclamation in 1206 through the four khanates, made the Silk Road safe and taxable for a few decades, and goods, artisans and knowledge moved across Eurasia at a scale not seen before or since. Caravans ran from Crimea to China in roughly eight to eleven months, and Francesco Pegolotti’s merchant handbook of the 1330s and 1340s reckoned the Tana-to-China journey at a tax of no more than about 1.6 per cent. Yet the decisive point cuts against the headline. Even at the overland climax the sea stayed cheaper: Pegolotti’s Black Sea duties of three to five per cent compared with ten to thirty per cent at Alexandria, and the Pax Mongolica was a brief land surge inside a durably maritime era. When the Mongol system fragmented and the plague came, the overland route collapsed and the maritime Indian Ocean resumed its place as the durable artery. There was a third axis too, easily lost in the land-and-sea framing: China’s Grand Canal, running some 1,800 kilometres, carried the internal traffic that sustained the Song and Yuan commercial core.<a href="#fn43" class="footnote-ref" id="fnref43" role="doc-noteref"><sup>43</sup></a></p>
+<p>The third question was about modes, and money was the spine that ran through the period. Song China was the most monetised economy on earth, its coin output reaching something like six billion coins a year around 1080, perhaps 260 billion across the Northern Song, and under Wang Anshi’s New Policies coin came to make up as much as four-fifths of state income. Above the coin ran paper money, issued from 1024 and put on a permanent silver-backed footing by about 1170. The other flows mattered, but they organised themselves around the metal: goods moved, people moved, and knowledge moved, the Song innovations in iron, printing and the compass travelling west under Mongol patronage. The bullion itself told the clearest story.<a href="#fn44" class="footnote-ref" id="fnref44" role="doc-noteref"><sup>44</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn44"><p><sup>44</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 3004, 3007) on Song coin output ~6 billion/year and ~260 billion over the Northern Song; von Glahn (Loc 3088) on coin as up to 81% of state income under Wang Anshi. <strong>Read more:</strong> von Glahn, <em>The Economic History of China</em> (2016).</p></div></div><div class="callout callout-style-default callout-important callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Important</span>Follow the money
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Money was the period’s spine. Song China ran on paper notes issued from 1024 and a coin output of perhaps six billion a year around 1080, the most monetised economy on earth, with cash funding the bulk of the state. Across the Mongol west, silver bars worked something like traveller’s cheques, passing between the Horde’s separate coinage zones as a settled high-value medium. Then, as the boom broke, came the late-medieval bullion famine. Follow the money and the centre is plainly in the east; follow it as it dries up and the disintegration comes into view.</p>
+</div>
+</div>
+<p>The bullion ran in two registers. In China it was coin and paper; across the Horde it was silver, and the Mongol monetary world was sophisticated in its own way, silver bars circulating like traveller’s cheques between four distinct coinage zones so that value could move across the steppe without recoining at every frontier. Then the metal failed. As the fourteenth century turned, a late-medieval bullion famine set in, the monetary contraction that helped end the boom, and the drying-up of the silver was itself a sign of the disintegration to come.<a href="#fn45" class="footnote-ref" id="fnref45" role="doc-noteref"><sup>45</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn45"><p><sup>45</sup>&nbsp;<strong>Sources:</strong> Favereau (Loc 3052, 3070) on silver bars working “like traveller’s cheques” across the Horde’s coinage zones; on the late-medieval bullion famine. <strong>Read more:</strong> Favereau, <em>The Horde</em> (2021).</p></div></div><div id="fig-tradecost" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-tradecost-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/trade-cost-04.png" class="img-fluid figure-img" style="width:72.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-tradecost-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.10: Even at the overland climax, the sea stayed cheaper. The Pax Mongolica made the Tana–China caravan route cheap to <em>tax</em> (Pegolotti: ~1.6% cumulative; Black Sea duties ~3–5%), but Alexandria’s customs ran ~10–30% and ship carriage cost a fraction of caravan carriage per ton — so the bulk of trade by value still moved on water (stylised; tax rates from Pegolotti).
+</figcaption>
+</figure>
+</div>
+<p>The fourth question was about Europe, and the answer could still be read straight off the flows. Europe was a peripheral entrant, a net importer plugged into networks it had not built, and its distinctive contribution was institutional rather than productive: Venetian public debt, the <em>prestiti</em>, paying around five per cent; the <em>commenda</em> partnership; and Fibonacci’s <em>Liber Abaci</em> of 1205 carrying Hindu-Arabic numerals into European commerce. That Europe rose at all owed something to the battering of the old cores, the Mongol sack of Baghdad in 1258 destroying the Abbasid node that had anchored the Islamic core for five centuries. But one new datum mattered for everything that followed. After the Black Death, real wages in north-western Europe rose and, uniquely, held, and that rise was the first faint counter-current to the long Asian dominance, the first hint that the centre might one day move.<a href="#fn46" class="footnote-ref" id="fnref46" role="doc-noteref"><sup>46</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn46"><p><sup>46</sup>&nbsp;<strong>Sources:</strong> Goetzmann (loc 3825, 4031) on Venetian <em>prestiti</em> at ~5%, the <em>commenda</em> and Fibonacci’s <em>Liber Abaci</em> (1205); Eaton (Loc 1307) on the 1258 sack of Baghdad; Pamuk (2007) on the post-plague NW-European wage rise. <strong>Read more:</strong> Pamuk (2007).</p></div></div></section>
+<section id="the-verdict-where-was-the-centre" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="the-verdict-where-was-the-centre">The verdict: where was the centre?</h2>
+<p>This period let the centre-of-gravity question be answered with more precision than any other in the book, and the answer was that the weight sat firmly in Asia. Song China was the single most advanced economy in the world: it cast iron on a scale no other society approached, ran paper money and the deepest coin economy on earth, and held cities approaching a million people when the largest in Europe held a fraction of that. Around it sat a polycentric system in which, on Abu-Lughod’s reading, Europe was subordinate and rising rather than hegemonic, India was central to the maritime network as workshop and entrepot, and Egypt with its Karimi merchants formed a major core in its own right. The Mongol overland climax re-weighted the land route for a few decades but did not move the centre. After the measure-dependent verdicts of the earlier chapters, this one can be stated with high confidence.<a href="#fn47" class="footnote-ref" id="fnref47" role="doc-noteref"><sup>47</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn47"><p><sup>47</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 3148) on Song iron, paper money and million-cities as the world’s most advanced economy; Abu-Lughod (1989) on the polycentric system with Europe subordinate and rising. <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div><div id="fn48"><p><sup>48</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 4528) on aggregate scale versus income per head. <strong>Read more:</strong> von Glahn, <em>The Economic History of China</em> (2016).</p></div></div><p>Two cautions keep the verdict honest. The first is the old one about quantity and quality. To call China the most advanced or the largest economy is to measure aggregate scale and technological lead, not income per head, which stayed Malthusian everywhere; the switch to measuring success by the living standards of ordinary people lies centuries ahead, with the Great Divergence of <a href="07-great-divergence.html" class="quarto-xref"><span>The Great Divergence: the centre moves west</span></a>. The second is that the long-distance trade on which the whole centre-of-gravity reading rests was a thin, lucrative layer over agrarian worlds where almost everyone farmed and never touched a trade good. Hold the two apart: weight and technology now, living standards much later.<a href="#fn48" class="footnote-ref" id="fnref48" role="doc-noteref"><sup>48</sup></a></p>
+<p>Then the crucial twist. The first counter-current to the Asian centre appeared in this very period, and it appeared in the wreckage of the plague. Pamuk’s post-Black-Death real wages rose across Europe to about 1450 and then fell back everywhere except the Low Countries and England, where they held and pulled away, opening the wage gap that historians call the Little Divergence. That north-western rise was the first faint signal of the westward move that the Great Divergence of <a href="07-great-divergence.html" class="quarto-xref"><span>The Great Divergence: the centre moves west</span></a> would test. And if India largely escaped the plague, as a serious revisionist case holds, then the great factor-price reset that scarcity forced on Europe and the Middle East never reset India’s, an asymmetry that is part of why divergence later favoured the north-west. So the period did two things at once. It confirmed the Asian centre more clearly than any chapter before it, and it planted the first hint of that centre’s eventual erosion: a seed, not yet a shift, and one this book picks up again at the hinge of the Great Divergence.<a href="#fn49" class="footnote-ref" id="fnref49" role="doc-noteref"><sup>49</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn49"><p><sup>49</sup>&nbsp;<strong>Sources:</strong> Pamuk (2007) on the post-plague wage rise to ~1450 and the NW-European Little Divergence; Eaton on the contested case that the plague largely spared India. <strong>Read more:</strong> Pamuk (2007).</p></div></div><div id="fig-wages" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-wages-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<img src="figures/blackdeath-wages-04.png" class="img-fluid figure-img" style="width:76.0%">
+</div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-wages-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;5.11: The first counter-current: the Little Divergence. Post-Black-Death labour scarcity pushed real wages up across Europe to ~1450; they then fell back everywhere EXCEPT the Low Countries and England, where they held and pulled away. The first faint signal of the westward shift the Great Divergence (<a href="07-great-divergence.html" class="quarto-xref"><span>The Great Divergence: the centre moves west</span></a>) will test (stylised; after Pamuk 2007).
+</figcaption>
+</figure>
+</div>
+<div class="callout callout-style-default callout-warning callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Warning</span>The debate: was the Black Death a starting gun for divergence?
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Was the plague the trigger of the long European rise, or merely the occasion? Pamuk (2007) showed post-plague real wages rising to about 1450 and then falling everywhere except the Low Countries and England, opening the north-west-versus-rest Little Divergence. Stuart Borsch turned the same shock the other way: it raised English peasant welfare but wrecked Egypt’s irrigation-dependent, centralised system, so institutions rather than the shock itself did the causal work. Jedwab, Johnson and Koyama (2022), the up-to-date survey, find the gains often not sustained outside the north-west. And behind all of it sits the prior question, the one this chapter keeps open as a hook: did the Black Death even reach India? If South Asia largely escaped, the factor-price reset that reshaped Europe and the Middle East never touched it. Was the plague a starting gun, or did pre-existing institutions and geography decide the outcome? The book leaves it open.</p>
+</div>
+</div>
+<div class="column-page">
+<p><strong>Data exhibit — the Little Divergence in real wages.</strong> The Black Death is the best natural experiment in the book: a roughly symmetric demographic shock — labour suddenly scarce, land suddenly abundant — applied across Europe and the Middle East at once, with sharply divergent outcomes. Pamuk’s reconstructed real wages of unskilled urban workers rose almost everywhere in the century after 1348, as scarce labour bid up its price. But after about 1450, as populations recovered, wages fell back to subsistence everywhere except the Low Countries and England, where they held and pulled away — the wage gap that defines the “Little Divergence.” <em>What you could do with this:</em> take Pamuk’s or the Allen real-wage series for a set of European and Middle Eastern cities, index them to 1348, and chart the divergence after 1450 — then ask what, other than the shared shock, the Low Countries and England had that Italy, Spain and Egypt did not.</p>
+</div>
+</section>
+<section id="threads-forward" class="level2 page-columns page-full">
+<h2 class="anchored" data-anchor-id="threads-forward">Threads forward</h2>
+<p>This chapter both confirms the book’s central thread and complicates it. The centre-of-gravity thread reaches its most precisely measurable reading here — the weight firmly Asian, Song China the most advanced economy on earth, in a polycentric system with no European hegemony — and it will stay Asian, on aggregate, through the next two chapters before the hinge of the Great Divergence. But the same chapter plants the counter-current that the rest of the book must reckon with: the post-Black-Death wage rise that held only in north-western Europe, the first faint signal of the westward move, and the possibility that India’s escape from the plague spared it the factor-price reset that pushed Europe’s wages up. The channels thread has its sharpest single episode here too — the one moment the overland route climaxed under the Mongols, then collapsed, leaving the sea the durable artery for good.<a href="#fn50" class="footnote-ref" id="fnref50" role="doc-noteref"><sup>50</sup></a></p>
+<div class="no-row-height column-margin column-container"><div id="fn50"><p><sup>50</sup>&nbsp;<strong>Sources:</strong> Pamuk (2007) on the Little Divergence; Abu-Lughod (1989) on the polycentric system. <strong>Read more:</strong> Findlay &amp; O’Rourke, <em>Power and Plenty</em> (2007).</p></div><div id="fn51"><p><sup>51</sup>&nbsp;<strong>Sources:</strong> von Glahn (Loc 3724) on the Yuan-to-Ming transition; on the hand-off to the Zheng He voyages and the European entry. <strong>Read more:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989).</p></div></div><p>The hand-off to the next chapter is already visible. By about 1400 the boom had broken — plague, the Great Transition climate downturn, the Yuan-to-Ming transition of 1368, the collapse of the overland route, the bullion famine. The maritime Indian Ocean resumed its primacy, and the next chapter opens on its spectacular last pre-European flourish: Ming China’s Zheng He voyages, the Indian-Ocean apogee that China then abandoned by choice — the great counterfactual — alongside the European entry of 1498 and the New World and Japanese silver that would finally weld all three oceans into one. The centre is still Asian, but the seeds planted here, the north-western wage divergence and China’s coming retreat from the sea, set up the long pivot toward the Great Divergence.<a href="#fn51" class="footnote-ref" id="fnref51" role="doc-noteref"><sup>51</sup></a></p>
+<hr>
+</section>
+<section id="classic-research-the-foundations" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="classic-research-the-foundations">Classic research: the foundations</h2>
+<p>The chapter’s central ideas — a polycentric world before Europe, the Song commercial revolution, the Black Death as a turning point — descend from a bench of historians who put trade and money at the centre.</p>
+<ul>
+<li><strong>Abu-Lughod (1989)</strong>, <em>Before European Hegemony: The World System A.D. 1250–1350</em> — the polycentric, eight-circuit system with no European hegemony; the conceptual spine of this chapter. [DOI 10.1093/oso/9780195067743.001.0001]</li>
+<li><strong>von Glahn (2016)</strong>, <em>The Economic History of China</em> — the standard account of the Song commercial revolution: iron, paper money, the deepest coin economy on earth. [DOI 10.1017/cbo9781139343848]</li>
+<li><strong>Goitein &amp; Friedman (2008)</strong>, <em>India Traders of the Middle Ages: Documents from the Cairo Geniza</em> — the documentary reconstruction of the Jewish India-trade between Egypt and Malabar; the bedrock under the western ocean’s credit world.</li>
+<li><strong>Margariti (2007)</strong>, <em>Aden and the Indian Ocean Trade</em> — Aden as the working hinge between the ocean and the Mediterranean.</li>
+<li><strong>Allsen (2001)</strong>, <em>Culture and Conquest in Mongol Eurasia</em> — the deliberate Mongol movement of goods, artisans and knowledge between Iran and China.</li>
+<li><strong>Elvin (1973)</strong>, <em>The Pattern of the Chinese Past</em> — the “high-level equilibrium trap,” the classic statement of the “why didn’t Song China industrialise?” puzzle (opened here, resolved at <a href="07-great-divergence.html" class="quarto-xref"><span>The Great Divergence: the centre moves west</span></a>).</li>
+<li><strong>Borsch (2005)</strong>, <em>The Black Death in Egypt and England</em> — the same shock, divergent institutional outcomes; institutions, not the shock, did the causal work.</li>
+</ul>
+</section>
+<section id="at-the-research-frontier-recent-cliometric-work" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="at-the-research-frontier-recent-cliometric-work">At the research frontier: recent cliometric work</h2>
+<p>The Black Death is one of cliometrics’ best-studied natural experiments, and the frontier here is unusually deep. Every entry verified.</p>
+<ul>
+<li><strong>Pamuk (2007)</strong>, “The Black Death and the origins of the ‘Great Divergence’ across Europe, 1300–1600,” <em>European Review of Economic History</em> 11(3): 289–317 — post-plague real wages rose to ~1450 then fell everywhere except the Low Countries and England: the “Little Divergence,” and this chapter’s headline counter-current. [DOI 10.1017/s1361491607002031]</li>
+<li><strong>Jedwab, Johnson &amp; Koyama (2022)</strong>, “The Economic Impact of the Black Death,” <em>Journal of Economic Literature</em> 60(1): 132–178 — the up-to-date survey; the gains were often not sustained outside the north-west, and institutions and geography mediated the shock. [DOI 10.1257/jel.20201639]</li>
+<li><strong>Voigtländer &amp; Voth (2013)</strong>, “The Three Horsemen of Riches: Plague, War, and Urbanization in Early Modern Europe,” <em>Review of Economic Studies</em> 80(2): 774–811 — how plague, war and cities together raised European wages and urbanisation, the mechanism behind the Little Divergence. [DOI 10.1093/restud/rds034]</li>
+<li><strong>Pamuk &amp; Shatzmiller (2014)</strong>, “Plagues, Wages, and Economic Change in the Islamic Middle East, 700–1500,” <em>Journal of Economic History</em> 74(1): 196–229 — the Middle Eastern wage record, including Egypt’s divergent post-plague path. [DOI 10.1017/s0022050714000072]</li>
+<li><strong>Bosker, Buringh &amp; van Zanden (2013)</strong>, “From Baghdad to London,” <em>Review of Economics and Statistics</em> 95(4): 1418–1437 — the city-size dataset that sets Quanzhou and Hangzhou against the largest European cities. [DOI 10.1162/rest_a_00284]</li>
+</ul>
 <div class="callout callout-style-default callout-note callout-titled">
 <div class="callout-header d-flex align-content-center">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
 <div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Draft pending
+<span class="screen-reader-only">Note</span>Keeping this current (verification gate)
 </div>
 </div>
 <div class="callout-body-container callout-body">
-<p><strong>Period:</strong> c.1000–1400. This chapter is a stub. Draft it from the standardized template (<code>_chapter-template.qmd</code>) using its story spine (<code>teaching/ecu4413_world_econ/module_design/topic_04_story_spine_2026-06-19.md</code>), the matching topic brief, the centre-of-gravity ledger, the data compendium, and <code>datasets_by_topic.md</code>.</p>
+<p>Sweep date 2026-06-25; repositories searched: Crossref, RePEc/EconPapers, NBER, journal tables of contents. Every entry above was citation-verified (Crossref DOI); none is a fabricated or unverified working paper. Where the action sits for this period: the Black Death as a natural experiment is intensively studied for Europe and the Middle East, far less so for South and East Asia — the “did it reach India/China?” question is unresolved, and the 2022 <em>Nature</em> ancient-DNA result (Spyrou et al., placing the source in the Tian Shan, 1338–39) reopened the origin debate. Refresh before publication.</p>
 </div>
 </div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Research in focus — Pamuk (2007): the Black Death and the Little Divergence
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Aim</strong> — to test whether the Black Death set off the long-run divergence of north-western Europe from the rest of the continent and the Middle East.</li>
+<li><strong>Question</strong> — how did real wages move across Europe and the Mediterranean in the centuries after the plague, and where did the post-plague gains last?</li>
+<li><strong>Data &amp; method</strong> — assembled and compared reconstructed real-wage series for unskilled urban workers across a set of European and Middle Eastern cities, indexed around the 1348 shock, and tracked their paths to 1600.</li>
+<li><strong>Findings</strong> — labour scarcity pushed real wages up almost everywhere after 1348; but after about 1450, as populations recovered, wages fell back to subsistence everywhere except the Low Countries and England, where they held and rose — the “Little Divergence.” The symmetric shock produced asymmetric outcomes.</li>
+<li><strong>Caveats</strong> — wage series are urban, unskilled and patchy; they measure one slice of welfare, not GDP; and the result identifies where divergence appeared, not conclusively why — institutions and geography (see Borsch; Jedwab et al.) carry much of the causal weight.</li>
+</ul>
+<p><em>Sources: Pamuk, “The Black Death and the origins of the ‘Great Divergence’ across Europe, 1300–1600,” European Review of Economic History 11(3), 2007 [DOI 10.1017/s1361491607002031]. The thread is paid off at <a href="07-great-divergence.html" class="quarto-xref"><span>The Great Divergence: the centre moves west</span></a>.</em></p>
+</div>
+</div>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Research in focus — Jedwab, Johnson &amp; Koyama (2022): the Black Death, surveyed
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<ul>
+<li><strong>Aim</strong> — to synthesise the now-large quantitative literature on the economic consequences of the Black Death.</li>
+<li><strong>Question</strong> — what does the accumulated evidence say about how, where, and why the plague reshaped economies?</li>
+<li><strong>Data &amp; method</strong> — a structured review of the cliometric record (wages, prices, urbanisation, settlement and persecution data) across Europe and the Middle East, weighing the competing mechanisms.</li>
+<li><strong>Findings</strong> — the shock was real and large, but its long-run effects were highly conditional: post-plague gains were often not sustained outside north-western Europe, and pre-existing institutions, factor endowments and geography shaped whether labour scarcity translated into lasting higher incomes or was eroded as population recovered.</li>
+<li><strong>Caveats</strong> — a survey inherits the gaps of its sources, which are thin for southern and eastern Asia; the “did it reach India/China?” question remains open and limits any truly global account.</li>
+</ul>
+<p><em>Sources: Jedwab, Johnson &amp; Koyama, “The Economic Impact of the Black Death,” Journal of Economic Literature 60(1), 2022 [DOI 10.1257/jel.20201639].</em></p>
+</div>
+</div>
+<hr>
+<section id="questions-for-consideration" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="questions-for-consideration">Questions for consideration</h3>
+<p><em>Essay / exam style — reward the four-questions toolkit and the live debate, not recall.</em></p>
+<ol type="1">
+<li><em>“In c.1100 the most advanced economy in the world was Song China.”</em> Set out the evidence — iron, money, cities — and explain why it nonetheless did not lead to an industrial revolution there.</li>
+<li>Abu-Lughod called the thirteenth-century world “polycentric, with no European hegemony.” What does the four-node Indian-Ocean system show, and where (if anywhere) was Europe in it?</li>
+<li><em>“The Pax Mongolica moved the centre of gravity onto land.”</em> Assess, using the evidence that the sea stayed cheaper even at the overland climax.</li>
+<li>Was the Black Death a “starting gun” for the divergence of north-western Europe, or did pre-existing institutions decide the outcome? Use Pamuk, Borsch, and the survey evidence.</li>
+<li>How would the later history of divergence look different if South Asia largely escaped the Black Death? Explain the factor-price logic, and say what evidence would settle the question.</li>
+</ol>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Tip</span>Cross-cutting questions (collected at the end of the book)
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>The book closes with a bank of questions spanning several chapters. Those this chapter feeds: - <strong>The seed of the shift.</strong> This chapter dates the first north-western counter-current to the Asian centre. Trace it forward to <a href="07-great-divergence.html" class="quarto-xref"><span>The Great Divergence: the centre moves west</span></a>: was the Little Divergence the start of the Great Divergence, or a separate episode? - <strong>Quantity vs quality.</strong> Song China was the largest and most advanced economy of its day. Across <a href="03-maritime-apogee.html" class="quarto-xref"><span>Maritime apogee: Baghdad and Guangzhou, not Aachen</span></a>, <a href="#sec-ch04" class="quarto-xref"><span>The high-medieval boom and the Mongol climax</span></a> and <a href="07-great-divergence.html" class="quarto-xref"><span>The Great Divergence: the centre moves west</span></a>, when does technological and aggregate lead become <em>rich</em>, in the sense of income per head?</p>
+</div>
+</div>
+</section>
+<section id="data-exercise" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="data-exercise">Data exercise</h3>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="co"># The Little Divergence in real wages (datasets_by_topic.md, Topic 4).</span></span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="co"># 1. Load a published real-wage dataset (Pamuk 2007; Allen's European real wages;</span></span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a><span class="co">#    the Clark English series). Choose ~6 cities spanning NW Europe, S Europe, the Middle East.</span></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="co"># 2. Index each city's real wage to its 1348 level; plot 1300-1600.</span></span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co"># 3. Identify where wages held above subsistence after ~1450 (the Low Countries, England)</span></span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="co">#    vs where they fell back (Italy, Spain, Egypt) - the Little Divergence.</span></span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="co"># 4. Discuss: a symmetric demographic shock, asymmetric institutional outcomes. What else</span></span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="co">#    distinguishes the cities that pulled away?</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+</div>
+</section>
+<section id="key-data" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="key-data">Key data</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Figure</th>
+<th>Value</th>
+<th>Source</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Song cast-iron output</td>
+<td>~125,000 tons/year by 1078 (&gt; all Europe)</td>
+<td>Hartwell, via von Glahn (2016)</td>
+</tr>
+<tr class="even">
+<td>Song paper money</td>
+<td>from 1024; silver-backed from ~1170</td>
+<td>von Glahn (2016); Hansen (2020)</td>
+</tr>
+<tr class="odd">
+<td>Song coin output</td>
+<td>~6 billion/year c.1080; ~260 billion (N. Song)</td>
+<td>von Glahn (2016)</td>
+</tr>
+<tr class="even">
+<td>Coin as share of state income</td>
+<td>up to ~81% (Wang Anshi, 1067–85)</td>
+<td>von Glahn (2016)</td>
+</tr>
+<tr class="odd">
+<td>Quanzhou population</td>
+<td>~1m (1080) <span class="math inline">\(\to\)</span> ~1.25m (1240s)</td>
+<td>Hansen (2020)</td>
+</tr>
+<tr class="even">
+<td>Song customs ports</td>
+<td>9 (vs the Tang’s 1)</td>
+<td>Findlay &amp; O’Rourke (2007)</td>
+</tr>
+<tr class="odd">
+<td>Pax Mongolica route</td>
+<td>Tana <span class="math inline">\(\to\)</span> China ~7–11 months, tax ~1.6%</td>
+<td>Pegolotti, via Favereau (2021)</td>
+</tr>
+<tr class="even">
+<td>Customs comparison</td>
+<td>Black Sea ~3–5% vs Alexandria ~10–30%</td>
+<td>Favereau (2021)</td>
+</tr>
+<tr class="odd">
+<td>Black Death, Europe</td>
+<td>~a third dead (~25 of ~80m); ~40% Mediterranean</td>
+<td>Favereau (2021)</td>
+</tr>
+<tr class="even">
+<td>China population fall, 1340–70</td>
+<td>~15–33% (Yuan collapse/flood/war, not plague)</td>
+<td>von Glahn (2016)</td>
+</tr>
+<tr class="odd">
+<td>Post-plague wages</td>
+<td>rise to ~1450, then hold only in NW Europe</td>
+<td>Pamuk (2007)</td>
+</tr>
+</tbody>
+</table>
+<p><em>The “did the Black Death reach India/China?” question and the plague’s origin-dating are presented as live debates, not resolved.</em></p>
+</section>
+<section id="further-reading" class="level3 unnumbered">
+<h3 class="unnumbered anchored" data-anchor-id="further-reading">Further reading</h3>
+<ul>
+<li><strong>Core:</strong> Abu-Lughod, <em>Before European Hegemony</em> (1989); von Glahn, <em>The Economic History of China</em> (2016); Findlay &amp; O’Rourke, <em>Power and Plenty</em> (2007), ch.&nbsp;2–3.</li>
+<li><strong>Supplementary:</strong> Favereau, <em>The Horde</em> (2021); Goitein &amp; Friedman, <em>India Traders of the Middle Ages</em> (2008); Margariti, <em>Aden and the Indian Ocean Trade</em> (2007); Allsen, <em>Culture and Conquest in Mongol Eurasia</em> (2001); Kanisetti, <em>Lords of the Deccan</em> (2022).</li>
+<li><strong>The debate:</strong> Pamuk (2007), Jedwab, Johnson &amp; Koyama (2022) and Voigtländer &amp; Voth (2013) on the Black Death and the Little Divergence; Borsch (2005) on institutions vs the shock; Campbell, <em>The Great Transition</em> (2016) on climate and plague; on the contested reach of the plague to India, Eaton’s revisionist note and Spyrou et al., <em>Nature</em> (2022) on its Central Asian origin.</li>
+</ul>
 
+
+</section>
+</section>
 
 
 </main> <!-- /main -->

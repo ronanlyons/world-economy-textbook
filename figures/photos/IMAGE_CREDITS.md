@@ -41,3 +41,44 @@ Commons API; all open-access, no NonCommercial clause). Attributed in each on-pa
 `divider-dinar.jpg`/Córdoba ~11 MB) were left out to keep the web build light; the Belitung cargo,
 the dirham flow and the city-size verdict are carried by data figures (`belitung-cargo-03.png`,
 `dirham-hoards-03.png`, `city-size-03.png`) instead.*
+
+---
+
+# Photograph credits — Chapter 1
+
+Reused from the ECU4413 Topic 1 deck art pass (licence-verified 2026-06-19 via the Wikimedia Commons API; all open-access, no NonCommercial). Attributed in each on-page caption.
+
+| File | Subject | Source | Licence |
+|---|---|---|---|
+| `div-indus.jpg` | The Great Bath, Mohenjo-daro | Wellcome Collection | CC BY 4.0 |
+| `indus-seal.jpg` | Indus seal, Mohenjo-daro | Huzi30 (Wikimedia) | CC BY-SA 4.0 |
+| `ziggurat-ur.jpg` | The Great Ziggurat of Ur | U.S. DoD (Cherie A. Thurlby) | Public domain |
+| `murex.jpg` | *Bolinus brandaris* (murex/Tyrian purple) | H. Zell (Wikimedia) | CC BY-SA 3.0 |
+| `div-alexander.jpg` | The Alexander Mosaic (Pompeii) | Berthold Werner (Wikimedia) | Public domain |
+
+---
+
+# Photograph credits — Chapter 4
+
+Reused from the ECU4413 Topic 4 deck art pass (licence-verified 2026-06-19 via the Wikimedia Commons API; open-access, no NonCommercial). Attributed in each on-page caption.
+
+| File | Subject | Source | Licence |
+|---|---|---|---|
+| `song-jiaozi.jpg` | Song *jiaozi* (paper money) | Wikimedia Commons | Public domain |
+| `chola-bronze.jpg` | Shiva as Nataraja, Chola bronze, c.11th c. | LACMA | Public domain |
+| `divider-silkroad.jpg` | Caravanserai at Tash Rabat, Kyrgyzstan | Peter Schepens (Wikimedia) | CC BY 2.0 |
+| `divider-plague.jpg` | *Imago Mortis* (Wolgemut, 1493 woodcut) | smallcurio (photo, Wikimedia) | CC BY 2.0 |
+
+---
+
+# Photograph credits — Chapter 5
+
+Reused from the ECU4413 Topic 5 deck art pass (licence-verified 2026-06-19 via the Wikimedia Commons API; open-access, no NonCommercial). Attributed in each on-page caption.
+
+| File | Subject | Source | Licence |
+|---|---|---|---|
+| `coin-piece-of-eight.jpg` | Spanish 8-reales "pieces of eight" (Potosi/Mexico mint) | Winterthur Museum | CC0 |
+| `coin-ming.jpg` | Ming *Yongle tongbao* bronze cash | Donald Trung (Wikimedia) | CC BY-SA 4.0 |
+| `coin-rupee.jpg` | Mughal silver rupee of Akbar | Wikimedia Commons | Public domain |
+| `potosi.jpg` | Cerro Rico, Potosi (the silver mountain) | Mhwater (Wikimedia) | Public domain |
+| `cowries.jpg` | Cowrie shells used as currency | Gary Todd (Wikimedia) | CC0 |

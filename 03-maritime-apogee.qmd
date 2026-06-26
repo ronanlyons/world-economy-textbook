@@ -1,5 +1,9 @@
 # Maritime apogee: Baghdad and Guangzhou, not Aachen {#sec-ch03}
 
+::: {.callout-important appearance="simple"}
+**Preliminary draft --- under review.** Published for review; content, figures and citations may still change.
+:::
+
 > *The premodern Indian Ocean at its height — and Europe at its most peripheral.*
 
 > "They journey from West to East, from East to West, partly on land, partly by sea."

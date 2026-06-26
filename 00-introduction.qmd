@@ -1,5 +1,9 @@
 # Introduction: The vantage, the questions, the method {#sec-intro}
 
+::: {.callout-important appearance="simple"}
+**Preliminary draft --- under review.** Published for review; content, figures and citations may still change.
+:::
+
 > *A claim to test, not a creed to defend.*
 
 ## The view from the other shore

@@ -127,3 +127,18 @@ Reused from the ECU4413 Topic 9 deck art pass (licence-verified 2026-06-20 via t
 | `flu-1918.jpg` | Emergency influenza hospital, Camp Funston, Kansas, 1918 | Wikimedia Commons | Public domain |
 
 *Note: `flu-1918.jpg` is the iconic Camp Funston (Kansas) image, captioned generically as a 1918 emergency influenza hospital --- the India-specific toll (~12--18m, the worst-hit country) is given in the text, not implied by the photograph. The Topic 9 deck's `divider-port.jpg` (Bombay mail) and `divider-tea.jpg` (Ceylon tea estate) were not used, to avoid clustering commodity imagery (the rubber estate and the commodity-collapse figure carry that theme).*
+
+---
+
+# Chapter 10 — The Asian Rebalancing, 1945–2010s (reused from the ECU4413 Topic 10 deck)
+
+All public domain or Creative Commons (no NC/ND); licences verified via the Wikimedia Commons API
+before download in the Topic 10 deck art pass. Attributed in each on-page caption.
+
+- **divider-containers.jpg** — Port of Shanghai, Yangshan Deep-water Harbour Zone — Alex Needham, Wikimedia Commons, Public domain.
+- **divider-shanghai.jpg** — Shanghai Lujiazui (Pudong) skyline, 2016 — Baycrest, Wikimedia Commons, CC BY-SA 2.5.
+- **divider-gulf-oil.jpg** — Oil tanker at Al Basrah Oil Terminal, Persian Gulf, 2005 — U.S. Navy / Eben Boothby, Wikimedia Commons, Public domain.
+- **img-shipping-container.jpg** — Hapag-Lloyd intermodal shipping container — Kcida10, Wikimedia Commons, CC0.
+- **img-deng.jpg** — Deng Xiaoping with Jimmy Carter, 1979 — U.S. National Archives (NARA 183157), Wikimedia Commons, Public domain.
+- **img-bw-hotel.jpg** — Mount Washington Hotel, Bretton Woods, New Hampshire — King of Hearts, Wikimedia Commons, CC BY-SA 4.0.
+- **img-singapore-port.jpg** — Tanjong Pagar Terminal, Port of Singapore, 2019 — Dietmar Rabich, Wikimedia Commons, CC BY-SA 4.0.

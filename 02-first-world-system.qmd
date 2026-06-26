@@ -24,7 +24,7 @@ stream of metal and you have the argument of this chapter. The richest, hungries
 the ancient world paid, in hard coin, an economy whose workshops sat not on the Tiber but on
 the Tamil coast and beyond. Rome was the customer. Asia was the workshop.^[**Sources:** Pliny, *Natural History* 6.101, 12.84, via Dalrymple, *The Golden Road* (2024); McLaughlin, *The Roman Empire and the Indian Ocean* (2014). **Read more:** De Romanis, *The Indo-Roman Pepper Trade and the Muziris Papyrus* (2020) on what the figures can and cannot bear.]
 
-![Following one thing: Roman silver and gold flowed east toward the workshop, and goods flowed west.](figures/bullion-drain.png){#fig-bullion width=88%}
+![Following one thing: Roman silver and gold flowed east toward the workshop, and goods flowed west. Author's schematic.](figures/bullion-drain.png){#fig-bullion width=88%}
 
 ## Where we are on the arc {.unnumbered}
 
@@ -36,7 +36,7 @@ Roman Britain to Han China. The conventional answer was "Rome." This chapter tes
 by following the goods and the money, and finds that the connected economy's productive core
 lay in Asia, with Rome as its structurally dependent western terminus.^[**Sources:** Findlay & O'Rourke, *Power and Plenty* (2007), ch. 1. **Read more:** Beaujard, *The Worlds of the Indian Ocean*, vol. 1 (2019).]
 
-![Centre-of-gravity locator (c.150 CE): Asia the production core of a multipolar relay; Rome the western consumer-terminus.](figures/cog-locator-02.png){#fig-cog02}
+![Centre-of-gravity locator (c.150 CE): Asia the production core of a multipolar relay; Rome the western consumer-terminus. Author's schematic.](figures/cog-locator-02.png){#fig-cog02}
 
 ![The Eastern Hemisphere about 1 CE — Rome, Parthia, the Kushans and Han China. Map: T. Lessman, worldhistorymaps.net, CC BY-SA 3.0.](figures/photos/map_empires_1ce.jpg){#fig-empiresmap width=92%}
 
@@ -58,7 +58,7 @@ India, present in every chapter of this book, is given the fullest treatment.
 
 ::: {.callout-tip collapse="true"}
 ## India — the production core
-![India in the first world system: regions, emporia and the two trade arms (stylised; not to scale).](figures/actor-india-t2.png){#fig-india-t2 width=66%}
+![India in the first world system: regions, emporia and the two trade arms (stylised; not to scale). Author's schematic.](figures/actor-india-t2.png){#fig-india-t2 width=66%}
 
 ![Gold coins of the Kushan ruler Vima Kadphises (c. 100–127 CE), struck on the Roman aureus standard — the empire's own bullion re-minted as Indian coin. Wikimedia (Ancient Art), CC BY 2.0.](figures/photos/coin_kushan.jpg){width=55%}
 
@@ -117,7 +117,7 @@ came to rest: the production core of the first world system.^[**Sources:** Roy (
 
 ::: {.callout-tip collapse="true"}
 ## Han China — the agrarian mirror
-![Han China at its height: the agrarian core, Chang'an, and the overland silk road west (stylised; not to scale).](figures/actor-han-t2.png){#fig-han-t2 width=78%}
+![Han China at its height: the agrarian core, Chang'an, and the overland silk road west (stylised; not to scale). Author's schematic.](figures/actor-han-t2.png){#fig-han-t2 width=78%}
 
 ![Han wu zhu bronze coins — a deep but shallow-denomination, almost wholly bronze money. Photo Gary Todd, CC0.](figures/photos/coin_wuzhu.jpg){width=55%}
 
@@ -293,7 +293,7 @@ everywhere.^[**Sources:** McLaughlin (2014) on the customs share of Roman revenu
 The first world system had a life-cycle — a single rise and a single fall — that can be read
 in five phases.^[**Source:** this five-phase framing draws on Findlay & O'Rourke (2007) and McLaughlin (2014).]
 
-![The first world system's single rise and fall, in five phases (c.500 BCE–300 CE).](figures/five-phases.png){#fig-phases width=92%}
+![The first world system's single rise and fall, in five phases (c.500 BCE–300 CE). Author's schematic.](figures/five-phases.png){#fig-phases width=92%}
 
 **Phase 1 — the opening (c.500–30 BCE).** The first world system did not switch on in a single moment; it was prised open over four centuries, as the channels laid down earlier were welded into administered space. The first welder was Achaemenid Persia, which from the sixth century BCE bound the Near East into one tributary zone governed through satrapies, moving goods, gold and information along the royal roads from the Aegean to the Indus. Onto that frame came the hinge event of the period. Alexander's conquests of 336–323 BCE swept away the Persian empire and fused the Mediterranean, the Near East and north-western India into a single Hellenistic ecumene, a world of Greek-speaking cities that ran from the Jaxartes to the Nile. The most durable of these was Alexandria, which became the western emporium of the whole system and the point at which Greek knowledge of India — its geography, its goods, and eventually the rhythm of the monsoon — entered the Mediterranean for good. Alexander himself is best read as the hinge, not the substance: he opened the doors, but the trade that flowed through them was built by others over the following centuries. With the Persian and then the Macedonian order broken up among successors, the durable poles of the future system took shape, each independently and roughly at once. Parthia rose in the third century BCE from a nomadic base near the Caspian to straddle the overland route west of the Euphrates. In China, the Qin unification of 221 BCE and the long Han dynasty that followed from 206 BCE built a centralised agrarian empire at the eastern end of Eurasia. In India, Chandragupta Maurya founded the subcontinent's first centralised state (c.322–185 BCE), governed from Pataliputra and tied together by Ashoka's royal roads from Taxila in the north-west to the Bay of Bengal port of Tamralipti; the depth of the Mauryan order was visible at its very birth, when Chandragupta settled his frontier with Seleucus around 303 BCE by ceding the eastern provinces in exchange for 500 war elephants — a transfer that says as much about Indian resources as about Greek reach. To the south, the Tamil kingdoms of the far peninsula commanded the pepper coast that the West would soon crave. The maritime arm thickened in step with the poles. The Greek navigator Eudoxus of Cyzicus opened regular sailings to India around 118 BCE, after a shipwrecked Indian mariner was found on the Red Sea coast and supplied the route, and over the following century Indian Ocean traffic grew from sporadic ventures into something approaching a regular trade. By the time Rome arrived as a Mediterranean power, the apparatus of the system already existed; what it lacked was a wealthy western customer with direct control of the Red Sea coast. Rome's drive toward Egypt — completed when Octavian annexed the Ptolemaic kingdom in 30 BCE — supplied exactly that, and set up the switch-on that followed.^[**Sources:** on Achaemenid Persia, Alexander as hinge, Alexandria and the Hellenistic ecumene; on the poles, Parthia (McLaughlin, *Silk Routes*, Loc 5049), Qin and Han (Lewis, p.16), the Maurya (McLaughlin, *Indian Ocean*, Loc 5308); on the 303 BCE cession, Grainger, *Rise of the Seleukid Empire* (Loc 1346, 1363), and on the figure of 500 of 9,000 war elephants, Dalrymple (Loc 698); on Eudoxus and the ~118 BCE opening, McLaughlin, *Indian Ocean* (Loc 2086); Dalrymple (Loc 799) on Ashoka's roads. **Read more:** Cunliffe, *By Steppe, Desert, and Ocean* (2015), on the opening of the channels.]
 
@@ -310,7 +310,9 @@ The change in volume was dramatic. Where the Ptolemies had sent perhaps twenty s
 India, Strabo recorded around 120 leaving the single Red Sea port of Myos Hormos in the early
 imperial period — more than a sixfold rise.^[**Source:** McLaughlin, *The Roman Empire and the Indian Ocean* (2014), Loc 2106, citing Strabo, *Geography* 2.5.12.]
 
-![Roman shipping to India jumped more than sixfold after the annexation of Egypt (Strabo's report).](figures/shipping-increase.png){#fig-ships width=52%} The infrastructure behind that figure is
+![Roman shipping to India jumped more than sixfold after the annexation of Egypt (Strabo's report). Source: Strabo (via McLaughlin).](figures/shipping-increase.png){#fig-ships width=52%}
+
+The infrastructure behind that figure is
 unusually well documented for the ancient world. Two Red Sea ports, Berenike and Myos Hormos,
 were the Roman points of departure; the prize destination was Muziris, the Malabar pepper
 emporium. A merchant's handbook, the *Periplus of the Erythraean Sea*, written around the middle
@@ -319,7 +321,7 @@ route — the closest thing the period has left us as a commercial manual. And t
 a single returning pepper ship of around 200 tons could carry goods worth more than six million
 sesterces, enough to pay six thousand legionaries for a year.^[**Sources:** Casson (ed.), *The Periplus Maris Erythraei* (1989); McLaughlin, *Indian Ocean* (Loc 2766), on the 200-ton cargo and its value.]
 
-![The scale of a single cargo: one returning 200-ton pepper ship was worth about six million sesterces.](figures/pepper-cargo.png){#fig-cargo width=70%}
+![The scale of a single cargo: one returning 200-ton pepper ship was worth about six million sesterces. Source: McLaughlin.](figures/pepper-cargo.png){#fig-cargo width=70%}
 
 The defining feature of the switch-on, though, was the direction in which payment flowed. Rome
 bought pepper, fine cottons, gems, silk and incense, and paid for them overwhelmingly in gold and
@@ -329,7 +331,9 @@ metal a further reason to move east. And move east it did, in quantities large e
 Roman imagination as a grievance: this was the period in which the eastward bullion drain that
 defines this chapter began in earnest.^[**Source:** McLaughlin, *Indian Ocean* (Loc 4323), on the arbitrage and the drain.]
 
-![Why the metal moved east: the gold-to-silver arbitrage between Rome and the East.](figures/silver-arbitrage.png){#fig-arbitrage width=76%} It was also the period in which pepper crossed from luxury to
+![Why the metal moved east: the gold-to-silver arbitrage between Rome and the East. Source: McLaughlin.](figures/silver-arbitrage.png){#fig-arbitrage width=76%}
+
+It was also the period in which pepper crossed from luxury to
 near-staple — the spice appeared in some four-fifths of the recipes in Apicius, a reach that
 pointed to a broad market rather than only an elite one, and the empirical seed of the
 luxury-versus-mass-trade debate taken up later in this chapter.^[**Sources:** Dalrymple (Loc 1294) on Apicius; on the debate, De Romanis (2020) and Cobb (2018).]

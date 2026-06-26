@@ -4,8 +4,9 @@
 **Preliminary draft --- under review.** Published for review; content, figures and citations may still change.
 :::
 
-> *The hinge of the whole story — and its most open question. That the centre moved is not in
-> doubt; when it moved, and why, is the book's central debate.*
+::: {.chapter-subtitle}
+The hinge of the whole story — and its most open question. That the centre moved is not in doubt; when it moved, and why, is the book's central debate.
+:::
 
 <!-- BUILD NOTE: Q4 "why Britain" draws on the author's own (non-Kindle) Allen (2009) and
      Pomeranz (2000) reading notes — slot personal notes into the marked paragraphs. The
@@ -30,9 +31,9 @@ yet the workshop. This chapter is **the hinge**. By 1850 the centre has moved to
 Atlantic — that much is uncontested. What is genuinely open, and what this chapter stages rather
 than settles, is *when* the move began and *why* — and whether Europe was ever structurally
 ahead before it happened. This is the topic on which the book's whole "bounded anomaly" verdict
-turns, so we return to weigh it in the @sec-conclusion.^[**Sources:** the centre-of-gravity ledger, `module_design/centre_of_gravity_ledger.md`, Topic 7 (the pivotal entry); the module synthesis, `module_design/11_synthesis.md`, Q4. **Read more:** Pomeranz, *The Great Divergence* (2000), the book that named the debate.]
+turns, so we return to weigh it in the [Conclusion](11-conclusion.qmd).^[**Sources:** the centre-of-gravity ledger, `module_design/centre_of_gravity_ledger.md`, Topic 7 (the pivotal entry); the module synthesis, `module_design/11_synthesis.md`, Q4. **Read more:** Pomeranz, *The Great Divergence* (2000), the book that named the debate.]
 
-![Centre-of-gravity locator (c.1850): the hinge — the weight crosses from Asia to the North Atlantic.](figures/cog-locator-07.png){#fig-cog07}
+![Centre-of-gravity locator (c.1850): the hinge — the weight crosses from Asia to the North Atlantic. Author's schematic.](figures/cog-locator-07.png){#fig-cog07}
 
 ## The stage and the cast
 
@@ -180,7 +181,7 @@ structural** (Broadberry — India behind Britain by the 17th century, China div
 the framing is *weaker*. The reconciliation worth teaching is **"late in outcome, earlier in
 roots"**: the aggregate per-head gap opens late, but specific seeds — institutional, fiscal,
 demographic — run earlier. *(Confidence: high on the move; the* why *is the debate — the ledger's
-pivotal, deliberately-unresolved line, adjudicated at the* @sec-conclusion*.)*^[**Sources:** centre-of-gravity ledger, `module_design/centre_of_gravity_ledger.md`, Topic 7; Broadberry, Custodis & Gupta (2015) and Broadberry, Guan & Li (2018) for the early-divergence case; Pomeranz (2000) and Allen (2009) for the late case. **Read more:** the *Debate* box below.]
+pivotal, deliberately-unresolved line, adjudicated at the* [Conclusion](11-conclusion.qmd)*.)*^[**Sources:** centre-of-gravity ledger, `module_design/centre_of_gravity_ledger.md`, Topic 7; Broadberry, Custodis & Gupta (2015) and Broadberry, Guan & Li (2018) for the early-divergence case; Pomeranz (2000) and Allen (2009) for the late case. **Read more:** the *Debate* box below.]
 
 Then **size it honestly**. The Industrial Revolution was gradual: the Crafts–Harley
 reconstruction puts British growth at roughly 0.33% a year, with output expanding about 6.5-fold
@@ -232,7 +233,7 @@ GDP — i.e. show that measurement *is* the debate.
 
 This is the chapter where the book's threads converge. The **centre-of-gravity** spine reaches
 its hinge (the move west by 1850 — high confidence; the *why* left open for the
-@sec-conclusion). The **quantity to quality** thread resolves: the divergence *is* the switch from
+[Conclusion](11-conclusion.qmd)). The **quantity to quality** thread resolves: the divergence *is* the switch from
 aggregate scale to income per head. And the **"follow the silver"** thread pays off — Europe's
 monetary "loss" converted into power.^[**Source:** the threads are tracked in `module_design/11_synthesis.md`. **Read more:** the Introduction sets out all six.]
 

@@ -1,6 +1,8 @@
-# Conclusion: How strong is the spine? {#sec-conclusion}
+# Conclusion: How strong is the spine? {#sec-conclusion .unnumbered}
 
-> *Now that the evidence is in, re-weigh the bounded-anomaly claim.*
+::: {.chapter-subtitle}
+Now that the evidence is in, re-weigh the bounded-anomaly claim.
+:::
 
 ::: {.callout-note}
 ## Draft pending

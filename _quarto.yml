@@ -14,23 +14,23 @@ book:
   chapters:
     - index.qmd
     - 00-introduction.qmd
-    - part: "I — A world without a centre"
+    - part: "A — A world without a centre"
       chapters:
         - 01-deep-structures.qmd
         - 02-first-world-system.qmd
-    - part: "II — The ocean at its height"
+    - part: "B — The ocean at its height"
       chapters:
         - 03-maritime-apogee.qmd
         - 04-high-medieval-mongol.qmd
-    - part: "III — The world becomes one — and stays Asian"
+    - part: "C — The world becomes one — and stays Asian"
       chapters:
         - 05-world-becomes-one.qmd
         - 06-companies-coercion.qmd
-    - part: "IV — The great reversal"
+    - part: "D — The great reversal"
       chapters:
         - 07-great-divergence.qmd
         - 08-first-global-economy.qmd
-    - part: "V — Break and return"
+    - part: "E — Break and return"
       chapters:
         - 09-disintegration.qmd
         - 10-asian-rebalancing.qmd
@@ -51,7 +51,9 @@ format:
       - style/world-economy.scss
     toc: true
     toc-title: "On this page"
-    number-sections: false
+    number-sections: true
+    number-depth: 1            # number chapters only, not the within-chapter sections
+    lightbox: auto             # all figures (graphs + photos) enlarge on click
     reference-location: margin   # source endnotes set in the right margin (Tufte-style)
     linestretch: 1.62
     grid:

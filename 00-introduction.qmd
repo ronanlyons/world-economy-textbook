@@ -1,10 +1,12 @@
-# Introduction: The vantage, the questions, the method {#sec-intro}
+# Introduction: The vantage, the questions, the method {#sec-intro .unnumbered}
 
 ::: {.callout-important appearance="simple"}
 **Preliminary draft --- under review.** Published for review; content, figures and citations may still change.
 :::
 
-> *A claim to test, not a creed to defend.*
+::: {.chapter-subtitle}
+A claim to test, not a creed to defend.
+:::
 
 ## The view from the other shore
 
@@ -57,7 +59,7 @@ the book:
 4. it is system-dependent — the Asian re-rise happened within a US-anchored order.
 
 We do not settle the spine here. We assemble the tools to test it, and return to weigh it in
-the @sec-conclusion.
+the [Conclusion](11-conclusion.qmd).
 
 ## The four questions
 

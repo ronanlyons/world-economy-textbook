@@ -16,13 +16,13 @@ Start with a length of printed cotton. A bolt of Indian calico --- light, washab
 
 The previous chapter welded the three oceans into one circuit, but on Asian terms: New World silver bought a place in an Asian-run trade, and Europe entered the Indian Ocean as a minor, armed graft on a system it did not control. This chapter is where that graft organises. Between 1600 and 1760 the European presence hardened into armed joint-stock chartered companies --- the English East India Company of 1600, the Dutch Vereenigde Oostindische Compagnie of 1602 --- that fought each other and the older order for control of the sea-lanes. The headline continuity is that Asia remained the workshop of the world: on the standard estimates India alone produced about a quarter of world manufacturing output around 1750, and India and China together more than half. The headline novelty is that Europe now acquired the means of the divergence still to come --- the company, naval supremacy, and the Atlantic plantation system --- without yet acquiring the productive lead. The centre of gravity, measured by production, did not move. The levers that could move it did.^[**Sources:** Bairoch (1982) on India at ~24.5% and Asia at ~57% of world manufacturing output c.1750, to read as estimates rather than audited series. **Read more:** Findlay & O'Rourke (2007), *Power and Plenty*, ch. 5.]
 
-![Centre-of-gravity locator: c.1600--1760. By the production measure the weight still sits in Asia; the European challenge is organised and armed but not yet productive.](figures/cog-locator-06.png){#fig-cog06 width=85%}
+![Centre-of-gravity locator: c.1600--1760. By the production measure the weight still sits in Asia; the European challenge is organised and armed but not yet productive. Author's schematic.](figures/cog-locator-06.png){#fig-cog06 width=85%}
 
 ## The stage and the cast
 
 Two oceanic systems ran in parallel through this period, and the chapter holds both in view. The first was the Indian Ocean as it had always been --- a relay of spices, cottons and silver --- now contested by armed European companies. The second was the Atlantic, a newer machine of sugar and slavery that built European capital and demand without sending much back into the Asian trade. The actors below run east to west, the direction goods were made and bullion flowed: the Mughal cotton workshop and the Qing silver sink first, then the two northern companies that grafted onto them, then the Atlantic complex and the monetary contrast cases that the silver thread will use. The demographic weights set the scene. Around 1618, on the eve of the century's crisis, China held perhaps 150 million people, India about 116 million, and all of Europe around 100 million --- a reminder that the economies of this chapter were, in population and output alike, weighted toward Asia.^[**Sources:** Parker (Loc 1,249, 1,261) on populations c.1618 of China ~150m, India ~116m and Europe ~100m. **Read more:** Parker (2013), *Global Crisis*.]
 
-![Two oceanic systems, c.1600--1760: the Indian-Ocean spice-and-cotton contest and the Atlantic sugar-and-slave complex, with silver running east through both (stylised; not to scale).](figures/ch06-two-oceans.png){#fig-oceans06 width=92%}
+![Two oceanic systems, c.1600--1760: the Indian-Ocean spice-and-cotton contest and the Atlantic sugar-and-slave complex, with silver running east through both (stylised; not to scale). Author's schematic.](figures/ch06-two-oceans.png){#fig-oceans06 width=92%}
 
 ::: {.callout-tip}
 ## Dramatis personae
@@ -61,7 +61,7 @@ The political frame around all this was breaking. Aurangzeb died in 1707 leaving
 - **Import sources** --- the New World by way of Europe (silver, via the companies' bullion shipments); the Gulf and Arabia (horses, bullion); the intra-Asian country trade that the company ledgers under-recorded.^[**Sources:** Eaton (Loc 7104, 7051, 6906) on cloth exports, silver inflows and Bengal's pre-eminence; Eaton (Loc 7055) on the scale of Mughal revenue. **Read more:** Roy (2012), *India in the World Economy*.]
 :::
 
-![Mughal India, the cotton workshop: the weaving arms of Gujarat, Bengal and Coromandel draw in silver and ship out cloth (stylised; not to scale).](figures/ch06-india-structure.png){#fig-india06 width=80%}
+![Mughal India, the cotton workshop: the weaving arms of Gujarat, Bengal and Coromandel draw in silver and ship out cloth (stylised; not to scale). Author's schematic.](figures/ch06-india-structure.png){#fig-india06 width=80%}
 
 ![Indian *sarasa* chintz: painted and printed cotton of the kind that conquered world markets. Wikimedia Commons, public domain.](figures/photos/calico.jpg){#fig-calico06 width=55%}
 
@@ -82,7 +82,7 @@ Yet China is also where this chapter teaches its hardest lesson, because China h
 - **Import sources** --- the New World and Japan for bullion, carried in largely through the European companies and the older Pacific and maritime circuits.^[**Sources:** von Glahn (Loc 4840) on the silver inflow, the surplus, and intra-Asian trade exceeding East--West trade; Roy (p.93) on tea. **Read more:** von Glahn (2016), *The Economic History of China*.]
 :::
 
-![Qing China, the silver sink: foreign bullion drawn in at Canton, tea and silk carried out (stylised; not to scale).](figures/ch06-china-structure.png){#fig-china06 width=72%}
+![Qing China, the silver sink: foreign bullion drawn in at Canton, tea and silk carried out (stylised; not to scale). Author's schematic.](figures/ch06-china-structure.png){#fig-china06 width=72%}
 
 ::: {.callout-tip collapse="true"}
 ## The Dutch VOC --- the first joint-stock multinational, armed monopolist of the spice islands
@@ -187,7 +187,7 @@ But the richness is also a trap, and the bias sharpens exactly as the evidence i
 
 The years from 1600 to 1760 did not run as a smooth ascent. They opened in the violence of armed monopoly, passed through the worst global crisis of the pre-industrial age, turned on the cloth trade, and ended in territorial conquest. Six phases carry the story from the chartering of the companies to the field of Plassey --- from crisis to conquest --- and a master timeline holds them together before the analysis takes them apart.
 
-![The period in six phases, 1600--1760: from the armed-monopoly companies, through the seventeenth-century crisis and the textile turn, to Mughal fragmentation and the conquest of Bengal.](figures/ch06-timeline.png){#fig-timeline06 width=92%}
+![The period in six phases, 1600--1760: from the armed-monopoly companies, through the seventeenth-century crisis and the textile turn, to Mughal fragmentation and the conquest of Bengal. Author's schematic.](figures/ch06-timeline.png){#fig-timeline06 width=92%}
 
 **Phase 1 --- the companies seize the spice monopoly by force (1600--1660s).** The period opened not with trade but with a charter and a gun. The English East India Company was chartered in 1600 and the Dutch Vereenigde Oostindische Compagnie in 1602, and the second of the two was the more radical creature. The VOC raised a permanent joint-stock fund by public subscription, made its shares transferable, and was governed by a board of seventeen directors, the Heren XVII, on which Amsterdam held eight of the seventeen seats. Its 1602 flotation is generally reckoned the first initial public offering, and the Amsterdam market that grew up to trade its paper the first stock exchange. Here, in one institution, were three things that earlier long-distance trade had kept apart: standing capital that outlived the single voyage, salaried managers separated from the owners who financed them, and protection produced in-house by the company's own forts and fleets rather than bought from a sovereign. This was the package Asian merchant capital, for all its scale, had never assembled.^[**Sources:** Krondl (Loc 3210, 3211) on the VOC's 1602 charter, the flotation and the Heren XVII (Amsterdam eight of seventeen seats). **Read more:** Steensgaard (1974), *The Asian Trade Revolution of the Seventeenth Century*.]
 
@@ -201,7 +201,7 @@ The sharpest collapse came in China, and it folded climate, silver and fiscal st
 
 A caution belongs here, because the link between the silver dip and the Ming fall is contested, not settled. William Atwell argued that the interruption in silver imports in the 1630s and 1640s helped bring the dynasty down, choking a fisc that had come to reckon in the metal. Richard von Glahn disputes the strong form of that claim: the 1640s decline was small against the vast stock of silver China had taken in over the previous century, and rice prices rose rather than fell in the crisis years, which is hard to square with a pure monetary contraction. The safer reading, and the one this chapter teaches, is that the crisis was multi-causal --- climate, silver and fiscal strain acting together --- rather than a single silver cause. What the crisis fixes is the period's direction. The years from 1600 to 1760 ran not as steady ascent but as violent disintegration followed by uneven re-integration, and that dating matters: the real divergence between Europe and Asia is best placed after this crisis, not before it.^[**Sources:** the Atwell--von Glahn dispute on the silver--Ming link, taught as contested; Parker (Loc 2,438) on the silver:copper spiral as the monetary face of the fall. **Read more:** von Glahn (2016), *The Economic History of China*; Parker (2013), *Global Crisis*.]
 
-![The crisis monetary shock in China: as silver imports fell, the silver-to-copper ratio spiralled. Taught as contested (von Glahn): the dip was small against the prior century's stock and rice prices rose.](figures/ch06-crisis-silver.png){#fig-crisissilver06 width=76%}
+![The crisis monetary shock in China: as silver imports fell, the silver-to-copper ratio spiralled. Taught as contested (von Glahn): the dip was small against the prior century's stock and rice prices rose. Source: Parker.](figures/ch06-crisis-silver.png){#fig-crisissilver06 width=76%}
 
 ![The seventeenth-century crisis seen from the north: Avercamp's frozen Dutch waterway, a scene of the Little Ice Age. Wikimedia Commons, public domain.](figures/photos/divider-crisis.jpg){#fig-crisis06 width=70%}
 
@@ -258,7 +258,7 @@ The silver still ran east, and this is the chapter where the "follow the silver"
 *Sources: Eaton (Loc 7051, 7057) on the eastward bullion flow and absorption; the silver framework drawn from von Glahn and from Pamuk & Ozmucur. Read more: Findlay & O'Rourke (2007), *Power and Plenty*; von Glahn (2016), *The Economic History of China*.*
 :::
 
-![Same silver, several fates: whether an economy absorbed the inflow into deepening commerce or inflated and depleted depended on two questions, not on the quantity of silver alone.](figures/ch06-silver-fates.png){#fig-fates06 width=70%}
+![Same silver, several fates: whether an economy absorbed the inflow into deepening commerce or inflated and depleted depended on two questions, not on the quantity of silver alone. Author's schematic.](figures/ch06-silver-fates.png){#fig-fates06 width=70%}
 
 ## The verdict: where was the centre?
 
@@ -266,7 +266,7 @@ The verdict depends on the measure, and by the measure that mattered most for th
 
 That verdict needs one qualifier, because the production map and the welfare map had begun to part. The centre of production was Asian through about 1750, but the first consumption gap was already detectable by about 1700. On the welfare-ratio evidence a labourer's minimum daily wage bought roughly four subsistence baskets in London against about one at Beijing, Canton or Edo --- a real difference in what ordinary work could purchase, opening inside a world whose production centre was still in the east. A high-confidence Asian production centre and an early, narrow welfare gap are not contradictory; they are the two facts the next chapter has to reconcile.^[**Sources:** Parker (Loc 16,435) on the welfare ratios (~4 baskets London vs ~1 at Beijing/Canton/Edo, c.1700). **Read more:** Parker (2013), *Global Crisis*.]
 
-![Welfare ratios c.1700: what a day's minimum wage could buy, in subsistence baskets. The first consumption gap appears inside a still-Asian production centre.](figures/ch06-welfare-1700.png){#fig-welfare06 width=66%}
+![Welfare ratios c.1700: what a day's minimum wage could buy, in subsistence baskets. The first consumption gap appears inside a still-Asian production centre. Source: Parker.](figures/ch06-welfare-1700.png){#fig-welfare06 width=66%}
 
 The deeper caution is about what "workshop of the world" actually measured, and it points forward. Asia's manufacturing dominance was aggregate grandeur --- the sum of a vast population's output --- not income per head. The clearest evidence is the involution of the Asian florescence: in the Yangzi delta, the best-documented case, family income fell by about 42 per cent between 1620 and 1820 even as output and population grew, and on the cliometric reconstructions China had slipped to roughly 55 per cent of the European leader's GDP per capita by 1700, with the per-capita gap opening from about that date. Imperial scale, in other words, was not rising living standards, and reading the one as the other is the commonest error this period invites. The centre of production was still Asian; but the measure of success was quietly switching from quantity to quality, and on the new measure the verdict would not hold. The next chapter is the hinge, where mechanised cotton reverses the textile trade, India deindustrialises, and the centre of gravity finally moves west.^[**Sources:** von Glahn (Loc 4,531) on the ~42% fall in Jiangnan family income; Broadberry, Guan & Li (2018) on China at ~55% of the European leader's GDP per capita by 1700. **Read more:** von Glahn (2016), *The Economic History of China*.]
 
@@ -287,7 +287,7 @@ A second, related debate concerns what the EIC was. Philip Stern's "company-stat
 ::: {.column-page}
 **Data exhibit --- shares of world manufacturing output, 1750.** The chapter's empirical centrepiece is a single comparison: on the Bairoch-type estimates, India alone produced about 24.5 per cent of world manufacturing output around 1750, China a further large share, and Asia as a whole something like 57 per cent --- against a European share that was still smaller, and would only overtake Asia after the divergence of the next century. The figures are estimates, not an audited series, and Bairoch's method has been criticised; treat them as orders of magnitude. But even read loosely they make the chapter's point: at the close of this period, by the measure of where things were made, the centre of gravity was unambiguously Asian. *What you could do with this:* set Bairoch's 1750 shares beside Broadberry-style GDP-per-capita reconstructions for the same date, and ask why the production leader was not the income-per-head leader --- the gap between grandeur and growth.
 
-![Shares of world manufacturing output, 1750 (Bairoch-type estimates; orders of magnitude, not an audited series).](figures/ch06-manufacturing-1750.png){#fig-mfg06 width=70%}
+![Shares of world manufacturing output, 1750 (Bairoch-type estimates; orders of magnitude, not an audited series). Source: Bairoch.](figures/ch06-manufacturing-1750.png){#fig-mfg06 width=70%}
 :::
 
 ## Threads forward

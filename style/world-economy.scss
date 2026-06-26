@@ -32,6 +32,21 @@ h1 { font-weight: 700; }
 h2 { margin-top: 2.2rem; font-weight: 600; border-bottom: 1px solid #e6e6e6; padding-bottom: 0.3rem; }
 h3 { margin-top: 1.6rem; font-weight: 600; color: #2c2c2c; }
 
+// ---- Chapter subtitle / tagline (distinct from the epigraph quotes) --------
+// One-line chapter summary under the title: a sans-serif tagline with a rule,
+// NOT an indented blockquote — so it reads as a subtitle, not a quotation.
+.chapter-subtitle {
+  font-family: $font-family-sans-serif;
+  font-style: italic;
+  font-weight: 400;
+  font-size: 1.22rem;
+  line-height: 1.4;
+  color: $primary;
+  margin: -0.4rem 0 1.6rem 0;
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid #e1e6ee;
+}
+
 // ---- Epigraphs / the spine quote ------------------------------------------
 blockquote {
   font-style: italic;

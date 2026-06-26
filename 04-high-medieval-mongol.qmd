@@ -4,7 +4,9 @@
 **Preliminary draft --- under review.** Published for review; content, figures and citations may still change.
 :::
 
-> *The system's fullest premodern extent --- then the great shock.*
+::: {.chapter-subtitle}
+The system's fullest premodern extent --- then the great shock.
+:::
 
 > "For one shipload of pepper that goes to Alexandria or elsewhere, destined for Christendom, there come a hundred such, aye and more too, to this haven of Zayton; for it is one of the two greatest havens in the world for commerce."
 > — Marco Polo, on Quanzhou, late 13th century
@@ -17,13 +19,13 @@ Follow a sack of pepper. Picked on the Malabar coast of south-west India, where 
 
 The last chapter left the Abbasid--Tang world at its maritime apogee, the centre of gravity firmly in Asia and the Islamic world. This chapter takes that system to its fullest pre-modern extent and then watches it suffer the era's greatest shock. Across these four centuries the Afro-Eurasian economy knit itself into what Janet Abu-Lughod called a polycentric world system --- roughly eight overlapping circuits, peaking between about 1250 and 1350, with no single hegemon and, in particular, no European one. Song China ran the most advanced economy on earth; India was the workshop in the middle of the ocean; Egypt and its Karimi merchants formed a major western core; and for a few decades the Mongol peace let the overland Silk Road surge back one last time. Then the Black Death tore through the routes that bound it together. The centre stayed Asian, and this is where we can say so most precisely --- but it is also where the first counter-current appears, in a post-plague wage rise on the far north-western margin that this book will follow all the way to the Great Divergence.^[**Sources:** the centre-of-gravity reading, Abu-Lughod (1989) on the polycentric system; Pamuk (2007) on the post-plague north-western wage rise. **Read more:** Findlay & O'Rourke, *Power and Plenty* (2007).]
 
-![Centre-of-gravity locator: across c.1000--1400 the weight sat firmly in Asia --- Song China the most advanced economy on earth, in a polycentric system with no European hegemony. The first faint north-western counter-current (the post-plague wage rise) appears at the close, a seed and not yet a shift (stylised; not to scale).](figures/cog-locator-04.png){#fig-cog04 width=76%}
+![Centre-of-gravity locator: across c.1000--1400 the weight sat firmly in Asia --- Song China the most advanced economy on earth, in a polycentric system with no European hegemony. The first faint north-western counter-current (the post-plague wage rise) appears at the close, a seed and not yet a shift (stylised; not to scale). Author's schematic.](figures/cog-locator-04.png){#fig-cog04 width=76%}
 
 ## The stage and the cast
 
 The stage was an ocean with four corners and, for a few decades, a land bridge thrown across the top of it. The maritime Indian Ocean had reached its widest pre-modern span, organised around four great nodes: Fatimid and then Mamluk Egypt with its Karimi spice merchants at the western end, the Chola of the Tamil south in the centre, Srivijaya at the Straits of Malacca, and Song China at the east. The Cairo Geniza and the travellers' books of the age --- Marco Polo, Ibn Battuta, the merchant Pegolotti --- light this world more brightly than any before it. Over the top of the ocean, from the early thirteenth century, the Mongol conquests laid a brief overland peace that made the Silk Road safe and taxable, the one moment in the book when the land channel surged back inside a maritime era. And behind both ran two slower forces that would decide the period's end: a climate turning colder from about 1300, and a disease gathering on the steppe that the trade routes themselves would carry to the world.^[**Sources:** Abu-Lughod (1989) on the four-node ocean and the polycentric system; Favereau (2021) on the Mongol overland peace; Campbell (2016) on the climate turn. **Read more:** Abu-Lughod, *Before European Hegemony* (1989).]
 
-![Orientation: the four-node maritime system at its fullest extent --- Fatimid/Mamluk Egypt and the Karimi (Red Sea), the Chola of South India, Srivijaya at the Straits, and Song China (Quanzhou) --- with the Pax Mongolica overland arc thrown briefly across the top (Tana $\to$ China), and Aden the hinge to the Mediterranean (stylised; not to scale).](figures/map-fournode-04.png){#fig-fournode width=92%}
+![Orientation: the four-node maritime system at its fullest extent --- Fatimid/Mamluk Egypt and the Karimi (Red Sea), the Chola of South India, Srivijaya at the Straits, and Song China (Quanzhou) --- with the Pax Mongolica overland arc thrown briefly across the top (Tana $\to$ China), and Aden the hinge to the Mediterranean (stylised; not to scale). Author's schematic.](figures/map-fournode-04.png){#fig-fournode width=92%}
 
 ::: {.callout-tip}
 ## Dramatis personae
@@ -52,7 +54,7 @@ Externally, the Song met the ocean through a string of customs ports — nine of
 - **Export markets** — the four-node maritime world reached through Quanzhou and the other customs ports: Srivijaya and Southeast Asia, the Chola south of India, and the Gulf and Middle East; overland, the Pax Mongolica routes west.
 - **Import sources** — India and the Indian Ocean, Srivijaya and the Straits, and the Gulf at the far end of the sea road, feeding the southern ports.^[**Sources:** Hansen (Loc 3290, 3730, 3771); von Glahn (Loc 3184); Findlay & O'Rourke (p.63). **Read more:** Hansen, *The Year 1000* (2020).]
 
-![Song China as the world's leading economy: the Grand Canal binding the rice-growing south to the northern capitals, nine maritime customs ports against the Tang's one, and Quanzhou (Zaiton) the great eastern anchor of the four-node ocean --- iron at ~125,000 tons a year and the world's first paper money behind it (stylised; not to scale).](figures/map-china-04.png){#fig-mapchina04 width=85%}
+![Song China as the world's leading economy: the Grand Canal binding the rice-growing south to the northern capitals, nine maritime customs ports against the Tang's one, and Quanzhou (Zaiton) the great eastern anchor of the four-node ocean --- iron at ~125,000 tons a year and the world's first paper money behind it (stylised; not to scale). Author's schematic.](figures/map-china-04.png){#fig-mapchina04 width=85%}
 :::
 
 ::: {.callout-tip collapse="true"}
@@ -92,7 +94,7 @@ To the east, the Cholas did what no earlier Indian power had done: they projecte
 - **Export markets** — Fatimid Egypt and the Red Sea by way of the Malabar coast and Aden; Srivijaya, Southeast Asia and Song China across the Bay of Bengal, reached through the Coromandel ports and a settled Tamil community as far as Quanzhou.
 - **Import sources** — the Persian Gulf and Arabia (horses, bullion, reached via Aden); China and Srivijaya (ceramics, silk, eastern goods) at the far end of the sea road.^[**Sources:** Eaton (Loc 3659, 2475) on pepper and cottons; Hansen (Loc 3357) on the Mysore guild's luxury list; Roy (p.38, p.63) on the horse trade and its scale; Kanisetti (Loc 6160) on the Tamil community at Quanzhou. **Read more:** Roy, *India in the World Economy* (2012).]
 
-![The Chola and South India: the agrarian-temple core of the Kaveri delta, the Malabar pepper coast feeding Aden and the Geniza "India traders" to the west, and Rajendra Chola's 1025 naval raid across the Bay of Bengal against Srivijaya to the east --- workshop and sea power at once (stylised; not to scale).](figures/map-chola-04.png){#fig-mapchola04 width=85%}
+![The Chola and South India: the agrarian-temple core of the Kaveri delta, the Malabar pepper coast feeding Aden and the Geniza "India traders" to the west, and Rajendra Chola's 1025 naval raid across the Bay of Bengal against Srivijaya to the east --- workshop and sea power at once (stylised; not to scale). Author's schematic.](figures/map-chola-04.png){#fig-mapchola04 width=85%}
 :::
 
 ::: {.callout-tip collapse="true"}
@@ -161,7 +163,7 @@ For the first time the record changed kind: where the earlier chapters had to re
 
 The high-medieval centuries had a clear shape, and it is worth running through it in sequence before the analysis takes it apart. The period climbed in five movements: a Chinese commercial revolution opened it, the maritime Indian Ocean spread to its fullest pre-modern reach, the overland Silk Road surged back one last time under the Mongols, that order then frayed as the climate turned, and the whole system met the era's sharpest shock in the Black Death.
 
-![The high-medieval boom in five phases, c.1000--1400: the Song commercial revolution, the maritime Indian Ocean at its fullest extent, the Pax Mongolica overland climax, the fraying as the climate turned, and the Black Death and the great disintegration (stylised timeline; not to scale).](figures/phase-timeline-04.png){#fig-timeline04 width=92%}
+![The high-medieval boom in five phases, c.1000--1400: the Song commercial revolution, the maritime Indian Ocean at its fullest extent, the Pax Mongolica overland climax, the fraying as the climate turned, and the Black Death and the great disintegration (stylised timeline; not to scale). Author's schematic.](figures/phase-timeline-04.png){#fig-timeline04 width=92%}
 
 **Phase 1 — the Song commercial revolution (c.1000–1127).** Northern Song China ran what was, by any measure available, the most advanced economy on earth. Its population reached roughly 100 million around the year 1000, in a world of perhaps 250 million, and it carried on the most extensive foreign trade of any state of the age. The capital at Kaifeng and the later southern seat at Hangzhou each held something close to or above a million people, an urban scale no other society approached. The output figures were of a different order from anything seen before: cast-iron production has been put at about 125,000 tons by 1078, on the standard Hartwell estimate more than all of contemporary Europe combined, feeding tools, weapons and the cooking-pots of a commercialising society. Gunpowder, the magnetic compass, water-powered machinery, movable-type printing and the early-ripening Champa rice that lifted the southern harvests all belonged to the same surge. The single most important question the textbook plants here, and does not answer until a later chapter, is why the most advanced economy of c.1100 did not go on to an industrial revolution.^[**Sources:** Hansen (Loc 437, 508, 518, 3783); on Song iron at 125,000 tons (1078, the Hartwell estimate) and the million-cities. **Read more:** von Glahn, *The Economic History of China* (2016).]
 

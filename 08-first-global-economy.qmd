@@ -16,13 +16,13 @@ Follow the price gap. In 1873 raw cotton cost about 57 per cent more in Liverpoo
 
 The last chapter was the hinge: between about 1760 and 1850 the centre of gravity finally moved west, mechanised cotton reversed the textile trade, and India deindustrialised from the workshop of the world into an importer of British cloth. This chapter is the apogee of the order that reversal created. The Euro-centred economy now globalised, knitting the continents into the first price-integrated world market through steam, the Suez Canal, the submarine telegraph and the classical gold standard. On every aggregate measure the weight sat unambiguously in the North Atlantic --- by 1913 Europe and its offshoots produced nearly 90 per cent of the world's manufactures. But the Indian-Ocean vantage adds the chapter's sharpest twist. This peak of Western dominance rested on the periphery it governed: the Indian Ocean had become, in the phrase of the age, a "British lake," and India's export surplus financed an estimated more than 40 per cent of Britain's balance-of-payments deficits between 1870 and 1915, holding the whole multilateral settlement system together. The centre was Western; but it was built on, not independent of, the ocean this book has followed.^[**Sources:** Findlay & O'Rourke (2007) on world manufacturing shares in 1913 (Europe and offshoots ~90 per cent) and the multilateral settlement system; the brief's account of India financing over 40 per cent of Britain's payments deficits, 1870-1915. **Read more:** Findlay & O'Rourke (2007), *Power and Plenty*, ch. 7.]
 
-![Centre-of-gravity locator: c.1850--1914. The weight now sits firmly in the North Atlantic --- but the European-centred order rested on the Indian-Ocean periphery it governed.](figures/cog-locator-08.png){#fig-cog08 width=85%}
+![Centre-of-gravity locator: c.1850--1914. The weight now sits firmly in the North Atlantic --- but the European-centred order rested on the Indian-Ocean periphery it governed. Author's schematic.](figures/cog-locator-08.png){#fig-cog08 width=85%}
 
 ## The stage and the cast
 
 There were now three ways to be integrated into the world economy, and the difference between them is the engine of this chapter. The core --- Britain and north-west Europe --- set the terms, exported capital and manufactures, and imported cheap food and raw materials. The settler periphery --- the United States, Argentina, Australia, Canada --- was land-abundant and drew in European migrants and European capital, and it converged upward toward core living standards. The colonial periphery --- India, Ceylon, Malaya, Egypt --- exported commodities and labour and imported manufactures, and it integrated downward, its fortunes locked in beneath the system rather than rising with it. Same world economy, three fates. The territorial frame made the asymmetry concrete: Europe controlled about 67 per cent of the Earth's land surface in 1878, and around 84 per cent by 1914. The cast below runs east to west, from the colonial periphery that this book has followed, through the one Asian economy that escaped its fate, to the core that governed the whole.^[**Sources:** the brief's "three ways to be integrated" framework (core, settler periphery, colonial periphery); Findlay & O'Rourke (2007) on European territorial control rising from ~67 per cent of the Earth's surface (1878) to ~84 per cent (1914). **Read more:** Williamson (2011), *Trade and Poverty*.]
 
-![Three ways to be integrated, c.1850--1914: the core sets the terms; the settler periphery converges upward; the colonial periphery integrates downward (stylised; not to scale).](figures/ch08-two-peripheries.png){#fig-peripheries08 width=92%}
+![Three ways to be integrated, c.1850--1914: the core sets the terms; the settler periphery converges upward; the colonial periphery integrates downward (stylised; not to scale). Author's schematic.](figures/ch08-two-peripheries.png){#fig-peripheries08 width=92%}
 
 ::: {.callout-tip}
 ## Dramatis personae
@@ -61,7 +61,7 @@ The sharpest cost of all came in the famines. Between 1876 and 1902, three catas
 - **Import sources** --- Britain, the workshop and the metropole, the dominant source of the manufactures India now bought rather than made.^[**Sources:** Findlay & O'Rourke (2007) on the commodity-export role, the surplus and the Council Bill mechanism; Roy (p.191, p.178) on jute and the labour diaspora. **Read more:** Roy (2012), *India in the World Economy*.]
 :::
 
-![India as commodity-exporting periphery and linchpin: cotton, jute, wheat and tea ship out and British manufactures come in, while the export surplus is recycled to London through the Council Bills (stylised; not to scale).](figures/ch08-india-structure.png){#fig-india08 width=80%}
+![India as commodity-exporting periphery and linchpin: cotton, jute, wheat and tea ship out and British manufactures come in, while the export surplus is recycled to London through the Council Bills (stylised; not to scale). Author's schematic.](figures/ch08-india-structure.png){#fig-india08 width=80%}
 
 ::: {.callout-tip collapse="true"}
 ## China --- the treaty-port semi-periphery
@@ -82,7 +82,7 @@ China was also a source of diaspora labour, on a scale comparable to India's. Th
 - **Import sources** --- Britain and the industrial economies whose firms dominated the treaty-port trade and the customs revenue it generated.^[**Sources:** Findlay & O'Rourke (2007) on the 5 per cent tariff and the customs service (*Power and Plenty* p.388); von Glahn (Loc 4882, 4891) on the terms-of-trade gain and the export trajectory. **Read more:** von Glahn (2016), *The Economic History of China*.]
 :::
 
-![China as treaty-port semi-periphery: tariffs fixed at 5 per cent by treaty, the foreign-run Imperial Maritime Customs, and a terms-of-trade gain that did not become catch-up (stylised; not to scale).](figures/ch08-china-structure.png){#fig-china08 width=74%}
+![China as treaty-port semi-periphery: tariffs fixed at 5 per cent by treaty, the foreign-run Imperial Maritime Customs, and a terms-of-trade gain that did not become catch-up (stylised; not to scale). Author's schematic.](figures/ch08-china-structure.png){#fig-china08 width=74%}
 
 ::: {.callout-tip collapse="true"}
 ## Japan --- the Asian exception
@@ -126,7 +126,7 @@ The disagreement is not resolved here, and it should not be. Both readings captu
 
 ![Indian indentured labourers on a Mauritius sugar estate, 1870. The Indian Ocean's distinctive labour story: indenture replacing slavery after 1833. Wikimedia Commons, public domain.](figures/photos/divider-indenture.jpg){#fig-indenture08 width=70%}
 
-![Two migrations, one world economy: ~60 million free Europeans to the New World against ~1.5-2 million indentured Indians across the Indian Ocean (with the colonial distribution). Same integration, opposite terms.](figures/ch08-two-migrations.png){#fig-migrations08 width=80%}
+![Two migrations, one world economy: ~60 million free Europeans to the New World against ~1.5-2 million indentured Indians across the Indian Ocean (with the colonial distribution). Same integration, opposite terms. Source: Hatton & Williamson; Roy.](figures/ch08-two-migrations.png){#fig-migrations08 width=80%}
 
 ::: {.callout-tip collapse="true"}
 ## Britain --- the workshop become hub and banker
@@ -168,7 +168,7 @@ This is why the settler New World belongs in the chapter as a deliberate contras
 - **Import sources** --- Britain and western Europe for manufactures and capital; and the same Europe for the roughly sixty million migrants whose arrival drove the factor-price convergence.^[**Sources:** the brief on the colonial division of labour and the ~60 million European migrants; O'Rourke & Williamson (Loc 479, 578) on transport costs and the wheat-price gap. **Read more:** Hatton & Williamson (1998), *The Age of Mass Migration*.]
 :::
 
-![The factor-price punchline: wage-rental ratios by 1910 (1870 = 100). The same global integration moved the price of labour against land in opposite directions across the Atlantic economy --- convergence as a set of contrasting national fates.](figures/ch08-wage-rental.png){#fig-wagerental08 width=70%}
+![The factor-price punchline: wage-rental ratios by 1910 (1870 = 100). The same global integration moved the price of labour against land in opposite directions across the Atlantic economy --- convergence as a set of contrasting national fates. Source: O'Rourke & Williamson.](figures/ch08-wage-rental.png){#fig-wagerental08 width=70%}
 
 ::: {.callout-note}
 ## Research in focus --- O'Rourke & Williamson (1999): Globalization and History
@@ -188,7 +188,7 @@ But the bias thread this book has followed does not vanish at its richest point;
 
 The years from 1850 to 1914 ran as a single arc of compression: the oceans narrowed, the price gaps closed, and the continents were knitted into one market --- until, at the very peak, the system stood integrated and European-centred on the eve of the war that would tear it apart. Five phases carry the story from the steamship and the liberal interlude, through Suez and the price-convergence "big bang," to the capital exports, the drain and the famines of the apogee.
 
-![The world compresses, 1850--1914: five phases from steam and the liberal interlude, through Suez and the price-convergence big bang, to the integrated apogee on the eve of war.](figures/ch08-timeline.png){#fig-timeline08 width=92%}
+![The world compresses, 1850--1914: five phases from steam and the liberal interlude, through Suez and the price-convergence big bang, to the integrated apogee on the eve of war. Author's schematic.](figures/ch08-timeline.png){#fig-timeline08 width=92%}
 
 **Phase 1 --- steam and the liberal interlude (1850s--1860s).** The first global economy did not announce itself. It began with cheaper passages and lower freights, as iron hulls and screw propellers began to compress the oceans that the previous chapter had merely connected. The headline measure of the change was the merchant fleet itself: the world's stock of shipping grew from roughly nine million tons around 1850 to about thirty-four and a half million by 1910, a near-quadrupling of the carrying capacity that bound distant markets together. Steam did not displace sail at a stroke --- on the long oceanic hauls sail held its own for decades --- but on the routes where coaling stations could be strung together, the steamer began to set the pace, and the cost of moving a ton of grain or cotton or rice across water started its long descent. This was the physical groundwork on which everything else in the chapter rested: before prices could converge, the sea had to be made cheap to cross.^[**Sources:** Findlay & O'Rourke (p.380) on the world merchant fleet growing from about nine million to about thirty-four and a half million tons, 1850--1910. **Read more:** Findlay & O'Rourke (2007), *Power and Plenty*, ch. 7.]
 
@@ -204,7 +204,7 @@ The canal did more than shorten the route; it changed which kind of ship could u
 
 The concentration of canal traffic was a particular instance of a general dominance. By 1890 Britain carried something on the order of sixty-three per cent of the world's shipping tonnage --- not a majority share of one trade or one route, but of the planet's seaborne carrying capacity as a whole. The phrase that historians have used for the result, the Indian Ocean as a "British lake," captures the asymmetry the vantage of this book has stressed throughout: the ocean that for two thousand years had been an Asian-run relay of cottons, spices and silver was now organised around the shipping, the coaling stations and the canal dues of a single European power. Integration was real, and it was accelerating; but it ran along sea-lanes that Britain had cut, owned and worked, and that fact --- the terms on which the ocean was integrated --- is the thread the rest of the chapter follows.^[**Sources:** Findlay & O'Rourke (p.380--381) on Britain carrying about sixty-three per cent of world shipping tonnage by 1890 and the Indian Ocean as a British-dominated highway. **Read more:** Pearson (2003), *The Indian Ocean*.]
 
-![Suez and the freight collapse: the canal cut Britain-Bombay by about two-fifths, and British ocean freights fell roughly 70 per cent across 1840-1910.](figures/ch08-suez-freight.png){#fig-suez08 width=76%}
+![Suez and the freight collapse: the canal cut Britain-Bombay by about two-fifths, and British ocean freights fell roughly 70 per cent across 1840-1910. Source: Findlay & O'Rourke.](figures/ch08-suez-freight.png){#fig-suez08 width=76%}
 
 ![An English steamer in Bombay harbour, c.1855. Suez made the Indian Ocean Britain's highway. Wikimedia Commons, no known copyright restrictions.](figures/photos/divider-bombay-port.jpg){#fig-bombay08 width=70%}
 
@@ -250,7 +250,7 @@ The thread this book has followed from the silver mines now crosses a boundary: 
 *Sources: Eichengreen (2008) on the classical gold standard, British overseas investment (~£3.8bn by 1913) and sterling as ~40 per cent of world reserves; the brief on the Council Bill mechanism, the Home Charges (~£35m/yr) and India financing over 40 per cent of Britain's payments deficits (1870-1915). Read more: Eichengreen (2008), *Globalizing Capital*; Findlay & O'Rourke (2007), *Power and Plenty*.*
 :::
 
-![The drain made concrete: India's export surplus, recycled through the Council Bill system, financed over 40 per cent of Britain's balance-of-payments deficits and helped hold the multilateral settlement system together (stylised).](figures/ch08-the-drain.png){#fig-drain08 width=78%}
+![The drain made concrete: India's export surplus, recycled through the Council Bill system, financed over 40 per cent of Britain's balance-of-payments deficits and helped hold the multilateral settlement system together (stylised). Author's schematic.](figures/ch08-the-drain.png){#fig-drain08 width=78%}
 
 ## The verdict: where was the centre?
 
@@ -262,7 +262,7 @@ A caution belongs against any reading of this integration as success. The first 
 
 That leaves the chapter at the peak of an order about to break. By 1914 the first global economy stood integrated, European-centred and resting on its colonial base --- and the next chapter is its mirror image, as world war, the collapse of the gold standard and the Great Depression shatter the integrated order and unwind the price convergence traced here. Whether the Western dominance at its apex in 1914 was, in the long run, the anomaly this book's framing suspects is the question the disintegration of the next chapter opens and the final chapter resolves: whether the twentieth century restored the Western centre or began the long Asian return.^[**Sources:** the hand-off to the disintegration of 1914-45 and the book's framing of the European-dominant era as provisionally anomalous, resolved in the closing chapter. **Read more:** Findlay & O'Rourke (2007), *Power and Plenty*, ch. 8; Pomeranz (2000), *The Great Divergence*.]
 
-![World manufacturing output by region, 1913 (Bairoch-type estimates): Europe and its offshoots ~89.8 per cent; China 3.6; India 1.4 --- the near-total reversal of the position of c.1750.](figures/ch08-mfg-shares-1913.png){#fig-mfg08 width=68%}
+![World manufacturing output by region, 1913 (Bairoch-type estimates): Europe and its offshoots ~89.8 per cent; China 3.6; India 1.4 --- the near-total reversal of the position of c.1750. Source: Findlay & O'Rourke.](figures/ch08-mfg-shares-1913.png){#fig-mfg08 width=68%}
 
 ::: {.callout-note}
 ## Research in focus --- Pascali (2017): the wind of change
@@ -285,7 +285,7 @@ Third, why the first globalisation provoked a backlash. From the late 1870s the 
 ::: {.column-page}
 **Data exhibit --- the price gaps close, 1873--1913.** The chapter's empirical centrepiece is the convergence of commodity prices across the oceans, the physical signature of the first true globalisation. The gap between Liverpool and Bombay raw cotton fell from about 57 per cent to 20; London-Calcutta jute from 35 to 4; London-Rangoon rice from 93 to 26. These are not flows but prices, and their convergence is what distinguishes this period's integration from the trade of every earlier chapter, where prices in Europe and Asia moved independently. *What you could do with this:* set the closing Anglo-Asian price gaps beside the wage-rental ratios of the same decades (Australia a quarter of its 1870 level, Ireland up five-and-a-half times, Britain up nearly threefold, Spain flat) and ask whether commodity-price convergence translated into convergence of living standards --- or, as the periphery's experience suggests, did not.
 
-![Commodity-price gaps closing, 1873--1913: the physical signature of the first true globalisation (Liverpool-Bombay cotton, London-Calcutta jute, London-Rangoon rice).](figures/ch08-price-convergence.png){#fig-converge08 width=72%}
+![Commodity-price gaps closing, 1873--1913: the physical signature of the first true globalisation (Liverpool-Bombay cotton, London-Calcutta jute, London-Rangoon rice). Source: O'Rourke & Williamson.](figures/ch08-price-convergence.png){#fig-converge08 width=72%}
 :::
 
 ## Threads forward

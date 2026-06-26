@@ -98,3 +98,17 @@ Reused from the ECU4413 Topic 6 deck art pass (licence-verified 2026-06-19 via t
 | `divider-plassey.jpg` | Robert Clive and Mir Jafar after Plassey, 1757 | Francis Hayman (c.1762), Wikimedia | Public domain |
 
 *The Topic 6 deck's `divider-loom.jpg` (Coromandel chintz palampore, ~2.2 MB) and `divider-eastindiaman.jpg` were left out of the chapter to keep the web build light; the calico and East-Indiaman themes are carried by `calico.jpg`, `calico-block.jpg` and `voc-ship.jpg`.*
+
+---
+
+# Photograph credits — Chapter 8
+
+Reused from the ECU4413 Topic 8 deck art pass (licence-verified 2026-06-20 via the Wikimedia Commons API; all open-access / public domain). Attributed in each on-page caption.
+
+| File | Subject | Source | Licence |
+|---|---|---|---|
+| `divider-steamship.jpg` | The first vessels through the Suez Canal, 1869 (*Appleton's Journal* engraving) | Wikimedia Commons (`SuezCanalKantara.jpg`) | Public domain (expired) |
+| `divider-bombay-port.jpg` | English steamer in Bombay harbour, c.1855 | SMU Central University Libraries, Wikimedia | No known copyright restrictions |
+| `divider-indenture.jpg` | Indian indentured labourers on a sugar estate, Mauritius, 1870 | Wikimedia Commons | Public domain |
+
+*The Topic 8 deck's `divider-city-london.jpg` (Royal Exchange painting, ~3.5 MB) was left out to keep the web build light; the City/gold-standard/drain themes are carried by the R figures (`ch08-the-drain.png`, `ch08-mfg-shares-1913.png`).*

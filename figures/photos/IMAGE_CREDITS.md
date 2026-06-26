@@ -112,3 +112,18 @@ Reused from the ECU4413 Topic 8 deck art pass (licence-verified 2026-06-20 via t
 | `divider-indenture.jpg` | Indian indentured labourers on a sugar estate, Mauritius, 1870 | Wikimedia Commons | Public domain |
 
 *The Topic 8 deck's `divider-city-london.jpg` (Royal Exchange painting, ~3.5 MB) was left out to keep the web build light; the City/gold-standard/drain themes are carried by the R figures (`ch08-the-drain.png`, `ch08-mfg-shares-1913.png`).*
+
+---
+
+# Photograph credits — Chapter 9
+
+Reused from the ECU4413 Topic 9 deck art pass (licence-verified 2026-06-20 via the Wikimedia Commons API; all open-access / public domain). Attributed in each on-page caption.
+
+| File | Subject | Source | Licence |
+|---|---|---|---|
+| `divider-mill-bombay.jpg` | Bombay spinning and weaving company (the interwar ISI turn) | Wikimedia Commons | Public domain |
+| `divider-crash.jpg` | Crowds outside the New York Stock Exchange, 1929 | Wikimedia Commons | Public domain |
+| `rubber-tapping.jpg` | Tapping rubber trees, Ceylon | Wikimedia Commons | Public domain |
+| `flu-1918.jpg` | Emergency influenza hospital, Camp Funston, Kansas, 1918 | Wikimedia Commons | Public domain |
+
+*Note: `flu-1918.jpg` is the iconic Camp Funston (Kansas) image, captioned generically as a 1918 emergency influenza hospital --- the India-specific toll (~12--18m, the worst-hit country) is given in the text, not implied by the photograph. The Topic 9 deck's `divider-port.jpg` (Bombay mail) and `divider-tea.jpg` (Ceylon tea estate) were not used, to avoid clustering commodity imagery (the rubber estate and the commodity-collapse figure carry that theme).*

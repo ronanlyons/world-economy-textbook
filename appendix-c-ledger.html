@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>The centre-of-gravity ledger – The World Economy over the Very Long Run</title>
+<title>The centre of gravity, chapter by chapter – The World Economy over the Very Long Run</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -45,6 +45,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-b8317d80b11d8c6aa281a88570d784e6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -73,6 +76,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -85,7 +117,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./appendix-a-datasets.html">Appendices</a></li><li class="breadcrumb-item"><a href="./appendix-c-ledger.html">The centre-of-gravity ledger</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./appendix-a-datasets.html">Appendices</a></li><li class="breadcrumb-item"><a href="./appendix-c-ledger.html">The centre of gravity, chapter by chapter</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -270,7 +302,7 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./appendix-c-ledger.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">The centre-of-gravity ledger</span></a>
+ <span class="menu-text">The centre of gravity, chapter by chapter</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -286,15 +318,22 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#the-table" id="toc-the-table" class="nav-link active" data-scroll-target="#the-table">The table</a></li>
+  <li><a href="#reading-the-table" id="toc-reading-the-table" class="nav-link" data-scroll-target="#reading-the-table">Reading the table</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./appendix-a-datasets.html">Appendices</a></li><li class="breadcrumb-item"><a href="./appendix-c-ledger.html">The centre-of-gravity ledger</a></li></ol></nav>
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./appendix-a-datasets.html">Appendices</a></li><li class="breadcrumb-item"><a href="./appendix-c-ledger.html">The centre of gravity, chapter by chapter</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title"><span id="sec-appC" class="quarto-section-identifier">The centre-of-gravity ledger</span></h1>
+<h1 class="title"><span id="sec-appC" class="quarto-section-identifier">The centre of gravity, chapter by chapter</span></h1>
 </div>
 
 
@@ -311,21 +350,132 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<div class="callout callout-style-default callout-note callout-titled">
-<div class="callout-header d-flex align-content-center">
+<div class="callout callout-style-simple callout-important">
+<div class="callout-body d-flex">
 <div class="callout-icon-container">
 <i class="callout-icon"></i>
 </div>
-<div class="callout-title-container flex-fill">
-<span class="screen-reader-only">Note</span>Draft pending
+<div class="callout-body-container">
+<p><strong>Preliminary draft — under review.</strong> Published for review; content, figures and citations may still change.</p>
 </div>
 </div>
-<div class="callout-body-container callout-body">
-<p>The arc at a glance, as one consolidated table, from <code>teaching/ecu4413_world_econ/module_design/centre_of_gravity_ledger.md</code> — each chapter’s verdict and confidence level in one place.</p>
 </div>
+<p>This appendix collects, in one place, the running verdict each chapter entered into evidence: where the centre of economic gravity sat in that period, how confident the reading is, and the single strongest piece of evidence behind it. Read down the table and the spine of the book appears as one movement — Asia central for most of the arc, a European interruption of roughly two centuries, and a partial return. The <a href="./11-conclusion.html">Conclusion</a> walks these verdicts and weighs how strong the “European dominance as anomaly” reading can be made.</p>
+<div id="fig-ledger" class="quarto-float quarto-figure quarto-figure-center anchored">
+<figure class="quarto-float quarto-float-fig figure">
+<div aria-describedby="fig-ledger-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<a href="figures/ledger-spine.png" class="lightbox" data-gallery="quarto-lightbox-gallery-1" title="Figure&nbsp;1: The centre of economic gravity across all ten chapters. The reading stays in the east for the first six periods, swings west through the great turning point and the colonial centuries (the European interruption), and begins a partial return after 1945. Vertical position is a stylised East–West placement of each period’s centre, not a measured coordinate — only the modern decades rest on a computed series (Quah). Author’s schematic."><img src="figures/ledger-spine.png" class="img-fluid figure-img" style="width:100.0%"></a>
 </div>
+<figcaption class="quarto-float-caption-bottom quarto-float-caption quarto-float-fig" id="fig-ledger-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+Figure&nbsp;1: The centre of economic gravity across all ten chapters. The reading stays in the east for the first six periods, swings west through the great turning point and the colonial centuries (the European interruption), and begins a partial return after 1945. Vertical position is a stylised East–West placement of each period’s centre, not a measured coordinate — only the modern decades rest on a computed series (Quah). Author’s schematic.
+</figcaption>
+</figure>
+</div>
+<section id="the-table" class="level2">
+<h2 class="anchored" data-anchor-id="the-table">The table</h2>
+<p>Each row is the evidence the chapter argued for. “Where the centre sat” summarises the verdict; “confidence” is the chapter’s own calibration; “strongest evidence” is the single datum or finding that most carries the reading. The confidence rises across the table as the evidence improves — from inference in the data-poor early chapters to the computed centre of gravity of the last.</p>
+<table class="caption-top table">
+<caption>The centre of gravity, chapter by chapter.</caption>
+<colgroup>
+<col style="width: 5%">
+<col style="width: 15%">
+<col style="width: 37%">
+<col style="width: 15%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Ch</th>
+<th>Period</th>
+<th>Where the centre sat</th>
+<th>Confidence</th>
+<th>Strongest evidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td>c.3500–500 BCE</td>
+<td>No single centre — a multipolar world of riverine cores and steppe corridors; the question is not yet answerable.</td>
+<td>Low (by design)</td>
+<td>No one dominant productive core; trade and tribute run between several states, none central.</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>200 BCE–500 CE</td>
+<td>Asia the production core of a multipolar relay; Rome the consumer, India the fulcrum, China the maker.</td>
+<td>Moderate</td>
+<td>The bullion drain: Roman silver and gold flow east to pay for Indian and Chinese goods — metal moves toward the workshop.</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>500–1000</td>
+<td>Asia central, Europe peripheral; the Abbasid–Tang high tide, with a distinctive northward silver pull to the slave-and-fur periphery.</td>
+<td>Moderate–high</td>
+<td>Europe exports slaves and raw materials, imports manufactures and silver — the margin of an Asian-centred system.</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td>1000–1400</td>
+<td>Asia central, but the first northwest-European seed; the Mongol Pax the one genuine overland climax.</td>
+<td>Moderate</td>
+<td>Asia still holds the productive weight; the Little Divergence appears only as a seed, not a shift.</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>1400–1600</td>
+<td>Asia the silver sink; the oceans join into one market, but New World silver flows to Asia to buy its goods.</td>
+<td>Moderate–high</td>
+<td>The silver arbitrage: metal cheap in the Americas and Europe, dear in China, drawn east to the workshop.</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>1600–1760</td>
+<td>Asia still the workshop, Europe now armed; the chartered company gives Europe the means while Asia keeps the production.</td>
+<td>Moderate–high</td>
+<td>India around a quarter of world manufacturing c.1750, even as European armed trade organises the oceans.</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td>1750–1850</td>
+<td>The great turning point — the centre moves west. Britain industrialises; the switch from extensive to intensive growth.</td>
+<td>Open (the crux)</td>
+<td>The Great Divergence in incomes per head; when and why it began is the book’s central open debate.</td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>1850–1914</td>
+<td>Peak Western dominance — but resting on the Indian-Ocean periphery it governed.</td>
+<td>High</td>
+<td>Western Europe around 60 per cent of world exports (1913); the colonial drain financed a large share of Britain’s payments deficits.</td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>1914–1945</td>
+<td>The order cracks — within the West. Financial leadership passes London <span class="math inline">\(\to\)</span> New York; the centre does not move to Asia.</td>
+<td>High</td>
+<td>Western Europe’s export share falls from 60.1 per cent (1913) to 41.1 per cent (1950); the US becomes the ascendant core.</td>
+</tr>
+<tr class="even">
+<td>10</td>
+<td>1945–2010s</td>
+<td>The return to Asia — partial, recent, system-dependent. The aggregate centre swings back east, inside a US-anchored order.</td>
+<td>High (aggregate)</td>
+<td>Quah’s computed centre of gravity drifts from the mid-Atlantic (1980) toward India–China (about 2050); China the world’s largest manufacturer.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="reading-the-table" class="level2">
+<h2 class="anchored" data-anchor-id="reading-the-table">Reading the table</h2>
+<p>Three features of the table carry the book’s argument.</p>
+<p>First, the plateau and the dip. For six chapters the reading stays in the east; for three it swings hard to the west; in the last it begins to return. The European interruption is real and large — but it is an interruption in a longer pattern, not the pattern itself.</p>
+<p>Second, the rising confidence. The early entries are inferences from what survived; the later ones rest on prices, wages, trade shares and finally a computed coordinate. The reading is most secure exactly where it matters most for the modern claim — the return is the best-measured entry in the table — and most tentative where the evidence is thinnest, in the deep past.</p>
+<p>Third, the two moves that are not a simple east–west pendulum. The centre’s pull in Chapter 3 runs north, from the Abbasid core to its periphery, not east; and the decisive shift of Chapter 9 runs within the West, from London to New York, not toward Asia. A centre of gravity can move inside a region as well as between regions, and the table only reads as a clean arc if those two moves are kept in view.</p>
+<p><em>This is a summary instrument, not a measured series: the vertical placements for Chapters 1–9 are stylised judgements drawn from each chapter’s verdict, and only Chapter 10’s modern decades rest on a computed centre of gravity (Quah). Treat the table as the book’s argument made auditable — every entry traceable to a chapter — rather than as a quantitative dataset.</em></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -741,6 +891,38 @@ ul.task-list li input[type="checkbox"] {
   </div>
 </nav>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

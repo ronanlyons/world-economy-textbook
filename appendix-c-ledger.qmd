@@ -1,9 +1,40 @@
-# The centre-of-gravity ledger {#sec-appC .unnumbered}
+# The centre of gravity, chapter by chapter {#sec-appC .unnumbered}
 
-::: {.callout-note}
-## Draft pending
-The arc at a glance, as one consolidated table, from
-`teaching/ecu4413_world_econ/module_design/centre_of_gravity_ledger.md` — each chapter's
-verdict and confidence level in one place.
+::: {.callout-important appearance="simple"}
+**Preliminary draft --- under review.** Published for review; content, figures and citations may still change.
 :::
 
+This appendix collects, in one place, the running verdict each chapter entered into evidence: where the centre of economic gravity sat in that period, how confident the reading is, and the single strongest piece of evidence behind it. Read down the table and the spine of the book appears as one movement --- Asia central for most of the arc, a European interruption of roughly two centuries, and a partial return. The [Conclusion](11-conclusion.qmd) walks these verdicts and weighs how strong the "European dominance as anomaly" reading can be made.
+
+![The centre of economic gravity across all ten chapters. The reading stays in the east for the first six periods, swings west through the great turning point and the colonial centuries (the European interruption), and begins a partial return after 1945. Vertical position is a stylised East--West placement of each period's centre, not a measured coordinate --- only the modern decades rest on a computed series (Quah). Author's schematic.](figures/ledger-spine.png){#fig-ledger width=100%}
+
+## The table
+
+Each row is the evidence the chapter argued for. "Where the centre sat" summarises the verdict; "confidence" is the chapter's own calibration; "strongest evidence" is the single datum or finding that most carries the reading. The confidence rises across the table as the evidence improves --- from inference in the data-poor early chapters to the computed centre of gravity of the last.
+
+| Ch | Period | Where the centre sat | Confidence | Strongest evidence |
+|---|---|---|---|---|
+| 1 | c.3500--500 BCE | No single centre --- a multipolar world of riverine cores and steppe corridors; the question is not yet answerable. | Low (by design) | No one dominant productive core; trade and tribute run between several states, none central. |
+| 2 | 200 BCE--500 CE | Asia the production core of a multipolar relay; Rome the consumer, India the fulcrum, China the maker. | Moderate | The bullion drain: Roman silver and gold flow east to pay for Indian and Chinese goods --- metal moves toward the workshop. |
+| 3 | 500--1000 | Asia central, Europe peripheral; the Abbasid--Tang high tide, with a distinctive northward silver pull to the slave-and-fur periphery. | Moderate--high | Europe exports slaves and raw materials, imports manufactures and silver --- the margin of an Asian-centred system. |
+| 4 | 1000--1400 | Asia central, but the first northwest-European seed; the Mongol Pax the one genuine overland climax. | Moderate | Asia still holds the productive weight; the Little Divergence appears only as a seed, not a shift. |
+| 5 | 1400--1600 | Asia the silver sink; the oceans join into one market, but New World silver flows to Asia to buy its goods. | Moderate--high | The silver arbitrage: metal cheap in the Americas and Europe, dear in China, drawn east to the workshop. |
+| 6 | 1600--1760 | Asia still the workshop, Europe now armed; the chartered company gives Europe the means while Asia keeps the production. | Moderate--high | India around a quarter of world manufacturing c.1750, even as European armed trade organises the oceans. |
+| 7 | 1750--1850 | The great turning point --- the centre moves west. Britain industrialises; the switch from extensive to intensive growth. | Open (the crux) | The Great Divergence in incomes per head; when and why it began is the book's central open debate. |
+| 8 | 1850--1914 | Peak Western dominance --- but resting on the Indian-Ocean periphery it governed. | High | Western Europe around 60 per cent of world exports (1913); the colonial drain financed a large share of Britain's payments deficits. |
+| 9 | 1914--1945 | The order cracks --- within the West. Financial leadership passes London $\to$ New York; the centre does not move to Asia. | High | Western Europe's export share falls from 60.1 per cent (1913) to 41.1 per cent (1950); the US becomes the ascendant core. |
+| 10 | 1945--2010s | The return to Asia --- partial, recent, system-dependent. The aggregate centre swings back east, inside a US-anchored order. | High (aggregate) | Quah's computed centre of gravity drifts from the mid-Atlantic (1980) toward India--China (about 2050); China the world's largest manufacturer. |
+
+: The centre of gravity, chapter by chapter. {tbl-colwidths="[5,15,37,15,28]"}
+
+## Reading the table
+
+Three features of the table carry the book's argument.
+
+First, the plateau and the dip. For six chapters the reading stays in the east; for three it swings hard to the west; in the last it begins to return. The European interruption is real and large --- but it is an interruption in a longer pattern, not the pattern itself.
+
+Second, the rising confidence. The early entries are inferences from what survived; the later ones rest on prices, wages, trade shares and finally a computed coordinate. The reading is most secure exactly where it matters most for the modern claim --- the return is the best-measured entry in the table --- and most tentative where the evidence is thinnest, in the deep past.
+
+Third, the two moves that are not a simple east--west pendulum. The centre's pull in Chapter 3 runs north, from the Abbasid core to its periphery, not east; and the decisive shift of Chapter 9 runs within the West, from London to New York, not toward Asia. A centre of gravity can move inside a region as well as between regions, and the table only reads as a clean arc if those two moves are kept in view.
+
+*This is a summary instrument, not a measured series: the vertical placements for Chapters 1--9 are stylised judgements drawn from each chapter's verdict, and only Chapter 10's modern decades rest on a computed centre of gravity (Quah). Treat the table as the book's argument made auditable --- every entry traceable to a chapter --- rather than as a quantitative dataset.*

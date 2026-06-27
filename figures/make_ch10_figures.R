@@ -29,7 +29,7 @@ rect(4, 22, 42, 32, col = land, border = accent, lwd = 2)
 text(23, 29, "CLOSURE (1945-70)", cex = 0.72, font = 2, col = accent)
 text(23, 25.5, "periphery closes (ISI); India 2.6% -> 0.7%\nof world exports; the rich open to each other", cex = 0.56, col = grey)
 rect(44, 16, 56, 36, col = "#f3e6c6", border = gold, lwd = 2.2)
-text(50, 33, "THE HINGE", cex = 0.7, font = 2, col = gold)
+text(50, 33.5, "THE TURNING\nPOINT", cex = 0.62, font = 2, col = gold)
 text(50, 26, "1971-73\ngold window,\noil shock,\nthe container,\nthe float", cex = 0.56, font = 2, col = base_blue)
 rect(58, 22, 96, 32, col = land, border = green, lwd = 2)
 text(77, 29, "COMEBACK (1973-2010s)", cex = 0.72, font = 2, col = green)
@@ -37,7 +37,7 @@ text(77, 25.5, "reglobalisation; China opens 1978, India 1991;\nthe measurable r
 arrows(42.5, 27, 43.5, 27, length = 0.06, lwd = 2, col = grey)
 arrows(56.5, 27, 57.5, 27, length = 0.06, lwd = 2, col = grey)
 text(50, 9, "1945 was the monetary reset; 1971-73 was the real reglobalisation and the Indian Ocean's recentring", col = base_blue, font = 3, cex = 0.72)
-title(main = "The arc closes in two phases, with a hinge between them", cex.main = 0.98, col.main = base_blue)
+title(main = "The arc closes in two phases, with a turning point between them", cex.main = 0.98, col.main = base_blue)
 dev.off()
 
 # ---------------------------------------------------------------------------

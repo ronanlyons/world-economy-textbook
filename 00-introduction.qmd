@@ -91,7 +91,7 @@ each moment. The arc the four questions trace, chapter by chapter, is this:
 > no single centre (Ch 1) $\to$ Asia the production-centre of a multipolar relay (Ch 2) $\to$
 > Asia central, Europe peripheral (Ch 3) $\to$ Asia central, a first north-west-European seed
 > (Ch 4) $\to$ Asia the silver sink (Ch 5) $\to$ Asia the workshop, Europe armed (Ch 6) $\to$
-> the hinge, the centre moves west (Ch 7) $\to$ peak Western dominance on an Indian-Ocean
+> the turning point, the centre moves west (Ch 7) $\to$ peak Western dominance on an Indian-Ocean
 > base (Ch 8) $\to$ the order cracks within the West (Ch 9) $\to$ the return toward Asia (Ch 10).
 
 ### The bullion tracer, and why it flips
@@ -113,8 +113,8 @@ deficits (@sec-ch08), sourced in the periphery and intermediated by the core.
 
 Beyond the four questions, six threads run through the book; this section sets them out.
 
-1. **Centre of gravity** — the spine itself, tracked with an explicit evidence-ledger entry
-   and a stated confidence level in every chapter's verdict.
+1. **Centre of gravity** — the spine itself, tracked with an explicit verdict entered for each
+   period and a stated confidence level in every chapter.
 2. **Measurement of success: quantity to quality.** This thread corrects a recurring error.
    Before about 1800, like every other species, humans turned prosperity into numbers — more
    people, more output, bigger empires (aggregate, *extensive* growth). Only after about 1800

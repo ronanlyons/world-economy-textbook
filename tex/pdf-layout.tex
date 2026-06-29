@@ -1,0 +1,27 @@
+% ---------------------------------------------------------------------------
+% PDF layout tuning (xelatex / scrbook). The HTML build is unaffected by this.
+% Loaded after unicode-map.tex via _quarto.yml include-in-header.
+% ---------------------------------------------------------------------------
+
+% Captions: centred, no hanging indent under "Figure N", small font.
+% Loading the caption package also disables KOMA's default hanging-indent caption.
+\usepackage{caption}
+\captionsetup{%
+  justification=centering,
+  singlelinecheck=false,
+  font=small,
+  labelfont=bf,
+  labelsep=period,
+  skip=6pt,
+  width=0.9\linewidth}
+
+% Floats: keep figures where they are written (fig-pos: H in _quarto.yml needs this),
+% and, where a figure does float, let pages fill more fully and avoid float-only pages.
+\usepackage{float}
+\setcounter{topnumber}{3}
+\setcounter{bottomnumber}{2}
+\setcounter{totalnumber}{5}
+\renewcommand{\topfraction}{0.92}
+\renewcommand{\bottomfraction}{0.85}
+\renewcommand{\textfraction}{0.06}
+\renewcommand{\floatpagefraction}{0.75}

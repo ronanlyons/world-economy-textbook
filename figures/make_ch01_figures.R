@@ -117,13 +117,13 @@ dev.off()
 
 # ---------------------------------------------------------------------------
 # 7. Uluburun cargo (dataset of one)
-png("uluburun-cargo-01.png", width = 1250, height = 660, res = 150)
-par(mar = c(4, 5, 3, 1))
+png("uluburun-cargo-01.png", width = 1000, height = 640, res = 150)
+par(mar = c(4.2, 5.2, 3.2, 1), cex.axis = 1.1)
 b <- barplot(c(10, 1), names.arg = c("copper", "tin"), col = c("#b87333", silver),
-             border = NA, ylim = c(0, 12), ylab = "tonnes (estimated)", cex.names = 0.95, cex.lab = 0.9)
-text(b, c(10, 1) + 0.6, c("~10 t", "~1 t"), font = 2, col = base_blue)
-text(mean(b), 11.4, "~10:1 copper:tin - the bronze recipe; goods from >=7 countries", cex = 0.74, col = accent, font = 2)
-title(main = "The Uluburun wreck (c.1350 BCE): one hull, many economies", cex.main = 0.95, col.main = base_blue)
+             border = NA, ylim = c(0, 12.5), ylab = "tonnes (estimated)", cex.names = 1.35, cex.lab = 1.2)
+text(b, c(10, 1) + 0.65, c("~10 t", "~1 t"), font = 2, col = base_blue, cex = 1.25)
+text(mean(b), 11.8, "~10:1 copper:tin; cargo from >=7 countries", cex = 1.0, col = accent, font = 2)
+title(main = "The Uluburun wreck (c.1350 BCE): one hull, many economies", cex.main = 1.05, col.main = base_blue)
 dev.off()
 
 cat("ch01 figures written\n")

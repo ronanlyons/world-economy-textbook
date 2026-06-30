@@ -267,8 +267,9 @@ The second controversy is about how the East Asian miracle was achieved. The mar
 ::: {.column-page}
 **Data exhibit --- the spine, computed.** For nine chapters the centre of gravity had to be inferred --- from bullion flows, city sizes, wage ratios, trade shares. In this one it can be calculated outright. Danny Quah's economic centre of gravity is the point on the Earth's surface that minimises the distance-weighted dispersion of global economic activity --- the average location of world output, in effect. Computed back and projected forward, it sat near East Asia in 1500, drifted west to the middle of the North Atlantic by 1980 as the European centuries ran their course, and has since swung back east, reaching east of Helsinki and Bucharest by 2008 and projected to lie between India and China by about 2050. The whole argument of the book is, on this measure, one line on a map: out west, then back east. *What you could do with this:* take Maddison Project GDP by world region and compute the longitudinal centre of gravity at benchmark years (1500, 1820, 1913, 1950, 1980, 2008, 2023); plot the path, and set the modern eastward leg directly against the early-modern westward one.
 
-![The world economy's centre of gravity, computed (after Quah): out west to the mid-Atlantic by 1980 as the European interruption ran, then back east toward India--China --- the whole book in one path. Author's schematic after Quah (2011).](figures/ch10-cog-drift.png){#fig-cogdrift10 width=78%}
 :::
+
+![The world economy's centre of gravity, computed (after Quah): out west to the mid-Atlantic by 1980 as the European interruption ran, then back east toward India--China --- the whole book in one path. Author's schematic after Quah (2011).](figures/ch10-cog-drift.png){#fig-cogdrift10 width=78%}
 
 ::: {.callout-note}
 ## Research in focus --- Quah (2011): the world economy's shifting centre of gravity
@@ -314,10 +315,6 @@ The discipline's action for this period sits in three places: computing the retu
 - **Rodrik (2006)**, "Goodbye Washington Consensus, Hello Washington Confusion?," *Journal of Economic Literature* --- the reassessment of the market-friendly development orthodoxy after the mixed record of liberalisation, framing the market-versus-state debate. [DOI 10.1257/jel.44.4.973](https://doi.org/10.1257/jel.44.4.973)
 - **Hsieh & Klenow (2009)**, "Misallocation and Manufacturing TFP in China and India," *Quarterly Journal of Economics* --- the productivity-gap evidence: how much of the income gap reflects the misallocation of resources, the chapter's anchor for "the workshop returns, the income gap persists." [DOI 10.1162/qjec.2009.124.4.1403](https://doi.org/10.1162/qjec.2009.124.4.1403)
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep date 2026-06: repositories searched include NBER, CEPR, RePEc/IDEAS, the *Journal of Economic Literature*, the *Quarterly Journal of Economics*, the *American Economic Review*, the *Journal of International Economics*, the *Annual Review of Economics* and *Global Policy*; every entry above was citation-verified (Crossref) before listing. Refresh before publication; never list an unverified working paper. Note the corpus caveat carried through the chapter: the monetary spine is corpus-grounded, while the production-side return rests on the externally verified works listed here. For this period the discipline's action sits in long-run GDP measurement and the centre-of-gravity computation, the identification of containerisation's trade effect, and the analysis of why aggregate convergence has outrun per-capita convergence.
-:::
 
 ---
 

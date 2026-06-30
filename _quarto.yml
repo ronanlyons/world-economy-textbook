@@ -5,8 +5,10 @@ project:
 book:
   title: "The World Economy over the Very Long Run"
   subtitle: "A History in Data and Debates"
-  author: "Ronan Lyons"
-  date: today
+  author:
+    - name: "Ronan C. Lyons"
+      affiliation: "Trinity College Dublin and the Centre for Economics, Policy & History"
+  date: "Version 0.1 (June 2026)"
   cover-image: images/cover-dhow.jpg
   search: true
   downloads: [pdf]
@@ -15,23 +17,23 @@ book:
   chapters:
     - index.qmd
     - 00-introduction.qmd
-    - part: "A — A world without a centre"
+    - part: "A World without a Centre"
       chapters:
         - 01-deep-structures.qmd
         - 02-first-world-system.qmd
-    - part: "B — The ocean at its height"
+    - part: "The Ocean at its Height"
       chapters:
         - 03-maritime-apogee.qmd
         - 04-high-medieval-mongol.qmd
-    - part: "C — The world becomes one — and stays Asian"
+    - part: "The World Becomes One — and Stays Asian"
       chapters:
         - 05-world-becomes-one.qmd
         - 06-companies-coercion.qmd
-    - part: "D — The great reversal"
+    - part: "The Great Reversal"
       chapters:
         - 07-great-divergence.qmd
         - 08-first-global-economy.qmd
-    - part: "E — Break and return"
+    - part: "Break and Return"
       chapters:
         - 09-disintegration.qmd
         - 10-asian-rebalancing.qmd
@@ -72,7 +74,8 @@ format:
       - bottom=26mm
     number-sections: true   # number the 10 chapters so @sec-chNN cross-refs resolve ("Chapter 2")
     number-depth: 1         # number chapters only, not the within-chapter ## sections
-    fig-pos: 'H'      # pin figures where written (needs float pkg) -> no overlap, no float-only pages
+    fig-pos: 'H'      # pin in place (float pkg) -- tolerates figures still inside callout boxes;
+                      # end-of-profile structure maps now sit just outside their boxes
     pdf-engine: xelatex
     mainfont: "TeX Gyre Pagella"   # Palatino-like book serif; ships with TinyTeX (reproducible)
     sansfont: "TeX Gyre Heros"

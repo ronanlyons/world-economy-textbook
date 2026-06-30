@@ -111,11 +111,6 @@ full provenance *and* caveats. *What you could do with this:* the research hook.
 
 - **Author et al. (year)**, "Title," *Venue* — one-line review + why it matters here. [DOI/URL]
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep date + repositories searched; every entry citation-verified. Refresh before publication;
-**never list an unverified working paper**. Note where the discipline's action actually sits.
-:::
 
 ---
 

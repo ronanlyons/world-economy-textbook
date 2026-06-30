@@ -306,10 +306,6 @@ Where the action is now: a quantitative economic history of this world, built fr
 - **Rubin (2010)**, "Bills of Exchange, Interest Bans, and Impersonal Exchange in Islam and Christianity," *Explorations in Economic History* 47(2): 213–227 — why a shared instrument stayed personal-network-bound in the Islamic world; ties to the *suftaja* credit story, and the origin of the "long divergence" question paid off in @sec-ch07. [DOI 10.1016/j.eeh.2009.06.003]
 - **Ross & Bettenay (2023)**, "Gold and Silver: Relative Values in the Ancient Past," *Cambridge Archaeological Journal* 34(3): 403–420 — the long-run gold-to-silver ratio as a supply-geography price; the grounding for this chapter's deep dive. [DOI 10.1017/S0959774323000355]
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep date 2026-06-25; repositories searched: Crossref, RePEc/EconPapers, NBER, CEPR, journal tables of contents. Every entry above was citation-verified (Crossref DOI or publisher record); none is a fabricated or unverified working paper. Where the discipline's action actually sits for this period: on the Abbasid/Middle-Eastern core (wages, factor markets, the long divergence) and on urban and numismatic datasets — with the Tang/Song quantitative economic history thinner in the cliometric literature than its weight in the period warrants. Refresh before publication.
-:::
 
 ::: {.callout-note}
 ## Research in focus — Pamuk & Shatzmiller (2014): wages and GDP in the medieval Middle East

@@ -297,13 +297,6 @@ the defining books, recent first:
 - **Pomeranz (2000)**, *The Great Divergence* (Princeton) — the book that defined the debate
   (parity to ~1800; coal + New-World ghost acres).
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep run 2026-06-25 across NBER, CEPR, RePEc/IDEAS and Crossref; every entry above was
-citation-verified (DOI/RePEc/publisher URL). This is a fast-moving field — refresh before
-publication and **never list an unverified working paper**. *Standing build note:* integrate the
-author's own (non-Kindle) Allen and Pomeranz reading notes into the Q4 "why Britain" paragraphs.
-:::
 
 ---
 

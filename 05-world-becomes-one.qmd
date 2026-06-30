@@ -261,10 +261,6 @@ The action here is the measurement of integration: did "the world becomes one" m
 - **Bosker, Buringh & van Zanden (2013)**, "From Baghdad to London," *Review of Economics and Statistics* 95(4): 1418–1437 — the comparative city-size record that sets the great Asian and Middle Eastern cities against Europe's. [DOI 10.1162/rest_a_00284]
 - **Pamuk & Shatzmiller (2014)**, "Plagues, Wages, and Economic Change in the Islamic Middle East, 700–1500," *Journal of Economic History* 74(1): 196–229 — the long-run Middle Eastern wage record behind the comparative standard-of-living question. [DOI 10.1017/s0022050714000072]
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep date 2026-06-26; repositories searched: Crossref, RePEc/EconPapers, NBER, journal tables of contents. Every entry above was citation-verified (Crossref DOI); none is a fabricated or unverified working paper. Where the action sits: the globalisation-dating debate (Flynn–Giráldez vs O'Rourke–Williamson vs de Vries) is the live measurement question; the "~half of New World silver to China" figure rests on contested import estimates (Irigoin and others), and is flagged in the text as debated. Refresh before publication.
-:::
 
 ::: {.callout-note}
 ## Research in focus — O'Rourke & Williamson (2002): when did globalisation begin?

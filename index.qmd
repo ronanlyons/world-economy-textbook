@@ -44,10 +44,3 @@ This book is published open-access online and as a downloadable PDF. Its data ex
 **reproducible**: the figures and tables are generated from datasets you can download and
 re-run yourself. Where a number is disputed, the book says so and shows you the dispute,
 rather than quietly picking a side.
-
-::: {.callout-note}
-## Draft status
-This is an in-progress manuscript. The Introduction and Chapter 2 are first-draft pilots
-that set the template; the remaining chapters are being drafted from the module's design
-corpus. See `world_economy_books/textbook_plan.md` for the build plan.
-:::

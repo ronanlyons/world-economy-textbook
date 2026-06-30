@@ -21,7 +21,7 @@ Follow a bead. Sometime around 2500 BCE an artisan in one of the Indus cities to
 
 This is the first chapter, and it is the one place in the book where the central question cannot yet be asked. The book exists to test a claim — that the weight of the world economy sat in Asia for far longer than we tend to assume — period by period, against the evidence. But "where did the weight sit?" only means something once there is a single connected economy whose weight can be located, and across these four millennia there was not one. There were several loosely linked riverine cores, trading at the edges, rising and falling on their own clocks, but no integrated system with a centre of gravity to find. So this chapter does not return a verdict on the spine; it builds the stage the spine will later stand on. It lays down the geography — the monsoon and the three great channels — that will eventually make the Indian Ocean the natural integrator, and it hands over the tools the rest of the book uses: the four questions, the two yardsticks, and the hard discipline of measuring an economy before it left any prices behind.^[**Sources:** Cunliffe (Loc 158) on the channels frame; Pearson (Ch.1) on the monsoon deep structure. **Read more:** Cunliffe, *By Steppe, Desert, and Ocean* (2015).]
 
-![Centre-of-gravity locator: in c.3500--500 BCE there was no single centre to locate --- several loosely linked riverine cores, with the Near East (Uruk) the most central node and the Indus an active trader at the eastern edge. The spine is not yet applicable; the chapter's contribution is structural (stylised; not to scale). Author's schematic.](figures/cog-locator-01.png){#fig-cog01 width=100%}
+![Centre-of-gravity locator: in c.3500--500 BCE there was no single centre to locate --- only several loosely linked riverine cores, keyed east to west: (a) the forming East Asian core, (b) the Indus (Harappa), (c) Mesopotamia/Uruk, and (d) Egypt. The Near East (Uruk) was the most connected node and the Indus the most active long-distance trader; the spine is not yet applicable, and the chapter's contribution is structural (stylised; not to scale). Author's schematic.](figures/cog-locator-01.png){#fig-cog01 width=100%}
 
 ## The stage and the cast
 
@@ -73,8 +73,9 @@ The urban phase ended around 1900 BCE: the great cities were given up, the weigh
 - **Export markets** — Mesopotamia (Sumer and Akkad), reached through the Gulf intermediaries Magan (Oman) and Dilmun (Bahrain).
 - **Import sources** — the same Gulf route in reverse, with Dilmun and Magan as the entrepots through which Mesopotamian silver and the metals of the wider Near East passed back to the Indus.^[**Sources:** Dalrymple (Loc 1163, 1168) on the Meluhha trade goods and the Gulf route; Roy (p.20, p.27) on the Indus settlements and the long-run trade pattern; Mithen (Loc 9058) on the Indus cotton tradition. **Read more:** Dalrymple, *The Golden Road* (2024).]
 
-![The Indus civilisation as the agency-holder: the planned cities of Mohenjo-daro and Harappa on the Indus, running the Gulf trade west to Sumer through Magan and Dilmun, with carnelian and beads moving out and silver and tin coming back (stylised; not to scale). Author's schematic.](figures/map-indus-01.png){#fig-mapindus01 width=85%}
 :::
+
+![The Indus civilisation as the agency-holder: the planned cities of Mohenjo-daro and Harappa on the Indus, running the Gulf trade west to Sumer through Magan and Dilmun, with carnelian and beads moving out and silver and tin coming back (stylised; not to scale). Author's schematic.](figures/map-indus-01.png){#fig-mapindus01 width=85%}
 
 ::: {.callout-tip collapse="true"}
 ## Dilmun — the Gulf entrepot
@@ -115,8 +116,9 @@ The mechanics of that import trade are best seen in the early second-millennium 
 - **Export markets** — Anatolia (textiles and silver through Kanesh); the Gulf trade with Magan and the Indus via the Dilmun entrepot; the wider Uruk-system sphere from the Iranian plateau to the eastern Mediterranean.
 - **Import sources** — Anatolia and the eastern highlands (metals, silver); Badakhshan (lapis, ~2,500 km away); Magan/Oman (copper) and Meluhha/the Indus (carnelian, ivory, hardwoods) through Dilmun.^[**Sources:** Frahm (Page 46, 47, 48); Kriwaczek (Page 40, 49, 215); Scott (Page 1199). **Read more:** Kriwaczek, *Babylon* (2010).]
 
-![Mesopotamia and Uruk as the demand core: a resource-poor alluvium importing tin, copper, lapis and carnelian along the Ashur--Kanesh caravan route and down the Gulf through Dilmun, against exports of silver, barley and woollen cloth (stylised; not to scale). Author's schematic.](figures/map-mesopotamia-01.png){#fig-mapmeso01 width=85%}
 :::
+
+![Mesopotamia and Uruk as the demand core: a resource-poor alluvium importing tin, copper, lapis and carnelian along the Ashur--Kanesh caravan route and down the Gulf through Dilmun, against exports of silver, barley and woollen cloth (stylised; not to scale). Author's schematic.](figures/map-mesopotamia-01.png){#fig-mapmeso01 width=85%}
 
 ::: {.callout-tip collapse="true"}
 ## Egypt — the Nile apart
@@ -215,9 +217,7 @@ The denominator has to be kept honest. These were overwhelmingly agrarian subsis
 Cunliffe, and Diamond before him, lean hard on geography as the master variable — the mountains and monsoon and grass corridors setting what was possible. The counter stresses human agency and contingency, the choices that geography permitted but did not dictate. The climate-collapse story is contested in the same way. The 4.2 ka weakening of the monsoon is invoked behind the Harappan decline, and drought behind the Late Bronze Age Collapse, yet the palaeo-record does not cleanly show a sharp, sustained drought at the right moment, so mono-causal climate accounts overreach. The sensible posture is to hold both at once: deep structures shaped the board on which the period was played, but people still chose the moves. Name the positions, weigh them, and leave the question genuinely open.
 :::
 
-::: {.column-page}
 **Data exhibit — the Uluburun cargo, a dataset of one.** With almost no quantitative records, a single well-excavated shipwreck does the work a price series does in later chapters. The Uluburun vessel, lost off the Anatolian coast around 1350 BCE, carried roughly 10 tonnes of copper and about 1 tonne of tin — close to the 10:1 ratio that bronze requires — together with glass ingots, ebony, ivory, resin and finished goods, with raw materials and objects originating from at least seven different polities. *What you could do with this:* itemise the cargo, infer how many separate economies one hull implicates, and ask what the copper-to-tin ratio implies about where the metals were sourced and where the bronze was to be made — reasoning from one rich object to a whole system, with the uncertainty stated.
-:::
 
 ## Threads forward
 
@@ -251,10 +251,6 @@ A striking amount of recent economics reaches back into deep prehistory — fitt
 - **Matranga (2024)**, "The Ant and the Grasshopper: Seasonality and the Invention of Agriculture," *Quarterly Journal of Economics* 139(3): 1467–1504 — rising climatic seasonality pushed foragers into storage and sedentism, the precondition for farming and surplus; grounds the chapter's "geography and climate as master force" in recent data. [DOI 10.1093/qje/qjae012]
 - **Ashraf & Galor (2011)**, "Dynamics and Stagnation in the Malthusian Epoch," *American Economic Review* 101(5): 2003–2041 — the canonical empirical statement that, before 1800, technology and land raised population density rather than income per head. The frontier anchor for this chapter's quantity-vs-quality yardstick, and the thread it hands to @sec-ch07. [DOI 10.1257/aer.101.5.2003]
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep date 2026-06-25; repositories searched: Crossref, RePEc/EconPapers, NBER, journal tables of contents. Every entry above was citation-verified (Crossref DOI); none is a fabricated or unverified working paper. Where the discipline's action actually sits for this period: a remarkable recent turn that applies the tools of trade economics and growth theory to cuneiform and archaeological data — strongest on Mesopotamia (the tablet record), thinner on the Indus and the East Asian core, exactly mirroring the survival bias this chapter warns about. Refresh before publication.
-:::
 
 ::: {.callout-note}
 ## Research in focus — Barjamovic, Chaney, Coşar & Hortaçsu (2019): a gravity model on cuneiform

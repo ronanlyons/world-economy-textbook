@@ -257,10 +257,6 @@ The Black Death is one of cliometrics' best-studied natural experiments, and the
 - **Pamuk & Shatzmiller (2014)**, "Plagues, Wages, and Economic Change in the Islamic Middle East, 700–1500," *Journal of Economic History* 74(1): 196–229 — the Middle Eastern wage record, including Egypt's divergent post-plague path. [DOI 10.1017/s0022050714000072]
 - **Bosker, Buringh & van Zanden (2013)**, "From Baghdad to London," *Review of Economics and Statistics* 95(4): 1418–1437 — the city-size dataset that sets Quanzhou and Hangzhou against the largest European cities. [DOI 10.1162/rest_a_00284]
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep date 2026-06-25; repositories searched: Crossref, RePEc/EconPapers, NBER, journal tables of contents. Every entry above was citation-verified (Crossref DOI); none is a fabricated or unverified working paper. Where the action sits for this period: the Black Death as a natural experiment is intensively studied for Europe and the Middle East, far less so for South and East Asia — the "did it reach India/China?" question is unresolved, and the 2022 *Nature* ancient-DNA result (Spyrou et al., placing the source in the Tian Shan, 1338–39) reopened the origin debate. Refresh before publication.
-:::
 
 ::: {.callout-note}
 ## Research in focus — Pamuk (2007): the Black Death and the Little Divergence

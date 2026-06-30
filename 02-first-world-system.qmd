@@ -607,14 +607,6 @@ while the field's empirical depth sits in **OXREP / JRS / *Science Advances***.
 - **Milanović, Lindert & Williamson (2011)**, "Pre-industrial inequality," *Economic Journal* 121:
   255–272 — places Rome in a comparative inequality frame (the "inequality possibility frontier").
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep run 2026-06-25 across NBER, CEPR, RePEc/IDEAS, Crossref and JSTOR; every entry above was
-citation-verified (DOI/stable URL). The deepest *ancient*-economy cliometrics still sits in
-archaeology/ancient-history venues more than in NBER/CEPR (which skew modern). Refresh before
-publication and **never list an unverified working paper**. The "Classic research" + "research
-frontier" pair recurs in every chapter; later chapters (7–10) will be far more NBER/CEPR-heavy.
-:::
 
 ---
 

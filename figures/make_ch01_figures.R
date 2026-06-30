@@ -11,17 +11,19 @@ rect(0.05, 0.40, 0.95, 0.60, col = land, border = base_blue, lwd = 2)
 text(0.05, 0.78, "ASIA", col = base_blue, font = 2, cex = 1.3, adj = 0)
 text(0.95, 0.78, "NORTH ATLANTIC", col = base_blue, font = 2, cex = 1.3, adj = 1)
 segments(seq(0.05, 0.95, length.out = 5), 0.38, seq(0.05, 0.95, length.out = 5), 0.62, col = base_blue, lwd = 1)
-# several loosely linked cores - scatter of faint markers, no single weight
-for (x in c(0.20, 0.33, 0.40, 0.55)) { points(x, 0.50, pch = 21, cex = 2.2, col = base_blue, bg = "#cdddee", lwd = 1.5) }
+# several loosely linked cores - markers keyed a-d (east -> west), no single weight
+dotx <- c(0.20, 0.33, 0.40, 0.55)
+for (x in dotx) { points(x, 0.50, pch = 21, cex = 2.7, col = base_blue, bg = "#cdddee", lwd = 1.5) }
+text(dotx, 0.50, c("a", "b", "c", "d"), col = base_blue, font = 2, cex = 0.9)
 text(0.37, 0.25, "no single centre - several loosely linked riverine cores;",
-     col = "#333333", font = 3, cex = 0.92)
-text(0.37, 0.13, "the spine is not yet applicable", col = accent, font = 3, cex = 0.92)
+     col = "#333333", font = 3, cex = 1.0)
+text(0.37, 0.13, "the spine is not yet applicable", col = accent, font = 3, cex = 1.0)
 title(main = "Centre-of-gravity locator", col.main = base_blue, cex.main = 1.3)
 dev.off()
 
 # ---------------------------------------------------------------------------
 # 2. The stage and the three channels (orientation)
-png("map-channels-01.png", width = 1600, height = 780, res = 150)
+png("map-channels-01.png", width = 1600, height = 780, res = 150, pointsize = 16)
 par(mar = c(1, 1, 3, 1))
 plot(NA, xlim = c(0, 100), ylim = c(0, 50), axes = FALSE, xlab = "", ylab = "")
 # three channel bands
@@ -42,7 +44,7 @@ dev.off()
 
 # ---------------------------------------------------------------------------
 # 3. Indus structure map
-png("map-indus-01.png", width = 1020, height = 1120, res = 150)
+png("map-indus-01.png", width = 1020, height = 1120, res = 150, pointsize = 15)
 par(mar = c(1, 1, 3, 1))
 plot(NA, xlim = c(-2, 102), ylim = c(6, 112), axes = FALSE, xlab = "", ylab = "", asp = 1)
 px <- c(30,40,52,60,66, 63,58,52,48,45, 40,36,32,29,30)
@@ -62,7 +64,7 @@ dev.off()
 
 # ---------------------------------------------------------------------------
 # 4. Mesopotamia / Uruk structure map
-png("map-mesopotamia-01.png", width = 1400, height = 900, res = 150)
+png("map-mesopotamia-01.png", width = 1400, height = 900, res = 150, pointsize = 15)
 par(mar = c(1, 1, 3, 1))
 plot(NA, xlim = c(0, 130), ylim = c(0, 92), axes = FALSE, xlab = "", ylab = "", asp = 1)
 mx <- c(40,60,84,100,104, 98,84,66,52,44, 40)
@@ -81,7 +83,7 @@ dev.off()
 
 # ---------------------------------------------------------------------------
 # 5. The cycles timeline (deep time -> 500 BCE)
-png("phase-cycles-01.png", width = 1700, height = 600, res = 150)
+png("phase-cycles-01.png", width = 1700, height = 600, res = 150, pointsize = 15)
 par(mar = c(3, 1, 3, 1))
 plot(NA, xlim = c(-3700, -300), ylim = c(0, 10), axes = FALSE, xlab = "", ylab = "")
 ph <- list(
@@ -102,7 +104,7 @@ dev.off()
 
 # ---------------------------------------------------------------------------
 # 6. Tin arbitrage (15:1 Ashur vs 7:1 Anatolia)
-png("tin-arbitrage-01.png", width = 1400, height = 560, res = 150)
+png("tin-arbitrage-01.png", width = 1400, height = 560, res = 150, pointsize = 14)
 par(mar = c(1, 1, 3, 1))
 plot(NA, xlim = c(0, 100), ylim = c(0, 40), axes = FALSE, xlab = "", ylab = "")
 rect(6, 14, 30, 30, col = land, border = base_blue, lwd = 2); text(18, 25, "ASHUR", font = 2, col = base_blue, cex = 0.95)

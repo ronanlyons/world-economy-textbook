@@ -16,6 +16,9 @@
 
 % Floats: keep figures where they are written (fig-pos: H in _quarto.yml needs this),
 % and, where a figure does float, let pages fill more fully and avoid float-only pages.
+% Parts labelled by letter: "Part A", "Part B", ... (not "Part I").
+\renewcommand{\thepart}{\Alph{part}}
+
 \usepackage{float}
 \setcounter{topnumber}{3}
 \setcounter{bottomnumber}{2}

@@ -278,8 +278,9 @@ The second controversy is about the periphery. The orthodox account makes the si
 ::: {.column-page}
 **Data exhibit --- the yardstick run in reverse.** The chapter's empirical centrepiece is the last chapter's centrepiece inverted: the commodity-price gaps that closed across the first globalisation blew back open between the wars. The London-Rangoon rice gap, which had narrowed toward 26 per cent by 1913, was driven by the Great War toward 400 per cent and reopened again in the slump toward levels not seen since the 1870s; manufactured trade fell about 42 per cent between 1929 and 1932, and interwar trade grew only about 0.7 to 1 per cent a year against 3.8 per cent in the half-century before 1914. The precise magnitudes are series-dependent and should be read for their order of magnitude, not to the decimal point; the qualitative result is what matters. *What you could do with this:* take the Hynes-Jacks-O'Rourke commodity-gap series and set the interwar reopening directly against the pre-1914 convergence of the last chapter --- one figure, run forward then backward, that captures integration and its undoing in a single line.
 
-![The integration yardstick run in reverse: intercontinental commodity-price gaps blow back open between the wars (illustrative; magnitudes series-dependent). Source: Hynes, Jacks & O'Rourke.](figures/ch09-disintegration-yardstick.png){#fig-yardstick09 width=72%}
 :::
+
+![The integration yardstick run in reverse: intercontinental commodity-price gaps blow back open between the wars (illustrative; magnitudes series-dependent). Source: Hynes, Jacks & O'Rourke.](figures/ch09-disintegration-yardstick.png){#fig-yardstick09 width=72%}
 
 ::: {.callout-note}
 ## Research in focus --- Hynes, Jacks & O'Rourke (2012): commodity-market disintegration
@@ -319,10 +320,6 @@ The discipline's action for this period sits in three places: measuring the rise
 - **Estevadeordal, Frantz & Taylor (2003)**, "The Rise and Fall of World Trade, 1870--1939," *Quarterly Journal of Economics* --- the canonical gravity-model decomposition: the pre-1914 boom and its interwar collapse explained by transport costs, the gold standard and commodity-market integration, with rising tariffs and the gold standard's demise driving much of the fall. [DOI 10.1162/003355303321675419](https://doi.org/10.1162/003355303321675419)
 - **Bordo, Choudhri & Schwartz (2002)**, "Was Expansionary Monetary Policy Feasible during the Great Contraction? An Examination of the Gold Standard Constraint," *Explorations in Economic History* --- a counterfactual test of whether the US Fed could have reflated within the gold standard's constraints, staging the Friedman-Schwartz versus Eichengreen-Temin debate on the gold standard's own terms. [DOI 10.1006/exeh.2001.0778](https://doi.org/10.1006/exeh.2001.0778)
 
-::: {.callout-note}
-## Keeping this current (verification gate)
-Sweep date 2026-06: repositories searched include NBER, CEPR, RePEc/IDEAS, the *Journal of Economic History*, the *Economic History Review*, the *European Review of Economic History*, the *Quarterly Journal of Economics* and the *Economic Journal*; every entry above was citation-verified (Crossref) before listing. Refresh before publication; never list an unverified working paper. For this period the discipline's action sits in the long-run measurement of trade's rise and fall, the gold-standard transmission mechanism, and the identification of where disintegration empowered the periphery.
-:::
 
 ---
 

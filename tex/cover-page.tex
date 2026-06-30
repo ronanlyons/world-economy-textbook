@@ -1,0 +1,19 @@
+% PDF cover page: the dhow above the title, inserted as page 1 (before the title page).
+% \AtBeginDocument runs at \begin{document}, ahead of Quarto's \maketitle.
+\AtBeginDocument{%
+  \begin{titlepage}%
+  \centering
+  \thispagestyle{empty}%
+  \vspace*{0.4cm}
+  {\fontsize{23}{27}\selectfont\bfseries The World Economy\\[1mm] over the Very Long Run\par}%
+  \vspace{3.5mm}
+  {\Large\itshape A History in Data and Debates\par}%
+  \vspace{10mm}
+  \includegraphics[width=\textwidth]{images/cover-dhow.jpg}\par
+  \vspace{9mm}
+  {\Large Ronan Lyons\par}%
+  \vfill
+  {\footnotesize Cover: a dhow under lateen sail off Zanzibar.\\
+   Harvey Barrison, Wikimedia Commons, CC BY-SA 2.0.\par}%
+  \end{titlepage}%
+}

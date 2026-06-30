@@ -7,6 +7,7 @@ book:
   subtitle: "A History in Data and Debates"
   author: "Ronan Lyons"
   date: today
+  cover-image: images/cover-dhow.jpg
   search: true
   downloads: [pdf]
   sidebar:
@@ -78,6 +79,7 @@ format:
     include-in-header:
       - tex/unicode-map.tex
       - tex/pdf-layout.tex
+      - tex/cover-page.tex
 
 # Open-access: licensed CC BY (confirm before first public render).
 license: "CC BY"

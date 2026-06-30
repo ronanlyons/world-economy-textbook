@@ -7,13 +7,12 @@
 % Loading the caption package also disables KOMA's default hanging-indent caption.
 \usepackage{caption}
 \captionsetup{%
-  justification=centering,
-  singlelinecheck=false,
-  font=small,
+  labelformat=simple,      % "Figure 1.3" with no KOMA auto-dot (kills the "1.3.." double period)
+  labelsep=period,         % -> "Figure 1.3. <caption>"
   labelfont=bf,
-  labelsep=period,
-  skip=6pt,
-  width=0.9\linewidth}
+  font=small,
+  justification=justified, % full text-width, aligned to the text margins (no hanging indent)
+  skip=6pt}
 
 % Floats: keep figures where they are written (fig-pos: H in _quarto.yml needs this),
 % and, where a figure does float, let pages fill more fully and avoid float-only pages.

@@ -63,11 +63,12 @@ format:
       gutter-width: 1.6rem
   pdf:
     documentclass: scrbook
-    classoption:
-      - DIV=14        # KOMA type-area: wider text block / narrower margins than the default
-      - BCOR=0mm      # no binding correction (digital, open-access PDF)
-      - open=any      # chapters may start on any page -> no blank verso before each chapter
     papersize: a4
+    geometry:           # explicit ~symmetric margins -> text block ~80% of page width
+      - inner=22mm      # (KOMA's DIV keeps a lopsided 1:2 inner:outer ratio; geometry overrides it)
+      - outer=20mm
+      - top=24mm
+      - bottom=26mm
     number-sections: true   # number the 10 chapters so @sec-chNN cross-refs resolve ("Chapter 2")
     number-depth: 1         # number chapters only, not the within-chapter ## sections
     fig-pos: 'H'      # pin figures where written (needs float pkg) -> no overlap, no float-only pages

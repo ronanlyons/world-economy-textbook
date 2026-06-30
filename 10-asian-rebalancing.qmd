@@ -264,10 +264,7 @@ The second controversy is about how the East Asian miracle was achieved. The mar
 *Sources: Frank (1998), *ReORIENT* on the restoration reading against the system-dependence reading; World Bank (1993) and Lin versus Amsden (1989), Wade (1990) and Studwell (2013) on the miracle; Rodrik (2006, 2011) on the limits of globalisation. Read more: Frank (1998), *ReORIENT*; Studwell (2013), *How Asia Works*; Rodrik (2011), *The Globalization Paradox*.*
 :::
 
-::: {.column-page}
 **Data exhibit --- the spine, computed.** For nine chapters the centre of gravity had to be inferred --- from bullion flows, city sizes, wage ratios, trade shares. In this one it can be calculated outright. Danny Quah's economic centre of gravity is the point on the Earth's surface that minimises the distance-weighted dispersion of global economic activity --- the average location of world output, in effect. Computed back and projected forward, it sat near East Asia in 1500, drifted west to the middle of the North Atlantic by 1980 as the European centuries ran their course, and has since swung back east, reaching east of Helsinki and Bucharest by 2008 and projected to lie between India and China by about 2050. The whole argument of the book is, on this measure, one line on a map: out west, then back east. *What you could do with this:* take Maddison Project GDP by world region and compute the longitudinal centre of gravity at benchmark years (1500, 1820, 1913, 1950, 1980, 2008, 2023); plot the path, and set the modern eastward leg directly against the early-modern westward one.
-
-:::
 
 ![The world economy's centre of gravity, computed (after Quah): out west to the mid-Atlantic by 1980 as the European interruption ran, then back east toward India--China --- the whole book in one path. Author's schematic after Quah (2011).](figures/ch10-cog-drift.png){#fig-cogdrift10 width=78%}
 
@@ -314,7 +311,6 @@ The discipline's action for this period sits in three places: computing the retu
 - **Quah (2011)**, "The Global Economy's Shifting Centre of Gravity," *Global Policy* --- the computation that makes the module's organising question literal: the centre of gravity drifting from the mid-Atlantic toward India--China. [DOI 10.1111/j.1758-5899.2010.00066.x](https://doi.org/10.1111/j.1758-5899.2010.00066.x)
 - **Rodrik (2006)**, "Goodbye Washington Consensus, Hello Washington Confusion?," *Journal of Economic Literature* --- the reassessment of the market-friendly development orthodoxy after the mixed record of liberalisation, framing the market-versus-state debate. [DOI 10.1257/jel.44.4.973](https://doi.org/10.1257/jel.44.4.973)
 - **Hsieh & Klenow (2009)**, "Misallocation and Manufacturing TFP in China and India," *Quarterly Journal of Economics* --- the productivity-gap evidence: how much of the income gap reflects the misallocation of resources, the chapter's anchor for "the workshop returns, the income gap persists." [DOI 10.1162/qjec.2009.124.4.1403](https://doi.org/10.1162/qjec.2009.124.4.1403)
-
 
 ---
 

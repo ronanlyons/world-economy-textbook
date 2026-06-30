@@ -213,7 +213,6 @@ story you tell.
 *Sources: Pomeranz, The Great Divergence (2000); Allen (2009); Broadberry, Custodis & Gupta (2015); Broadberry, Guan & Li (2018); Kelly, Mokyr & Ó Gráda (2023); on deindustrialisation, Roy and Harnetty vs Williamson/Beckert. All cited in full below.*
 :::
 
-::: {.column-page}
 **Data exhibit — follow the cloth: India's deindustrialisation in numbers.** Lay three series
 side by side, 1600–1880: India's **share of world manufacturing** (~24.5% in 1750 to under 3% by
 1880, Bairoch); India's **GDP per head relative to Britain** (>60% in 1600 to <15% by 1871,
@@ -227,7 +226,6 @@ and test how the "when did it begin?" answer moves as you swap Bairoch's shares 
 GDP — i.e. show that measurement *is* the debate.
 
 *Sources: Bairoch, "International Industrialization Levels from 1750 to 1980," Journal of European Economic History 11 (1982); Broadberry, Custodis & Gupta (2015); Findlay & O'Rourke (2007), ch. 5. See the per-topic dataset entry in `module_design/datasets_by_topic.md`, Topic 7.*
-:::
 
 ## Threads forward
 
@@ -296,7 +294,6 @@ the defining books, recent first:
   account: mechanisation as a *response* to Indian competition.
 - **Pomeranz (2000)**, *The Great Divergence* (Princeton) — the book that defined the debate
   (parity to ~1800; coal + New-World ghost acres).
-
 
 ---
 

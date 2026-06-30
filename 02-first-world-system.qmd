@@ -58,9 +58,6 @@ India, present in every chapter of this book, is given the fullest treatment.
 
 ::: {.callout-tip collapse="true"}
 ## India — the production core
-![India in the first world system: regions, emporia and the two trade arms (stylised; not to scale). Author's schematic.](figures/actor-india-t2.png){#fig-india-t2 width=66%}
-
-![Gold coins of the Kushan ruler Vima Kadphises (c. 100–127 CE), struck on the Roman aureus standard — the empire's own bullion re-minted as Indian coin. Wikimedia (Ancient Art), CC BY 2.0.](figures/photos/coin_kushan.jpg){width=55%}
 
 India in this period was not a single polity but a layered economy spread across the
 subcontinent. In the north, the Mauryan empire (c.320–185 BCE) had built South Asia's first
@@ -115,11 +112,12 @@ came to rest: the production core of the first world system.^[**Sources:** Roy (
 - **Import sources** — Rome and the wider Mediterranean (bullion, wine, coral, glass); the Gulf and Arabia.^[**Sources:** Casson (ed.), *The Periplus Maris Erythraei* (1989), for the cargo lists; McLaughlin (2014); Dalrymple (2024).]
 :::
 
+![India in the first world system: regions, emporia and the two trade arms (stylised; not to scale). Author's schematic.](figures/actor-india-t2.png){#fig-india-t2 width=66%}
+
+![Gold coins of the Kushan ruler Vima Kadphises (c. 100–127 CE), struck on the Roman aureus standard — the empire's own bullion re-minted as Indian coin. Wikimedia (Ancient Art), CC BY 2.0.](figures/photos/coin_kushan.jpg){width=55%}
+
 ::: {.callout-tip collapse="true"}
 ## Han China — the agrarian mirror
-![Han China at its height: the agrarian core, Chang'an, and the overland silk road west (stylised; not to scale). Author's schematic.](figures/actor-han-t2.png){#fig-han-t2 width=78%}
-
-![Han wu zhu bronze coins — a deep but shallow-denomination, almost wholly bronze money. Photo Gary Todd, CC0.](figures/photos/coin_wuzhu.jpg){width=55%}
 
 Han China was Rome's structural opposite, and the eastern anchor of the whole chain. Where Rome leaned on the customs of trade, the Han ran an agrarian-fiscal order that contemporaries and later historians have called "physiocratic-military": its wealth came from the land and the peasant household, and its revenue from a light land tax of one-thirtieth of the harvest, a poll tax in cash, and — decisively — state monopolies on salt and iron established under Emperor Wu in 119 BCE. Those monopolies were no sideline. At their height the salt and iron revenues supplied more than half of central government income, run through a network of state foundries staffed in part by convict labour. The state declared agriculture "the basis of the whole world" and taxed commerce as a thing to be managed rather than courted — the mirror image of Rome's consumer empire, which produced little the East wanted and paid for its appetites in coin.^[**Sources:** von Glahn (Loc 1261) on the salt and iron monopolies as over half of central revenue; Lewis (p.110) on the land tax and the typical farm; on the "physiocratic-military" contrast. **Read more:** von Glahn, *The Economic History of China* (2016).]
 
@@ -137,10 +135,12 @@ The good the rest of Eurasia wanted from China was silk, woven in workshops and 
 - **Import sources** — the steppe and the Western Regions (horses, jade); India, by the southern leg.^[**Sources:** Lewis (p.115, p.143); McLaughlin, *Silk Routes* (Loc 1945) on the Ferghana horses. **Read more:** McLaughlin (2016); von Glahn (2016).]
 :::
 
+![Han China at its height: the agrarian core, Chang'an, and the overland silk road west (stylised; not to scale). Author's schematic.](figures/actor-han-t2.png){#fig-han-t2 width=78%}
+
+![Han wu zhu bronze coins — a deep but shallow-denomination, almost wholly bronze money. Photo Gary Todd, CC0.](figures/photos/coin_wuzhu.jpg){width=55%}
+
 ::: {.callout-tip collapse="true"}
 ## Parthia and the Kushans — the middlemen
-
-![The Parthian and Kushan empires that held the overland middle (relief base). Wikimedia, CC BY-SA 4.0 (Natural Earth base).](figures/photos/map_parthia_kushan.jpg){#fig-parthiamap width=88%}
 
 Between Rome at one end of the relay and India and Han China at the other stood the two
 empires that held the overland middle, and neither was a producer of the goods that crossed
@@ -195,10 +195,10 @@ one market, and the reason no single hand ever ran it from end to end.^[**Source
 - **Eastward connections** — the Kushans to Han China through the Hindu Kush passes and the Tarim oasis kingdoms, and to India to the south; Parthia onward to the Central Asian caravan network.^[**Sources:** McLaughlin, *Silk Routes* (Loc 2433, 2612), on Kushan links to Han and the Tarim, and on Sogdian carriage and the Parthian–Roman frontier trade in silk and glassware. **Read more:** McLaughlin, *The Roman Empire and the Silk Routes* (2016).]
 :::
 
+![The Parthian and Kushan empires that held the overland middle (relief base). Wikimedia, CC BY-SA 4.0 (Natural Earth base).](figures/photos/map_parthia_kushan.jpg){#fig-parthiamap width=88%}
+
 ::: {.callout-tip collapse="true"}
 ## Rome — the wealthy consumer
-
-![A gold aureus of Augustus (RIC I 262) — the kind of coin that drained east and did not come back. Wikimedia, CC BY-SA 4.0.](figures/photos/coin_aureus.jpg){width=52%}
 
 Rome in this period was an unusual state for its time: a commercial-fiscal empire whose treasury leaned, to a degree no other ancient great power matched, on the customs of long-distance trade. Its land taxes were comparatively light — a poll tax of a single denarius a year, a Syrian land tax of around one per cent of assessed wealth — while the duties on trade did the heavy lifting. By the first century CE foreign trade supplied something like a third of imperial revenue, the bulk of it from the *tetartē*, a quarter-rate (25 per cent) customs duty levied on eastern luxuries as they entered the empire, against a mere one-fortieth (2.5 per cent) *portorium* on goods moving between the provinces. The fiscal machine ran on what came in from outside, not on what was grown at home.^[**Sources:** McLaughlin, *Indian Ocean* (Loc 25, 173) on the one-third share and the tetartē-versus-portorium contrast; McLaughlin, *Silk Routes* (Loc 5695, 5698) on the light poll and land taxes. **Read more:** McLaughlin, *The Roman Empire and the Indian Ocean* (2014).]
 
@@ -216,10 +216,10 @@ Externally, Rome was the system's wealthy terminus — its hungriest consumer, p
 - **Import sources** — India (spices, cottons, gems) above all; Arabia (incense); China (silk, via Parthian and Kushan intermediaries).^[**Sources:** Casson (ed.), *The Periplus Maris Erythraei* (1989), for the cargo lists; McLaughlin (2014).]
 :::
 
+![A gold aureus of Augustus (RIC I 262) — the kind of coin that drained east and did not come back. Wikimedia, CC BY-SA 4.0.](figures/photos/coin_aureus.jpg){width=52%}
+
 ::: {.callout-tip collapse="true"}
 ## The smaller players — Aksum, Arabia, Alexandria
-
-![A gold coin of King Ezana of Aksum (c. 340–400 CE), the Red Sea kingdom on the rim. British Museum; photo Ismoon, CC BY-SA 4.0.](figures/photos/coin_aksum.jpg){width=50%}
 
 Three smaller powers ringed the system's western end, and one of them mattered out of all
 proportion to its size. The most important were the incense kingdoms of Arabia. The southern
@@ -260,6 +260,8 @@ turned the whole eastern trade into revenue.^[**Sources:** McLaughlin, *Indian O
 - **Export markets** — Rome and the Mediterranean, reached by the Incense Trail and the Red Sea.
 - **Import sources** — Rome (bullion); India and the wider Indian Ocean, whose goods passed through on the way west.^[**Sources:** McLaughlin, *Indian Ocean* (Loc 352, 1657, 3384–3386). **Read more:** McLaughlin, *The Roman Empire and the Indian Ocean* (2014).]
 :::
+
+![A gold coin of King Ezana of Aksum (c. 340–400 CE), the Red Sea kingdom on the rim. British Museum; photo Ismoon, CC BY-SA 4.0.](figures/photos/coin_aksum.jpg){width=50%}
 
 ::: {.callout-note}
 ## How we know
@@ -493,7 +495,6 @@ are: open questions where the evidence underdetermines the answer.
 *Source: Flückiger, Hornung, Larch, Ludwig & Mees, "Roman Transport Network Connectivity and Economic Integration," The Review of Economic Studies 89(2): 774–810 (2022); CEPR Discussion Paper 14884. [DOI](https://doi.org/10.1093/restud/rdab036).*
 :::
 
-::: {.column-page}
 **Data exhibit — Roman coin hoards in southern India.** The densest physical trace of the
 bullion drain is the distribution of Roman silver and gold coins found in hoards across the
 Indian peninsula, clustering in the Tamil south and trailing off north and east. Plotted against
@@ -505,7 +506,6 @@ this:* combine published hoard catalogues with port locations to ask whether coi
 the *Periplus*'s emporia, and test how sensitive the picture is to the deposition bias.
 
 *Sources: published Roman-coin-hoard catalogues for South Asia (e.g. Turner, 1989; updated finds); Casson (1989) for the* Periplus *ports.*
-:::
 
 ::: {.callout-note}
 ## Research in focus — how big was a single cargo?
@@ -606,7 +606,6 @@ while the field's empirical depth sits in **OXREP / JRS / *Science Advances***.
   this chapter's "~5% of output" sizing.
 - **Milanović, Lindert & Williamson (2011)**, "Pre-industrial inequality," *Economic Journal* 121:
   255–272 — places Rome in a comparative inequality frame (the "inequality possibility frontier").
-
 
 ---
 

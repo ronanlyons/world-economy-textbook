@@ -282,10 +282,7 @@ Third, why the first globalisation provoked a backlash. From the late 1870s the 
 *Sources: Pascali (2017), Jacks & Pendakur (2010) and Chilosi & Federico (2015) on what drove integration; Tinker (1974) and Northrup (1995) on indenture; Polanyi (1944) and O'Rourke & Williamson (1999) on the backlash. Read more: Pascali (2017); O'Rourke & Williamson (1999), *Globalization and History*.*
 :::
 
-::: {.column-page}
 **Data exhibit --- the price gaps close, 1873--1913.** The chapter's empirical centrepiece is the convergence of commodity prices across the oceans, the physical signature of the first true globalisation. The gap between Liverpool and Bombay raw cotton fell from about 57 per cent to 20; London-Calcutta jute from 35 to 4; London-Rangoon rice from 93 to 26. These are not flows but prices, and their convergence is what distinguishes this period's integration from the trade of every earlier chapter, where prices in Europe and Asia moved independently. *What you could do with this:* set the closing Anglo-Asian price gaps beside the wage-rental ratios of the same decades (Australia a quarter of its 1870 level, Ireland up five-and-a-half times, Britain up nearly threefold, Spain flat) and ask whether commodity-price convergence translated into convergence of living standards --- or, as the periphery's experience suggests, did not.
-
-:::
 
 ![Commodity-price gaps closing, 1873--1913: the physical signature of the first true globalisation (Liverpool-Bombay cotton, London-Calcutta jute, London-Rangoon rice). Source: O'Rourke & Williamson.](figures/ch08-price-convergence.png){#fig-converge08 width=72%}
 
@@ -321,7 +318,6 @@ For this period the discipline's action sits in measurement: reconstructing trad
 - **Allen, Bassino, Ma, Moll-Murata & van Zanden (2011)**, "Wages, prices, and living standards in China, 1738--1925," *The Economic History Review* --- the comparative real-wage series underpinning the claim that the periphery integrated downward (China and India against Europe and Japan); the living-standards denominator for the divergence of fortunes. [DOI 10.1111/j.1468-0289.2010.00515.x](https://doi.org/10.1111/j.1468-0289.2010.00515.x)
 - **Jacks & Pendakur (2010)**, "Global Trade and the Maritime Transport Revolution," *Review of Economics and Statistics* --- finds the maritime transport revolution was not the primary driver of the trade boom; income growth and convergence were. The demand-side counterweight to a freight-cost-only story, and the direct foil to Pascali. [DOI 10.1162/rest_a_00026](https://doi.org/10.1162/rest_a_00026)
 - **Huber (1971)**, "Effect on Prices of Japan's Entry into World Commerce after 1858," *Journal of Political Economy* --- older but still the canonical estimate of Japan's terms-of-trade gain (roughly 3.5-fold) on opening; the clean autarky-to-free-trade natural experiment for the convergence apparatus. [DOI 10.1086/259771](https://doi.org/10.1086/259771)
-
 
 ---
 

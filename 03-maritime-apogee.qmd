@@ -50,8 +50,6 @@ The base under all of it was agriculture and craft. Tang prosperity rested on ir
 
 Externally, the Tang met the Indian Ocean at Guangzhou. The great southern port held a large quarter of foreign merchants — Arab, Persian and others — living under their own headmen, and through it ran the Nanhai or "Southern Seas" trade that linked China to Srivijaya, India and the Gulf. To manage it the state appointed a maritime trade commissioner, the shibo shi, by 714, who levied a heavy customs charge on incoming cargo and exercised a right of monopoly purchase over the most valuable goods before private sale was allowed. The turn to the sea was sharpened by disaster on land: the An Lushan rebellion of 755 to 763 shattered Tang military and fiscal power, broke the equal-field system, and loosened the dynasty's grip on the overland routes west — pushing the surviving commercial energy of the empire toward its southern coast. The scale of the resulting diaspora can be read, grimly, from its destruction: when the rebel Huang Chao sacked Guangzhou in 878 to 879, the foreign merchant community killed was put by Abu Zayd al-Sirafi at about 120,000 and by al-Masudi at some 200,000 — figures inflated but indicative of how large the resident foreign trading population had grown. The Tang gave way to the Song after 907, and under the Song the maritime economy would intensify into a full commercial surge — the story of the next chapter.^[**Sources:** Sen (1996); Lewis (loc 516); Abu Zayd / al-Masudi via Alpers; von Glahn (Loc 2602, 2632). **Read more:** Sen, "The Administration of Maritime Trade during the Tang and Song Dynasties" (1996).]
 
-![A string of Tang *kaiyuan tongbao* bronze cash --- the coin that set the East Asian standard for a thousand years, and the everyday money beneath China's commercialising economy. Photo: Gary Lee Todd, Wikimedia Commons, CC0.](figures/photos/coin-tang.jpg){#fig-cointang width=55%}
-
 **Trade profile**
 
 - **Main exports** — ceramics above all (Changsha stoneware, Yue celadon), silk and other fine textiles.
@@ -59,8 +57,11 @@ Externally, the Tang met the Indian Ocean at Guangzhou. The great southern port 
 - **Export markets** — Srivijaya and Southeast Asia, India, and the Gulf ports of the Abbasid world, reached through Guangzhou.
 - **Import sources** — the Nanhai trade with Srivijaya, India and the Indian Ocean; the Gulf and the Middle East at the far end of the route.^[**Sources:** von Glahn (Loc 2518); Hansen (Loc 344, 3194); Lewis (loc 516). **Read more:** Hansen, *The Year 1000* (2020).]
 
-![China as the eastern core: the Grand Canal binding the rice-growing south to the northern capitals, Chang'an at the overland terminus, and Guangzhou the great southern port facing the Nanhai trade (stylised; not to scale). Author's schematic.](figures/map-china-03.png){#fig-mapchina width=85%}
 :::
+
+![A string of Tang *kaiyuan tongbao* bronze cash --- the coin that set the East Asian standard for a thousand years, and the everyday money beneath China's commercialising economy. Photo: Gary Lee Todd, Wikimedia Commons, CC0.](figures/photos/coin-tang.jpg){#fig-cointang width=55%}
+
+![China as the eastern core: the Grand Canal binding the rice-growing south to the northern capitals, Chang'an at the overland terminus, and Guangzhou the great southern port facing the Nanhai trade (stylised; not to scale). Author's schematic.](figures/map-china-03.png){#fig-mapchina width=85%}
 
 ::: {.callout-tip collapse="true"}
 ## India — the workshop between two cores
@@ -82,8 +83,9 @@ Externally, India's role had changed since the age of Rome. It was no longer the
 - **Export markets** — the Abbasid Gulf and the Islamic west to one side; Srivijaya, Tang China and Southeast Asia to the other — India supplying both ends of the Gulf$\to$China route.
 - **Import sources** — the Persian Gulf and Arabia (bullion, horses, glass); China and Srivijaya (ceramics, eastern goods), reaching India along the same sea road.^[**Sources:** Roy (p.32, p.38) on the export staples and the horse trade; Kanisetti (Loc 4754, 4876) on glass and ceramics at Sanjan; Roy (p.27) on the long-run pattern. **Read more:** Roy, *India in the World Economy* (2012).]
 
-![India as the workshop between two cores: the three coastal arms (Gujarat, the Malabar pepper coast, the Coromandel coast) feeding the Gulf$\to$China sea road, with the cosmopolitan port of Sanjan catching goods from both ends of the ocean (stylised; not to scale). Author's schematic.](figures/map-india-03.png){#fig-mapindia width=85%}
 :::
+
+![India as the workshop between two cores: the three coastal arms (Gujarat, the Malabar pepper coast, the Coromandel coast) feeding the Gulf$\to$China sea road, with the cosmopolitan port of Sanjan catching goods from both ends of the ocean (stylised; not to scale). Author's schematic.](figures/map-india-03.png){#fig-mapindia width=85%}
 
 ::: {.callout-tip collapse="true"}
 ## Srivijaya — the keeper of the strait
@@ -113,8 +115,6 @@ Underneath the cities and the coin lay land and tax. The Abbasid fisc drew on a 
 
 Externally, the Abbasid core was the central node of Afro-Eurasian exchange, and the sea was its main artery. Its outlets were the Gulf ports — Basra at the head of the Gulf, Siraf on the Persian shore, and Oman's Sohar — from which ships sailed direct to Tang China, the longest regular sea route of the age, Basra to Guangzhou taking about five months. The merchants who worked it were Arab, Persian and, threading the overland and Mediterranean legs, the Jewish Radhanites, whose activity peaked between the 750s and 830s. The clearest measure of the core's reach, though, was the direction its silver ran. The dirham functioned as an international reserve coin, and it drained north: Islamic silver flowed up the Volga route into the Rus and Viking world in exchange for slaves and furs, the mirror image of the Roman silver that had once flowed east into India. The scale was real — dirham hoards in the north rose from under 300 in 800–810 to over 1,750 in 830–840. To the south and west, by contrast, gold flowed in: roughly two-thirds of all the gold entering Europe and Asia before 1492 came from West Africa, pooling in a realm that was, on balance, silver-exporting and gold-importing.^[**Sources:** on Siraf, Basra and Sohar sailing direct to Guangzhou and the hoards rising from <300 to >1,750; Brook (Loc 1969) on the Radhanite peak 750s-830s; Hansen (Loc 2069) on ~two-thirds of pre-1492 gold from West Africa. **Read more:** Frankopan, *The Silk Roads* (2015).]
 
-![An Abbasid gold dinar --- the coin whose weight and inscription 'Abd al-Malik's reform fixed for three centuries, and which a Mercian king would later imitate without being able to read it. Photo: Homo sapiens History, Wikimedia Commons, CC BY-SA 4.0.](figures/photos/coin-dinar.jpg){#fig-coindinar width=50%}
-
 **Trade profile**
 
 - **Main exports** — silver dirhams above all (functioning as bullion and reserve coin); fine textiles, including cotton; manufactures and craft goods; and, as carrier, a re-export trade in eastern spices and silks.
@@ -122,8 +122,11 @@ Externally, the Abbasid core was the central node of Afro-Eurasian exchange, and
 - **Export markets** — the Rus, Viking and Khazar north (paid in silver); Tang China and India to the east; al-Andalus and the Mediterranean to the west.
 - **Import sources** — the northern periphery (slaves, furs); West Africa and the Mediterranean (gold); China (silk, ceramics) and India (spices, cottons), reached by the Gulf ports.^[**Sources:** on the slaves-and-furs-for-silver pattern and the eastward goods trade; Bulliet (Page 3-5) on the Iranian textile and cotton economy. **Read more:** Hoyland, *In God's Path* (2015).]
 
-![The Abbasid core as a single commercial space: one free-trade zone from al-Andalus to Sind, anchored on Baghdad and the Gulf ports (Basra, Siraf, Sohar) that sent ships direct to Guangzhou, with silver draining north and gold drawn from West Africa (stylised; not to scale). Author's schematic.](figures/map-abbasid-03.png){#fig-mapabbasid width=85%}
 :::
+
+![An Abbasid gold dinar --- the coin whose weight and inscription 'Abd al-Malik's reform fixed for three centuries, and which a Mercian king would later imitate without being able to read it. Photo: Homo sapiens History, Wikimedia Commons, CC BY-SA 4.0.](figures/photos/coin-dinar.jpg){#fig-coindinar width=50%}
+
+![The Abbasid core as a single commercial space: one free-trade zone from al-Andalus to Sind, anchored on Baghdad and the Gulf ports (Basra, Siraf, Sohar) that sent ships direct to Guangzhou, with silver draining north and gold drawn from West Africa (stylised; not to scale). Author's schematic.](figures/map-abbasid-03.png){#fig-mapabbasid width=85%}
 
 ::: {.callout-tip collapse="true"}
 ## The northern periphery — the silver sink
@@ -162,8 +165,6 @@ Western Europe under the Carolingians was the periphery of this world, and its t
 
 The asymmetry of standing showed in symbols as much as goods. Offa of Mercia struck a gold coin imitating an Abbasid dinar, copying the Arabic inscription so faithfully — and so uncomprehendingly — that the profession of Islamic faith ran upside down beside his own name; the prestige of the dinar was worth borrowing even when its words could not be read. And Harun al-Rashid sent Charlemagne an elephant, a gift from the Abbasid court to a far-western king who could offer nothing of comparable exotic value in return. The traffic of prestige, like the traffic of silver, ran from the core outward to the margin.^[**Sources:** on Offa's gold-dinar imitation, Charlemagne's elephant and the prestige asymmetry; on Offa's coins with imperfect Arabic. **Read more:** Frankopan, *The Silk Roads* (2015).]
 
-![Offa of Mercia's gold imitation of an Abbasid dinar (774), copying an Arabic legend the Mercian die-cutter could not read --- the prestige of the core's money borrowed on the far western margin. Public domain, Wikimedia Commons.](figures/photos/coin-offa.jpg){#fig-coinoffa width=50%}
-
 **Trade profile**
 
 - **Main exports** — slaves, furs, amber, swords and timber, sent south and east to the Islamic and Mediterranean world.
@@ -171,6 +172,8 @@ The asymmetry of standing showed in symbols as much as goods. Offa of Mercia str
 - **Export markets** — the Abbasid world and the Mediterranean, reached overland and through the northern and Italian trade arms.
 - **Import sources** — the Islamic Middle East and, by relay, the Indian Ocean (silk and spices) and the dirham-minting south (silver).^[**Sources:** on Europe's export/import profile and the resource-and-slave margin. **Read more:** McCormick, *Origins of the European Economy* (2001).]
 :::
+
+![Offa of Mercia's gold imitation of an Abbasid dinar (774), copying an Arabic legend the Mercian die-cutter could not read --- the prestige of the core's money borrowed on the far western margin. Public domain, Wikimedia Commons.](figures/photos/coin-offa.jpg){#fig-coinoffa width=50%}
 
 ::: {.callout-note}
 ## How we know
@@ -270,9 +273,7 @@ The denominator has to be kept honest all the same. Long-distance trade was perh
 What set off the maritime boom around 1000? Valerie Hansen dates the decisive swing late, to roughly 960–1000, and argues it needed no new technology at all: the causal chain ran from agricultural surplus to a larger population to more trade, a demographic and agrarian engine rather than an institutional one. Against her stand the "commercial-revolution" accounts, which credit new institutions, better ships or new money for the take-off and place it earlier. The two sides disagree about both the *when* and the *why* of the land-to-sea reorientation, and the evidence does not yet settle it. This book leaves the question genuinely open, as a live quarrel about whether trade booms are pushed by technology and institutions or pulled by the slow accumulation of people and food.
 :::
 
-::: {.column-page}
 **Data exhibit — the largest cities of the connected world, c.1000.** With no GDP series for any pre-modern economy, the size of cities is the best single proxy for where the weight of the economy sat: cities had to be fed, supplied and governed out of a surrounding surplus, so a very large city is a marker of a very productive region. Around 1000 the largest cities were Baghdad, Chang'an and Córdoba — all in Asia or the Islamic world — against a Carolingian Aachen of a few thousand. The figures are order-of-magnitude estimates drawn from the urban datasets of Bosker, Buringh and van Zanden (2013) and Reba, Reitsma and Seto (2016), and they are taught here as a debate, not a census. *What you could do with this:* take a published urban-population dataset, rank the top twenty cities of the year 1000 by region, and ask how sensitive the "centre in Asia" verdict is to the disputed population of Baghdad — does the conclusion survive halving it?
-:::
 
 ## Threads forward
 
@@ -305,7 +306,6 @@ Where the action is now: a quantitative economic history of this world, built fr
 - **Shatzmiller (2022)**, "Structural Change and Economic Development in the Islamic Middle East 700–1500: Population Levels and Property Rights," *Scottish Journal of Political Economy* 69(1): 4–22 — population and property rights behind the early-Islamic standard of living. [DOI 10.1111/sjpe.12277]
 - **Rubin (2010)**, "Bills of Exchange, Interest Bans, and Impersonal Exchange in Islam and Christianity," *Explorations in Economic History* 47(2): 213–227 — why a shared instrument stayed personal-network-bound in the Islamic world; ties to the *suftaja* credit story, and the origin of the "long divergence" question paid off in @sec-ch07. [DOI 10.1016/j.eeh.2009.06.003]
 - **Ross & Bettenay (2023)**, "Gold and Silver: Relative Values in the Ancient Past," *Cambridge Archaeological Journal* 34(3): 403–420 — the long-run gold-to-silver ratio as a supply-geography price; the grounding for this chapter's deep dive. [DOI 10.1017/S0959774323000355]
-
 
 ::: {.callout-note}
 ## Research in focus — Pamuk & Shatzmiller (2014): wages and GDP in the medieval Middle East

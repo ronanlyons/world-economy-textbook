@@ -16,8 +16,9 @@
 
 % Floats: keep figures where they are written (fig-pos: H in _quarto.yml needs this),
 % and, where a figure does float, let pages fill more fully and avoid float-only pages.
-% Parts labelled by letter: "Part A", "Part B", ... (not "Part I").
+% Parts labelled by letter: "Part A", "Part B", ... (not "Part I"), no trailing dot.
 \renewcommand{\thepart}{\Alph{part}}
+\renewcommand*{\partformat}{\partname~\thepart}
 
 \usepackage{float}
 \setcounter{topnumber}{3}

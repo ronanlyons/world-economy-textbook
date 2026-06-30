@@ -74,8 +74,9 @@ format:
       - bottom=26mm
     number-sections: true   # number the 10 chapters so @sec-chNN cross-refs resolve ("Chapter 2")
     number-depth: 1         # number chapters only, not the within-chapter ## sections
-    fig-pos: 'H'      # pin in place (float pkg) -- tolerates figures still inside callout boxes;
-                      # end-of-profile structure maps now sit just outside their boxes
+    fig-pos: 'tbp'    # float to top/bottom/float-page only (no inline 'h'): text flows without
+                      # whitespace, and figures never sit inline jammed against a following callout
+                      # box. All figures live outside callout boxes (no "Not in outer par mode").
     pdf-engine: xelatex
     mainfont: "TeX Gyre Pagella"   # Palatino-like book serif; ships with TinyTeX (reproducible)
     sansfont: "TeX Gyre Heros"

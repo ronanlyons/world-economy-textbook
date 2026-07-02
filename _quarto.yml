@@ -8,7 +8,8 @@ book:
   author:
     - name: "Ronan C. Lyons"
       affiliation: "Trinity College Dublin and the Centre for Economics, Policy & History"
-  date: "Version 0.1 (June 2026)"
+  date: last-modified          # auto: date of the most recent source change (no manual edits)
+  date-format: "MMMM YYYY"     # e.g. "July 2026"
   cover-image: images/cover-dhow.jpg
   search: true
   downloads: [pdf]

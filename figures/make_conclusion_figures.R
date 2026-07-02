@@ -50,3 +50,36 @@ title(main = "The centre of gravity over the very long run", cex.main = 1.05, co
 dev.off()
 
 cat("conclusion figures written\n")
+
+# ---------------------------------------------------------------------------
+# Coda: Kyoto cherry-blossom (full-flowering day-of-year), 812-2026 -- the very long
+# run in one record. Eleven centuries in a narrow band, then an unprecedented modern
+# break. Data: Aono via Our World in Data (staged in ../data/).
+{
+sil <- "#8a8d91"
+ch <- read.csv("../data/kyoto_cherry_blossom_owid.csv")
+ok <- !is.na(ch$full_flowering_date)
+doy2lab <- function(d) format(as.Date(round(d) - 1, origin = "2001-01-01"), "%b %d")
+png("cherry-climate-11.png", width = 1650, height = 880, res = 150)
+par(mar = c(5.0, 5.6, 3.0, 1.2))
+plot(ch$year[ok], ch$full_flowering_date[ok], type = "n",
+     xlim = c(812, 2045), ylim = c(123, 82), axes = FALSE, xlab = "", ylab = "")  # y reversed: earlier = warmer up
+norm <- mean(ch$full_flowering_date[ok & ch$year < 1850])
+abline(h = norm, lty = 3, lwd = 1.4, col = sil)
+text(820, norm + 1.6, sprintf("pre-1850 band ~%s", doy2lab(norm)), col = grey, cex = 0.72, font = 3, adj = 0)
+points(ch$year[ok], ch$full_flowering_date[ok], pch = 19, cex = 0.45, col = "#1f4e7948")
+ma <- !is.na(ch$average_last_30_years)
+lines(ch$year[ma], ch$average_last_30_years[ma], lwd = 3.0, col = base_blue)
+text(1120, 116, "eleven centuries in a narrow band\n(Little Ice Age a touch later)", col = grey, cex = 0.78, font = 3, adj = 0)
+text(2040, 88.5, "the twelfth century breaks:\nearliest blooms in 1,200 years", col = accent, cex = 0.76, font = 3, adj = 1)
+yt <- c(84, 91, 98, 105, 112, 119)
+axis(1, at = seq(900, 2000, 100), col = grey, col.axis = grey, cex.axis = 0.85)
+axis(2, at = yt, labels = doy2lab(yt), col = base_blue, col.axis = base_blue, las = 1, cex.axis = 0.82)
+mtext("Year (CE)", 1, line = 2.4, col = grey, cex = 0.95)
+mtext("Peak-bloom date (earlier = warmer spring)", 2, line = 4.2, col = base_blue, cex = 0.92)
+title(main = "The very long run in one record: Kyoto's cherry blossom, 812-2026", cex.main = 0.96, col.main = base_blue)
+mtext("Aono & Kazui (2007); Aono & Saito (2009); via Our World in Data. Full-flowering day-of-year; bold line = 30-yr mean. Kyoto/Japan proxy.",
+      side = 1, line = 3.8, cex = 0.56, col = grey)
+dev.off()
+}
+cat("conclusion cherry-climate figure written\n")

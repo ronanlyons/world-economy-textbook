@@ -119,3 +119,85 @@ title(main = "Why the silver ran east: the gold-to-silver ratio, c.1600", cex.ma
 dev.off()
 
 cat("ch05 figures written\n")
+
+# ---------------------------------------------------------------------------
+# Data exhibit: the speed of news to Venice, c.1500 (Sardella 1948). Speed vs distance.
+# Shows distance barely predicts speed -- terrain (the Alps) and the post road did.
+{
+city  <- c("Innsbruck","Augsburg","Rome","Vienna","Naples","Palermo","Brussels","Paris","London","Valladolid")
+dist  <- c(215, 343, 394, 436, 534, 819, 842, 843, 1136, 1433)       # great-circle km to Venice
+spd   <- c(1.5, 1.2, 4.1, 1.4, 2.8, 1.4, 3.5, 2.9, 2.0, 2.6)         # km/h = km / (normal days x 24)
+alp   <- c(TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE)  # trans-Alpine origin
+lpos  <- c(4, 1, 4, 2, 4, 1, 3, 1, 3, 2)
+png("news-speed-05.png", width = 1500, height = 880, res = 150)
+par(mar = c(5.2, 4.6, 3.0, 1.2))
+plot(dist, spd, type = "n", xlim = c(120, 1560), ylim = c(0.8, 4.6), axes = FALSE, xlab = "", ylab = "")
+abline(h = mean(spd), lty = 3, lwd = 1.4, col = silver)
+text(1555, mean(spd) + 0.12, sprintf("mean ~%.1f km/h", mean(spd)), col = grey, cex = 0.72, font = 3, adj = 1)
+cols <- ifelse(alp, accent, base_blue)
+points(dist, spd, pch = 19, cex = 1.5, col = cols)
+text(dist, spd, city, pos = lpos, offset = 0.5, col = cols, cex = 0.78, font = 2)
+text(150, 2.20, "closest, yet slowest:\ntrans-Alpine crossing", col = accent, cex = 0.76, font = 3, adj = 0)
+text(610, 4.50, "far but fast: well-organised lowland post-roads", col = base_blue, cex = 0.78, font = 3, adj = 0)
+text(819, 1.40, "sea route", col = grey, cex = 0.70, font = 3, pos = 4, offset = 0.5)
+axis(1, at = seq(200, 1400, 200), col = grey, col.axis = grey, cex.axis = 0.9)
+axis(2, at = 1:4, col = base_blue, col.axis = base_blue, las = 1, cex.axis = 0.9)
+mtext("Straight-line distance to Venice (km)", 1, line = 2.5, col = grey, cex = 0.95)
+mtext("News speed (km/h, day and night)", 2, line = 2.7, col = base_blue, cex = 0.95)
+legend("bottomright", inset = c(0, 0.08), bty = "n", pch = 19, pt.cex = 1.2,
+       col = c(accent, base_blue), legend = c("trans-Alpine origin", "lowland post-road / sea"),
+       text.col = grey, cex = 0.74)
+title(main = "Distance barely set the speed: the Alps and the post road did", cex.main = 0.97, col.main = base_blue)
+mtext("Sardella (1948), Cahiers des Annales 1 (OCLC 3854061); via Braudel. Speed = great-circle km / (normal transit x 24 h).",
+      side = 1, line = 4.0, cex = 0.56, col = grey)
+dev.off()
+}
+cat("ch05 news-speed figure written\n")
+
+# ---------------------------------------------------------------------------
+# Little Ice Age -- regional heterogeneity: the cold trough arrives centuries
+# apart. Three native-annual tree-ring temperature reconstructions to 1600
+# (Europe, N. America, S. America), each an anomaly vs a common 1901-95 window,
+# 30-yr smoothed. Supports the ch.5 debate box (Kelly-O Grada vs White / Buntgen).
+# Raw NOAA WDS-Paleo files staged in ../data/ (header/data-start lines confirmed).
+{
+  na_col <- "#6a8fc0"                                   # N. America -- mid blue (ch05 palette)
+  sm <- function(x, k = 30) as.numeric(stats::filter(x, rep(1/k, k), sides = 2))
+  eu <- read.table("../data/buentgen2006_alps.txt",          skip = 104, header = TRUE)          # Year, T_recon (JJA anomaly)
+  na <- read.table("../data/goa2014_temperature.txt",         skip = 87,  header = TRUE)          # age_AD, temp (absolute degC)
+  sa <- read.table("../data/SSA-Mean_Rekon_DJF_900-1995.txt", header = TRUE, check.names = FALSE) # Year, SSA-Mean (DJF anomaly)
+  names(eu) <- c("year", "t"); names(na) <- c("year", "t"); sa <- sa[, 1:2]; names(sa) <- c("year", "t")
+  reb <- function(d) { d <- d[order(d$year), ]; d$a <- d$t - mean(d$t[d$year >= 1901 & d$year <= 1995], na.rm = TRUE); d$s <- sm(d$a); d }
+  eu <- reb(eu); na <- reb(na); sa <- reb(sa)
+  win <- c(1000, 1600); clip <- function(d) d[d$year >= win[1] & d$year <= win[2], ]
+  euw <- clip(eu); naw <- clip(na); saw <- clip(sa)
+  tr <- function(d) { i <- which.min(d$s); c(year = d$year[i], val = d$s[i]) }
+  te <- tr(euw); tn <- tr(naw); ts <- tr(saw)
+  yl <- range(c(euw$a, naw$a, saw$a), na.rm = TRUE); yl <- c(floor(yl[1]), ceiling(yl[2]))
+  png("lia-regional-05.png", width = 1550, height = 830, res = 150)
+  par(mar = c(4.4, 4.8, 3.0, 1.2), xaxs = "i")
+  plot(NA, xlim = win, ylim = yl, axes = FALSE, xlab = "", ylab = "")
+  rect(1275, yl[1], 1325, yl[2], col = "#eef0f2", border = NA)
+  text(1300, yl[2] - 0.2, "'Great Transition' c.1300", col = grey, cex = 0.68, font = 3)
+  abline(h = 0, lty = 3, lwd = 1.2, col = silver)
+  for (d in list(euw, naw, saw)) lines(d$year, d$a, col = adjustcolor(grey, 0.18), lwd = 0.4)
+  lines(euw$year, euw$s, col = base_blue, lwd = 3)
+  lines(naw$year, naw$s, col = na_col,   lwd = 3)
+  lines(saw$year, saw$s, col = accent,   lwd = 3)
+  pts <- rbind(te, tn, ts); cols <- c(base_blue, na_col, accent)
+  points(pts[, "year"], pts[, "val"], pch = 21, bg = "white", col = cols, cex = 1.4, lwd = 2)
+  text(te["year"] - 8, te["val"] - 0.12, round(te["year"]), col = base_blue, cex = 0.7, font = 2, adj = 1)
+  text(tn["year"],     tn["val"] - 0.30, round(tn["year"]), col = na_col,    cex = 0.7, font = 2)
+  text(ts["year"],     ts["val"] + 0.30, round(ts["year"]), col = accent,    cex = 0.7, font = 2)
+  axis(1, at = seq(1000, 1600, 100), col = grey, col.axis = grey, cex.axis = 0.9)
+  axis(2, at = seq(yl[1], yl[2], 1), col = grey, col.axis = grey, las = 1, cex.axis = 0.9)
+  mtext("Year (CE)", 1, line = 2.4, col = grey, cex = 0.95)
+  mtext(bquote("Temperature anomaly (" * degree * "C, vs 1901-95; 30-yr mean)"), 2, line = 2.7, col = base_blue, cex = 0.9)
+  legend("bottomleft", bty = "n", cex = 0.78, lwd = 3, seg.len = 1.5, col = c(base_blue, na_col, accent),
+         legend = c("Europe (Alps)", "N. America (Gulf of Alaska)", "S. America (southern SA)"))
+  title(main = "No single 'Great Transition': the cold arrives centuries apart", cex.main = 0.97, col.main = base_blue)
+  mtext(sprintf("Native-annual tree-ring reconstructions to 1600 CE. Coldest 30-yr window: Europe %d, N. America %d, S. America %d. Sources: Buntgen 2006; Wiles 2014; Neukom 2011 (NOAA WDS-Paleo).",
+        round(te["year"]), round(tn["year"]), round(ts["year"])), side = 1, line = 3.6, cex = 0.54, col = grey)
+  dev.off()
+}
+cat("ch05 lia-regional figure written\n")

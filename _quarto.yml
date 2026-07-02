@@ -17,23 +17,23 @@ book:
   chapters:
     - index.qmd
     - 00-introduction.qmd
-    - part: "A World without a Centre"
+    - part: parts/part-a.qmd
       chapters:
         - 01-deep-structures.qmd
         - 02-first-world-system.qmd
-    - part: "The Ocean at its Height"
+    - part: parts/part-b.qmd
       chapters:
         - 03-maritime-apogee.qmd
         - 04-high-medieval-mongol.qmd
-    - part: "The World Becomes One — and Stays Asian"
+    - part: parts/part-c.qmd
       chapters:
         - 05-world-becomes-one.qmd
         - 06-companies-coercion.qmd
-    - part: "The Great Reversal"
+    - part: parts/part-d.qmd
       chapters:
         - 07-great-divergence.qmd
         - 08-first-global-economy.qmd
-    - part: "Break and Return"
+    - part: parts/part-e.qmd
       chapters:
         - 09-disintegration.qmd
         - 10-asian-rebalancing.qmd

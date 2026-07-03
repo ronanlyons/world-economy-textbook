@@ -21,11 +21,13 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Set up Quarto (+ TinyTeX for PDF)
+      - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: "1.9.38"     # match the local toolchain
-          tinytex: true
+
+      - name: Set up TinyTeX (for PDF; exposes tlmgr on PATH)
+        uses: r-lib/actions/setup-tinytex@v2
 
       - name: Install TeX Gyre fonts (mainfont/sansfont used by the book)
         run: tlmgr install tex-gyre tex-gyre-math

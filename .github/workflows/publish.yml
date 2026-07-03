@@ -29,8 +29,19 @@ jobs:
       - name: Set up TinyTeX (for PDF; exposes tlmgr on PATH)
         uses: r-lib/actions/setup-tinytex@v2
 
-      - name: Install TeX Gyre fonts (mainfont/sansfont used by the book)
-        run: tlmgr install tex-gyre tex-gyre-math
+      - name: Install and register TeX Gyre fonts (mainfont/sansfont used by the book)
+        # tlmgr puts the .otf in the TeX tree, but XeTeX resolves fontspec fonts
+        # by name via fontconfig, which does not scan the TinyTeX tree. So copy the
+        # fonts into a fontconfig-scanned dir and refresh the cache.
+        run: |
+          tlmgr install tex-gyre tex-gyre-math
+          GYRE_DIR="$(dirname "$(kpsewhich texgyrepagella-regular.otf)")"
+          echo "TeX Gyre fonts located in: $GYRE_DIR"
+          mkdir -p "$HOME/.local/share/fonts"
+          cp "$GYRE_DIR"/texgyre*.otf "$HOME/.local/share/fonts/"
+          fc-cache -f
+          echo "--- fonts now visible to fontconfig ---"
+          fc-list | grep -iE "gyre (pagella|heros)" | sort
 
       - name: Set up R
         uses: r-lib/actions/setup-r@v2

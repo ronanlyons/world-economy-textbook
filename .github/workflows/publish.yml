@@ -1,0 +1,47 @@
+name: Render and publish
+
+# Rebuild the book and publish it to the gh-pages branch on every push to main.
+# This makes "push to main" the single step: source update -> live site update.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:        # allow manual runs from the Actions tab
+
+permissions:
+  contents: write           # needed to push the built site to gh-pages
+
+concurrency:                # never let two publishes race
+  group: quarto-publish
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Quarto (+ TinyTeX for PDF)
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          version: "1.9.38"     # match the local toolchain
+          tinytex: true
+
+      - name: Install TeX Gyre fonts (mainfont/sansfont used by the book)
+        run: tlmgr install tex-gyre tex-gyre-math
+
+      - name: Set up R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          use-public-rspm: true # install pre-built Linux binaries (fast, no compiling)
+
+      - name: Install R packages for the knitr engine
+        run: Rscript -e 'install.packages(c("knitr", "rmarkdown"))'
+
+      - name: Render (HTML + PDF) and publish to gh-pages
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+          render: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

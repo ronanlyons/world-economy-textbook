@@ -8,16 +8,16 @@ png("cog-locator-01.png", width = 1400, height = 470, res = 150)
 par(mar = c(2.5, 1, 2.5, 1))
 plot(NA, xlim = c(0, 1), ylim = c(0, 1), axes = FALSE, xlab = "", ylab = "")
 rect(0.05, 0.40, 0.95, 0.60, col = land, border = base_blue, lwd = 2)
-text(0.05, 0.78, "ASIA", col = base_blue, font = 2, cex = 1.3, adj = 0)
-text(0.95, 0.78, "NORTH ATLANTIC", col = base_blue, font = 2, cex = 1.3, adj = 1)
+text(0.05, 0.78, "NORTH ATLANTIC", col = base_blue, font = 2, cex = 1.3, adj = 0)
+text(0.95, 0.78, "ASIA", col = base_blue, font = 2, cex = 1.3, adj = 1)
 segments(seq(0.05, 0.95, length.out = 5), 0.38, seq(0.05, 0.95, length.out = 5), 0.62, col = base_blue, lwd = 1)
-# several loosely linked cores - markers keyed a-d (east -> west), no single weight
-dotx <- c(0.20, 0.33, 0.40, 0.55)
+# several loosely linked cores - markers keyed a-d WEST -> EAST, matching the axis, no single weight
+dotx <- c(0.45, 0.60, 0.67, 0.80)
 for (x in dotx) { points(x, 0.50, pch = 21, cex = 2.7, col = base_blue, bg = "#cdddee", lwd = 1.5) }
 text(dotx, 0.50, c("a", "b", "c", "d"), col = base_blue, font = 2, cex = 0.9)
-text(0.37, 0.25, "no single centre - several loosely linked riverine cores;",
+text(0.63, 0.25, "no single centre - several loosely linked riverine cores;",
      col = "#333333", font = 3, cex = 1.0)
-text(0.37, 0.13, "the spine is not yet applicable", col = accent, font = 3, cex = 1.0)
+text(0.63, 0.13, "the spine is not yet applicable", col = accent, font = 3, cex = 1.0)
 title(main = "Centre-of-gravity locator", col.main = base_blue, cex.main = 1.3)
 dev.off()
 
@@ -70,12 +70,13 @@ plot(NA, xlim = c(0, 130), ylim = c(0, 92), axes = FALSE, xlab = "", ylab = "", 
 mx <- c(40,60,84,100,104, 98,84,66,52,44, 40)
 my <- c(70,76,72,64,52, 40,34,36,42,54, 70)
 polygon(mx, my, col = land, border = base_blue, lwd = 2)
-text(72, 58, "MESOPOTAMIA", font = 2, col = base_blue, cex = 0.86)
-text(72, 52, "resource-poor alluvium = the DEMAND CORE", cex = 0.62, col = grey, font = 3)
+text(70, 62, "MESOPOTAMIA", font = 2, col = base_blue, cex = 0.86)
+# two lines, not one: the single-line version ran straight through the Ashur label
+text(70, 55, "resource-poor alluvium\n= the DEMAND CORE", cex = 0.60, col = grey, font = 3)
 points(64, 46, pch = 19, col = accent, cex = 1.2); text(64, 46, "Uruk", pos = 1, cex = 0.72)
-points(80, 50, pch = 19, col = accent, cex = 0.9); text(80, 50, "Ashur", pos = 3, cex = 0.64)
+points(84, 47, pch = 19, col = accent, cex = 0.9); text(84, 47, "Ashur", pos = 4, cex = 0.64)
 # imports in: tin/copper/lapis/carnelian from all sides
-arrows(108, 66, 92, 58, length = 0.09, lwd = 2.2, col = base_blue); text(112, 70, "tin & textiles\n(Kanesh, ~950 km)", cex = 0.6, col = base_blue, pos = 2)
+arrows(108, 66, 92, 58, length = 0.09, lwd = 2.2, col = base_blue); text(122, 75, "tin & textiles\n(Kanesh, ~950 km)", cex = 0.6, col = base_blue, pos = 2)
 arrows(110, 30, 96, 42, length = 0.09, lwd = 2.2, col = gold); text(116, 24, "lapis (Badakhshan,\n~2,500 km)", cex = 0.6, col = gold, pos = 2)
 arrows(86, 22, 78, 36, length = 0.09, lwd = 2.2, col = accent); text(88, 16, "copper & carnelian\n(Gulf via Dilmun)", cex = 0.6, col = accent, pos = 4)
 title(main = "Mesopotamia/Uruk: the resource-poor demand core", cex.main = 0.96, col.main = base_blue)
@@ -83,23 +84,35 @@ dev.off()
 
 # ---------------------------------------------------------------------------
 # 5. The cycles timeline (deep time -> 500 BCE)
-png("phase-cycles-01.png", width = 1700, height = 600, res = 150, pointsize = 15)
-par(mar = c(3, 1, 3, 1))
-plot(NA, xlim = c(-3700, -300), ylim = c(0, 10), axes = FALSE, xlab = "", ylab = "")
+png("phase-cycles-01.png", width = 1700, height = 560, res = 150, pointsize = 15)
+par(mar = c(2, 1, 3, 1))
+# Linear time axis, one contiguous row: the ~300-year gap that the steppe
+# technologies fill between cycles two and three is real time, not spacing.
+plot(NA, xlim = c(-3760, -240), ylim = c(0, 10), axes = FALSE, xlab = "", ylab = "")
 ph <- list(
-  c(-3700, -3500, "0 deep time", "#e6e6e6"),
-  c(-3500, -3000, "1 Uruk system", "#cdddee"),
-  c(-3000, -1900, "2 Gulf trade",  "#bcd2e8"),
-  c(-2000, -1200, "3 steppe revolution", "#dfe7d8"),
-  c(-1900, -1700, "4 Harappan unwind", "#e8d4d4"),
-  c(-1177, -900,  "5 LBA collapse", "#e0c4c4"))
-ypos <- c(6.5, 6.5, 6.5, 4.2, 6.5, 6.5)
-for (i in seq_along(ph)) { p <- ph[[i]]; x0 <- as.numeric(p[1]); x1 <- as.numeric(p[2]); y <- ypos[i]
-  rect(x0, y - 1.1, x1, y + 1.1, col = p[4], border = base_blue)
-  text((x0 + x1) / 2, y + 1.7, p[3], cex = 0.66, font = 2, col = base_blue) }
+  c(-3700, -3500, "deep time", "#e6e6e6", "top"),
+  c(-3500, -3000, "Cycle 1\nUruk sphere", "#cdddee", "top"),
+  c(-3000, -1900, "Cycle 2: Gulf / Harappan trade", "#bcd2e8", "top"),
+  c(-1900, -1600, "", "#dfe7d8", "below"),
+  c(-1600, -1177, "Cycle 3\nLBA system", "#cdddee", "top"),
+  c(-1177, -500,  "reset: empire + iron + coin", "#e6e6e6", "top"))
+for (k in seq_along(ph)) {
+  q <- ph[[k]]; x0 <- as.numeric(q[1]); x1 <- as.numeric(q[2])
+  rect(x0, 5.4, x1, 7.6, col = q[4], border = base_blue)
+  if (q[5] == "top") text((x0 + x1) / 2, 8.5, q[3], cex = 0.66, font = 2, col = base_blue)
+}
+# the narrow interval is too tight to label in place: leader down to a caption
+segments(-1750, 5.4, -1750, 3.9, col = green)
+text(-1750, 3.4, "between the cycles:\nhorse, wheel, chariot", cex = 0.62, font = 2, col = green)
+# the two unwindings, marked where they actually fall
+segments(-1900, 5.4, -1900, 4.8, col = accent, lty = 3)
+text(-1935, 4.5, "Harappan end", cex = 0.62, col = accent, font = 2, adj = 1)
+segments(-1177, 5.4, -1177, 4.8, col = accent, lty = 3)
+text(-1142, 4.5, "LBA collapse", cex = 0.62, col = accent, font = 2, adj = 0)
 axx <- c(-3500, -3000, -2500, -2000, -1500, -1000, -500)
-segments(axx, 2.7, axx, 2.9, col = grey); text(axx, 2.1, paste0(abs(axx), " BCE"), cex = 0.62, col = grey)
-title(main = "Four thousand years in cycles, not one arc", cex.main = 1.02, col.main = base_blue)
+segments(axx, 1.7, axx, 1.95, col = grey); text(axx, 1.1, paste0(abs(axx), " BCE"), cex = 0.62, col = grey)
+segments(-3700, 1.95, -500, 1.95, col = grey)
+title(main = "Three thousand years in three cycles, not one arc", cex.main = 1.02, col.main = base_blue)
 dev.off()
 
 # ---------------------------------------------------------------------------

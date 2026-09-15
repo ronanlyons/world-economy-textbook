@@ -1,0 +1,381 @@
+year,region,gdp_share,gdp_share_afroeurasia,gdp_2011usd_millions,source,kind,series
+1,Western Offshoots,0.0052,,1450541.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1,Latin America,0.05146,,13691352.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1,Western Europe,0.12768,0.12353,31120759.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1,Sub Saharan Africa,0.02543,0.03145,7923797.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1,North Africa,0.0247,0.03093,7791993.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1,West Asia,0.06698,0.06341,15975226.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1,Eastern Europe,0.03508,0.02989,7529764.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1,South and South East Asia,0.38121,0.43724,110151497.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1,East Asia,0.28225,0.28354,71430656.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,Western Offshoots,0.00533,,1512461.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,Latin America,0.05387,,14585527.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,Western Europe,0.13387,0.12958,33199876.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,Sub Saharan Africa,0.02839,0.03513,8999651.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,North Africa,0.0259,0.03246,8315860.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,West Asia,0.07345,0.06957,17824054.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,Eastern Europe,0.03713,0.03164,8107263.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,South and South East Asia,0.39518,0.45349,116187792.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+100,East Asia,0.24689,0.24813,63572157.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,Western Offshoots,0.00549,,1577814.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,Latin America,0.05674,,15539913.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,Western Europe,0.1404,0.136,35223614.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,Sub Saharan Africa,0.03211,0.03976,10297756.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,North Africa,0.02723,0.03414,8843053.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,West Asia,0.0817,0.07744,20058317.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,Eastern Europe,0.03937,0.03357,8694277.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,South and South East Asia,0.41098,0.47194,122234486.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+200,East Asia,0.20597,0.20715,53652162.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,Western Offshoots,0.00614,,1646816.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,Latin America,0.06478,,16559201.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,Western Europe,0.14649,0.14208,34304665.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,Sub Saharan Africa,0.03967,0.04918,11874997.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,North Africa,0.02782,0.03492,8432399.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,West Asia,0.09564,0.09076,21914878.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,Eastern Europe,0.04311,0.03681,8888837.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,South and South East Asia,0.46143,0.53053,128097221.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+300,East Asia,0.11491,0.11571,27939102.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,Western Offshoots,0.00603,,1719697.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,Latin America,0.06487,,17648548.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,Western Europe,0.13346,0.12938,33263149.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,Sub Saharan Africa,0.04333,0.0537,13804855.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,North Africa,0.02487,0.03121,8024701.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,West Asia,0.08457,0.08023,20627084.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,Eastern Europe,0.04145,0.03537,9094307.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,South and South East Asia,0.45342,0.52112,133974854.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+400,East Asia,0.148,0.14898,38299807.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,Western Offshoots,0.00604,,1796720.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,Latin America,0.06631,,18813702.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,Western Europe,0.10973,0.1063,28523647.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,Sub Saharan Africa,0.04871,0.06031,16182916.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,North Africa,0.02215,0.02778,7454071.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,West Asia,0.07725,0.07322,19649356.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,Eastern Europe,0.03898,0.03324,8919618.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,South and South East Asia,0.45392,0.52124,139870571.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+500,East Asia,0.1769,0.17792,47742148.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,Western Offshoots,0.00591,,1878173.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,Latin America,0.06619,,20061127.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,Western Europe,0.08351,0.08081,23185322.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,Sub Saharan Africa,0.05392,0.06669,19134390.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,North Africa,0.01914,0.02399,6882068.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,West Asia,0.06991,0.06619,18991579.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,Eastern Europe,0.03577,0.03047,8743628.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,South and South East Asia,0.44297,0.50813,145788784.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+600,East Asia,0.22267,0.22371,64186529.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,Western Offshoots,0.00606,,1964375.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,Latin America,0.06918,,21398167.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,Western Europe,0.09398,0.09094,26626774.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,Sub Saharan Africa,0.06303,0.07796,22824729.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,North Africa,0.02022,0.02533,7416621.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,West Asia,0.06956,0.06587,19285315.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,Eastern Europe,0.03792,0.03231,9460694.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,South and South East Asia,0.45316,0.51983,152198911.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+700,East Asia,0.18688,0.18776,54971976.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,Western Offshoots,0.00619,,2055708.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,Latin America,0.07205,,22833296.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,Western Europe,0.10542,0.102,30602209.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,Sub Saharan Africa,0.07405,0.09157,27475042.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,North Africa,0.02093,0.02621,7865102.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,West Asia,0.06896,0.06529,19590259.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,Eastern Europe,0.03991,0.034,10200319.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,South and South East Asia,0.461,0.52876,158645761.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+800,East Asia,0.15148,0.15216,45653931.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,Western Offshoots,0.00607,,2202672.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,Latin America,0.07164,,24818622.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,Western Europe,0.10984,0.10649,34855323.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,Sub Saharan Africa,0.07675,0.0951,31128454.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,North Africa,0.02042,0.02563,8390112.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,West Asia,0.06532,0.06197,20283099.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,Eastern Europe,0.04047,0.03454,11306967.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,South and South East Asia,0.43993,0.5056,165496483.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+900,East Asia,0.16955,0.17067,55864088.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,assumption,reconstructed_pre1820_chained
+1000,Western Offshoots,0.00622,,2352101.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1000,Latin America,0.07425,,26750117.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1000,Western Europe,0.12016,0.11667,39659458.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1000,Sub Saharan Africa,0.08271,0.10264,34890914.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1000,North Africa,0.02064,0.02594,8819294.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1000,West Asia,0.05774,0.05486,18647283.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1000,Eastern Europe,0.04267,0.03648,12399477.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1000,South and South East Asia,0.44047,0.50701,172348096.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1000,East Asia,0.15514,0.1564,53166470.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,Western Offshoots,0.00529,,2514118.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,Latin America,0.06565,,29770468.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,Western Europe,0.11898,0.11592,49421913.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,Sub Saharan Africa,0.07371,0.0918,39137967.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,North Africa,0.01522,0.01921,8188815.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,West Asia,0.04073,0.03884,16558650.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,Eastern Europe,0.04105,0.03521,15013189.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,South and South East Asia,0.36465,0.42116,179565781.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1100,East Asia,0.2747,0.27787,118472570.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,Western Offshoots,0.00509,,2732808.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,Latin America,0.06419,,32846538.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,Western Europe,0.14602,0.14297,68451783.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,Sub Saharan Africa,0.07265,0.09092,43528269.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,North Africa,0.01281,0.01624,7773793.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,West Asia,0.03712,0.03556,17022616.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,Eastern Europe,0.04674,0.04028,19285696.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,South and South East Asia,0.33612,0.39014,186786276.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1200,East Asia,0.27927,0.28389,135919247.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,Western Offshoots,0.00517,,2926073.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,Latin America,0.0667,,35998560.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,Western Europe,0.20168,0.19862,99706944.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,Sub Saharan Africa,0.07754,0.09761,48999647.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,North Africa,0.01275,0.01626,8160312.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,West Asia,0.03307,0.03187,16000074.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,Eastern Europe,0.05434,0.04712,23652165.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,South and South East Asia,0.32692,0.3817,191610489.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1300,East Asia,0.22182,0.22682,113862105.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,Western Offshoots,0.00581,,3163023.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,Latin America,0.07555,,39256185.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,Western Europe,0.15227,0.14997,72479943.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,Sub Saharan Africa,0.09043,0.11384,55016034.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,North Africa,0.01291,0.01646,7955448.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,West Asia,0.03097,0.02984,14422957.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,Eastern Europe,0.05172,0.04484,21672579.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,South and South East Asia,0.35573,0.41535,200735958.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1400,East Asia,0.22462,0.22969,111009803.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,Western Offshoots,0.00562,,3433931.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,Latin America,0.07519,,43776079.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,Western Europe,0.17822,0.17656,95046974.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,Sub Saharan Africa,0.08768,0.11103,59772092.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,North Africa,0.01079,0.01384,7448640.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,West Asia,0.02937,0.02848,15330783.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,Eastern Europe,0.05655,0.04933,26552737.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,South and South East Asia,0.33081,0.38854,209156978.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1500,East Asia,0.22576,0.23222,125009994.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,Western Offshoots,0.0039,,2582171.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,Latin America,0.01381,,8730672.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,Western Europe,0.21556,0.20089,124820468.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,Sub Saharan Africa,0.0938,0.11173,69422286.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,North Africa,0.01263,0.01524,9470498.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,West Asia,0.03333,0.0304,18887375.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,Eastern Europe,0.06549,0.05373,33387407.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,South and South East Asia,0.32598,0.36014,223773556.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1600,East Asia,0.2355,0.22787,141585871.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,Western Offshoots,0.00505,,3988855.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,Latin America,0.01866,,14062578.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,Western Europe,0.21286,0.20001,146977626.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,Sub Saharan Africa,0.09444,0.11342,83346878.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,North Africa,0.00885,0.01077,7912212.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,West Asia,0.02848,0.02619,19245619.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,Eastern Europe,0.06201,0.0513,37695657.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,South and South East Asia,0.30748,0.34252,251694262.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1700,East Asia,0.26217,0.25579,187961159.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,Western Offshoots,0.01653,,19201002.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,Latin America,0.01743,,19304586.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,Western Europe,0.2178,0.21129,221067904.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,Sub Saharan Africa,0.0657,0.08146,85229953.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,North Africa,0.00573,0.0072,7533207.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,West Asia,0.02243,0.0213,22286190.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,Eastern Europe,0.08675,0.07409,77516961.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,South and South East Asia,0.23036,0.26494,277200818.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1800,East Asia,0.33728,0.33972,355447364.0,Maddison Project Database 2023 gdppc x HYDE/OWID population,estimate,reconstructed_pre1820_chained
+1820,Western Offshoots,0.02404,,28224.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1820,Latin America,0.01688,,19812.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1820,Western Europe,0.25789,0.26889,302753.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1820,Sub Saharan Africa,0.06072,0.06331,71280.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1820,North Africa,0.00579,0.00603,6792.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1820,West Asia,0.02133,0.02224,25044.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1820,Eastern Europe,0.08116,0.08463,95285.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1820,South and South East Asia,0.2002,0.20875,235035.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1820,East Asia,0.33199,0.34616,389755.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1850,Western Offshoots,0.06078,,92975.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1850,Latin America,0.02141,,32752.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1850,Western Europe,0.30062,0.32754,459877.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1850,Sub Saharan Africa,0.05298,0.05772,81042.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1850,North Africa,0.0071,0.00774,10866.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1850,West Asia,0.0205,0.02234,31365.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1850,Eastern Europe,0.09968,0.10861,152494.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1850,South and South East Asia,0.16888,0.18401,258349.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1850,East Asia,0.26804,0.29204,410041.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1870,Western Offshoots,0.11059,,214192.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1870,Latin America,0.02605,,50452.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1870,Western Europe,0.32591,0.37749,631201.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1870,Sub Saharan Africa,0.04648,0.05384,90020.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1870,North Africa,0.00765,0.00886,14808.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1870,West Asia,0.01806,0.02091,34969.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1870,Eastern Europe,0.1115,0.12915,215954.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1870,South and South East Asia,0.14386,0.16663,278618.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1870,East Asia,0.20991,0.24313,406543.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1900,Western Offshoots,0.19888,,668779.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1900,Latin America,0.03193,,107387.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1900,Western Europe,0.3328,0.43266,1119127.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1900,Sub Saharan Africa,0.0406,0.05278,136514.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1900,North Africa,0.00806,0.01048,27120.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1900,West Asia,0.01429,0.01858,48066.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1900,Eastern Europe,0.1172,0.15237,394113.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1900,South and South East Asia,0.10859,0.14117,365162.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1900,East Asia,0.14764,0.19195,496494.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1920,Western Offshoots,0.26506,,1191162.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1920,Latin America,0.04542,,204103.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1920,Western Europe,0.28284,0.4102,1271076.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1920,Sub Saharan Africa,0.03733,0.05413,167740.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1920,North Africa,0.01012,0.01467,45460.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1920,West Asia,0.01381,0.02002,62049.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1920,Eastern Europe,0.07045,0.10218,316618.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1920,South and South East Asia,0.12785,0.18542,574565.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1920,East Asia,0.14713,0.21337,661178.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1940,Western Offshoots,0.24809,,1777972.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1940,Latin America,0.05264,,377263.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1940,Western Europe,0.29185,0.41736,2091569.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1940,Sub Saharan Africa,0.03005,0.04298,215373.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1940,North Africa,0.00893,0.01277,63983.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1940,West Asia,0.01802,0.02577,129157.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",estimate,maddison_regional
+1940,Eastern Europe,0.13015,0.18613,932749.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1940,South and South East Asia,0.09191,0.13144,658706.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1940,East Asia,0.12835,0.18355,919833.0,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_regional
+1950,Western Offshoots,0.30886,,2606851.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1950,Latin America,0.07157,,604048.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1950,Western Europe,0.2615,0.42206,2207094.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1950,Sub Saharan Africa,0.02812,0.04538,237300.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1950,North Africa,0.00953,0.01538,80413.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1950,West Asia,0.01859,0.03001,156943.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1950,Eastern Europe,0.13109,0.21158,1106438.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1950,South and South East Asia,0.08263,0.13337,697432.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1950,East Asia,0.08812,0.14222,743717.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1960,Western Offshoots,0.27785,,3698209.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1960,Latin America,0.07621,,1014325.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1960,Western Europe,0.26798,0.41487,3566871.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1960,Sub Saharan Africa,0.02645,0.04094,351992.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1960,North Africa,0.009,0.01394,119821.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1960,West Asia,0.02234,0.03459,297364.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1960,Eastern Europe,0.13784,0.2134,1834722.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1960,South and South East Asia,0.07728,0.11964,1028637.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1960,East Asia,0.10504,0.16262,1398155.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1970,Western Offshoots,0.25677,,5623471.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1970,Latin America,0.0801,,1754183.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1970,Western Europe,0.259,0.39057,5672273.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1970,Sub Saharan Africa,0.02581,0.03893,565334.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1970,North Africa,0.0087,0.01312,190536.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1970,West Asia,0.02934,0.04425,642621.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1970,Eastern Europe,0.13316,0.20081,2916312.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1970,South and South East Asia,0.07048,0.10628,1543531.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1970,East Asia,0.13663,0.20604,2992333.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1980,Western Offshoots,0.2437,,7775470.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1980,Latin America,0.09676,,3087261.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1980,Western Europe,0.2405,0.36465,7673221.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1980,Sub Saharan Africa,0.024,0.03638,765604.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1980,North Africa,0.01206,0.01828,384664.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1980,West Asia,0.03658,0.05546,1167014.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1980,Eastern Europe,0.11713,0.1776,3737212.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1980,South and South East Asia,0.07476,0.11335,2385285.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1980,East Asia,0.15451,0.23427,4929741.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1990,Western Offshoots,0.24702,,10624994.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1990,Latin America,0.08246,,3546778.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1990,Western Europe,0.22299,0.33257,9591382.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1990,Sub Saharan Africa,0.02105,0.03139,905424.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1990,North Africa,0.01246,0.01858,535920.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1990,West Asia,0.03399,0.05069,1461775.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+1990,Eastern Europe,0.09602,0.1432,4130061.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1990,South and South East Asia,0.09316,0.13894,4007197.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+1990,East Asia,0.19084,0.28462,8208512.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2000,Western Offshoots,0.24842,,14882101.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2000,Latin America,0.08672,,5194943.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2000,Western Europe,0.21228,0.31928,12716983.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2000,Sub Saharan Africa,0.02188,0.03291,1310949.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2000,North Africa,0.016,0.02407,958794.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2000,West Asia,0.04457,0.06703,2670001.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2000,Eastern Europe,0.0601,0.09039,3600144.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2000,South and South East Asia,0.10812,0.16262,6477378.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2000,East Asia,0.20191,0.30369,12096130.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2010,Western Offshoots,0.19809,,17779275.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2010,Latin America,0.08627,,7742586.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2010,Western Europe,0.17133,0.23941,15377380.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2010,Sub Saharan Africa,0.03044,0.04254,2732231.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2010,North Africa,0.02157,0.03014,1935797.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2010,West Asia,0.06294,0.08795,5649384.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2010,Eastern Europe,0.07347,0.10266,6593998.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2010,South and South East Asia,0.13187,0.18427,11835728.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2010,East Asia,0.22402,0.31303,20106396.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2015,Western Offshoots,0.18543,,19805746.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2015,Latin America,0.08181,,8738738.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2015,Western Europe,0.15184,0.20722,16218715.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2015,Sub Saharan Africa,0.03225,0.04402,3445107.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2015,North Africa,0.01991,0.02717,2126659.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2015,West Asia,0.06668,0.091,7122470.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2015,Eastern Europe,0.06908,0.09427,7378008.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2015,South and South East Asia,0.14778,0.20167,15784106.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2015,East Asia,0.24521,0.33465,26191582.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2016,Western Offshoots,0.18252,,20141179.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2016,Latin America,0.0783,,8639975.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2016,Western Europe,0.1498,0.20266,16530187.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2016,Sub Saharan Africa,0.03165,0.04282,3492461.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2016,North Africa,0.01966,0.0266,2169535.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2016,West Asia,0.06756,0.0914,7455121.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2016,Eastern Europe,0.06783,0.09176,7484449.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2016,South and South East Asia,0.15298,0.20696,16881001.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2016,East Asia,0.24971,0.33782,27555363.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2017,Western Offshoots,0.18005,,20610017.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2017,Latin America,0.07632,,8736304.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2017,Western Europe,0.14794,0.19894,16933989.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2017,Sub Saharan Africa,0.03132,0.04212,3585268.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2017,North Africa,0.01974,0.02655,2259701.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2017,West Asia,0.0668,0.08983,7646672.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2017,Eastern Europe,0.06766,0.09098,7744409.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2017,South and South East Asia,0.15605,0.20985,17862067.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2017,East Asia,0.25411,0.34172,29087464.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2018,Western Offshoots,0.17873,,21214905.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2018,Latin America,0.07426,,8814631.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2018,Western Europe,0.14507,0.1942,17218600.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2018,Sub Saharan Africa,0.03108,0.04161,3689425.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2018,North Africa,0.01986,0.02659,2357809.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2018,West Asia,0.06569,0.08794,7797445.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2018,Eastern Europe,0.06753,0.0904,8015131.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2018,South and South East Asia,0.15987,0.21401,18975579.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2018,East Asia,0.2579,0.34525,30611842.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2019,Western Offshoots,0.1777,,21692192.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2019,Latin America,0.07217,,8809602.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2019,Western Europe,0.14316,0.19085,17476269.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2019,Sub Saharan Africa,0.03109,0.04145,3795273.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2019,North Africa,0.01996,0.02661,2436774.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2019,West Asia,0.06409,0.08544,7823825.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2019,Eastern Europe,0.06738,0.08983,8225538.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2019,South and South East Asia,0.16231,0.21637,19813223.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2019,East Asia,0.26214,0.34946,32000925.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2020,Western Offshoots,0.17776,,21066735.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2020,Latin America,0.06921,,8202161.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2020,Western Europe,0.13728,0.1823,16269233.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2020,Sub Saharan Africa,0.03144,0.04175,3725593.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2020,North Africa,0.01996,0.02651,2365797.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2020,West Asia,0.06402,0.08501,7586748.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2020,Eastern Europe,0.06778,0.09002,8033263.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2020,South and South East Asia,0.15991,0.21235,18951100.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2020,East Asia,0.27264,0.36206,32310942.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2021,Western Offshoots,0.17707,,22295840.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2021,Latin America,0.06952,,8753684.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2021,Western Europe,0.13616,0.18072,17144494.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2021,Sub Saharan Africa,0.03092,0.04104,3893600.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2021,North Africa,0.01997,0.0265,2514147.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2021,West Asia,0.06415,0.08515,8078056.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2021,Eastern Europe,0.06732,0.08935,8476753.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2021,South and South East Asia,0.15997,0.21233,20143090.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2021,East Asia,0.27493,0.36491,34618878.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2022,Western Offshoots,0.17533,,22799320.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2022,Latin America,0.06982,,9078823.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2022,Western Europe,0.13631,0.18058,17725615.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2022,Sub Saharan Africa,0.03104,0.04113,4037001.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2022,North Africa,0.01972,0.02613,2564499.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2022,West Asia,0.06592,0.08733,8572630.0,"Maddison Project Database 2023, Regional data sheet (MENA split at country level)",data,maddison_regional
+2022,Eastern Europe,0.06469,0.08569,8411725.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2022,South and South East Asia,0.16399,0.21725,21325409.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2022,East Asia,0.27317,0.36189,35523124.0,"Maddison Project Database 2023, Regional data sheet",data,maddison_regional
+2024,Western Offshoots,0.17304,,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2024,Latin America,0.07272,,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2024,Western Europe,0.14685,0.19469,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2024,Sub Saharan Africa,0.03619,0.04798,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2024,North Africa,0.01894,0.02512,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2024,West Asia,0.05659,0.07503,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2024,Eastern Europe,0.07791,0.10329,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2024,South and South East Asia,0.16123,0.21376,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2024,East Asia,0.25653,0.34012,,"IMF World Economic Outlook, share of world GDP at PPP",data,imf_weo
+2030,Western Offshoots,0.16258,,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2030,Latin America,0.06881,,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2030,Western Europe,0.13196,0.17168,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2030,Sub Saharan Africa,0.0393,0.05113,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2030,North Africa,0.02038,0.02651,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2030,West Asia,0.05623,0.07316,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2030,Eastern Europe,0.0737,0.09588,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2030,South and South East Asia,0.18433,0.23982,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2030,East Asia,0.26272,0.34181,,"IMF World Economic Outlook, share of world GDP at PPP",projection,imf_weo
+2050,asia_low,0.45,,,"PwC, The World in 2050 (2017); Goldman Sachs, The Path to 2075 (2022)",projection,published_range
+2050,asia_high,0.5,,,"PwC, The World in 2050 (2017); Goldman Sachs, The Path to 2075 (2022)",projection,published_range

@@ -1,4 +1,4 @@
-# Datasets catalogue {#sec-appA .unnumbered}
+# Datasets catalogue {#sec-appA}
 
 ::: {.callout-note}
 ## Draft pending

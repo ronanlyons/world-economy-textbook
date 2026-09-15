@@ -10,7 +10,7 @@ book:
       affiliation: "Trinity College Dublin and the Centre for Economics, Policy & History"
   date: last-modified          # auto: date of the most recent source change (no manual edits)
   date-format: "MMMM YYYY"     # e.g. "July 2026"
-  cover-image: images/cover-dhow.jpg
+  cover-image: book/images/cover-dhow.jpg
   search: true
   downloads: [pdf]
   sidebar:
@@ -43,16 +43,18 @@ book:
     - appendix-a-datasets.qmd
     - appendix-b-sources.qmd
     - appendix-c-ledger.qmd
+    - appendix-d-numbers.qmd
+    - appendix-e-disputes.qmd
     - references.qmd
 
-bibliography: references.bib
+bibliography: book/references.bib
 # csl: re-enable once references.bib is populated (Phase 3); default style until then.
 
 format:
   html:
     theme:
       - cosmo
-      - style/world-economy.scss
+      - book/style/world-economy.scss
     toc: true
     toc-title: "On this page"
     number-sections: true
@@ -82,9 +84,9 @@ format:
     mainfont: "TeX Gyre Pagella"   # Palatino-like book serif; ships with TinyTeX (reproducible)
     sansfont: "TeX Gyre Heros"
     include-in-header:
-      - tex/unicode-map.tex
-      - tex/pdf-layout.tex
-      - tex/cover-page.tex
+      - book/tex/unicode-map.tex
+      - book/tex/pdf-layout.tex
+      - book/tex/cover-page.tex
 
 # Open-access: licensed CC BY (confirm before first public render).
 license: "CC BY"

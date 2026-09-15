@@ -1,4 +1,4 @@
-# A guide to the sources and their biases {#sec-appB .unnumbered}
+# A guide to the sources and their biases {#sec-appB}
 
 ::: {.callout-note}
 ## Draft pending

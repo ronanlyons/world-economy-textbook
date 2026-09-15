@@ -33,7 +33,7 @@ than settles, is *when* the move began and *why* — and whether Europe was ever
 ahead before it happened. This is the topic on which the book's whole "bounded anomaly" verdict
 turns, so we return to weigh it in the [Conclusion](11-conclusion.qmd).^[**Sources:** the centre-of-gravity verdict, `module_design/centre_of_gravity_ledger.md`, Topic 7 (the pivotal entry); the module synthesis, `module_design/11_synthesis.md`, Q4. **Read more:** Pomeranz, *The Great Divergence* (2000), the book that named the debate.]
 
-![Centre-of-gravity locator (c.1850): the turning point — the weight crosses from Asia to the North Atlantic. Author's schematic.](figures/cog-locator-07.png){#fig-cog07}
+![Centre-of-gravity locator (c.1870): the turning point — the weight has just crossed from Asia to the North Atlantic. On Maddison's figures Asia was still 43.7 per cent of world output against the North Atlantic's 36.1 in 1850, and the two cross in the middle 1860s; the marker is placed accordingly. Author's schematic, positioned from the shares data.](book/figures/cog-locator-07.png){#fig-cog07}
 
 ## The stage and the cast
 

@@ -43,4 +43,4 @@ others almost none — but the scaffolding is constant, so you always know where
 This book is published open-access online and as a downloadable PDF. Its data exercises are
 **reproducible**: the figures and tables are generated from datasets you can download and
 re-run yourself. Where a number is disputed, the book says so and shows you the dispute,
-rather than quietly picking a side.
+rather than picking a side without saying so.

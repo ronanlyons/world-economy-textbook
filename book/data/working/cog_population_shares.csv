@@ -1,0 +1,763 @@
+year,region,population_thousands,pop_share,pop_share_afroeurasia,source,kind,series
+-10000,Western Offshoots,575.4,0.12797,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-10000,Latin America,2031.4,0.45177,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-10000,Western Europe,71.8,0.01597,0.03799,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-10000,Sub Saharan Africa,174.1,0.03871,0.09211,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-10000,North Africa,54.9,0.01221,0.02904,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-10000,West Asia,206.7,0.04597,0.10939,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-10000,Eastern Europe,744.0,0.16547,0.39373,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-10000,South and South East Asia,387.0,0.08607,0.20479,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-10000,East Asia,251.2,0.05587,0.13294,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,Western Offshoots,608.2,0.10709,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,Latin America,2491.3,0.43865,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,Western Europe,100.9,0.01777,0.03913,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,Sub Saharan Africa,240.1,0.04227,0.09305,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,North Africa,84.9,0.01495,0.03291,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,West Asia,284.7,0.05014,0.11037,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,Eastern Europe,876.1,0.15426,0.33959,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,South and South East Asia,586.2,0.10321,0.22721,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-9000,East Asia,407.0,0.07166,0.15774,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,Western Offshoots,646.5,0.08854,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,Latin America,3066.1,0.41991,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,Western Europe,142.9,0.01957,0.03982,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,Sub Saharan Africa,334.0,0.04574,0.09305,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,North Africa,131.8,0.01806,0.03673,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,West Asia,398.3,0.05455,0.11097,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,Eastern Europe,1035.8,0.14186,0.28859,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,South and South East Asia,883.1,0.12095,0.24605,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-8000,East Asia,663.3,0.09084,0.1848,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,Western Offshoots,691.9,0.07184,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,Latin America,3786.1,0.39314,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,Western Europe,203.8,0.02116,0.03956,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,Sub Saharan Africa,468.8,0.04868,0.09099,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,North Africa,205.3,0.02132,0.03985,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,West Asia,564.8,0.05865,0.10962,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,Eastern Europe,1231.7,0.1279,0.23905,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,South and South East Asia,1391.8,0.14452,0.27012,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-7000,East Asia,1086.2,0.11279,0.21081,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,Western Offshoots,746.5,0.05637,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,Latin America,4689.7,0.35414,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,Western Europe,293.5,0.02216,0.0376,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,Sub Saharan Africa,664.4,0.05017,0.0851,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,North Africa,320.8,0.02423,0.0411,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,West Asia,938.2,0.07085,0.12019,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,Eastern Europe,1512.3,0.1142,0.19373,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,South and South East Asia,2291.7,0.17305,0.29357,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-6000,East Asia,1785.4,0.13482,0.22872,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,Western Offshoots,813.7,0.04261,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,Latin America,5826.0,0.3051,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,Western Europe,443.1,0.0232,0.03557,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,Sub Saharan Africa,950.7,0.04979,0.07633,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,North Africa,502.7,0.02633,0.04036,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,West Asia,1850.8,0.09693,0.14859,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,Eastern Europe,1838.9,0.0963,0.14763,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,South and South East Asia,3926.0,0.2056,0.3152,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-5000,East Asia,2943.5,0.15415,0.23632,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,Western Offshoots,897.9,0.03122,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,Latin America,7257.8,0.25238,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,Western Europe,842.5,0.0293,0.0409,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,Sub Saharan Africa,1374.2,0.04779,0.0667,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,North Africa,890.0,0.03095,0.0432,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,West Asia,3159.9,0.10988,0.15338,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,Eastern Europe,2272.3,0.07902,0.1103,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,South and South East Asia,7198.4,0.25032,0.34942,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-4000,East Asia,4864.0,0.16914,0.2361,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,Western Offshoots,1005.9,0.02265,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,Latin America,9065.6,0.20416,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,Western Europe,1626.9,0.03664,0.04739,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,Sub Saharan Africa,2007.1,0.0452,0.05846,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,North Africa,2019.7,0.04548,0.05883,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,West Asia,4626.9,0.1042,0.13477,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,Eastern Europe,2869.3,0.06462,0.08357,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,South and South East Asia,13130.5,0.29571,0.38245,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-3000,East Asia,8052.0,0.18134,0.23453,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,Western Offshoots,1147.5,0.01585,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,Latin America,11352.7,0.15683,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,Western Europe,4107.8,0.05675,0.06859,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,Sub Saharan Africa,2962.7,0.04093,0.04947,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,North Africa,3130.3,0.04324,0.05227,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,West Asia,7585.5,0.10479,0.12666,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,Eastern Europe,3947.8,0.05454,0.06592,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,South and South East Asia,24804.4,0.34266,0.41419,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-2000,East Asia,13348.5,0.1844,0.22289,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,Western Offshoots,1346.7,0.01224,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,Latin America,14298.8,0.12997,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,Western Europe,8582.9,0.07801,0.09095,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,Sub Saharan Africa,4421.0,0.04018,0.04685,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,North Africa,4613.5,0.04193,0.04889,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,West Asia,10946.2,0.0995,0.11599,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,Eastern Europe,5388.9,0.04898,0.0571,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,South and South East Asia,46888.0,0.42619,0.49684,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+-1000,East Asia,13531.5,0.12299,0.14338,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,Western Offshoots,1609.1,0.00695,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,Latin America,18079.6,0.07814,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,Western Europe,25085.4,0.10842,0.1185,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,Sub Saharan Africa,6669.9,0.02883,0.03151,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,North Africa,8200.1,0.03544,0.03874,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,West Asia,15967.8,0.06901,0.07543,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,Eastern Europe,7829.2,0.03384,0.03698,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,South and South East Asia,89365.9,0.38623,0.42215,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+0,East Asia,58572.0,0.25314,0.27669,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,Western Offshoots,1673.8,0.00709,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,Latin America,19231.5,0.08143,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,Western Europe,26125.8,0.11063,0.12137,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,Sub Saharan Africa,7575.5,0.03208,0.03519,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,North Africa,8678.5,0.03675,0.04032,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,West Asia,17891.8,0.07576,0.08312,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,Eastern Europe,8372.4,0.03545,0.03889,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,South and South East Asia,94330.3,0.39943,0.43822,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+100,East Asia,52282.8,0.22139,0.24289,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,Western Offshoots,1741.9,0.00726,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,Latin America,20460.1,0.0853,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,Western Europe,27093.4,0.11295,0.12447,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,Sub Saharan Africa,8668.1,0.03614,0.03982,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,North Africa,9162.4,0.0382,0.04209,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,West Asia,20191.1,0.08418,0.09276,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,Eastern Europe,8927.9,0.03722,0.04102,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,South and South East Asia,99305.8,0.414,0.45623,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+200,East Asia,44316.0,0.18475,0.2036,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,Western Offshoots,1813.6,0.008,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,Latin America,21771.4,0.09599,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,Western Europe,25546.2,0.11264,0.12571,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,Sub Saharan Africa,9995.8,0.04407,0.04919,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,North Africa,8802.1,0.03881,0.04331,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,West Asia,21950.9,0.09678,0.10802,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,Eastern Europe,9221.3,0.04066,0.04538,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,South and South East Asia,104134.7,0.45914,0.51243,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+300,East Asia,23565.9,0.10391,0.11596,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,Western Offshoots,1889.1,0.00785,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,Latin America,23172.0,0.09623,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,Western Europe,24003.0,0.09968,0.11126,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,Sub Saharan Africa,11620.2,0.04826,0.05386,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,North Africa,8447.9,0.03508,0.03916,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,West Asia,20859.9,0.08663,0.09669,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,Eastern Europe,9528.9,0.03957,0.04417,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,South and South East Asia,108978.8,0.45259,0.50516,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+400,East Asia,32290.6,0.1341,0.14968,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,Western Offshoots,1968.7,0.0078,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,Latin America,24669.0,0.09771,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,Western Europe,20391.7,0.08076,0.09029,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,Sub Saharan Africa,13622.0,0.05395,0.06032,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,North Africa,7970.3,0.03157,0.03529,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,West Asia,20077.6,0.07952,0.0889,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,Eastern Europe,9487.6,0.03758,0.04201,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,South and South East Asia,113841.4,0.45089,0.50407,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+500,East Asia,40455.4,0.16023,0.17913,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,Western Offshoots,2052.5,0.00758,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,Latin America,26270.6,0.09704,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,Western Europe,16630.5,0.06143,0.06861,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,Sub Saharan Africa,16106.4,0.05949,0.06645,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,North Africa,7499.4,0.0277,0.03094,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,West Asia,19608.9,0.07243,0.0809,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,Eastern Europe,9465.2,0.03496,0.03905,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,South and South East Asia,118726.8,0.43856,0.4898,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+600,East Asia,54360.6,0.2008,0.22426,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,Western Offshoots,2140.9,0.00772,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,Latin America,27986.1,0.10088,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,Western Europe,18346.9,0.06613,0.07419,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,Sub Saharan Africa,19212.7,0.06925,0.07769,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,North Africa,7985.9,0.02879,0.03229,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,West Asia,19784.8,0.07132,0.08,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,Eastern Europe,10206.9,0.03679,0.04127,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,South and South East Asia,124018.9,0.44704,0.5015,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+700,East Asia,47739.0,0.17208,0.19304,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,Western Offshoots,2234.2,0.00784,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,Latin America,29826.0,0.10467,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,Western Europe,20357.3,0.07144,0.0805,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,Sub Saharan Africa,23127.1,0.08116,0.09146,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,North Africa,8630.0,0.03029,0.03413,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,West Asia,20092.4,0.07051,0.07945,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,Eastern Europe,10981.4,0.03854,0.04343,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,South and South East Asia,129349.0,0.45395,0.5115,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+800,East Asia,40342.6,0.14158,0.15953,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,Western Offshoots,2398.8,0.00773,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,Latin America,32714.6,0.10548,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,Western Europe,22775.5,0.07344,0.08281,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,Sub Saharan Africa,26202.4,0.08449,0.09527,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,North Africa,9565.0,0.03084,0.03478,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,West Asia,21223.9,0.06843,0.07717,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,Eastern Europe,11923.7,0.03845,0.04335,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,South and South East Asia,134988.6,0.43525,0.49082,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+900,East Asia,48350.1,0.1559,0.1758,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,Western Offshoots,2566.0,0.00796,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,Latin America,35498.1,0.11011,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,Western Europe,25366.2,0.07868,0.08921,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,Sub Saharan Africa,29369.5,0.0911,0.10329,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,North Africa,10500.0,0.03257,0.03693,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,West Asia,20227.6,0.06274,0.07114,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,Eastern Europe,12866.8,0.03991,0.04525,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,South and South East Asia,140629.6,0.43621,0.4946,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1000,East Asia,45368.9,0.14073,0.15956,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,Western Offshoots,2728.1,0.00688,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,Latin America,39590.9,0.09981,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,Western Europe,30783.6,0.07761,0.08688,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,Sub Saharan Africa,32944.4,0.08306,0.09298,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,North Africa,9500.1,0.02395,0.02681,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,West Asia,18194.3,0.04587,0.05135,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,Eastern Europe,15950.1,0.04021,0.04502,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,South and South East Asia,147015.5,0.37065,0.41491,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1100,East Asia,99939.9,0.25196,0.28205,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,Western Offshoots,2956.4,0.00669,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,Latin America,43759.6,0.09909,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,Western Europe,41703.5,0.09444,0.10561,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,Sub Saharan Africa,36640.0,0.08297,0.09279,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,North Africa,8900.1,0.02015,0.02254,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,West Asia,19286.2,0.04367,0.04884,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,Eastern Europe,20837.1,0.04719,0.05277,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,South and South East Asia,153404.7,0.34739,0.38848,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1200,East Asia,114110.4,0.2584,0.28897,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,Western Offshoots,3154.5,0.00694,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,Latin America,48024.9,0.10568,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,Western Europe,60836.2,0.13387,0.15085,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,Sub Saharan Africa,41245.5,0.09076,0.10228,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,North Africa,9695.1,0.02133,0.02404,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,West Asia,18628.3,0.04099,0.04619,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,Eastern Europe,24885.0,0.05476,0.06171,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,South and South East Asia,157548.4,0.34667,0.39067,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1300,East Asia,90440.1,0.19901,0.22426,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,Western Offshoots,3401.7,0.00771,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,Latin America,52416.1,0.11887,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,Western Europe,40118.3,0.09098,0.10417,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,Sub Saharan Africa,46309.8,0.10503,0.12025,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,North Africa,8520.2,0.01932,0.02212,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,West Asia,16612.3,0.03767,0.04314,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,Eastern Europe,23455.8,0.0532,0.0609,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,South and South East Asia,165859.8,0.37615,0.43067,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1400,East Asia,84245.1,0.19106,0.21875,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,Western Offshoots,3694.6,0.00737,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,Latin America,58247.6,0.1162,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,Western Europe,52620.3,0.10498,0.11978,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,Sub Saharan Africa,50313.2,0.10037,0.11453,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,North Africa,8300.3,0.01656,0.01889,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,West Asia,17726.6,0.03536,0.04035,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,Eastern Europe,28956.5,0.05777,0.06591,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,South and South East Asia,173631.1,0.34639,0.39523,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1500,East Asia,107770.8,0.215,0.24531,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,Western Offshoots,2717.9,0.00528,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,Latin America,9235.1,0.01795,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,Western Europe,68906.5,0.13392,0.1371,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,Sub Saharan Africa,58436.3,0.11357,0.11627,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,North Africa,11000.5,0.02138,0.02189,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,West Asia,21590.2,0.04196,0.04296,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,Eastern Europe,35636.1,0.06926,0.0709,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,South and South East Asia,186759.3,0.36296,0.37159,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1600,East Asia,120265.1,0.23373,0.23929,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,Western Offshoots,3085.5,0.00521,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,Latin America,11564.8,0.01951,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,Western Europe,77058.2,0.13001,0.1333,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,Sub Saharan Africa,70157.3,0.11836,0.12136,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,North Africa,9300.7,0.01569,0.01609,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,West Asia,21239.1,0.03583,0.03674,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,Eastern Europe,40900.0,0.069,0.07075,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,South and South East Asia,226042.6,0.38136,0.39102,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1700,East Asia,133383.3,0.22503,0.23073,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,Western Offshoots,3473.2,0.00566,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,Latin America,12150.9,0.0198,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,Western Europe,81710.6,0.13315,0.13663,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,Sub Saharan Africa,68685.1,0.11193,0.11485,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,North Africa,9340.0,0.01522,0.01562,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,West Asia,21583.4,0.03517,0.03609,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,Eastern Europe,44611.9,0.0727,0.0746,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,South and South East Asia,231048.4,0.37651,0.38634,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1710,East Asia,141057.3,0.22986,0.23587,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,Western Offshoots,3966.1,0.00616,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,Latin America,12766.9,0.01983,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,Western Europe,85127.3,0.13224,0.13577,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,Sub Saharan Africa,68855.5,0.10697,0.10982,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,North Africa,9412.1,0.01462,0.01501,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,West Asia,21886.0,0.034,0.03491,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,Eastern Europe,48591.0,0.07549,0.0775,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,South and South East Asia,236098.2,0.36677,0.37656,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1720,East Asia,157012.6,0.24392,0.25043,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,Western Offshoots,4466.5,0.0067,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,Latin America,13427.7,0.02015,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,Western Europe,88692.9,0.13312,0.13679,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,Sub Saharan Africa,69089.0,0.10369,0.10656,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,North Africa,9485.0,0.01424,0.01463,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,West Asia,22194.4,0.03331,0.03423,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,Eastern Europe,52658.6,0.07903,0.08121,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,South and South East Asia,241163.3,0.36195,0.37194,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1730,East Asia,165104.7,0.2478,0.25464,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,Western Offshoots,4976.0,0.00713,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,Latin America,14114.4,0.02024,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,Western Europe,92232.5,0.13224,0.13597,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,Sub Saharan Africa,69386.3,0.09949,0.10229,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,North Africa,9558.6,0.01371,0.01409,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,West Asia,22509.0,0.03227,0.03318,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,Eastern Europe,56820.9,0.08147,0.08376,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,South and South East Asia,246244.1,0.35307,0.363,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1740,East Asia,181597.8,0.26038,0.26771,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,Western Offshoots,5496.2,0.00734,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,Latin America,14862.7,0.01986,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,Western Europe,95769.9,0.12798,0.13156,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,Sub Saharan Africa,69748.8,0.09321,0.09581,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,North Africa,9633.2,0.01287,0.01323,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,West Asia,22829.9,0.03051,0.03136,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,Eastern Europe,61084.9,0.08163,0.08391,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,South and South East Asia,251341.0,0.33587,0.34526,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1750,East Asia,217559.0,0.29073,0.29886,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,Western Offshoots,6029.2,0.0077,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,Latin America,15675.7,0.02001,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,Western Europe,99439.0,0.12696,0.13058,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,Sub Saharan Africa,70179.3,0.0896,0.09216,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,North Africa,9708.8,0.0124,0.01275,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,West Asia,23157.4,0.02957,0.03041,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,Eastern Europe,65458.4,0.08358,0.08596,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,South and South East Asia,256854.2,0.32794,0.33729,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1760,East Asia,236725.5,0.30224,0.31086,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,Western Offshoots,6577.9,0.00799,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,Latin America,16567.8,0.02013,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,Western Europe,103113.4,0.12531,0.12894,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,Sub Saharan Africa,70682.1,0.0859,0.08839,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,North Africa,9785.6,0.01189,0.01224,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,West Asia,23491.8,0.02855,0.02938,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,Eastern Europe,69949.5,0.08501,0.08747,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,South and South East Asia,262384.3,0.31887,0.3281,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1770,East Asia,260298.0,0.31634,0.32549,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,Western Offshoots,7145.2,0.00798,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,Latin America,17571.0,0.01962,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,Western Europe,106786.9,0.11927,0.12265,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,Sub Saharan Africa,71263.6,0.07959,0.08185,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,North Africa,9863.7,0.01102,0.01133,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,West Asia,23833.3,0.02662,0.02737,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,Eastern Europe,74567.3,0.08328,0.08565,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,South and South East Asia,267931.7,0.29925,0.30774,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1780,East Asia,316382.7,0.35336,0.3634,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,Western Offshoots,7735.6,0.00827,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,Latin America,18691.1,0.01997,,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,Western Europe,110517.9,0.1181,0.12153,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,Sub Saharan Africa,71917.7,0.07685,0.07908,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,North Africa,9943.3,0.01063,0.01093,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,West Asia,24182.3,0.02584,0.02659,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,Eastern Europe,79321.9,0.08476,0.08723,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,South and South East Asia,273496.8,0.29226,0.30075,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1790,East Asia,340006.8,0.36333,0.37389,HYDE 3.2 via Our World in Data,modelled,owid_hyde_un
+1800,Western Offshoots,8116.2,0.00828,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1800,Latin America,17519.4,0.01788,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1800,Western Europe,108878.0,0.11113,0.11412,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1800,Sub Saharan Africa,71742.4,0.07323,0.0752,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1800,North Africa,9530.8,0.00973,0.00999,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1800,West Asia,23980.3,0.02448,0.02513,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1800,Eastern Europe,88428.6,0.09026,0.09269,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1800,South and South East Asia,277733.8,0.28349,0.2911,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1800,East Asia,373777.3,0.38152,0.39177,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,Western Offshoots,9469.8,0.00932,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,Latin America,19262.1,0.01895,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,Western Europe,116468.2,0.11458,0.11791,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,Sub Saharan Africa,72299.5,0.07112,0.07319,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,North Africa,10086.1,0.00992,0.01021,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,West Asia,24569.6,0.02417,0.02487,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,Eastern Europe,89952.0,0.08849,0.09106,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,South and South East Asia,282404.8,0.27781,0.2859,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1810,East Asia,392010.4,0.38564,0.39686,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,Western Offshoots,12360.0,0.01138,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,Latin America,21731.5,0.02001,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,Western Europe,132353.4,0.12188,0.12583,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,Sub Saharan Africa,73753.6,0.06792,0.07012,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,North Africa,10665.1,0.00982,0.01014,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,West Asia,25227.1,0.02323,0.02398,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,Eastern Europe,92555.8,0.08523,0.08799,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,South and South East Asia,290180.1,0.26721,0.27587,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1820,East Asia,427135.3,0.39332,0.40607,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,Western Offshoots,16002.1,0.01381,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,Latin America,24317.2,0.02098,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,Western Europe,145016.2,0.12514,0.12965,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,Sub Saharan Africa,80488.9,0.06946,0.07196,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,North Africa,11005.1,0.0095,0.00984,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,West Asia,26062.6,0.02249,0.0233,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,Eastern Europe,99568.0,0.08592,0.08902,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,South and South East Asia,301656.6,0.26032,0.2697,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1830,East Asia,454690.4,0.39238,0.40652,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,Western Offshoots,20855.9,0.01715,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,Latin America,28205.6,0.0232,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,Western Europe,156438.9,0.12866,0.13407,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,Sub Saharan Africa,89373.4,0.0735,0.07659,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,North Africa,11399.2,0.00938,0.00977,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,West Asia,26968.7,0.02218,0.02311,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,Eastern Europe,108062.8,0.08887,0.09261,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,South and South East Asia,315044.5,0.2591,0.27,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1840,East Asia,459547.7,0.37795,0.39384,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,Western Offshoots,28095.3,0.02209,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,Latin America,32936.1,0.02589,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,Western Europe,165797.7,0.13035,0.13692,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,Sub Saharan Africa,99557.5,0.07827,0.08222,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,North Africa,12737.9,0.01001,0.01052,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,West Asia,27917.6,0.02195,0.02306,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,Eastern Europe,117421.0,0.09232,0.09697,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,South and South East Asia,329352.7,0.25894,0.27199,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1850,East Asia,458103.3,0.36017,0.37832,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,Western Offshoots,37571.0,0.02903,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,Latin America,36874.1,0.02849,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,Western Europe,175526.8,0.13562,0.1439,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,Sub Saharan Africa,102907.9,0.07951,0.08436,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,North Africa,14080.7,0.01088,0.01154,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,West Asia,28897.4,0.02233,0.02369,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,Eastern Europe,128109.3,0.09898,0.10502,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,South and South East Asia,343370.1,0.2653,0.28149,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1860,East Asia,426919.8,0.32986,0.34999,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,Western Offshoots,46971.5,0.03515,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,Latin America,40663.2,0.03043,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,Western Europe,187163.2,0.14006,0.14989,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,Sub Saharan Africa,106532.2,0.07972,0.08532,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,North Africa,15547.8,0.01163,0.01245,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,West Asia,30176.3,0.02258,0.02417,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,Eastern Europe,139899.4,0.10469,0.11204,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,South and South East Asia,359700.8,0.26918,0.28807,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1870,East Asia,409640.3,0.30655,0.32806,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,Western Offshoots,58180.9,0.04124,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,Latin America,46737.0,0.03313,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,Western Europe,200795.5,0.14234,0.15377,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,Sub Saharan Africa,111004.6,0.07869,0.08501,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,North Africa,17184.7,0.01218,0.01316,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,West Asia,31432.1,0.02228,0.02407,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,Eastern Europe,153559.7,0.10885,0.1176,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,South and South East Asia,371835.2,0.26358,0.28476,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1880,East Asia,419963.9,0.2977,0.32162,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,Western Offshoots,72005.2,0.04747,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,Latin America,55126.6,0.03634,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,Western Europe,215344.6,0.14196,0.15494,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,Sub Saharan Africa,115777.9,0.07632,0.0833,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,North Africa,19272.8,0.0127,0.01387,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,West Asia,32833.0,0.02164,0.02362,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,Eastern Europe,168958.5,0.11138,0.12157,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,South and South East Asia,402532.4,0.26535,0.28962,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1890,East Asia,435133.6,0.28684,0.31308,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,Western Offshoots,86180.9,0.05308,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,Latin America,65305.6,0.04023,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,Western Europe,233482.3,0.14382,0.15862,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,Sub Saharan Africa,117015.2,0.07208,0.0795,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,North Africa,21737.0,0.01339,0.01477,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,West Asia,35380.8,0.02179,0.02404,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,Eastern Europe,184644.7,0.11374,0.12544,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,South and South East Asia,421062.6,0.25936,0.28605,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1900,East Asia,458649.9,0.28251,0.31159,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,Western Offshoots,103975.8,0.05896,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,Latin America,77864.2,0.04415,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,Western Europe,254085.0,0.14408,0.16064,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,Sub Saharan Africa,118975.2,0.06746,0.07522,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,North Africa,25089.7,0.01423,0.01586,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,West Asia,38250.6,0.02169,0.02418,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,Eastern Europe,201241.2,0.11411,0.12723,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,South and South East Asia,455717.0,0.25841,0.28812,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1910,East Asia,488324.5,0.2769,0.30874,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,Western Offshoots,120194.9,0.06355,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,Latin America,91395.6,0.04832,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,Western Europe,258745.4,0.13679,0.15402,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,Sub Saharan Africa,123492.6,0.06529,0.07351,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,North Africa,27368.9,0.01447,0.01629,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,West Asia,37392.2,0.01977,0.02226,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,Eastern Europe,212513.3,0.11235,0.1265,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,South and South East Asia,478100.5,0.25276,0.2846,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1920,East Asia,542286.6,0.2867,0.32281,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,Western Offshoots,138924.9,0.06719,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,Latin America,109983.4,0.05319,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,Western Europe,273938.6,0.13249,0.15062,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,Sub Saharan Africa,139321.0,0.06738,0.0766,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,North Africa,30603.0,0.0148,0.01683,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,West Asia,43493.4,0.02104,0.02391,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,Eastern Europe,234542.0,0.11343,0.12896,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,South and South East Asia,522549.5,0.25273,0.28731,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1930,East Asia,574288.1,0.27775,0.31576,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,Western Offshoots,151166.2,0.06607,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,Latin America,132102.9,0.05774,,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,Western Europe,290352.6,0.1269,0.14484,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,Sub Saharan Africa,157523.8,0.06885,0.07858,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,North Africa,35782.4,0.01564,0.01785,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,West Asia,50743.7,0.02218,0.02531,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,Eastern Europe,255463.2,0.11166,0.12743,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,South and South East Asia,597196.6,0.26102,0.2979,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1940,East Asia,617631.6,0.26995,0.30809,Gapminder/HYDE via Our World in Data,estimate,owid_hyde_un
+1950,Western Offshoots,180526.9,0.07243,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1950,Latin America,167934.7,0.06738,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1950,Western Europe,305243.3,0.12247,0.14237,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1950,Sub Saharan Africa,183921.3,0.07379,0.08579,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1950,North Africa,43855.5,0.0176,0.02046,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1950,West Asia,57966.3,0.02326,0.02704,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1950,Eastern Europe,268951.2,0.10791,0.12545,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1950,South and South East Asia,612894.2,0.2459,0.28587,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1950,East Asia,671133.2,0.26927,0.31303,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,Western Offshoots,214036.0,0.071,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,Latin America,219448.4,0.07279,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,Western Europe,325954.5,0.10812,0.12628,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,Sub Saharan Africa,228185.4,0.07569,0.08841,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,North Africa,55736.9,0.01849,0.02159,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,West Asia,76250.9,0.02529,0.02954,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,Eastern Europe,313007.3,0.10383,0.12127,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,South and South East Asia,778646.7,0.25829,0.30167,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1960,East Asia,803354.6,0.26649,0.31124,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,Western Offshoots,248730.6,0.06734,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,Latin America,285956.2,0.07742,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,Western Europe,351290.0,0.09511,0.11121,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,Sub Saharan Africa,294634.0,0.07977,0.09327,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,North Africa,70822.9,0.01918,0.02242,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,West Asia,102559.4,0.02777,0.03247,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,Eastern Europe,349955.1,0.09475,0.11079,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,South and South East Asia,993000.2,0.26885,0.31436,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1970,East Asia,996549.4,0.26981,0.31548,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,Western Offshoots,277346.9,0.06238,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,Latin America,360724.9,0.08113,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,Western Europe,366845.0,0.08251,0.09634,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,Sub Saharan Africa,390756.7,0.08789,0.10262,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,North Africa,92165.5,0.02073,0.0242,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,West Asia,137918.5,0.03102,0.03622,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,Eastern Europe,382450.0,0.08602,0.10043,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,South and South East Asia,1256642.4,0.28264,0.33,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1980,East Asia,1181195.3,0.26567,0.31019,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,Western Offshoots,308002.2,0.05783,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,Latin America,442137.1,0.08302,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,Western Europe,377740.7,0.07093,0.08256,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,Sub Saharan Africa,522393.3,0.09809,0.11417,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,North Africa,121097.3,0.02274,0.02647,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,West Asia,189287.8,0.03554,0.04137,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,Eastern Europe,412740.0,0.0775,0.0902,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,South and South East Asia,1583653.9,0.29736,0.34611,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+1990,East Asia,1368682.7,0.25699,0.29913,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,Western Offshoots,343728.9,0.05571,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,Latin America,521569.9,0.08454,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,Western Europe,390517.0,0.0633,0.07362,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,Sub Saharan Africa,682474.0,0.11062,0.12866,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,North Africa,147752.5,0.02395,0.02785,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,West Asia,236732.7,0.03837,0.04463,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,Eastern Europe,408660.8,0.06624,0.07704,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,South and South East Asia,1941774.2,0.31473,0.36607,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2000,East Asia,1496516.4,0.24256,0.28213,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,Western Offshoots,382513.8,0.05449,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,Latin America,589176.1,0.08393,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,Western Europe,411409.6,0.05861,0.06802,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,Sub Saharan Africa,896285.1,0.12768,0.14819,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,North Africa,175524.9,0.025,0.02902,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,West Asia,295460.6,0.04209,0.04885,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,Eastern Europe,406038.5,0.05784,0.06714,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,South and South East Asia,2278938.1,0.32465,0.37681,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2010,East Asia,1584391.8,0.22571,0.26197,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,Western Offshoots,421687.4,0.05348,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,Latin America,646800.1,0.08204,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,Western Europe,426466.2,0.05409,0.06257,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,Sub Saharan Africa,1170429.4,0.14845,0.17172,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,North Africa,209510.3,0.02657,0.03074,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,West Asia,357202.6,0.04531,0.05241,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,Eastern Europe,415967.6,0.05276,0.06103,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,South and South East Asia,2574066.3,0.32648,0.37766,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2020,East Asia,1662242.2,0.21083,0.24388,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,Western Offshoots,428339.6,0.05295,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,Latin America,658962.4,0.08146,,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,Western Europe,430560.6,0.05323,0.06149,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,Sub Saharan Africa,1261191.9,0.15592,0.18013,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,North Africa,218498.3,0.02701,0.03121,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,West Asia,376160.1,0.0465,0.05372,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,Eastern Europe,412625.1,0.05101,0.05893,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,South and South East Asia,2646023.6,0.32712,0.37791,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2023,East Asia,1656596.6,0.2048,0.2366,UN World Population Prospects 2024 via Our World in Data,data,owid_hyde_un
+2030,Western Offshoots,446377.3,0.05211,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2030,Latin America,687813.0,0.08029,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2030,Western Europe,431625.8,0.05039,0.05808,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2030,Sub Saharan Africa,1487573.4,0.17366,0.20016,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2030,North Africa,238408.4,0.02783,0.03208,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2030,West Asia,414535.6,0.04839,0.05578,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2030,Eastern Europe,413855.0,0.04831,0.05569,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2030,South and South East Asia,2819763.7,0.32917,0.37941,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2030,East Asia,1626280.8,0.18985,0.21882,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,Western Offshoots,467693.1,0.05098,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,Latin America,717096.8,0.07817,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,Western Europe,429322.7,0.0468,0.05374,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,Sub Saharan Africa,1829660.6,0.19944,0.22901,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,North Africa,264583.5,0.02884,0.03312,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,West Asia,461148.7,0.05027,0.05772,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,Eastern Europe,411817.4,0.04489,0.05155,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,South and South East Asia,3033538.7,0.33066,0.3797,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2040,East Asia,1559246.7,0.16996,0.19517,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,Western Offshoots,484157.2,0.05011,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,Latin America,730118.4,0.07557,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,Western Europe,423338.3,0.04382,0.05012,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,Sub Saharan Africa,2177203.8,0.22536,0.25775,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,North Africa,287819.2,0.02979,0.03407,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,West Asia,502289.8,0.05199,0.05946,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,Eastern Europe,410600.9,0.0425,0.04861,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,South and South East Asia,3183047.1,0.32947,0.37683,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2050,East Asia,1462536.6,0.15138,0.17315,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,Western Offshoots,518791.1,0.05063,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,Latin America,698818.9,0.0682,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,Western Europe,395189.9,0.03857,0.04377,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,Sub Saharan Africa,2968864.1,0.28973,0.3288,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,North Africa,320303.1,0.03126,0.03547,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,West Asia,566761.4,0.05531,0.06277,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,Eastern Europe,394141.4,0.03846,0.04365,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,South and South East Asia,3289154.0,0.32099,0.36427,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2075,East Asia,1094912.4,0.10685,0.12126,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,Western Offshoots,547837.0,0.05383,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,Latin America,613485.3,0.06029,,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,Western Europe,376850.5,0.03703,0.0418,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,Sub Saharan Africa,3485688.8,0.34253,0.38665,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,North Africa,325534.2,0.03199,0.03611,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,West Asia,588700.4,0.05785,0.0653,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,Eastern Europe,380201.3,0.03736,0.04217,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,South and South East Asia,3094105.2,0.30405,0.34321,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+2100,East Asia,764003.5,0.07508,0.08475,UN World Population Prospects 2024 (medium variant) via Our World in Data,projection,owid_hyde_un
+1820,East Asia,427757,0.41051,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1820,Eastern Europe,91222,0.08754,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1820,Latin America,20704,0.01987,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1820,Middle East and North Africa,35936,0.03449,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1820,South and South East Asia,255695,0.24538,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1820,Sub Saharan Africa,60000,0.05758,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1820,Western Europe,139472,0.13385,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1820,Western Offshoots,11231,0.01078,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1850,East Asia,455774,0.38323,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1850,Eastern Europe,118161,0.09935,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1850,Latin America,30671,0.02579,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1850,Middle East and North Africa,42000,0.03531,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1850,South and South East Asia,278706,0.23434,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1850,Sub Saharan Africa,65000,0.05465,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1850,Western Europe,172226,0.14481,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1850,Western Offshoots,26760,0.0225,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1870,East Asia,409153,0.32165,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1870,Eastern Europe,142229,0.11181,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1870,Latin America,39023,0.03068,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1870,Middle East and North Africa,45868,0.03606,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1870,South and South East Asia,327692,0.25761,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1870,Sub Saharan Africa,70000,0.05503,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1870,Western Europe,191985,0.15093,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1870,Western Offshoots,46088,0.03623,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1900,East Asia,457058,0.29553,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1900,Eastern Europe,195493,0.1264,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1900,Latin America,62662,0.04052,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1900,Middle East and North Africa,56000,0.03621,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1900,South and South East Asia,366060,0.23669,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1900,Sub Saharan Africa,86000,0.05561,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1900,Western Europe,236902,0.15318,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1900,Western Offshoots,86396,0.05586,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1920,East Asia,543904,0.28106,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1920,Eastern Europe,230270,0.11899,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1920,Latin America,87509,0.04522,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1920,Middle East and North Africa,71000,0.03669,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1920,South and South East Asia,514139.8,0.26568,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1920,Sub Saharan Africa,105000,0.05426,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1920,Western Europe,261053,0.1349,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1920,Western Offshoots,122278,0.06319,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1940,East Asia,614748,0.27439,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1940,Eastern Europe,289952,0.12942,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1940,Latin America,126411,0.05642,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1940,Middle East and North Africa,90000,0.04017,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1940,South and South East Asia,522187,0.23308,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1940,Sub Saharan Africa,152000,0.06785,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1940,Western Europe,292087,0.13037,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1940,Western Offshoots,153003,0.06829,,"Maddison Project Database 2023, Regional data sheet",estimate,maddison_crosscheck
+1950,East Asia,670353.0,0.2662,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1950,Eastern Europe,267702.7,0.10631,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1950,Latin America,164217.2,0.06521,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1950,Middle East and North Africa,103759.5,0.0412,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1950,South and South East Asia,651979.6,0.25891,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1950,Sub Saharan Africa,178875.2,0.07103,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1950,Western Europe,304850.9,0.12106,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1950,Western Offshoots,176458.1,0.07007,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1960,East Asia,810279.6,0.26752,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1960,Eastern Europe,312794.8,0.10327,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1960,Latin America,215894.1,0.07128,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1960,Middle East and North Africa,134461.9,0.04439,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1960,South and South East Asia,794354.9,0.26226,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1960,Sub Saharan Africa,223033.5,0.07364,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1960,Western Europe,326376.1,0.10776,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1960,Western Offshoots,211670.8,0.06988,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1970,East Asia,987317.0,0.26866,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1970,Eastern Europe,350094.6,0.09526,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1970,Latin America,283244.3,0.07707,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1970,Middle East and North Africa,173936.2,0.04733,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1970,South and South East Asia,998481.9,0.2717,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1970,Sub Saharan Africa,287210.4,0.07815,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1970,Western Europe,352386.4,0.09589,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1970,Western Offshoots,242290.2,0.06593,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1980,East Asia,1176179.1,0.26623,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1980,Eastern Europe,381973.7,0.08646,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1980,Latin America,358504.1,0.08115,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1980,Middle East and North Africa,230521.1,0.05218,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1980,South and South East Asia,1257116.2,0.28455,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1980,Sub Saharan Africa,375917.0,0.08509,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1980,Western Europe,367662.9,0.08322,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1980,Western Offshoots,270105.8,0.06114,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1990,East Asia,1347902.4,0.25718,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1990,Eastern Europe,409270.5,0.07809,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1990,Latin America,440329.4,0.08402,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1990,Middle East and North Africa,310610.3,0.05927,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1990,South and South East Asia,1556988.9,0.29708,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1990,Sub Saharan Africa,499494.4,0.09531,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1990,Western Europe,378101.4,0.07214,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+1990,Western Offshoots,298292.5,0.05692,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2000,East Asia,1483664.0,0.24532,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2000,Eastern Europe,407546.9,0.06739,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2000,Latin America,512688.4,0.08477,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2000,Middle East and North Africa,375703.9,0.06212,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2000,South and South East Asia,1889881.3,0.31248,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2000,Sub Saharan Africa,652476.1,0.10788,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2000,Western Europe,390173.3,0.06451,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2000,Western Offshoots,335777.5,0.05552,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2010,East Asia,1563198.3,0.2284,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2010,Eastern Europe,404037.3,0.05903,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2010,Latin America,579689.3,0.0847,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2010,Middle East and North Africa,457893.8,0.0669,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2010,South and South East Asia,2206171.1,0.32234,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2010,Sub Saharan Africa,852582.7,0.12457,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2010,Western Europe,410936.5,0.06004,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2010,Western Offshoots,369760.8,0.05402,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2015,East Asia,1607014.6,0.22124,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2015,Eastern Europe,408465.7,0.05624,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2015,Latin America,609877.5,0.08396,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2015,Middle East and North Africa,502628.1,0.0692,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2015,South and South East Asia,2354315.4,0.32413,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2015,Sub Saharan Africa,977664.0,0.1346,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2015,Western Europe,418652.4,0.05764,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2015,Western Offshoots,384928.5,0.05299,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2016,East Asia,1616265.2,0.22001,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2016,Eastern Europe,408946.6,0.05567,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2016,Latin America,613879.7,0.08356,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2016,Middle East and North Africa,511080.5,0.06957,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2016,South and South East Asia,2382946.8,0.32438,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2016,Sub Saharan Africa,1004367.7,0.13672,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2016,Western Europe,420617.3,0.05726,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2016,Western Offshoots,388147.3,0.05284,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2017,East Asia,1624145.8,0.21862,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2017,Eastern Europe,409379.0,0.0551,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2017,Latin America,619478.7,0.08339,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2017,Middle East and North Africa,519553.5,0.06993,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2017,South and South East Asia,2411271.9,0.32457,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2017,Sub Saharan Africa,1032020.6,0.13892,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2017,Western Europe,422118.9,0.05682,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2017,Western Offshoots,391139.6,0.05265,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2018,East Asia,1629583.3,0.217,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2018,Eastern Europe,409762.6,0.05456,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2018,Latin America,625013.9,0.08323,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2018,Middle East and North Africa,528316.1,0.07035,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2018,South and South East Asia,2439639.9,0.32486,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2018,Sub Saharan Africa,1059933.5,0.14114,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2018,Western Europe,423675.7,0.05642,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2018,Western Offshoots,393841.2,0.05244,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2019,East Asia,1634305.8,0.2153,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2019,Eastern Europe,410229.9,0.05404,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2019,Latin America,631155.8,0.08315,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2019,Middle East and North Africa,537533.8,0.07081,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2019,South and South East Asia,2468025.4,0.32513,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2019,Sub Saharan Africa,1088045.9,0.14333,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2019,Western Europe,425309,0.05603,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2019,Western Offshoots,396343.3,0.05221,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2020,East Asia,1636037.4,0.2133,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2020,Eastern Europe,410308.9,0.05349,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2020,Latin America,637531.7,0.08312,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2020,Middle East and North Africa,546020.8,0.07119,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2020,South and South East Asia,2496800.4,0.32552,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2020,Sub Saharan Africa,1116788.8,0.1456,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2020,Western Europe,426314.3,0.05558,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2020,Western Offshoots,400373.9,0.0522,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2021,East Asia,1636261.2,0.21145,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2021,Eastern Europe,409564.5,0.05293,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2021,Latin America,643143.0,0.08311,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2021,Middle East and North Africa,552751.3,0.07143,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2021,South and South East Asia,2523021.7,0.32604,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2021,Sub Saharan Africa,1145655.4,0.14805,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2021,Western Europe,426860.7,0.05516,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2021,Western Offshoots,401177.3,0.05184,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2022,East Asia,1634861.6,0.20954,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2022,Eastern Europe,407223.9,0.05219,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2022,Latin America,647191.2,0.08295,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2022,Middle East and North Africa,560364.4,0.07182,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2022,South and South East Asia,2545687.1,0.32629,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2022,Sub Saharan Africa,1174709.3,0.15056,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2022,Western Europe,428952.5,0.05498,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck
+2022,Western Offshoots,403043.5,0.05166,,"Maddison Project Database 2023, Regional data sheet",data,maddison_crosscheck

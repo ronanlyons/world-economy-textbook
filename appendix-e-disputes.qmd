@@ -1,0 +1,125 @@
+# The disputes in full {#sec-appE}
+
+Where a chapter stages a live scholarly disagreement, it keeps the finding and sends the argument
+here. Nothing in this appendix is settled; that is the point of it. A reader who wants only the
+state of play can stay in the chapters, and a reader who wants to know why the state of play is
+unsettled will find the reasons below.
+
+The appendix is organised by chapter, so that each chapter's live disagreements sit together and the
+apparatus grows with the book rather than being retro-fitted to it.
+
+# Chapter 1 — Deep structures
+
+## Indus governance, three ways
+
+The three positions run as a spectrum rather than a quarrel. Jonathan Mark Kenoyer argues for rulers
+of a kind, reading the weight system as established by those rulers, plausibly for taxation --- but he
+writes of the "so-called priest-king" himself and argues for several competing elite classes rather
+than a single sovereign. Gregory Possehl denies a state in the archaic sense, with no king and no
+royal apparatus, but affirms elites, ranks and a social pyramid, with authority perhaps sitting in
+councils. Adam Green goes further than either, arguing for collective governance in which many
+intersecting institutions rather than any ruling class coordinated labour and produced the public
+goods: the water infrastructure, the large non-residential buildings, the planning itself.
+
+The evidence Green leans on hardest is the distribution of the seals. More than a thousand were
+recovered from the excavated areas of Mohenjo-daro alone, and on Franke-Vogt's analysis the great
+majority came from ordinary households rather than large public structures. If seals recorded claims
+on resources, the right to make such claims was spread very widely.
+
+That inference is where the dispute actually sits. The step from where seals were found to how the
+society was governed is an inference rather than a finding, and Possehl reads the same distribution as
+a concentration in particular quarters rather than a random spread. Weights may have been used in
+taxation, and at Harappa some were found by a neighbourhood gateway, though that has only been
+reported preliminarily and does not hold across sites. What was taxed, and by whom, is unknown.
+
+What the three agree on is enough to carry the economic argument without settling the dispute, and
+that is why Chapter 1 does not try to settle it.
+
+## Why the Indus cities emptied
+
+Four readings are in play, and the chapter takes none of them as settled.
+
+**Abrupt climate forcing.** Staubwasser and colleagues, and Gupta and colleagues, treat the 4.2 ka
+event — a weakening of the monsoon around 2200 BCE — as the trigger. The difficulty is arithmetic: the
+de-urbanisation is dated around 1900 BCE, three centuries later, and a mono-causal climate account has
+to explain that lag away.
+
+**Gradual hydrological change.** Giosan and colleagues emphasise rivers shifting and drying over
+generations rather than a single sharp drought. This fits the palaeoclimate record better, which shows
+no drought of the right timing and depth to topple a civilisation.
+
+**Internal, ideological failure.** Gregory Possehl rejects environmental causation outright and
+reaches for a failure of whatever held the civilisation together. His is an ideological explanation,
+not a meteorological one.
+
+**Flooding routed through politics.** Jonathan Mark Kenoyer keeps the water in the story but makes the
+causal link political: the rivers moved, the disruption was real, and what broke was the legitimacy of
+the people who had claimed to manage such things.
+
+Two observations cut across all four. Both standard authorities attribute the drying of the Sarasvati
+or Ghaggar-Hakra system to **tectonic change rather than monsoon failure**, which detaches the
+most-cited piece of hydrological evidence from the climate story altogether. And on every reading,
+"de-urbanisation" fits the evidence better than "collapse": the cities were given up, the population
+shifted east toward the Ganges, and the people did not disappear.
+
+^[**Sources:** Possehl, *The Indus Civilization* (2002), for the rejection of environmental causation
+and the ideological reading; Kenoyer, *Ancient Cities of the Indus Valley Civilization* (1998), for
+flooding mediated by a crisis of legitimacy, and both for the tectonic account of the Sarasvati;
+Staubwasser et al. and Gupta et al. for abrupt forcing; Giosan et al. for gradual hydrological change.]
+
+## Redistribution versus market at Uruk
+
+Polanyi placed a redistributive pattern at the heart of the early Near East, and Uruk's state textile
+workshops --- credited with as many as 9,000 women --- are the exhibit usually offered for it. Three
+things complicate that.
+
+**The chronology.** The archives documenting administered redistribution most fully are Ur III, around
+2100 BCE, more than a millennium after Uruk. Emberling treats the great collection-and-redistribution
+centres as an innovation of that empire rather than a feature of the first cities --- and Scott, the
+source of the 9,000 figure, writes in the same passage that reading such evidence back to the Uruk
+period "is highly questionable".
+
+**The strongest version has been walked back.** The "temple-city" model, built on the archive of the
+temple of Ba'u at Lagash, held that temples owned essentially everything. Continued study of that same
+archive showed it had dramatically overstated how much land one temple held, and the Ba'u estate turns
+out to have been supervised by the queens of Lagash rather than by a priesthood standing apart from
+the palace.
+
+**Emberling is more deflationary still:** markets, walls and temples cannot be used to explain why
+cities arose, because none of them developed fully until later.
+
+What survives into the chapter is the position it takes: redistribution and market dealing coexisted,
+and the balance between them is contested rather than settled. The Uluburun cargo, a thousand years
+later, shows both running in the same hold.
+
+## The Phoenician metals question
+
+The commercial thesis, argued at length by Susan Frankenstein and developed by Maria Eugenia Aubet,
+holds that the western settlements were commercial factories and that the whole diaspora was a
+response to Assyrian pressure on Tyre. The mining frontiers do open when the model predicts, in
+south-western Spain and at Laurion in the Aegean.
+
+The case against is archaeological, and it is not that the metals trade did not happen but that it
+does not explain the settlements. The excavated colonies look like farms. They were agricultural towns
+from their foundation --- wine and salted fish at Huelva by the eighth century, Gadir buying farmland
+across the bay around 800 BCE --- and at ninth- and eighth-century Huelva, of some eight thousand
+potsherds, 99.9 per cent are local or Phoenician and fewer than fifty are Greek. Nathan Pilkington
+puts the negative sharply: the implication that Iberian metals were destined for Near Eastern markets
+cannot, he argues, be corroborated from the archaeological record. The Phoenicians never permanently
+settled the Atlantic tin coasts and abandoned the stations they did place there, and a direct run from
+Tyre to Gadir was some four and a half thousand kilometres and a month's sailing, which allows one
+voyage a season.
+
+Where the field has moved is easy to overstate in either direction. The older scholarship explained
+the colonies *exclusively* by trade in metals. The newer work, with specialised settlements, survey,
+archaeobotany and archaeometallurgy, has opened the explanation to territorial, productive and social
+motives alongside the commercial one. That is a broadening, not a refutation.
+
+**What would settle it:** provenance work tying the silver in Levantine hoards to Iberian ores. This
+book has not found that evidence either way.
+
+^[**Sources:** on the Indus, Kenoyer, *Ancient Cities of the Indus Valley Civilization* (1998);
+Possehl, *The Indus Civilization* (2002); Green, "Killing the priest-king" (2021) and his 2022 paper on
+collective action; Franke-Vogt on the seal distribution. On the Phoenician question, Lopez-Ruiz and
+Doak (eds), *The Oxford Handbook of the Phoenician and Punic Mediterranean* (2019), and Pilkington,
+*The Carthaginian Empire*, p. 61.]

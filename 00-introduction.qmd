@@ -1,4 +1,4 @@
-# Introduction: The vantage, the questions, the method {#sec-intro .unnumbered}
+# Introduction: The vantage, the framework, the evidence {#sec-intro .unnumbered}
 
 ::: {.callout-important appearance="simple"}
 **Preliminary draft --- under review.** Published for review; content, figures and citations may still change.
@@ -8,160 +8,1034 @@
 A claim to test, not a creed to defend.
 :::
 
+## Start with a headline you believe
+
+Every spring, Indian newspapers carry a version of the same story. The monsoon will be weak this
+year, the story says, because of El Nino. Farmers should expect a poor kharif season, food prices
+will rise, and rural demand will soften. The story is not silly. It is written by competent
+journalists from official forecasts, and most economists reading it would nod along.
+
+Nod along, and then look at what the sentence actually did. The Pacific was warm. Warm Pacific
+years are, on average, drier over India. A drier year means a smaller harvest. A smaller harvest
+means higher prices and weaker demand. Each of those steps is a tendency, and the headline welded
+four tendencies into a chain and then attached the word "because" to the front of it. Nothing in
+the chain is a cause of anything in particular. It is a set of probabilities wearing the clothes of
+an explanation.^[**Sources:** the structure of the seasonal forecast follows the India
+Meteorological Department's long-period-average convention, in which a season below about 90 per
+cent of the long-period average is classed as deficient, and the June-to-September monsoon supplies
+roughly three-quarters of India's annual rainfall. **Read more:** the module's Topic 0 slides carry
+the current year's figures, which change annually and are deliberately not printed here.]
+
+Be precise about how loose the chain is, because the looseness is the lesson. The
+correlation between El Nino and a weak Indian monsoon is real and it is physical, not a statistical
+accident. It is also only about minus 0.5 to minus 0.6, and it weakened after the 1980s. In 1997
+the Pacific ran one of the strongest El Ninos ever recorded and the monsoon was normal. A
+relationship can be genuinely causal, well understood in its mechanism, and still fail to predict
+any individual year. When that is true, it is not an explanation of any individual year either.
+
+We will meet this problem in every chapter of this book, usually with worse data and higher stakes.
+Did the monsoon fail and empty the cities of the Indus? Did a plague end the Roman peace? Did
+climate cause the Bronze Age collapse? Students write those sentences confidently, and the sentences
+have the same shape as the headline: a real physical relationship, a real historical event, and a
+"because" inserted where the evidence supports only a "sometimes, on average".
+
+So here is a case that runs the other way, and it is the best one in the book. Egypt kept a
+continuous annual record of the Nile flood from 622 CE, because flood height set the land tax. The
+two lowest floods in thirteen hundred years, in 967 and 1200, both coincide with famines, which is
+what you would expect. Then comes the Fatimid famine of 1065 to 1072, the *shidda al-uzma*, the
+great calamity, one of the worst subsistence crises in Egyptian history. The gauge says the water
+was about half a standard deviation below normal. In other words, nearly fine. What produced the
+famine was civil war, the collapse of the military, and the breakdown of the system that moved grain
+from where it grew to where it was eaten. The harvest was not the binding problem. The entitlement
+to the harvest was.^[**Sources:** the Roda Nilometer series, ed. Toussoun (1925), digitised by
+Koutsoyiannis et al. (2013); on the Fatimid crisis and its non-climatic character, the discussion in
+this book's Chapter 3. **Read more:** Koutsoyiannis (2013), doi:10.1080/02626667.2013.804626.]
+
+Your intuition was reasonable. The evidence sometimes refuses it. The rest of this introduction is
+the apparatus for telling those two situations apart.
+
 ## The view from the other shore
 
-Imagine the world economy not from London or New York but from a beach on the Malabar
-coast, or the deck of a dhow running before the monsoon from Aden to Gujarat. It is a
-deliberately awkward place to stand, because almost every long-run history of the world
-economy is written from somewhere else — from the North Atlantic, looking outward, with
-Europe as the active party and the rest of the world as the stage on which European energy
-plays out. Tell the story that way and its shape is settled in advance: the world is poor and
-static until, around 1500 or 1750, Europe stirs, and modern prosperity radiates from a single
-source.
+Imagine the world economy not from London or New York but from a beach on the Malabar coast, or the
+deck of a dhow running before the monsoon from Aden to Gujarat. It is a deliberately awkward place
+to stand, because almost every long-run history of the world economy is written from somewhere
+else: from the North Atlantic, looking outward, with Europe as the active party and the rest of the
+world as the stage on which European energy plays out. Tell the story that way and its shape is
+settled before the evidence arrives. The world is poor and static until, around 1500 or 1750,
+Europe stirs, and modern prosperity radiates from a single source.
 
-Stand on the Indian Ocean shore instead and a different shape appears. You notice that for
-most of recorded history the largest and richest economies, and the most commercially
-developed, were in Asia — Han and Song China, the Abbasid caliphate, Mughal India — and that
-the world's most coveted store of value, silver and gold, flowed toward them, not away.
-Europe, by contrast, spent long centuries as a periphery: an exporter of slaves, furs and raw
-metal, an importer of manufactures and ideas, paying for what it wanted in bullion it could
-barely produce itself. And the period in which Europe genuinely ran the world economy is
-short — concentrated in the century or so after 1750 — and even at its height it rested on the
+Stand on the Indian Ocean shore instead and a different shape appears. For most of recorded history
+the largest and richest economies, and the most commercially developed, were in Asia: Han and Song
+China, the Abbasid caliphate, Mughal India. The world's most coveted store of value, silver and
+gold, flowed toward them rather than away. Europe spent long centuries as a periphery, exporting
+slaves, furs and raw metal, importing manufactures and ideas, and paying for what it wanted in
+bullion it could barely produce itself. The period in which Europe genuinely ran the world economy
+is short, concentrated in the century or so after 1750, and even at its height it rested on the
 Asian periphery it governed.
 
+The default reverses things more thoroughly than that summary suggests. In 1000 CE the
+largest cities in the world were Baghdad, Kaifeng and Cordoba, and Cordoba is the only one most
+European readers will place. The most sophisticated commercial instruments of the age, the
+partnership contract, the bill of exchange, deposit banking, were being used across the Islamic
+world and in Song China before they appeared in Italy. And the goods that Europeans crossed oceans
+to obtain in the fifteenth century had been moving across the Indian Ocean for a thousand years in
+ships that Europeans did not build, on routes they did not know, in a trade whose prices they did
+not set.
+
 This book takes that view seriously enough to build a whole history around it. But the vantage
-point is a tool, not a slogan. The argument it generates is a claim, and the book's job is to
-test that claim, period by period, against what the evidence will bear, and to be candid about
-where the evidence is thin and where serious scholars disagree.
+point is a tool. It earns its place by making an anomaly visible, and it should be dropped the
+moment it stops paying. The argument it generates is a claim, and the book's job is to
+test that claim period by period against what the evidence will bear, and to be candid about where
+the evidence is thin and where serious scholars disagree.
+
+## What we mean by a world economy
+
+We should say what the object is before spending eleven chapters locating its centre, and this is
+harder than it sounds. Most books in this field use the term and never define it, which is
+convenient, because every definition either excludes most of the period or admits almost everything.
+
+The definition this book works to is deliberately modest. A world economy is a set of regions whose
+production and prices respond to one another across distances that none of them controls. Not a
+world market, which would require something close to a single price; not an empire, which is a
+political object; and not merely contact, since a diplomatic gift or a shipwrecked sailor
+establishes contact without establishing anything economic. The test is responsiveness at a
+distance, and the crucial word is *respond*: what happens in one place has to alter what is
+produced, or what things cost, somewhere far enough away that no single authority governs both
+ends.
+
+That definition is weak on institutions and strong on responsiveness, and it is weak on institutions
+on purpose. The institutions change out of all recognition across five and a half thousand years,
+from temple redistribution to chartered companies to container shipping, and a definition anchored
+to any of them would exclude most of the period. Responsiveness is the one thing that can, in
+principle, be measured at every point on the arc, even if the instrument for measuring it changes
+completely. It also sets a bar the book has to clear in each period rather than assume, which is
+why Chapter 1's verdict on the centre of gravity is *not applicable* rather than *no*. In the third
+millennium BCE the question does not yet have a subject.
 
 ## The spine: the claim we are testing
 
-Here is the argument in one paragraph; the rest of the book interrogates it.
+Here is the argument in one paragraph. The rest of the book interrogates it.
 
 > *Viewed from the Indian Ocean, the world economy spent most of its history centred on
-> Asia — visible in the direction bullion flowed and in where the world's goods were made.
+> Asia --- visible in the direction bullion flowed and in where the world's goods were made.
 > Integration advanced and retreated in waves shaped by climate, disease, technology and
 > money, along a durable maritime channel and a periodically resurgent overland one. Europe's
-> dominance was real and transformative but bounded — concentrated in the century after
+> dominance was real and transformative but bounded --- concentrated in the century after
 > 1750, built partly on the Asian centrality it overturned, and resting at its height on the
 > Indian Ocean periphery it governed. Its timing and depth remain debated, and the East's
-> aggregate return — measurable but partial, achieved within a Western-built order — is the
+> aggregate return --- measurable but partial, achieved within a Western-built order --- is the
 > long arc closing, not simply repeating.*
 
-Call this the spine. It treats European dominance as an interruption rather than a
-destination, but a bounded one. Four qualifications bound the claim, and they recur throughout
-the book:
+Call this the spine. It treats European dominance as an interruption rather than a destination, but
+a bounded one, and four qualifications bound it. They recur throughout the book, so carry all
+four:
 
-1. the interruption was consequential — roughly two transformative centuries, not a blip;
-2. its timing and depth are genuinely open, debated in @sec-ch07 over the Great Divergence;
-3. the eventual return east is partial — aggregate weight, not a restoration of per-capita
-   parity; and
-4. it is system-dependent — the Asian re-rise happened within a US-anchored order.
+1. the interruption was consequential, roughly two transformative centuries rather than a blip;
+2. its timing and depth are genuinely open, and are argued over in @sec-ch07;
+3. the eventual return east is partial, being aggregate weight rather than a restoration of
+   per-capita parity; and
+4. it is system-dependent, since the Asian re-rise happened inside a US-anchored order.
 
-We do not settle the spine here. We assemble the tools to test it, and return to weigh it in
-the [Conclusion](11-conclusion.qmd).
+We do not settle the spine here. We assemble the tools to test it, and return to weigh it in the
+[Conclusion](11-conclusion.qmd).
 
-## The four questions
+## The framework: what makes a place productive
 
-The book asks the same four questions of every period. They organise every chapter and are the
-method the book hands you. Together they answer the spine — *where is the centre of gravity,
-and is it moving?* — without pre-judging it.
+Underneath the whole book sits one piece of economics, stated plainly here because every chapter
+refers back to it. What a society can produce depends on four things: its useful
+knowledge, its capital, its people, and its land. Written out, output is a function of technology,
+capital, labour and nature:
+
+$$Y = f(A, K, L, N)$$
+
+This is a scaffold, not a model to be solved. Nobody in this book estimates it. Its job is to make
+us ask, once per topic, which of the four inputs was doing the work and which one was in the way.
+
+**A is technology and useful knowledge.** Not only machines: techniques, crops, navigation, the
+ability to write a contract that a stranger will honour. Institutions live here too, entered as
+productivity rather than as a separate category, which is a simplification some economists will
+dislike and which keeps the framework to four terms.
+
+**K is capital assets.** Ships, warehouses, irrigation works, tools, pack animals, stock in hand.
+A produced thing, not consumed at once, yielding services through time. That is the whole of what K
+means in this book, and keeping it that narrow is deliberate, because three different ideas get
+folded into it constantly.
+
+Money is a function. It is what an object or a claim *does*: quote a price, settle a debt, hold
+value between now and later. Silver by weight does it. So do cowries, coins, banknotes and a bank
+deposit.
+
+Credit is a relationship. One party holds a claim, another carries the liability, and purchasing
+power has moved across time. The obligation can be written in silver, in grain, in cattle or in
+coin, and Mesopotamia was running interest-bearing debt around 3000 BCE, two and a half millennia
+before anyone struck a coin.
+
+Capital is neither. It is a thing somebody built and can now use.
+
+Money can finance capital and credit can finance capital, and it is tempting to conclude that they
+are therefore capital. They are not. A society cannot make more because the ship was paid for with
+borrowed silver rather than saved silver. The ship is the capital.
+
+Follow one lump of metal and the three come apart cleanly. Silver in the ore body is N. Refined and
+cast into an ingot it is output, and wealth. Used to quote a price or settle an obligation it is
+performing a monetary function. Promised across time it sits inside a credit relationship. Four
+positions, one metal, and the metal never changed.
+
+Which is why the tidy version has to be resisted. That version says bullion is a good first and
+becomes money later, at some date, and it is wrong in a way worth naming: it makes a claim about
+the calendar when the real claim is about function. Refined silver is always an economic good. In a
+great many societies it is also, at the same time, doing monetary work. Coinage standardises a
+monetary object and certifies its content. It does not invent money.
+
+The categories overlap, and that is the point rather than a defect. A bank deposit is money and a
+credit claim at once. Cattle are capital and a store of wealth. The question is never which box
+something belongs in. It is which function it is performing, here, in this transaction.
+
+None of which costs us the tracer. Silver remains the best single thing to follow across five and a
+half thousand years, and @sec-ch08 is where the direction it runs in reverses. What changes there
+is what the metal is doing, and who will honour a face value at the far end of a voyage. It is not
+a date on which metal turned into capital.
+
+**L is labour and people.** In this book that means migration, slavery and indenture at least as
+often as it means population growth, because for most of the period the way to get more labour into
+a place was to move it there, and frequently to move it by force.
+
+**N is land, energy and resources.** Most courses drop N, or fold it into capital, on the reasonable
+grounds that in a modern economy land is a small share of costs. Before fossil fuel it is not a
+small share of anything. Energy came from land, as food for people and animals and as wood for
+heat; materials came from land; and the binding constraint on almost every pre-modern economy was
+how much land it could reach. Restoring N to the front rank is the single most consequential thing
+this framework does.
+
+N also has a second face, and the second face is where the economics gets interesting. There is N
+as nature: soil, rainfall, ore bodies, disease environment, the physical world a society is handed.
+And there is N as power: what happens when a resource is not merely scarce but *concentrated*, so
+that whoever holds the place it comes from can charge for access. Banda nutmeg, Potosi silver,
+Baltic ship timber, the Straits of Malacca, Suez, the coalfields. Once you see the second face, a
+great deal of what looks like commercial history turns out to be a fight over N. The armed trading
+companies of @sec-ch06 are the clearest case: they are not merchants who happened to carry cannon,
+they are organisations built to hold chokepoints.^[**Sources:** the framework follows the module's
+own governing-framework document; on chokepoints and armed trade, @sec-ch06. **Read more:**
+Findlay and O'Rourke, *Power and Plenty* (2007), for the same argument made at book length.]
+
+Two long-run patterns fall straight out of the four terms, which is the main reason for having
+them.
+
+The first is Malthus, restated. With N roughly fixed and A improving slowly, any gain in output
+gets absorbed by more people rather than by richer people. That is not a claim about human nature;
+it is arithmetic on a constrained input. It is why almost every flourishing economy in the first six
+chapters of this book flourishes by getting bigger, and why reading that as rising living standards
+is the commonest mistake a student makes here.
+
+The second is the escape, around 1800, and it is the same sentence run backwards. A surges, because
+useful knowledge becomes cumulative and fossil-fuelled, and simultaneously the N constraint relaxes,
+because coal substitutes for land as a source of energy and colonial acreage substitutes for
+domestic acreage as a source of food and fibre. Both terms move at once, and only then does A
+finally outrun L. @sec-ch07 is that story, and the framework is why the chapter can treat coal and
+colonies as two versions of the same relief rather than as two unrelated advantages.^[**Sources:**
+Wrigley, *Energy and the English Industrial Revolution* (2010), on the organic-economy constraint;
+Pomeranz, *The Great Divergence* (2000), on ghost acreage. **Read more:** @sec-ch07.]
+
+One sentence ties the framework to everything else in the book, and it is the sentence to memorise
+if you memorise one:
+
+> **The production function tells you what a society could produce; demand decides whether it does;
+> and control of N decides who keeps the gains.**
+
+Three separate claims, and the second and third are the ones usually left out. Capacity is the
+supply side, and it is what the function describes. Demand is whether that capacity is used at all,
+which is not automatic: European households had to acquire a taste for cotton, sugar and tea before
+Asian and Atlantic production had a market to grow into, and Chapter 2 contains the only
+pre-modern evidence in this book that anyone actually *ate* the pepper they imported. And power is
+who captures the output once it exists, which is where the bottleneck-holder, the armed company and
+the colonial state come in. A history that runs only on capacity ends up explaining why Britain
+could industrialise and never explaining why India, which could also have done, did not.
+
+Demand deserves a further sentence, because it is the term this kind of history most often drops.
+It is easy to write a story in which Asia could produce and Europe could not, and to stop there.
+But production without a buyer is not economic activity, it is a warehouse.
+
+Some of the largest movements in this book are movements in what people wanted rather than in what
+could be made: the
+European acquisition of a taste for sweetened tea, which reorganised agriculture on three
+continents; the shift of pepper from a ritual and medical substance to a culinary one, which
+changed the volume required without changing the supply chain at all; the Chinese demand for
+silver as a tax medium, which is why American mines mattered to a country that never traded with
+the Americas.
+
+When a chapter cannot explain why a flow started, the missing term is usually this one.
+
+In practice the framework is used one line at a time. At the end of every chapter there is an input
+ledger: which of the four inputs was doing the work in this period, and which one was binding?
+
+The answers are not always the ones you would guess. In @sec-ch01 the binding input is N, but not in
+the way the phrase suggests, because the constraint on the Indus cities turns out to be the
+*variability* of the water rather than its quantity. In @sec-ch06 the input that moves is K, since
+what the chartered company supplies is not better technology or cheaper labour but a way of
+assembling capital and violence in the same institution. By @sec-ch10 the binding input has become
+A, and the argument about whether it will stay that way is the argument about the next fifty years.
+
+Ten lines, one per chapter. By the end you will have written the book's argument yourselves.
+
+## The four questions, and where they meet the framework
+
+The book asks the same four questions of every period. They organise every chapter and they are the
+method the book hands you.
 
 ::: {.callout-important}
 ## The four motivating questions
-- **Q1 — Direction.** Is the system integrating or disintegrating? (Two refinements the
-  evidence forces on the simple cycle: integration breeds fragility, since the links that carry
-  goods carry shocks; and disintegration has winners, since a fracturing core can loosen its
-  grip on a periphery.)
-- **Q2 — Channels.** Which routes carry the integrating weight, maritime or overland, and are
-  they complements or substitutes? (The maritime Indian Ocean is the durable artery; the
-  overland corridor had one true climax, the Mongol Pax of @sec-ch04.)
-- **Q3 — Modes.** Which of the four flows — goods, technology, people, capital — is doing the
-  integrating? Here the book makes one move: treat bullion as a *good* until the nineteenth
-  century, then as *money and capital* after, and read its direction as the running tracer of
-  the centre of gravity.
-- **Q4 — Europe.** What is Europe's role — peripheral, entrant, dominant, one of several
-  cores — and how does it change? Asked as an open question, not assumed.
+- **Q1 --- Direction.** Is the system integrating or disintegrating? Two refinements the evidence
+  forces on the simple cycle: integration breeds fragility, since the links that carry goods carry
+  shocks; and disintegration has winners, since a fracturing core can loosen its grip on a
+  periphery.
+- **Q2 --- Channels.** Which routes carry the integrating weight? Three run through this book: the
+  maritime Indian Ocean, the desert-and-oasis corridor, and the steppe. The ocean is the durable
+  artery; the overland channels had one true climax, the Mongol Pax of @sec-ch04.
+- **Q3 --- Modes.** What crosses the connection? The answer is read off the framework, input by
+  input. The real flows are output itself, useful knowledge, people and capital assets --- Y, A, L
+  and K. Alongside them run monetary and financial flows: settlement assets, and claims and
+  liabilities. Bullion can sit on both sides at once, which is why its direction serves as the
+  book's running tracer of the centre of gravity.
+- **Q4 --- Europe.** What is Europe's role: peripheral, entrant, dominant, one of several cores? And
+  how does it change? Asked as an open question, not assumed.
 :::
 
-The spine is answered jointly by Q3, which follows the bullion and then the capital, and Q4,
-Europe's changing role; Q1 and Q2 describe how the system that holds the centre is wired at
-each moment. The arc the four questions trace, chapter by chapter, is this:
+Q4 is the odd one out and readers are entitled to ask why Europe gets a question to itself. The
+answer is not that Europe is more important than the other actors; for most of this book it is
+plainly less so. It is that Europe is where the reader's prior sits. Every student arriving at this
+module has absorbed a version of the story in which European development is the main sequence and
+everything else is background. The way to test a prior is to make it a question rather than leave
+it as an assumption.
 
-> no single centre (Ch 1) $\to$ Asia the production-centre of a multipolar relay (Ch 2) $\to$
-> Asia central, Europe peripheral (Ch 3) $\to$ Asia central, a first north-west-European seed
-> (Ch 4) $\to$ Asia the silver sink (Ch 5) $\to$ Asia the workshop, Europe armed (Ch 6) $\to$
-> the turning point, the centre moves west (Ch 7) $\to$ peak Western dominance on an Indian-Ocean
-> base (Ch 8) $\to$ the order cracks within the West (Ch 9) $\to$ the return toward Asia (Ch 10).
+So Q4 asks in each period what Europe's role actually was, with the
+possible answers laid out in advance and none of them privileged: peripheral, entrant, one core
+among several, dominant. Asked that way, the answer changes across the ten chapters in a pattern
+that is genuinely interesting, and in @sec-ch01 it changes twice, since Bronze Age Europe turns out
+to be a resource periphery supplying tin to an Asian-centred system, which is a much stranger
+finding than either "central" or "absent".
+
+The four questions and the production function are not two separate pieces of apparatus. They are
+two axes of the same one. The production function is vertical: it asks what makes a *place*
+productive. The four questions are horizontal: they ask how places *connect*. And they meet at N.
+
+That gives us a definition of integration with some economics in it. To integrate is to relax your
+own binding constraint by drawing on somebody else's inputs: importing land-intensive goods because
+you have run out of land, monetising foreign silver because your own mines are poor, importing
+labour because you cannot raise enough of it, borrowing technology because you did not invent it.
+Q3's four flows are the four inputs. Goods are N embodied, in the sense that a cargo of grain or tin
+is somebody else's land arriving in usable form. Technology is A. People are L. Capital is K. The
+mapping is close enough to be useful and loose enough that you should check it in each period rather
+than assume it.
+
+## Where the centre of gravity sat, and how sure we are
+
+The spine is a claim about where the weight of the world economy sat, and a claim like that is only
+as good as its definition of weight.
+
+**Weight is output.** The centre of gravity is the point world economic activity balances around,
+and the quantity being balanced is production. Not territory, not armies, and not population for
+its own sake.
+
+**Not all output counts equally.** What the spine is about is the connected economy: output that
+trade enabled, or that was produced for trade, and above all for long-distance trade. A subsistence
+farmer's grain is output, and in aggregate it dwarfs everything else in every chapter before the
+nineteenth century, but it never moved and it cannot move a centre of gravity. So the weighting
+favours the goods that travelled, the workshops that made them and the ports that handled them.
+This is why a chapter can call Rome the largest single economy of its age and still put the centre
+of gravity east of it. The two statements measure different things and both are true.
+
+That choice needs defending rather than asserting, because there is an obvious objection and it is
+a good one. The connected economy was small: in the periods this book opens with, the long-distance
+trade is on the order of a few per cent of the output of the economies doing it. Weight the small
+connected part and disregard the enormous subsistence part, and you have built a measure that
+locates the centre wherever the tradeable goods were made. Since the tradeable goods were largely
+made in Asia, Asia cannot lose. A reader entitled to be suspicious will say the measure was chosen
+to produce the answer.
+
+The reply is that the two measures answer different questions, and this book is asking the second
+one. Total output answers *where was most production happening*, which before 1800 is very nearly
+*where did most people live*. That is a real fact and a large one, but it tells you nothing about
+who could set a price. Connected output answers *whose goods did other people reorganise themselves
+to obtain, and on whose terms*. That question has testable consequences, which is what makes it
+worth asking: it predicts where metal accumulated, which is physically observable in hoards and ice
+cores; and it predicts who could refuse a deal. Chapter 2 catches the second one happening, when
+Indian merchants stopped accepting Roman silver at the moment its content fell.
+
+Two honesties follow. For much of the arc the two measures agree, because population and production
+moved together, so the choice is doing less work than the objection implies. But they come apart
+exactly where the argument is most contested, and the book will say which one it is using at those
+points. And the measure is not neutral about what counts as economic weight: it treats the ability
+to set terms as the thing worth measuring. That is a position, and a reader who thinks aggregate
+production is the better question will read the same evidence and reach a different verdict. They
+are entitled to.
+
+**Before about 1800, output is read through population**, and the circularity has to be said out
+loud. In a Malthusian world more food meant more people rather than richer people, so a region's
+share of world output tracked its share of world population fairly closely, which makes population
+a defensible proxy. But most historical output estimates for the pre-modern world were themselves
+built from population figures and assumed income levels. When the two series agree before 1800,
+part of that agreement is a fact about the world and part of it is an artefact of how the numbers
+were made. A good student will spot this, and it is much better coming from us.
+
+**Bullion indicates; it does not define.** The direction metal flowed is this book's running tracer,
+because metal moved toward the workshop. It is evidence for where the centre lay, and good
+evidence. It is not what the centre *is*.
+
+**Every verdict is scored, on a four-point scale plus a null.** *High* means several instruments
+with different biases give one answer. *Moderate* means the reading is supported, but one
+instrument is carrying it. *Low* means it is a reasonable reading and a different one would not be
+unreasonable. And *not applicable* means the question has no meaning in this period yet, which is
+an honest answer rather than a dodge, and is the entry for @sec-ch01.
+
+**Direction and magnitude are scored separately**, because they are separate claims and the evidence
+for them is usually of different quality. Chapter 2 is the standing example: that Roman metal moved
+east is about as secure as anything in ancient economic history, and how much of it moved is
+contested by two orders of magnitude. An answer that gives one confidence level for both has run
+two claims together.
+
+Applying that scale across all ten verdicts turns up something worth knowing before you start.
+**This book knows direction far better than it knows magnitude.** Of the nine periods where the
+question has a subject, seven score high on direction and five score low on scale. We can say with
+some confidence which way the weight sat and which way it was moving, in almost every period. We
+can rarely say by how much. That asymmetry is not a failing of this particular book; it is a
+property of the evidence, since the instruments that establish direction, such as the way metal
+flowed or what a place exported against what it imported, are robust to being wrong about
+quantities by a factor of two. It does mean that a reader who wants numbers will be more often
+disappointed than a reader who wants an argument, and it is why @sec-appC now scores the two
+separately.
+
+**Two instruments, not one.** For nine chapters the centre has to be inferred, from city sizes,
+trade composition, the direction of bullion, shares of world manufacturing. In @sec-ch10 it can
+also be computed: Danny Quah's economic centre of gravity, the distance-weighted average location
+of world output. That calculation is offered there as a complement to the reading this book has
+been making all along, not as a replacement. It weights all output equally, where this book weights
+connected output, so it answers a slightly different question, and two differently-derived readings
+that agree are worth more than either alone.
+
+**One switch, announced in advance.** Chapters 1 to 6 score aggregate weight; from @sec-ch07 the
+measure that matters becomes income per head. That switch *is* the Great Divergence, and the
+chapter says so. But it does mean the early and late verdicts are not marks on
+the same ruler, and @sec-appC keeps them in one table precisely so that the seam is visible.
 
 ### The bullion tracer, and why it flips
 
-Before modern capital markets, metal moved toward the workshop. People who made things the
-rest of the world wanted — Indian cotton, Chinese silk and porcelain — were paid in silver and
-gold, which pooled where production was most valued. So in antiquity Roman silver drained
-*east* to India (@sec-ch02); in the early-modern centuries New World silver flowed *east* to
-China (@sec-ch05). The tracer even works in reverse where it should: the Abbasid core paid
-silver *north* to its slave-and-fur periphery (@sec-ch03), mirroring Rome.
+Before modern capital markets, metal moved toward the workshop. People who made things the rest of
+the world wanted, Indian cotton and Chinese silk and porcelain, were paid in silver and gold, which
+pooled where production was most valued. So in antiquity Roman silver drained east to India
+(@sec-ch02), and in the early-modern centuries New World silver flowed east to China (@sec-ch05).
+The tracer even works in reverse where it should: the Abbasid core paid silver north to its
+slave-and-fur periphery (@sec-ch03), mirroring Rome. That reversal matters, because a tracer that
+only ever points one way is a rule rather than an instrument.
 
-After the nineteenth century the logic flips, because bullion's role changes. Under the
-classical gold standard and integrated capital markets, gold becomes money and capital, and
-following it leads not to the workshop but to the financial core — London, then New York. But
-note who underwrote that core: India's colonial "drain" helped finance Britain's payments
-deficits (@sec-ch08), sourced in the periphery and intermediated by the core.
+One complication belongs here rather than in a footnote, because it arrives before the pattern
+does. The earliest traceable silver flow in this book runs the wrong way. In the third and second
+millennia BCE, the metal moves *west to east* into Mesopotamia rather than east toward a workshop,
+because at that date the workshop in the later sense does not exist and silver is moving toward
+demand rather than toward production. So the tracer that organises eight chapters is complicated by
+the first one. That is not a reason to drop it. It is a reason to state what the tracer assumes: it
+works when one region is making things another region wants badly enough to pay in metal for, and
+before that condition holds, metal moves for other reasons entirely.
+
+After the nineteenth century the tracer flips, and what flips is not the obvious thing.
+
+The metal is doing something new. Under the classical gold standard, gold is not merely accepted by
+weight at the far end of a voyage; it anchors a settlement system that reaches across borders, and
+claims denominated in it circulate on the credit of institutions rather than on assay. Follow it
+then and it leads to the financial core, London and afterwards New York, rather than to the
+workshop.
+
+Note who underwrote that core. India's colonial drain helped finance Britain's payments deficits
+(@sec-ch08), sourced in the periphery and intermediated by the centre.
+
+### Integration breeds fragility
+
+Q1's first refinement earns a paragraph of its own, because it is the closest thing this book has
+to a general finding. The links that carry goods carry shocks. A network that moves pepper
+efficiently moves pathogens efficiently, and a system whose parts have specialised in what they do
+best is a system in which no part can feed itself when the connections fail.
+
+The pattern shows up at every scale. The Late Bronze Age palaces fell more or less together, and
+the tin that made their bronze came from far enough away that a single interruption reached all of
+them. The Antonine plague travelled the same routes as the eastern trade and struck both ends of
+Eurasia within a few years. The Black Death moved along the Mongol roads that had just made
+overland trade viable for the first time in centuries. The financial crisis of the 1930s
+transmitted through exactly the capital-market linkages that had been the previous generation's
+achievement.
+
+The lesson is not that integration is bad, which would be a strange thing to conclude from a book
+about it. It is that integration and fragility are the same property observed at different moments,
+and that a period's prosperity and its vulnerability are usually built out of the same links. When
+a chapter reports a system at its peak, the useful next question is what that peak has made it
+unable to survive.
+
+## The two yardsticks
+
+The book measures two different things and keeps them apart, and half the disagreements in this
+field are two people scoring on different instruments without noticing.
+
+**Integration** is measured two ways, because the evidence changes. Before there are prices, it is
+read from the diffusion of goods, weights and standards: Indus seals turning up in Mesopotamia,
+a chariot design reaching Shang China. That establishes that two economies touched, and says
+almost nothing about how much, how often, or at what price. Once there is coinage and quoted
+prices, integration can be read from price convergence instead, which is a far stronger
+instrument. Two instruments, one concept, and the switch happens around @sec-ch03.
+
+**Success** is the other yardstick, and it has two settings. Quantity, or extensive growth, means
+more people, bigger cities, larger total output: prosperity turned into numbers. Quality, or
+intensive growth, means sustained income per head, which is the modern escape and, on this
+timescale, a very recent one. Almost every thriving economy in this book is thriving on the first
+setting. Han China, Song China, Mughal India, Qing China: all much larger than their contemporaries,
+none of them richer per person in the way the phrase implies today.
+
+So say which yardstick you are using. An answer that says China was richer than Europe in 1700
+without saying whether it means in aggregate or per head has not yet said anything.
+
+## Most of the economy was never priced
+
+One more piece of arithmetic before the evidence, and it is the one most likely to be forgotten.
+For almost all of the period this book covers, most of what was produced was never bought or sold.
+
+Think of output as three layers. The bottom and by far the largest is subsistence and obligation:
+what a household grew and ate, plus what it handed over as rent, tribute, tithe or labour dues.
+That second category has no clean modern counterpart, and it matters, because a peasant handing
+over a third of the harvest is transferring real output without any price being formed anywhere.
+Above that sits regional exchange, in local markets, at prices that were real but seldom recorded.
+Above that, thinnest of all, sits long-distance trade.
+
+Our evidence comes overwhelmingly from the top layer, because that is the layer that generated
+records: customs registers, merchant letters, tax farms, port dues. So when a source gives us a
+number, the first question is always what the number is a number *of*. A figure for the value of
+the eastern trade is not a figure for the Roman economy, and treating one as a share of the other
+requires knowing how much of the economy was never in the accounts at all.
+
+Confuse the layers and it goes badly. Chapter 2 has to ask how
+large the Roman eastern trade was, and the published estimates of the annual value of Rome's Indian
+Ocean imports run from about 920 million sesterces to about 17,640 million. The high end is roughly
+the size of the most-cited estimate of the entire Roman economy. Nobody involved is careless: the
+estimates differ because each takes the tax assessment of one documented cargo and multiplies it by
+an assumed number of ships, and the assumptions differ. But notice what has happened. A number
+drawn entirely from the thin top layer, the customs record, is being compared with a number for all
+three layers at once, and the comparison only works if you know what fraction of Roman output ever
+passed through a market at all. It did not, and we do not.
+
+## Trade costs, and what price convergence cannot see
+
+The strongest instrument in the book is price convergence, and what it does is narrower than its
+reputation. The test is not that a good costs the same in two places, because it never does. The test is
+that the gap between the two prices is bounded by the cost of moving the good, and narrows as that
+cost falls. A stable price gap between two trading places is therefore not a market failing to
+integrate. It is the cost of integration, quoted.
+
+Put slightly more formally, trade settles where the gap the market will bear equals the trade cost:
+freight, plus tolls, plus risk, plus whatever has to be paid for protection. That last term is why
+integration in this book is as much a political variable as a technological one. And it means a
+narrowing gap can arise three ways. Demand can rise where the good is bought; supply can rise where
+it is sold; or the cost of carriage can fall. Only the third is integration. So the sentence to
+carry into the exam is that rising volumes are not evidence of integration. Converging prices
+are.^[**Sources:** Shiue and Keller, "Markets in China and Europe on the eve of the Industrial
+Revolution", *American Economic Review* 97 (2007), for the method applied comparatively. **Read
+more:** @sec-ch06 and @sec-ch08, where the test does most of its work.]
+
+The instrument also has a blind spot worth knowing, because it is exactly the blind spot that
+matters in the early chapters. A good arriving somewhere for the first time has no prior price to
+converge on. A chariot reaching Shang China, or the potato reaching Ireland, is integration that
+this test cannot see at all. Before roughly 500 BCE we are working almost entirely in the blind
+spot, which is why @sec-ch01 has to lean on diffusion and says so.
+
+@sec-ch01 does, though, contain one place where the test can almost be run, and it shows what the
+instrument feels like when it works. In the Old Assyrian trade of the
+early second millennium BCE, tin bought at Assur cost about 6.7 shekels of silver per hundred
+shekels of tin, and the same tin sold in Anatolia at about 14.3. That is a gap of roughly 2.1 times
+across about a thousand kilometres of donkey caravan. It is not arbitrage, because arbitrage is
+riskless and simultaneous and this was neither: the merchant financed the goods, waited a hundred
+days, and bore the risk of losing everything to bandits or a change of ruler. The gap is the cost
+of carriage, quoted, in a world with no coinage and no market in the modern sense. And the gap did
+not close. It persisted for generations, which tells you that the costs were structural rather than
+a temporary friction somebody was about to compete away.
+
+## The kinds of evidence this book is built from
+
+Every period in this book is known through a different instrument, and the instrument decides what
+can be claimed. A chapter resting on ice cores can say things a chapter resting on customs
+registers cannot, and vice versa, and neither can say what a chapter resting on a national accounts
+series can. Most of the mistakes students make in this field are not mistakes about history. They
+are claims made at a level of precision the instrument does not support.
+
+The production function gives that survey its shape, because each input has its own evidence base
+and its own characteristic way of going wrong.
+
+### N: land, climate and resources
+
+The evidence for N is mostly physical and mostly not written by anybody. Ice cores from Greenland
+and the Alps record atmospheric deposition year by year, so a layer of lead in the ice is a
+by-product of somebody smelting silver out of galena a continent away. Speleothems, which is to say
+stalagmites, record rainfall in their oxygen isotopes. Lake sediments, pollen cores, marine cores
+off river deltas and tree rings all give climate at various resolutions. Ore bodies have chemical
+fingerprints, so a metal object can sometimes be traced to the ground it came out of.
+
+The characteristic failure is dating, and the second is scale. A stalagmite might be dated to
+within a century, which sounds precise until you need to know whether a drought preceded a
+civilisation's collapse or followed it. Chapter 1 contains the cleanest instance in the book: three
+independent archives agree that the climate around 2200 BCE got drier, and their error bands are
+each as wide as the three-century gap they are being asked to bridge, so none of them can order the
+climate event against the settlement change it supposedly caused. Synchrony is not sequence, and
+without sequence there is no causation. The scale problem is related. A core measures its own
+catchment, not the world, and a Greenland record weighted toward north-west Europe should not be
+read as a statement about global production.
+
+### L: people
+
+Population is reconstructed from settlement survey, from cemetery demography, from skeletal and
+stature evidence, and increasingly from ancient DNA. Isotopes in tooth enamel give something
+different again: strontium and oxygen laid down in childhood record where a person grew up, and
+enamel never remodels, so the molars carry an ordered record of where somebody was at particular
+ages.
+
+The characteristic failure of population evidence is worth stating as a rule, because it recurs.
+**Almost every population figure in this book is an area multiplied by an assumed number of people
+per unit of area, and the assumed coefficient does most of the work.** Change the coefficient and
+the answer changes proportionally; change your mind about which line on the ground counts as the
+edge of the settlement and it changes by more than that. @sec-appD sets out two worked cases: an
+urbanisation rate for Sumer where two careful scholars differ by a factor of three, and a
+population for Pataliputra where the published estimates span a factor of about thirteen without
+anybody disputing any evidence at all.
+
+Isotopes and DNA look like two ways of measuring the same thing and are not. **Isotopes measure
+residence; DNA measures descent.** A merchant who sailed to Carthage, traded for a season and
+sailed home is visible to the first instrument and completely invisible to the second, because he
+left no descendants there. His grandchild, born in Carthage to a local mother, is the exact
+reverse. This is why the finding that western Mediterranean Punic populations carry almost no
+Levantine ancestry shows that Phoenician settlers did not dominate the gene pool. It does not show
+that Phoenicians did not go there.
+
+Both instruments report lower bounds, and where they disagree the disagreement is itself a
+measurement: it is the ratio of circulation to settlement, which is a real economic quantity and
+one we would otherwise have no way to see. It also forces a correction on a sentence people say
+loosely. Goods and techniques travelled further than *settlers*. Whether they travelled further
+than *people* is a different claim, and usually not the one the evidence supports.^[**Sources:**
+Ringbauer et al., "Punic people were genetically diverse with almost no Levantine ancestors",
+*Nature* 643 (2025), 139-47, doi:10.1038/s41586-025-08913-3. **Read more:** @sec-ch02 and
+@sec-ch03, where both instruments are used.]
+
+### K: capital, money and credit
+
+One heading covers three things the framework keeps apart, and the reason is the archives rather
+than the economics. Hoards, stray finds, die studies and bullion shipment records are evidence
+about money. Loan tablets and partnership contracts are evidence about credit. Ship timbers,
+irrigation surveys and warehouse accounts are evidence about capital itself. In practice they
+arrive in the same box, because the people who wrote down one of them wrote down the others on the
+same tablet.
+
+So the evidence for all three is hoards, stray coin finds, mint output estimated from die studies,
+bullion shipment records where a state bothered to keep them, and above all merchant archives: the
+letters, loans and accounts of people doing business. Keep the categories separate when reading
+them. Coin tells you about settlement; it does not tell you how many ships there were.
+
+Its characteristic failure is that archives survive by accident, and disproportionately by
+catastrophe. Mesopotamia's cuneiform tablets were unbaked clay, and what fired them hard enough to
+last four thousand years was the burning of the palaces that held them. We read those economies in
+detail because they were destroyed. A place that was never sacked, or whose records were kept on
+palm leaf or paper in a wet climate, is not less commercial. It is less legible. Coin hoards carry
+their own version of the same problem: a hoard dates when somebody decided to bury money and did
+not come back for it, which is a fact about insecurity as much as about circulation, and which can
+post-date the arrival of the coins by a generation.
+
+There is a second and subtler difficulty with monetary evidence, which is that coins are recycled.
+The metal in a coin struck in 200 CE may have been mined in 50 BCE, melted down twice and alloyed
+with something else on the way. So a chemical analysis of coinage tells you what was in the melting
+pot, not what came out of the ground, and the two questions have different answers. Chapter 2 puts
+an ice core and a coin series side by side for exactly this reason: the ice records what was
+smelted, and the coins record what was refined and recycled. They look like two measurements of one
+thing and they are not.
+
+### A: technology and technique
+
+A is read from the objects themselves, and from the sciences that interrogate them:
+archaeometallurgy, lead and tin isotope provenancing, residue analysis, and radiocarbon dating of
+the contexts things are found in.
+
+Its characteristic failure runs the opposite way to the others, and it is a cheerful one. **Better
+dating destroys more claims than it creates.** When a technique improves, the usual result is that
+something long believed turns out to rest on a specimen that is intrusive, or younger than its
+context, or misidentified. Chapter 1 carries the cleanest example: domestic chickens were for
+decades said to originate in the Indus Valley, and a systematic re-dating programme found that
+every European Neolithic and Bronze Age specimen tested was intrusive, moving the earliest secure
+domestic chickens to Thailand and about a thousand years later. Nothing was fabricated and nobody
+was careless. The instrument got sharper and a claim fell over.
+
+That is worth holding onto as a disposition rather than a fact, because it tells you how to read
+the confident sentences in older books, including good ones. A claim about origins that was
+established before radiocarbon calibration, or before isotope provenancing, or before it was
+possible to sequence a genome from a tooth, has not been refuted. It has simply never been tested
+by the instrument that could test it. Some of those claims will survive. The pattern of the last
+twenty years is that most do not.
+
+### What each proxy can and cannot support
+
+Set the limits out in one place, because most over-claiming in this field is one of these four
+moves.
+
+| Proxy | What it supports | What it does not |
+|---|---|---|
+| Diffusion of goods | Contact, and the geographic range of a network | Volume, frequency, price, or who profited |
+| Direction of carriage | Relative shipping cost; which end wanted the other's goods | How the surplus was divided between the two ends |
+| Population | Aggregate scale, under a Malthusian assumption | Income per head, ever |
+| Settlement counts | An upper bound on decline | The decline itself, since the record-keeping collapses too |
+
+: What the standard proxies will and will not bear. {tbl-colwidths="[22,40,38]"}
+
+The fourth row is the subtlest and the most often missed. When a state falls apart, the number of
+attested settlements drops. But the thing that produced the attestations, an administration writing
+things down, fell apart at the same time. So a fall in recorded settlements is a composite of real
+decline and lost visibility, and it gives you a ceiling on the first rather than a measurement of
+it.
+
+### Absence of data is not absence of activity
+
+What survives reflects record-keeping conventions and the accidents of climate and preservation,
+not economic weight. Organic records rot in the humid monsoon tropics and survive in cool dry
+Europe and arid Egypt, so the surviving record systematically under-documents the ocean world this
+book is written around.
+
+Because the direction of that bias is known, it licenses exactly one move: treat every figure we
+have as a lower bound. That is a real licence and a useful one. It supports claims about direction
+and it supports the statement that a trade was at least as large as the record shows.
+
+It licenses nothing else, and in particular it does not license filling the gap with a conclusion.
+A student who writes "the evidence is biased against Asia, therefore Asian trade was much larger"
+has done exactly what the monsoon headline did: taken a real tendency and converted it into a
+specific claim the tendency cannot carry. The bias tells you which way to lean. It does not tell
+you how far.
+
+### The evidence map is the inverse of the production map
+
+One commodity demonstrates the whole problem, and it is the commodity this book returns to most
+often. Black pepper is south Indian, and every Roman-period peppercorn ever recovered survives in
+one of exactly three ways. Desiccated, in the hyper-arid Egyptian desert at Berenike and Myos
+Hormos. Waterlogged, in anaerobic mud in Germany, Britain and France. Or mineralised, chemically
+replaced in cesspit fill in Campania. Too dry for microbes, too wet for oxygen, or turned to stone.
+
+The monsoon Indian Ocean littoral, where the pepper was actually grown, offers none of the three.
+Warm, wet and oxygenated is the worst possible combination for preservation. So the finds are
+thousands of peppercorns from Egypt, dozens from north-west Europe, and until very recently
+essentially none from the producing region. Read that distribution as a trade map and you would
+conclude that pepper was an Egyptian and European commodity.
+
+The transferable version is this: the map of the evidence is not the map of the economy, it is the
+map of the preservation conditions. Ask yourself which commodities have no preservation window
+anywhere, and the answer, uncomfortably, is textiles. Cotton and silk rot in every climate that
+grew them.^[**Sources:** Cobb, on the recovery contexts of Roman-period pepper, citing Cappers
+(2006), Livarda (2011), and Robinson and Rowan (2015). **Read more:** @sec-ch02.]
+
+There is a second version of the same problem, and it operates at a scale that is hard to take in.
+When the ice sheets melted the sea rose roughly 120 metres, and it drowned the continental shelves.
+Sundaland, the shelf joining Borneo, Java and Sumatra to mainland Asia, was about 4.7 million square
+kilometres of dry land at the last glacial maximum against about 2.3 million today. Something on
+the order of two and a third million square kilometres went under water. That is an area about the
+size of India, and it went under along exactly the kind of coastline where people prefer to live.
+
+Now ask what has been recovered from it. From the whole submerged Sunda shelf the record is some
+six thousand vertebrate fossils and two fragments of *Homo erectus* skull, dated to around 140,000
+years ago. No artefacts. No structures. No settlements. And even that material was not found by
+archaeologists: it came up in a commercial dredging operation that removed five million cubic metres
+of sand to build an artificial island.
+
+This one cuts in a direction students find uncomfortable, so be exact. It does not
+show that there were drowned cities, and people who want there to have been drowned cities reach
+for it constantly. It shows something more disciplined and more useful: that an area the size of
+India has been removed from the evidence base along the most habitable margin of a densely peopled
+part of the world, and that on that shelf almost nobody has looked. The honest statement is not that there was
+more down there. It is that for this region in this period the record is not thin because the
+activity was thin. It is thin because the ground is under a hundred metres of water.
+
+That is the pepper argument again in a different medium, and it is the strongest version of it in
+the book. Which is exactly why it is the one most often over-driven, and why the closing of the
+argument is the part to watch. The closing is more interesting than the opening.
+
+Europe is the control case, because there people have looked. A four-year European research network
+assembled a register of submerged prehistoric finds that now holds about 2,640 records, and the
+shape of that register is the answer. Around 58 per cent are single finds rather than sites. Only
+about one in six is an undisturbed occupation layer. Depth is recorded for under a third, and of
+those nearly nine in ten lie shallower than five metres, with three sites in all of Europe recorded
+deeper than forty. Denmark alone accounts for two-thirds of the total, which is a fact about Danish
+research funding rather than about Danish prehistory. And the volume reporting all this says plainly
+that evidence for settlement or in-situ activity from waters more than twelve nautical miles
+offshore has yet to be found in the North Sea, or anywhere else in the world.
+
+So the submerged record is real, and substantial, and shallow, fragmentary and forager-shaped.
+There is no gradient in it pointing toward greater complexity further out.
+
+Keep the positive case in view, though, because otherwise this reads as an argument that nothing
+can be found under water. Things can. Atlit-Yam, off the Carmel coast in Israel, is a
+Neolithic village of about nine thousand years ago sitting four hundred metres offshore under eight
+to twelve metres of water: stone-built structures, burials, and a stone-lined well nearly six metres
+deep. It is one of more than twenty submerged prehistoric sites known off that one coastline. That
+is what a drowned settlement looks like when it survives and somebody excavates it, and the thing to
+notice is how ordinary it is. Its economy is continuous with its contemporaries on land.
+
+Say why the deeper water stays unlooked-at, because the reason is economic rather than
+intellectual. A single exploratory survey with ship time runs to two or three million dollars,
+and anything systematic is an order of magnitude more. So the work that does happen is usually
+piggy-backed on something commercial. When a sonar survey for the Qatar-Bahrain causeway threw up
+83 features of possible archaeological interest, divers inspected about half of them, and every one
+turned out to be modern or natural. That is the honest state of the question: not a search that has
+failed, and not a search that has succeeded, but a search that has barely been funded.
+
+The chronology closes the question from the other end. Sea level came within about a metre of its
+present position by roughly five thousand years ago. Uruk reached 250 hectares, and writing
+appeared, at about 3100 BCE. Before that, Mesopotamian villages were rarely larger than one or two
+hectares. The shelves therefore finished drowning before the first city existed anywhere, and the
+whole window during which they flooded runs, in the words of the field's own flagship volume, from
+mobile hunter-gatherers with no pottery, no agriculture and no metal tools at one end to small towns
+at the other. Both ends of that window are on dry land, in the record, where we can see them.
+
+Which gives the general form of the move, and you will need it more than once. A preservation gap
+licenses "we cannot see what was there". It never licenses "what was there was X". Getting to X
+needs positive evidence, and where X is a civilisation the positive evidence is not confined to the
+drowned strip: cities need quarries, farmland, hinterlands, refuse and trade goods, none of which
+stops politely at the old shoreline. The step from "we cannot see" to "therefore something
+particular was there" is the step this section exists to refuse.^[**Sources:** Bailey, Galanidou,
+Peeters, Jons and Mennenga (eds), *The Archaeology of Europe's Drowned Landscapes* (Springer, 2020),
+open access, for the site register, its composition and the offshore-settlement statement; Ur,
+"Households and the emergence of cities in ancient Mesopotamia", *Cambridge Archaeological Journal*
+24 (2014), 249-68, for Uruk and the Ubaid village sizes. **Read more:** Bailey and Flemming,
+*Quaternary Science Reviews* 27 (2008), 2153-65, which is the founding statement of the
+preservation-bias argument and is also, usefully, sceptical about over-reading it.]^[**Sources:** on the land areas, Sathiamurthy and Voris, "Maps of Holocene sea level
+transgression and submerged lakes on the Sunda Shelf", *Natural History Journal of Chulalongkorn
+University* Suppl. 2 (2006), Table 1; on the hominin material, Berghuis et al., "The late Middle
+Pleistocene *Homo erectus* of the Madura Strait, first hominin fossils from submerged Sundaland",
+*Quaternary Environments and Humans* 3 (2025), 100068, doi:10.1016/j.qeh.2025.100068. **Read more:**
+Hanebuth, Stattegger and Grootes, *Science* 288 (2000), 1033-35, on how fast the shelf drowned.]
+
+### The oldest annual series in the world are tax records
+
+The longest continuous annual measurements we have of anything physical were not made by anybody
+interested in the physical world. The Nile flood runs annually from 622 CE because flood height set
+the Egyptian land tax. The Beaune grape harvest runs from 1354 because the town council had to pay
+the pickers on a date. Lake Suwa's freeze runs from 1443 because a shrine read the ice for an omen.
+
+Nobody was measuring the climate. They were measuring a tax base, a wage bill, an omen and a
+season, and climate is the by-product. Which means the geography of the pre-modern climate record
+is a map of fiscal and institutional capacity, and it degrades when the polity degrades. The
+Nilometer holds between seventy-seven and a hundred readings per century up to 1470, and then
+thirty-two in the sixteenth century and thirty-one in the seventeenth. The density of a series is
+itself a datum about the state that produced it.
+
+Two cautions on that particular series, since it recurs in this book. The apparent upward drift
+after about 1300 is the river bed silting up and raising the gauge datum, not a wetter Nile. And
+only the annual maximum is the tax-relevant variable, so it is the only one that was recorded with
+consistent care.^[**Sources:** Toussoun (1925), digitised by Koutsoyiannis et al. (2013); Kondrashov,
+Feliks and Ghil (2005) on the series' spectral structure. **Read more:** @sec-ch03.]
+
+### Claims carry grades, and a passed check is not a verified fact
+
+Because the evidence is so uneven, this book grades individual claims as well as verdicts. A claim
+is **secure** when a named source has been read and says it. It is **probable** when it takes one
+step of inference, or rests on a synthesis rather than the original study. It is **contested** when
+specialists disagree in print, in which case the disagreement is taught rather than resolved away.
+And it is **single-source** when one authority stands behind it and nobody has independently
+confirmed it, which is a warning rather than a criticism.
+
+One exercise shows what that grading finds. In preparing @sec-ch02 this
+book compiled a register of claims about early historic South Asia. On the forty-five entries whose
+subject is genuinely South Asian, fifteen and a half per cent came out secure and twenty-nine per
+cent contested. Fewer than one claim in six about the Mauryan and post-Mauryan economy is secure on
+the book's own grading. That ratio is itself a finding, and a more useful one than most of the
+individual claims, because it tells you how to read every confident sentence written about the
+period, including the ones in this book.
+
+A recent case shows what the grading is for, and it is still live. In
+2023 a team published a study of Gunung Padang in West Java arguing that the hill is not a hill but
+a construction, begun between 25,000 and 14,000 BCE, and "potentially the oldest pyramid in the
+world". The journal retracted it in March 2024, and the reason given is this section's whole
+argument in one sentence: the radiocarbon dating "was applied to soil samples that were not
+associated with any artifacts or features that could be reliably interpreted as anthropogenic".
+
+Notice what is and is not wrong there. The dates are probably fine and the laboratory work looks
+careful. What failed is the join between the number and the claim. The age belongs to the soil; the
+construction event was inferred separately, from geophysics, and then had the soil's age attached
+to it. Ask of any number in this book what it is a number *of*, and you will catch that class of
+error before it catches you. The authors still disagree with the retraction, so the case is
+still open.^[**Sources:** Natawidjaja et al., "Geo-archaeological
+prospecting of Gunung Padang buried prehistoric pyramid in West Java, Indonesia", *Archaeological
+Prospection* 31:2, doi:10.1002/arp.1912, retracted at doi:10.1002/arp.1932 on 18 March 2024.
+**Read more:** Ernenwein, "Retraction and reflection", *ArcheoSciences* 49-1 (2025), 607-10, the
+editor's own account of the case.]
+
+There is a last rule, and it is the one that cost this book the most to learn. **A passed check is
+not a verified fact.** An earlier version of Chapter 1 was fact-checked, and the check certified as
+correct a claim about the Uluburun shipwreck's cargo that was false. It passed because the check
+compared the chapter against the documents then to hand, and the claim had been *inherited* from
+one of them rather than tested against the wreck's excavation report. Agreement between two
+documents that share an ancestor is not evidence. It is an echo. When you are checking a number,
+the question is never whether it matches what else you have read. It is whether anybody ever
+measured it.
+
+### The instruments improve, and that is itself the shape of the book
+
+Set the four evidence bases against the chapters and a progression appears which is worth stating
+once, because it governs what each half of the book is able to argue.
+
+For @sec-ch01 there are no prices at all. Not few: none. Integration has to be read from the
+diffusion of objects and standards, and the verdict on the centre of gravity is therefore *not
+applicable*. From @sec-ch02 there are coins, quoted prices in a handful of documents, and the first
+physical output series, so direction can be argued and magnitude cannot. From @sec-ch03 to
+@sec-ch06 the merchant archives thicken and price series begin to run continuously in a few places,
+which is enough to test convergence over decades. From @sec-ch07 there are wages, prices and the
+first constructed national accounts, and the argument shifts from where the weight sat to why it
+moved. By @sec-ch09 and @sec-ch10 there are trade statistics collected by states for their own
+purposes, and finally a centre of gravity that can be computed rather than inferred.
+
+Two things follow. The first is that the book's later verdicts are better evidenced than its
+earlier ones, which is simply true and is stated in @sec-appC chapter by chapter. The second is the
+one people forget: better evidence does not make the later arguments less contested. @sec-ch07 has
+more data behind it than any chapter before it and contains the book's least settled question. The
+quantity of evidence and the level of disagreement are close to independent of one another, and
+assuming otherwise is how a reader ends up trusting a well-measured claim more than it deserves.
+
+## One cargo, and what four questions can do with it
+
+It helps to see the apparatus run once on a real object before the chapters start, and there is a
+good one to hand. In the late fourteenth century BCE a ship went down off Uluburun, near Kas on the
+southern Turkish coast, and it was found in 1982. It is the richest single deposit of Bronze Age
+trade goods ever recovered, and it is a dataset of one.
+
+What was aboard: about ten tonnes of copper, as 354 four-cornered "oxhide" ingots and 121
+bun-shaped ones, and roughly a tonne of tin. That is close to the ten-to-one ratio bronze needs, so
+the cargo is about eleven tonnes of alloy in kit form. Also about 175 glass ingots, around a tonne
+of terebinth resin in at least 149 Canaanite jars, 135 Cypriot vessels, African ebony, hippopotamus
+and elephant ivory, Baltic amber and Mesopotamian bitumen. Products of at least nine or ten
+cultures, in one hull.
+
+Now run the questions. **Q2, channels**, it answers well: this is a maritime cargo moving
+counter-clockwise around the eastern Mediterranean, and the amber alone establishes a link running
+to the Baltic. **Q3, modes**, it answers partly: the flow here is overwhelmingly goods, which is N
+embodied, and the presence of merchants' pan-balance weight sets on the Syrian shekel of about 9.3
+grams suggests private commercial calculation rather than pure gift exchange. **Q1, direction**, it
+barely touches, because one wreck is a point and direction requires a series. And **Q4, Europe**,
+it raises without settling, because where the tin came from is precisely what two laboratories now
+disagree about.
+
+Then ask what it cannot tell you, which is the more useful half. It cannot tell you how many such
+ships sailed, or how often, or what any of it cost, or who profited. It cannot even settle whether
+this was commerce or diplomacy: royal shipments in the Amarna letters run to a hundred or two
+hundred talents of copper, and 354 oxhide ingots is about 325 talents, which is the same order of
+magnitude. And there is a preservation trap sitting inside it. The 135 Cypriot vessels aboard are
+roughly twice the number known from the whole Aegean for the entire Late Bronze Age. If one wreck
+can double the record, then the record was never a sample of the trade. It is a sample of what
+happened not to be lost.^[**Sources:** Pulak, "The Uluburun shipwreck: an overview", *International
+Journal of Nautical Archaeology* 27 (1998), 188-224, at p. 219 for the cultures represented and
+p. 204 for the Cypriot vessels; on the dating, Pulak's own later statement of the end of the
+fourteenth century and Manning et al. (2009) at 1320 plus or minus 15. **Read more:** @sec-ch01.]
+
+## Three ledgers to keep
+
+Ten topics can be ten surveys or one argument, and the difference is whether you write things down
+as you go. Keep three running lists, one line per chapter.
+
+The **centre-of-gravity ledger**: where is the weight, is it moving, and how confident are we, on
+the four-point scale above. The **input ledger**: which of A, K, L and N is doing the work, and
+which is binding. And the **natural-system beat**: the climate, energy or disease force in play,
+which is there to stop the physical world becoming background scenery.
+
+Three short rows a week. By @sec-ch10 you will have assembled the book's argument in your own
+handwriting, which is a considerably better position to argue with it from than having read it.
 
 ## Six threads that run the length of the book
 
-Beyond the four questions, six threads run through the book; this section sets them out.
+Six themes recur. Name them, because each one is a way of noticing something a straight chronology
+would hide.
 
-1. **Centre of gravity** — the spine itself, tracked with an explicit verdict entered for each
-   period and a stated confidence level in every chapter.
-2. **Measurement of success: quantity to quality.** This thread corrects a recurring error.
-   Before about 1800, like every other species, humans turned prosperity into numbers — more
-   people, more output, bigger empires (aggregate, *extensive* growth). Only after about 1800
-   did any society turn it into sustained income per head (per-capita, *intensive* growth, the
-   escape from the Malthusian ceiling, and a uniquely modern one). The thread is set up in
-   @sec-ch01, runs through the silver story in @sec-ch05 and @sec-ch06, and resolves at
-   @sec-ch07, where the Great Divergence *is* the switch. It is what stops us reading every
-   "thriving" empire — Han, Song, Mughal, Qing — as growth in the modern sense.
-3. **Follow the silver** — the early-modern form of the bullion tracer (@sec-ch05 to
-   @sec-ch07). The same American silver met different monetary conditions and so had different
-   fates: Asia absorbed and specialised, the Ottomans inflated, West Africa debased and
-   depleted, and Europe converted its monetary loss into armed-trade and financial power. That
-   last fate is the bridge to the divergence.
-4. **Measurement of integration: how we know.** The evidence for measuring integration improves
-   over time, from the diffusion of goods and ideas, to bullion flows, to wages and prices, to
-   GDP, to a computed centre of gravity. Before prices, only the diffusion prong exists, which
-   limits what @sec-ch01 and @sec-ch02 can claim.
-5. **Forces.** Four drivers sit behind Q1's direction — climate, disease, technology, policy —
-   two of them natural, a reminder that the world economy has always been embedded in a natural
-   system.
-6. **Data survival and bias.** What survives reflects record-keeping conventions and the
-   accidents of climate and preservation. Absence of data is not absence of activity, and the
-   surviving record under-documents the very Indian-Ocean world this book centres on. Whose
-   eyes we see through is itself a running question.
+1. **Centre of gravity.** The spine itself, with an explicit verdict and a stated confidence in
+   every chapter, collected in @sec-appC.
+2. **Measurement of success: quantity to quality.** The correction described above, set up in
+   @sec-ch01, running through the silver story in @sec-ch05 and @sec-ch06, and resolving at
+   @sec-ch07 where the Great Divergence *is* the switch.
+3. **Follow the silver.** The early-modern form of the bullion tracer. The same American silver met
+   different monetary conditions and had different fates: Asia absorbed and specialised, the
+   Ottomans inflated, West Africa debased and depleted, and Europe converted a monetary loss into
+   armed-trade and financial power. That last fate is the bridge to the divergence.
+4. **Measurement of integration.** The instruments improve over time, from diffusion, to bullion
+   flows, to wages and prices, to national accounts, to a computed centre of gravity. Before prices
+   only the first exists, which limits what @sec-ch01 and @sec-ch02 can claim.
+5. **Forces.** Four drivers sit behind Q1's direction: climate, disease, technology and policy. Two
+   of them are natural, which is a standing reminder that the world economy has always been
+   embedded in a physical system rather than floating above one.
+6. **Data survival and bias.** Everything in the previous section, carried forward as a habit.
+   Whose eyes we are seeing through is itself a running question.
+
+### The economy sits inside a physical system
+
+Two of the four forces behind Q1 are natural, and that follows from the framework rather than
+sitting beside it. If N is a first-class input, then climate, energy and disease are
+not context. They enter the production function directly, as the quantity and reliability of what
+the land yields and as the number of people available to work it.
+
+This cuts both ways, and the second way is the one that needs guarding. It licenses taking physical
+shocks seriously as economic events: a volcanic eruption that lowers a Nile flood is a fiscal
+event, and a pandemic that removes a third of a labour force is a change in L with a century of
+consequences. But it does not license reading every economic change as a physical one. The test
+that keeps the two apart is simple and it is the most portable instrument in this book.
+**Geography explains levels; only things that vary can explain timing.** A mountain range or a
+prevailing wind can tell you why a place was persistently rich or persistently isolated. It can
+never tell you why something happened in one century rather than another, because it did not
+change. Climate, by contrast, does vary, which is exactly what makes it admissible where geography
+is not, and exactly why it has to be dated precisely enough to bear the weight.
 
 ## A note on method
 
 Two commitments follow, and they are why the subtitle is *data and debates*.
 
-- **Data.** The book leans on numbers — trade volumes, bullion flows, real wages, output
-  shares, the computed centre of gravity — because numbers are how you adjudicate a claim like
-  the spine rather than just asserting it. The figures and tables are reproducible: generated
-  from datasets you can download and re-run. But the data thin out sharply as you go back, and
-  they are biased toward the literate, fiscal, European end of the record. A chapter on the
-  Bronze Age and a chapter on the twentieth century are not equally evidenced, and the book
-  says so.
-- **Debates.** Where the scholarship is genuinely contested — when the Great Divergence began
-  and why; whether interwar disintegration was man-made or inevitable; when "globalisation"
-  really started — the book presents the disagreement rather than resolving it quietly.
-  Disputed figures are flagged and taught, not silently resolved. The aim is to hand you the
-  questions, the evidence and the open arguments, so you can test the spine yourself.
+- **Data.** The book leans on numbers, because numbers are how you adjudicate a claim like the spine
+  rather than assert it. Figures and tables are reproducible, generated from datasets you can
+  download and re-run. But the data thin out sharply as you go back, and they are biased toward the
+  literate, fiscal, European end of the record. A chapter on the Bronze Age and a chapter on the
+  twentieth century are not equally evidenced, and the book says which is which.
+- **Debates.** Where the scholarship is genuinely contested, and the standing examples are when the
+  Great Divergence began and why, whether interwar disintegration was man-made or inevitable, and
+  when globalisation really started, the book presents the disagreement rather than resolving it
+  out of sight. Disputed figures are flagged and taught, not silently settled.
+
+Be honest, too, about where this book stands in its own field, because the complaint it is built
+on is not its invention. David Northrup observes that textbooks "almost invariably"
+break their coverage at 1500, and Merry Wiesner-Hanks, introducing the *Cambridge World History*,
+names the problem in her own preface while conceding that four of that series' nine books are given
+to 1400 and after. Northrup pushes further back than 1500, and in a form that reaches this book's
+own starting line: the deeper exclusion is the convention of beginning with Sumer and with writing,
+which removes something between ninety-five and ninety-nine per cent of the human past before the
+story starts.
+
+There are honest defences of that imbalance and readers should have them. David Christian argues
+the demographic case, that perhaps eighty per cent of all human lives were lived between the
+Palaeolithic and 1750, which is a real argument for weighting the deep past. The counter is that
+evidence, not lives, is what a historian can work with, and evidence accumulates toward the
+present. And one chapter in the same volume goes after this book's method rather than its coverage:
+Michael Lang argues that periodising by chronology, which is exactly what the ten chapters ahead
+do, smuggles in assumptions about what changes and when. That objection is not answered here. It is
+worth carrying while you read.^[**Sources:** Northrup, "Globalization in historical perspective", in
+*The Cambridge World History*, vol. 1 (2015), pp. 110-31, at pp. 111-12 and 123; Wiesner-Hanks,
+preface to vol. 1, pp. xvii and xix; Christian, "Introduction: the constructions of a global past",
+vol. 1, pp. 22-23; Lang, "Evolution, rupture, and periodization", vol. 1, pp. 84-109, at pp. 96-97.
+**Read more:** Sachsenmaier, "The evolution of world histories", vol. 1, pp. 56-83.]
+
+One last thing, and it is what the subtitle is for. This book states a claim and then spends ten
+chapters testing it, which means it is possible to read the evidence assembled here and reach a
+different verdict. That is the intended use. The places where you are
+most likely to end up disagreeing are marked: the chapters that rest on a single instrument, the
+verdicts scored low on scale, the disputes set out in @sec-appE, and the derivations in @sec-appD
+where a headline figure turns out to be a coefficient multiplied by an area. If you finish the book
+convinced that European dominance was longer, or deeper, or earlier than the spine allows, the
+useful question is which of those places you would have to attack to make that case. A claim you
+cannot say how to falsify is a creed, and the point of setting the argument out this explicitly is
+that this one is not.
 
 ::: {.callout-note}
 ## How to read the chapters
-Each chapter opens by following one object that carries its period's story, locates the period
-on the arc, sets out the cast and how we know, narrates the period on its own terms, then reads
-it through the four questions, delivers a centre-of-gravity verdict with a confidence level,
-and hands off to the next. Look out for the recurring Data exhibit and Debate, and the Follow
-the money and How we know callouts.
+Each chapter opens by following one object that carries its period's story, locates the period on
+the arc, sets out the cast and how we know, narrates the period on its own terms, then reads it
+through the four questions, delivers a centre-of-gravity verdict with a confidence level, and hands
+off to the next. Look out for the recurring Data exhibit and Debate, and the Follow the money and
+How we know callouts. Three appendices do the heavy lifting the chapters send out to them:
+@sec-appC collects the ten verdicts in one table, @sec-appD sets out how the most quotable numbers
+were actually constructed, and @sec-appE gives the live scholarly disputes in full.
 :::

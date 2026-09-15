@@ -1,25 +1,58 @@
-# Quarto build output
-/.quarto/
-/_book/
-/_freeze/
-/site_libs/
+# ==========================================================================
+# ALLOWLIST, not a blocklist. This repository is PUBLIC and its working tree
+# is the whole ECU4413 module folder, which holds 1.9 GB of copyrighted
+# readings, lecture recordings and Overleaf material. A blocklist here would
+# fail silently and publish something it should not.
+#
+# Rule: ignore everything, then re-admit only what the book needs to build.
+# Adding a file to the book means adding a "!" line here. That is deliberate.
+# ==========================================================================
 
-# LaTeX / render intermediates at project root (keeps tex/unicode-map.tex tracked)
-/*.tex
-/*.log
+/*
+
+# --- the Quarto project root -------------------------------------------
+!/.gitignore
+!/_quarto.yml
+!/index.qmd
+!/.github/
+
+# --- everything the book needs but no topic owns ------------------------
+!/book/
+/book/_prep/
+/book/_book/
+/book/_book_STALE_pre-2026-09-10/
+/book/.quarto/
+/book/_freeze/
+/book/site_libs/
+
+# --- the chapters, at the project root so public URLs stay flat ---------
+# (/NN-slug.html, which is what every Blackboard "Read" item links)
+!/[0-9][0-9]-*.qmd
+!/appendix-*.qmd
+!/references.qmd
+!/parts/
+
+# NOTE: topics/ is NOT re-admitted. It holds the decks, figures, recordings,
+# ledgers and superseded builds, none of which belongs in a public repo.
+
+# --- build output and intermediates, wherever they appear ---------------
+_book/
+.quarto/
+_freeze/
+site_libs/
+*.bak
+*.log
 *.aux
 *.toc
 *.out
+**/*.quarto_ipynb
 
-# Rendered book PDF at project root (regenerate with: quarto render --to pdf)
-/*.pdf
-
-# OS / editor
+# --- OS / editor --------------------------------------------------------
 .DS_Store
 Thumbs.db
 .Rproj.user
 
-**/*.quarto_ipynb
+/.quarto/
 
-# Internal build/working notes (not for the public repo)
-/_prep/
+# stray R artefact, not a book figure
+/book/figures/Rplots.pdf

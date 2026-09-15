@@ -1,0 +1,2741 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <link rel="icon" href="/etc.clientlibs/pwc/clientlibs/css_common/resources/image/favicon.ico" type="image/x-icon"/>
+    <script src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.min.56934e461ff6c436f962a5990541a527.js"></script>
+<script src="/etc.clientlibs/pwc/clientlibs/clientlib-vendor/jquery.min.76a92234952929ebefaa60dd43afeddb.js"></script>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 	
+	
+    
+        <!-- OneTrust Cookies Consent Notice start for www.pwc.com/gx -->
+
+<script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-language="en" type="text/javascript" charset="UTF-8" data-domain-script="0645fa74-2808-4ef1-b238-12e241a58cf7"></script>
+<script type="text/javascript">
+function OptanonWrapper() { }
+</script>
+<!-- OneTrust Cookies Consent Notice end for www.pwc.com/gx -->
+    
+    
+    
+	<script src="/etc.clientlibs/pwc/clientlibs/components-digitaldataanalytics.min.1e95b6b45050fb34422a222506511317.js"></script>
+
+    <script>
+        createObject('page.skipOptanonCall',true);
+    </script>
+	
+    
+
+<title>Page not found
+</title>
+<meta http-equiv="content-language" content="en_gx"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta property="og:title" content="Page not found"/>
+<meta property="og:type" content="article"/>
+<meta property="og:site_name" content="PwC"/>
+<meta property="og:description" content="Page not found."/>
+
+
+<meta name="robots" content="noindex,nofollow"/>
+<meta name="keywords" content=""/>
+<meta name="description" content="Page not found."/>
+<meta name="author" content="PricewaterhouseCoopers"/>
+<meta name="pwcTitle" content="Page not found"/>
+<meta name="pwcLocale" content="en_gx"/>
+<meta name="pwcCountry" content='gx'/>
+
+
+<meta name="pwcGeo.default" content="GX"/>
+<meta name="pwcLang" content="en"/>
+<meta name="pwcTag" content="">
+<meta name="pwcHideLevel" content="3"/>
+<meta name="target" content=""/>
+<meta name="pwcReleaseDate" content="2025-07-03T05:17:00.000-04:00"/>	
+<meta name="pwcLastModifiedDate" content="2025-07-15T15:43:57.100Z"/>	
+<meta name="pwcselectednav" content="0"/>
+<meta name="viewport" id="pwcviewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" href="/content/pwc/script/network/apple-touch-icon.png"/>
+
+<link rel="canonical" href="https://www.pwc.com/gx/en/404.html"/>
+<meta property="og:url" content="https://www.pwc.com/gx/en/404.html"/>
+
+
+
+    <link rel="alternate" href="https://www.pwc.com/gx/en/404" hreflang="x-default"/>
+
+    <link rel="alternate" href="https://www.pwc.com/gx/en/404" hreflang="en-gx"/>
+
+
+<script>
+    var  page ="Page not found";
+    var anlyticsEscapeTitle = "Page not found";
+    var anlyticsunescapeTitle = $('<textarea />').html(anlyticsEscapeTitle).text();
+    var  templatePath ="/conf/pwc/settings/wcm/templates/content-detail-page-template";
+    var pwcReleaseDate = "2025-07-03T05:17:00.000-04:00";
+    var pageNameUnescape = $('<textarea />').html(page).text();
+    //PR-13329 change -- start
+    var jsonData = {};
+    if(Object.keys(jsonData).length){
+        var taxonomyDataKey = jsonData.DataLayerKey !=null ? jsonData.DataLayerKey : "" ;
+        var taxonomyDataValue =jsonData.DataLayerValue!=null ? jsonData.DataLayerValue : "";
+        createObject(taxonomyDataKey,taxonomyDataValue);
+    }
+    
+    //PR-13329 change -- end
+    createObject('page.pageInfo.pageName', pageNameUnescape);
+    createObject("page.pageInfo.pageType",templatePath.substring(templatePath.lastIndexOf('/')  + 1));
+    createObject('page.content.publishDate', pwcReleaseDate);
+    createObject('page.content.contentTitle', anlyticsunescapeTitle);
+    createObject('page.content.contentType', "article");
+    
+    //PR-12825 change --start
+    var pageContentJsonObject = {"ContentFullPathValueWithoutQueryParams":"/content/pwc/gx/en/404.html","ContentFullPathKey":"page.content.contentFullPath"};
+    var urlQueryParams = new URLSearchParams(window.location.search);
+    var pageUrlPath= pageContentJsonObject.ContentFullPathValueWithoutQueryParams;
+    if(urlQueryParams!=''){
+    	pageUrlPath=pageUrlPath.concat("?").concat(urlQueryParams);
+    }
+    createObject(pageContentJsonObject.ContentFullPathKey,pageUrlPath);
+  	//PR-12825 change --end
+  	
+    //Added old dataLayer object value in digitalData.site object.
+    digitalData.site ={"SiteValues":{"fullTagParent":"/","businessFunctionParent":"","topicsParent":"","funnel":"","businessFunction":"","industry":"","stakeholders":"","funnelParent":"","fullTag":"/","los":"","campaigns":"","economicBuyers":"","technologyParent":"","folderDirectory":"pwc/gx/en","contentType":"","campaignsParent":"","industriesParent":"","topics":"","pwcContentTypeParent":"","economicBuyersParent":"","servicesParent":"","services":"","technology":"","subLos":"","pwcContentType":"","contentLengthParent":"","industries":"","businessImperatives":"","contentLength":"","stakeholdersParent":"","businessImperativesParent":""},"additionalTags":"","business":{"businessChallenge":"","businessTopic":""},"accountRegistration":false};
+</script>
+<script type="application/ld+json">
+{
+    "@type": "WebPage",
+    "@context": "https://schema.org",
+    "image": "",
+    "name":"Page not found",
+    "description":"Page not found."
+}
+</script>
+
+    
+	<script>
+		var currentPageTerritory = 'gx';
+        var componentAnimationDelayFlag = false;
+	</script>
+    
+
+    
+
+	
+    
+
+	
+    
+
+	
+    
+
+    
+
+
+
+
+
+    
+
+
+
+    
+
+	
+	
+
+	
+	
+
+  
+  
+
+    
+
+	
+
+    
+    
+        <script>
+            (function(win, doc, style, timeout) {
+                var STYLE_ID = 'at-body-style';
+                function getParent() {
+                    return doc.getElementsByTagName('head')[0];
+                }
+                function addStyle(parent, id, def) {
+                    if (!parent) {
+                        return;
+                    }
+                    var style = doc.createElement('style');
+                    style.id = id;
+                    style.innerHTML = def;
+                    parent.appendChild(style);
+                }
+                function removeStyle(parent, id) {
+                    if (!parent) {
+                        return;
+                    }
+                    var style = doc.getElementById(id);
+                    if (!style) {
+                        componentAnimationDelayFlag = false;
+                        return;
+                    }
+                    parent.removeChild(style);
+                }
+                addStyle(getParent(), STYLE_ID, style);
+                setTimeout(function() {
+                    removeStyle(getParent(), STYLE_ID);
+                }, timeout);
+                componentAnimationDelayFlag = true;
+            }(window, document, "body {opacity: 0 !important}", 3000));
+        </script>
+    
+	
+    
+        <script>
+            var pageTerritoryForDTM = 'gx';
+        </script>
+        <script src="//assets.adobedtm.com/94ed34440bb5/3f3b522e5510/launch-5b28a70d8754.min.js" type="text/javascript" async></script>
+        <script src="/etc.clientlibs/pwc/clientlibs/components-analytics.min.09fae73c6d4e6a64a3d6fec9bf69a6a7.js"></script>
+
+    
+    
+
+    
+    	
+    
+
+    
+
+    
+<script src="/etc.clientlibs/pwc/clientlibs/handlebars.min.cea4640e01740056e78b381c8d3b8d84.js"></script>
+
+
+
+
+    
+<script src="/etc.clientlibs/pwc/clientlibs/purify.min.861f03f452e5d56afa11ef73013b9d07.js"></script>
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/pwc/clientlibs/longform/style-colors-rebrand.min.0749263583fb8cb00c4011be4b731146.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors.min.4c65dded92688c916181db29293e8299.css" type="text/css">
+
+
+       
+
+
+
+
+<!-- <script src="//assets.adobedtm.com/c1b096e48fc8/1825f4c13961/launch-05a1756607c1-development.min.js" async></script>  -->
+
+<input id="modnavigationid" type="hidden" value="/gx/en/404/"/>
+<input type="hidden" id="navmode" value="publish"/>
+
+<input class="currentPagePath" type="hidden" value="/content/pwc/gx/en/404"/>
+<input type="hidden" id="isUserReg" value="false"/>
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+</head>
+    <body class="basepage page basicpage red-burgundy-maroon standard-reading content-detail-page-template page-primary-col--orange page-secondary-col--orange page-tertiary-col--orange    bu-territory publish standard-spacing pwcscrolling longformcontent cmp-base-modernized">
+        
+             
+            
+
+
+
+			<div id="wrapper">
+            
+<div class="root container responsivegrid">
+
+    
+    
+    
+    <div id="container-875462c70e" class="cmp-container">
+        
+        <div class="ixfsection experiencefragment"><div class="mod-ixf-page-section"></div>
+
+
+	<section id="header" style="height: auto" class="cmp-experiencefragment cmp-experiencefragment--gx-en fullwidth ">
+
+
+    
+    <div id="container-6e80bce659" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="embedscript aem-GridColumn aem-GridColumn--default--12"><!-- SDI include (path: /content/experience-fragments/pwc/gx/en/header/gx-en/master/_jcr_content/root/embedscript.dynamic.html/pwc/components/modernized/content/embedscript, resourceType: pwc/components/modernized/content/embedscript) -->
+
+    
+        
+            <link rel="stylesheet" type="text/css" href="/gx/en/assets/css/base-new.css"/>
+        
+        
+    
+        
+        
+            <script type="text/javascript" src="/content/pwc/script/gx/en/contact.js"></script>
+        
+    
+        
+        
+            <script type="text/javascript" src="/content/pwc/script/gx/en/base/link-accessibility.js"></script>
+        
+    
+
+
+    
+
+</div>
+<div class="slim-page-header-v2 parbase aem-GridColumn aem-GridColumn--default--12"><!-- SDI include (path: /content/experience-fragments/pwc/gx/en/header/gx-en/master/_jcr_content/root/slim_page_header_v2.dynamic.html/pwc/components/modernized/content/slim-page-header-v2, resourceType: pwc/components/modernized/content/slim-page-header-v2) -->
+
+<nav id="skipNav" aria-label="Skip Links">
+   <a tabindex="1" id="skipToContent" href="#" class="sr-only sr-only-focusable skip-content" aria-label="Skip to content">Skip to content</a>
+   <a tabindex="1" id="skipToFooter" href="#pgFooter" class="sr-only sr-only-focusable skip-content" aria-label="Skip to footer">Skip to footer</a>   
+</nav>
+<div class="headerv2-container" data-current-level=""> 
+  <header class="slimheader-v2 mod__header-v2">
+      <input type='hidden' id='checkUserLoginOrNot' value='false'/>
+      <a id="logoUrl" tabindex="3" href="/gx/en" aria-label="PwC homepage" class="slim-logo search-hide levelOneLink ">
+      </a>
+
+      <button class="mobile-search-btn " aria-expanded="false" aria-label="Site Search" tabindex="0"></button>
+      <div tabindex="0" id="slim-hamburger" class="slim-hamburger-ico" aria-label="Menu " data-open-aria-label="Menu" data-close-aria-label="Menu Close" data-analytics-link="">
+         <span></span>
+         <span></span>
+         <span></span>
+      </div>
+      <div class="slim-navigation" style="opacity:0;">
+         <nav class="nav-primary search-hide" data-tab-index-start="9" aria-label="Main Navigation">
+    <button aria-expanded="false" aria-controls="industries-subnav-1" link-href="https://www.pwc.com/gx/en/industries.html" data-has-subnav="true" data-nav-index="1" class="levelOneLink " nextPage-Canonical-url="https://www.pwc.com/gx/en/industries.html" navigation-title="Industries" aria-label="Industries "><span aria-hidden="true">Industries</span></button>
+            
+         
+    <button aria-expanded="false" aria-controls="services-subnav-2" link-href="https://www.pwc.com/gx/en/services.html" data-has-subnav="true" data-nav-index="2" class="levelOneLink " nextPage-Canonical-url="https://www.pwc.com/gx/en/services.html" navigation-title="Services" aria-label="Services "><span aria-hidden="true">Services</span></button>
+            
+         
+    <button aria-expanded="false" aria-controls="issues-subnav-3" link-href="https://www.pwc.com/gx/en/issues.html" data-has-subnav="true" data-nav-index="3" class="levelOneLink " nextPage-Canonical-url="https://www.pwc.com/gx/en/issues.html" navigation-title="Issues" aria-label="Issues "><span aria-hidden="true">Issues</span></button>
+            
+         
+    <button aria-expanded="false" aria-controls="about_us-subnav-4" link-href="https://www.pwc.com/gx/en/about.html" data-has-subnav="true" data-nav-index="4" class="levelOneLink " nextPage-Canonical-url="https://www.pwc.com/gx/en/about.html" navigation-title="About us" aria-label="About us "><span aria-hidden="true">About us</span></button>
+            
+         
+    <button aria-expanded="false" aria-controls="careers-subnav-5" link-href="https://www.pwc.com/gx/en/careers.html" data-has-subnav="true" data-nav-index="5" class="levelOneLink " nextPage-Canonical-url="https://www.pwc.com/gx/en/careers.html" navigation-title="Careers" aria-label="Careers "><span aria-hidden="true">Careers</span></button>
+            
+               <button aria-expanded="false" class="nav-more" style="display: none;">
+                  <p>More</p>
+                  <div class="levelOneLink nav-more-dropdown">
+                  </div>
+               </button>
+            
+         </nav>
+         
+            
+    <nav class="nav-secondary search-hide" aria-label="Secondary Navigation">
+        
+            
+	<script id="overlay-template" type="text/x-handlebars-template">
+<!--		<div class="authenticated-user-options hidden">
+            <div class="user-option-list">
+                <a tabindex="3"  class="register myaccount levelOneLink" href="{{myAccountHref}}">My Account</a>
+                <a tabindex="4" class="sign-in signout levelOneLink" onclick="logOffUser(window.location.href)">Sign Out</a>
+            </div>
+        </div>
+        <div class="user-options hidden">
+            <a tabindex="3" class="sign-in userreg levelOneLink" data-href="{{signInHref}}" href="javascript:void(0);"> Sign in</a>
+            <a tabindex="4" class="register userreg levelOneLink" href="{{createAccountHref}}"> Register</a>
+        </div> -->
+</script>
+
+        
+        <div class="login-data"></div>
+        <!--<div data-sly-test="false" class="user-options hidden">
+            <a tabindex="3" data-sly-test.loginLink="/bin/saml/internal/auth" data-href="" href="javascript:void(0);" class="sign-in userreg levelOneLink">Sign in</a>
+            <a tabindex="4" data-sly-test.registerLink="https://login.pwc.com/identity/register?goto=" data-register-link="" href="javascript:void(0);" class="register userreg levelOneLink">Register</a>
+        </div>-->
+        <div class="location-options">
+            <script id="language-selector-template" type="text/x-handlebars-template">
+    <div class="options-language">
+        <button tabindex="7" class="open-lang-options">{{jcrlanguage}} 
+            <img alt="" class="non-bu-close-location-mobile" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2/Chevron.svg">
+            <img alt="" class="bu-close-location-mobile" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2-bu/Chevron-bu.svg">
+        </button>
+        <img class="close-options non-bu-close-location-mobile" alt="" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2/close-icon-white.svg">
+        <img class="close-options bu-close-location-mobile" alt="" src="/etc.clientlibs/pwc/clientlibs/rebrand-clientlibs/components-colors/resources/images/slim-header-v2-bu/Cancel-bu.svg">
+
+    </div>
+    <div class="slim-language-selector" id="langDialog" aria-label="{{langSelectorTitleText}}" role="dialog" aria-modal="true">
+        <p>{{langSelectorTitleText}}</p>
+        <div class="language-selector-list levelOneLink " id="lstLang" role="listbox" aria-labelledby="langDialog">
+            {{#each languageSelectorData.alternateLanguages}}
+            <a id="lang_{{@index}}" role="option" {{#if this.isCurrentLanguage}} class="is-active" {{/if}} href="{{this.linkURL}}" data-lang="{{this.linkText}}"> {{this.linkText}} </a>
+            {{/each}}
+        </div>
+    </div>
+</script>
+            
+                
+<script id="territory-selector-template" type="text/x-handlebars-template">
+	<div class="territory-selector__button-container">
+		<button class="territory-selector__toggle-btn"
+				tabindex="4"
+				aria-label="{{territorySelectorBtnText}} {{currentPageTerritoryName}} {{territorySelectorSelectedBtnText}}" aria-expanded="false">
+			<span class="territory-selector__label">
+				{{currentPageTerritoryName}}</span>
+		</button>
+
+		<button class="territory-selector__close-btn"
+				tabindex="0"
+				aria-label="{{territorySelectorCloseBtnText}}"> 
+			</button>
+	</div>
+
+	<!-- territory dialog box starts here -->
+	<div class="territory-selector" aria-label="{{findATerritoryText}}" id="lst-territory-selector">
+		<div class="territory-selector-search">
+				<label class="sr-only" for="countrySearch"> {{findATerritoryText}} </label>
+				<input id="countrySearch" 
+						class="levelOneLink" 
+						name="country" 
+						type="text" 
+						placeholder="{{findATerritoryText}}"
+						role="combobox"
+						aria-autocomplete="list"
+						aria-controls="lstTerritory"
+						aria-activedescendant=""
+						aria-expanded="true" tabindex="4" />
+		</div>
+		<div class="territory-selector-list levelOneLink" id="lstTerritory" role="listbox" aria-label="{{findATerritoryText}}">
+			{{#each territories}}
+			{{#if territoryFinder}}
+                    <a id="option_{{@index}}" role="option" class="{{#ifEquals name 'Global'}}region-global {{/ifEquals}}{{#ifEquals name ../currentPageTerritoryName}}is-active {{/ifEquals}}"
+                    href="{{domain}}" data-value="{{name}}">{{name}}</a>
+			{{#each alias}}
+                    <a id="option_{{this}}_{{@index}}" role="option" class="{{#ifEquals name 'Global'}}region-global {{/ifEquals}}{{#ifEquals ../name ../../currentPageTerritoryName}}is-active {{/ifEquals}}"
+                    href="{{../domain}}" data-value="{{this}}">{{this}}</a>
+			{{/each}}
+			{{#if @last}}
+			<p id="option_noresult" role="option" class="territory-no-results">{{territoryNotFoundText}}</p>
+			{{/if}}
+			{{/if}}
+			{{/each}}
+
+		</div>
+	</div>
+</script>
+
+            
+            <div class="lo-backsplash"></div>
+            <span class="option-country levelOneLink">
+      </span>
+            
+            <span class="option-language">
+          </span>
+            
+        </div>
+    </nav>
+
+         
+         
+         <div class="nav-search search-hide ">
+            <button aria-expanded="false" class="search-hide levelOneLink">Search</button>
+            <div class="search-hide searchbox">
+               <form id="slimSearchForm" role="search" action="https://www.pwc.com/gx/en/search.html" method="get">
+	               <input id="slimSearch" class="slim-search" type="text" name="searchfield" placeholder="Search for industries, products, services and more"/>
+	                <input type="hidden" name="pwcSiteSection" autocomplete="off"/>
+                    <input type="hidden" name="pwcLang" value="" autocomplete="off"/>
+                    <input type="hidden" name="pwcGeo" value="" autocomplete="off"/>
+                  <input type="submit" class="submit-search" value="" aria-label="Search"/>
+               </form>
+               <button id="close-search" aria-label="Close the search screen"></button>
+            </div>
+         </div>
+      </div>
+   </header>
+   
+	<script id="breadcrumb-template" type="text/x-handlebars-template">
+
+            <button class="slimnav-v2-bc-toggle is-hidden">
+	           <label class="sr-only">Show full breadcrumb</label>
+	        </button>
+				<div class="slimnav-v2-breadcrumbs">
+				{{#each breadcrumbs}}
+				 <a href="{{this.linkURL}}">{{this.linkText}}</a>
+				{{/each}}
+			    </div>
+
+	</script>
+        <div class="slimnav-breadcrumb"> </div>
+	
+   
+   <div class="slimheader-sublevel-slide" data-nav-level="2">
+      <div class="slide-shadow search-hide"></div>
+      <div class="slide-bg"></div>
+      
+      
+         <div id="industries-subnav-1" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">Industries</a>
+                        </div>
+                        <a href="https://www.pwc.com/gx/en/industries.html" aria-label="Industries " class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries.html" navigation-title="Industries"><span aria-hidden="true">Industries</span></a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries.html" aria-controls="see_all_industries-subnav-1-1" nextpage-canonical-url="https://www.pwc.com/gx/en/industries.html" navigation-title="See all industries" aria-label="See all industries "><span aria-hidden="true">See all industries</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries/consumer-markets.html" aria-controls="consumer_markets-subnav-1-2" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/consumer-markets.html" navigation-title="Consumer markets" aria-label="Consumer markets "><span aria-hidden="true">Consumer markets</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries/energy-utilities-resources.html" aria-controls="energy__utilities_and_resources-subnav-1-3" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/energy-utilities-resources.html" navigation-title="Energy, utilities and resources" aria-label="Energy, utilities and resources "><span aria-hidden="true">Energy, utilities and resources</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries/financial-services.html" aria-controls="financial_services-subnav-1-4" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/financial-services.html" navigation-title="Financial services" aria-label="Financial services "><span aria-hidden="true">Financial services</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries/government-public-sector.html" aria-controls="government_and_public_sector-subnav-1-5" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/government-public-sector.html" navigation-title="Government and public sector" aria-label="Government and public sector "><span aria-hidden="true">Government and public sector</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries/health-industries.html" aria-controls="health_industries-subnav-1-6" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/health-industries.html" navigation-title="Health industries" aria-label="Health industries "><span aria-hidden="true">Health industries</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries/industrial-services.html" aria-controls="industrials_and_services-subnav-1-7" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/industrial-services.html" navigation-title="Industrials and services" aria-label="Industrials and services "><span aria-hidden="true">Industrials and services</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries/private-equity.html" aria-controls="private_equity_and_principal_investors-subnav-1-8" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/private-equity.html" navigation-title="Private equity and principal investors" aria-label="Private equity and principal investors "><span aria-hidden="true">Private equity and principal investors</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Industries" href="https://www.pwc.com/gx/en/industries/tmt.html" aria-controls="technology__media_and_telecommunications-subnav-1-9" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/tmt.html" navigation-title="Technology, media and telecommunications" aria-label="Technology, media and telecommunications "><span aria-hidden="true">Technology, media and telecommunications</span></a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="see_all_industries-subnav-1-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries.html" navigation-title="See all industries" aria-label="See all industries "><span aria-hidden="true">See all industries</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="consumer_markets-subnav-1-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries/consumer-markets.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/consumer-markets.html" navigation-title="Consumer markets" aria-label="Consumer markets "><span aria-hidden="true">Consumer markets</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/consumer-markets/consumer-goods.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/consumer-markets/consumer-goods.html" navigation-title="Consumer goods" aria-label="Consumer goods "><span aria-hidden="true">Consumer goods</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/hospitality-leisure.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/hospitality-leisure.html" navigation-title="Hospitality and leisure" aria-label="Hospitality and leisure "><span aria-hidden="true">Hospitality and leisure</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/consumer-markets/retail.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/consumer-markets/retail.html" navigation-title="Retail" aria-label="Retail "><span aria-hidden="true">Retail</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/transportation-logistics.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/transportation-logistics.html" navigation-title="Transportation and logistics" aria-label="Transportation and logistics "><span aria-hidden="true">Transportation and logistics</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="energy__utilities_and_resources-subnav-1-3" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries/energy-utilities-resources.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/energy-utilities-resources.html" navigation-title="Energy, utilities and resources" aria-label="Energy, utilities and resources "><span aria-hidden="true">Energy, utilities and resources</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/energy-utilities-resources/chemicals.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/energy-utilities-resources/chemicals.html" navigation-title="Chemicals" aria-label="Chemicals "><span aria-hidden="true">Chemicals</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/energy-utilities-resources/mining-metals.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/energy-utilities-resources/mining-metals.html" navigation-title="Mining and metals" aria-label="Mining and metals "><span aria-hidden="true">Mining and metals</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/energy-utilities-resources/oil-gas-energy.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/energy-utilities-resources/oil-gas-energy.html" navigation-title="Oil and gas" aria-label="Oil and gas "><span aria-hidden="true">Oil and gas</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/energy-utilities-resources/power-utilities.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/energy-utilities-resources/power-utilities.html" navigation-title="Power and utilities" aria-label="Power and utilities "><span aria-hidden="true">Power and utilities</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="financial_services-subnav-1-4" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries/financial-services.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/financial-services.html" navigation-title="Financial services" aria-label="Financial services "><span aria-hidden="true">Financial services</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/financial-services/asset-management.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/financial-services/asset-management.html" navigation-title="Asset and wealth management" aria-label="Asset and wealth management "><span aria-hidden="true">Asset and wealth management</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/financial-services/banking-capital-markets.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/financial-services/banking-capital-markets.html" navigation-title="Banking and capital markets" aria-label="Banking and capital markets "><span aria-hidden="true">Banking and capital markets</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/financial-services/insurance.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/financial-services/insurance.html" navigation-title="Insurance" aria-label="Insurance "><span aria-hidden="true">Insurance</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/financial-services/real-estate.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/financial-services/real-estate.html" navigation-title="Real estate" aria-label="Real estate "><span aria-hidden="true">Real estate</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="government_and_public_sector-subnav-1-5" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries/government-public-sector.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/government-public-sector.html" navigation-title="Government and public sector" aria-label="Government and public sector "><span aria-hidden="true">Government and public sector</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/government-public-sector/defence.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/government-public-sector/defence.html" navigation-title="Defence" aria-label="Defence "><span aria-hidden="true">Defence</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/government-public-sector/education-skills.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/government-public-sector/education-skills.html" navigation-title="Education and skills" aria-label="Education and skills "><span aria-hidden="true">Education and skills</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/government-public-sector/public-safety-justice-security.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/government-public-sector/public-safety-justice-security.html" navigation-title="Public safety, justice and security" aria-label="Public safety, justice and security "><span aria-hidden="true">Public safety, justice and security</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="health_industries-subnav-1-6" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries/health-industries.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/health-industries.html" navigation-title="Health industries" aria-label="Health industries "><span aria-hidden="true">Health industries</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/healthcare.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/healthcare.html" navigation-title="Health services" aria-label="Health services "><span aria-hidden="true">Health services</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/pharmaceuticals-life-sciences.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/pharmaceuticals-life-sciences.html" navigation-title="Pharmaceuticals and life sciences" aria-label="Pharmaceuticals and life sciences "><span aria-hidden="true">Pharmaceuticals and life sciences</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="industrials_and_services-subnav-1-7" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries/industrial-services.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/industrial-services.html" navigation-title="Industrials and services" aria-label="Industrials and services "><span aria-hidden="true">Industrials and services</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/aerospace-defence.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/aerospace-defence.html" navigation-title="Aerospace, defence and security" aria-label="Aerospace, defence and security "><span aria-hidden="true">Aerospace, defence and security</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/automotive.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/automotive.html" navigation-title="Automotive" aria-label="Automotive "><span aria-hidden="true">Automotive</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/business-services.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/business-services.html" navigation-title="Business services" aria-label="Business services "><span aria-hidden="true">Business services</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/engineering-construction.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/engineering-construction.html" navigation-title="Engineering and construction" aria-label="Engineering and construction "><span aria-hidden="true">Engineering and construction</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/industrial-manufacturing.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/industrial-manufacturing.html" navigation-title="Industrial manufacturing" aria-label="Industrial manufacturing "><span aria-hidden="true">Industrial manufacturing</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/aerospace-defence/space.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/aerospace-defence/space.html" navigation-title="Space" aria-label="Space "><span aria-hidden="true">Space</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="private_equity_and_principal_investors-subnav-1-8" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries/private-equity.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/private-equity.html" navigation-title="Private equity and principal investors" aria-label="Private equity and principal investors "><span aria-hidden="true">Private equity and principal investors</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/capital-projects-infrastructure.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/capital-projects-infrastructure.html" navigation-title="Capital projects and infrastructure" aria-label="Capital projects and infrastructure "><span aria-hidden="true">Capital projects and infrastructure</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="technology__media_and_telecommunications-subnav-1-9" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Industries</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/industries/tmt.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/tmt.html" navigation-title="Technology, media and telecommunications" aria-label="Technology, media and telecommunications "><span aria-hidden="true">Technology, media and telecommunications</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/tmt/media.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/tmt/media.html" navigation-title="Entertainment and media" aria-label="Entertainment and media "><span aria-hidden="true">Entertainment and media</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/tmt/semiconductors.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/tmt/semiconductors.html" navigation-title="Semiconductors" aria-label="Semiconductors "><span aria-hidden="true">Semiconductors</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/technology.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/technology.html" navigation-title="Technology" aria-label="Technology "><span aria-hidden="true">Technology</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/industries/tmt/telecommunications.html" nextpage-canonical-url="https://www.pwc.com/gx/en/industries/tmt/telecommunications.html" navigation-title="Telecommunications" aria-label="Telecommunications "><span aria-hidden="true">Telecommunications</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               </span>
+               <div class="slim-featured search-hide">
+                  <p class="slim-featured-heading">Featured</p>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/ai-value-motion-guide.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/ai-value-motion-guide.html" navigation-title="The leader’s guide to value in motion">
+                           <img src="/glob/dpe/en/primary-context/mobile/pwc-gx-syc-ind-conv-context-image-tl-2-800x450-aigenerated.jpg.pwcimage.150.100.jpg" alt=""/>
+                           <p>The leader’s guide to value in motion</p>
+                        </a>
+                     </div>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/digital-banking-starling-engine.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/digital-banking-starling-engine.html" navigation-title="Engine by Starling: From launching a bank to launching a software business">
+                           <img src="/gx/en/ghosts/assets/engine-by-starling-thumbnail.jpg.pwcimage.150.100.jpg" alt=""/>
+                           <p>Engine by Starling: From launching a bank to launching a software business</p>
+                        </a>
+                     </div>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/convergence-collaboration.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/convergence-collaboration.html" navigation-title="PwC x Economist Enterprise">
+                           <img src="/gx/en/industries/collaborations/economist-landing-thumb.jpg.pwcimage.150.100.jpg" alt=""/>
+                           <p>PwC x Economist Enterprise</p>
+                        </a>
+                     </div>
+                  
+               </div>
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="services-subnav-2" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">Services</a>
+                        </div>
+                        <a href="https://www.pwc.com/gx/en/services.html" aria-label="Services " class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services.html" navigation-title="Services"><span aria-hidden="true">Services</span></a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services.html" aria-controls="see_all_services-subnav-2-1" nextpage-canonical-url="https://www.pwc.com/gx/en/services.html" navigation-title="See all services" aria-label="See all services "><span aria-hidden="true">See all services</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/alliances.html" aria-controls="alliances-subnav-2-2" navigation-title="Alliances" aria-label="Alliances "><span aria-hidden="true">Alliances</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/ai.html" aria-controls="artificial_intelligence-subnav-2-3" navigation-title="Artificial intelligence" aria-label="Artificial intelligence "><span aria-hidden="true">Artificial intelligence</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/audit-assurance.html" aria-controls="audit_and_assurance_services-subnav-2-4" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance.html" navigation-title="Audit and assurance services" aria-label="Audit and assurance services "><span aria-hidden="true">Audit and assurance services</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/business-model-reinvention.html" aria-controls="reinvention-subnav-2-5" nextpage-canonical-url="https://www.pwc.com/gx/en/1/services/reinvention.html" navigation-title="Reinvention" aria-label="Reinvention "><span aria-hidden="true">Reinvention</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/transformation.html" aria-controls="business_transformation-subnav-2-6" nextpage-canonical-url="https://www.pwc.com/gx/en/services/transformation.html" navigation-title="Business transformation" aria-label="Business transformation "><span aria-hidden="true">Business transformation</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/consulting.html" aria-controls="consulting-subnav-2-7" nextpage-canonical-url="https://www.pwc.com/gx/en/services/consulting.html" navigation-title="Consulting" aria-label="Consulting "><span aria-hidden="true">Consulting</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/issues/crisis-solutions.html" aria-controls="crisis_management-subnav-2-8" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/crisis-solutions.html" navigation-title="Crisis management" aria-label="Crisis management "><span aria-hidden="true">Crisis management</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/deals.html" aria-controls="deals-subnav-2-9" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals.html" navigation-title="Deals" aria-label="Deals "><span aria-hidden="true">Deals</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/global-economics.html" aria-controls="economics-subnav-2-10" nextpage-canonical-url="https://www.pwc.com/gx/en/services/global-economics.html" navigation-title="Economics" aria-label="Economics "><span aria-hidden="true">Economics</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/family-business.html" aria-controls="family_business-subnav-2-11" nextpage-canonical-url="https://www.pwc.com/gx/en/services/family-business.html" navigation-title="Family business" aria-label="Family business "><span aria-hidden="true">Family business</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/forensics.html" aria-controls="forensics-subnav-2-12" nextpage-canonical-url="https://www.pwc.com/gx/en/services/forensics.html" navigation-title="Forensics" aria-label="Forensics "><span aria-hidden="true">Forensics</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/legal-business-solutions.html" aria-controls="legal_business_solutions-subnav-2-13" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions.html" navigation-title="Legal business solutions" aria-label="Legal business solutions "><span aria-hidden="true">Legal business solutions</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/managed-services.html" aria-controls="managed_services-subnav-2-14" nextpage-canonical-url="https://www.pwc.com/gx/en/services/managed-services.html" navigation-title="Managed services" aria-label="Managed services "><span aria-hidden="true">Managed services</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/pwc-private.html" aria-controls="pwc_private-subnav-2-15" nextpage-canonical-url="https://www.pwc.com/gx/en/services/pwc-private.html" navigation-title="PwC Private" aria-label="PwC Private "><span aria-hidden="true">PwC Private</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/risk.html" aria-controls="risk_services-subnav-2-16" nextpage-canonical-url="https://www.pwc.com/gx/en/services/risk.html" navigation-title="Risk services" aria-label="Risk services "><span aria-hidden="true">Risk services</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.strategyand.pwc.com/gx/en/functions.html" target="_blank" aria-controls="strategy-subnav-2-17" navigation-title="Strategy" aria-label="Strategy Opens in a new tab" rel="noopener"><span aria-hidden="true">Strategy</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/sustainability.html" aria-controls="sustainability_and_climate_change-subnav-2-18" nextpage-canonical-url="https://www.pwc.com/gx/en/services/sustainability.html" navigation-title="Sustainability and climate change" aria-label="Sustainability and climate change "><span aria-hidden="true">Sustainability and climate change</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/tax.html" aria-controls="tax-subnav-2-19" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax.html" navigation-title="Tax" aria-label="Tax "><span aria-hidden="true">Tax</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/trust-services.html" aria-controls="trust-subnav-2-20" nextpage-canonical-url="https://www.pwc.com/gx/en/services/trust-services.html" navigation-title="Trust" aria-label="Trust "><span aria-hidden="true">Trust</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Services" href="https://www.pwc.com/gx/en/services/workforce.html" aria-controls="workforce-subnav-2-21" navigation-title="Workforce" aria-label="Workforce "><span aria-hidden="true">Workforce</span></a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="see_all_services-subnav-2-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services.html" navigation-title="See all services" aria-label="See all services "><span aria-hidden="true">See all services</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="alliances-subnav-2-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/alliances.html" class="lv2-label" navigation-title="Alliances" aria-label="Alliances "><span aria-hidden="true">Alliances</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="artificial_intelligence-subnav-2-3" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/ai.html" class="lv2-label" navigation-title="Artificial intelligence" aria-label="Artificial intelligence "><span aria-hidden="true">Artificial intelligence</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="audit_and_assurance_services-subnav-2-4" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/audit-assurance.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance.html" navigation-title="Audit and assurance services" aria-label="Audit and assurance services "><span aria-hidden="true">Audit and assurance services</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/accounting-advisory.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/accounting-advisory.html" navigation-title="Accounting advisory" aria-label="Accounting advisory "><span aria-hidden="true">Accounting advisory</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/capital-market.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/capital-market.html" navigation-title="Capital markets" aria-label="Capital markets "><span aria-hidden="true">Capital markets</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/corporate-reporting.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/corporate-reporting.html" navigation-title="Corporate reporting" aria-label="Corporate reporting "><span aria-hidden="true">Corporate reporting</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/financial.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/financial.html" navigation-title="Financial statement audit" aria-label="Financial statement audit "><span aria-hidden="true">Financial statement audit</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/ifrs-reporting.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/ifrs-reporting.html" navigation-title="IFRS" aria-label="IFRS "><span aria-hidden="true">IFRS</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/internal-audit.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/internal-audit.html" navigation-title="Internal audit" aria-label="Internal audit "><span aria-hidden="true">Internal audit</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/risk-assurance.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/risk-assurance.html" navigation-title="Risk assurance" aria-label="Risk assurance "><span aria-hidden="true">Risk assurance</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/sustainability-reporting-assurance-services.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/sustainability-reporting-assurance-services.html" navigation-title="Sustainability assurance" aria-label="Sustainability assurance "><span aria-hidden="true">Sustainability assurance</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="reinvention-subnav-2-5" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/business-model-reinvention.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/1/services/reinvention.html" navigation-title="Reinvention" aria-label="Reinvention "><span aria-hidden="true">Reinvention</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="business_transformation-subnav-2-6" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/transformation.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/transformation.html" navigation-title="Business transformation" aria-label="Business transformation "><span aria-hidden="true">Business transformation</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="consulting-subnav-2-7" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/consulting.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/consulting.html" navigation-title="Consulting" aria-label="Consulting "><span aria-hidden="true">Consulting</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/consulting/cloud-transformation.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/consulting/cloud-transformation.html" navigation-title="Cloud transformation" aria-label="Cloud transformation "><span aria-hidden="true">Cloud transformation</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/deals.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals.html" navigation-title="Deals" aria-label="Deals "><span aria-hidden="true">Deals</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/consulting/finance-transformation.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/consulting/finance-transformation.html" navigation-title="Finance transformation" aria-label="Finance transformation "><span aria-hidden="true">Finance transformation</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/forensics.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/forensics.html" navigation-title="Forensics" aria-label="Forensics "><span aria-hidden="true">Forensics</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/consulting/front-office-transformation.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/consulting/front-office-transformation.html" navigation-title="Front office transformation" aria-label="Front office transformation "><span aria-hidden="true">Front office transformation</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/consulting/hr-transformation.html" navigation-title="HR transformation" aria-label="HR transformation "><span aria-hidden="true">HR transformation</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/issues/risk-regulation.html" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/risk-regulation.html" navigation-title="Risk and regulation" aria-label="Risk and regulation "><span aria-hidden="true">Risk and regulation</span></a>
+                        
+                           <a class="levelThreeLink" target="_blank" href="https://www.strategyand.pwc.com/gx/en/functions.html" navigation-title="Strategy" aria-label="Strategy Opens in a new tab" rel="noopener"><span aria-hidden="true">Strategy</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/consulting/technology.html" navigation-title="Technology" aria-label="Technology "><span aria-hidden="true">Technology</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce.html" navigation-title="Workforce" aria-label="Workforce "><span aria-hidden="true">Workforce</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="crisis_management-subnav-2-8" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/crisis-solutions.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/crisis-solutions.html" navigation-title="Crisis management" aria-label="Crisis management "><span aria-hidden="true">Crisis management</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="deals-subnav-2-9" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/deals.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals.html" navigation-title="Deals" aria-label="Deals "><span aria-hidden="true">Deals</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/deals/acquisitions.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals/acquisitions.html" navigation-title="Acquisitions" aria-label="Acquisitions "><span aria-hidden="true">Acquisitions</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/deals/capital-markets-ipo.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals/capital-markets-ipo.html" navigation-title="Capital markets" aria-label="Capital markets "><span aria-hidden="true">Capital markets</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/deals/corporate-finance.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals/corporate-finance.html" navigation-title="Corporate finance" aria-label="Corporate finance "><span aria-hidden="true">Corporate finance</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/deals/deal-strategy.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals/deal-strategy.html" navigation-title="Deals strategy" aria-label="Deals strategy "><span aria-hidden="true">Deals strategy</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/deals/joint-ventures-and-alliances.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals/joint-ventures-and-alliances.html" navigation-title="Joint ventures and alliances" aria-label="Joint ventures and alliances "><span aria-hidden="true">Joint ventures and alliances</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/legal-business-solutions.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions.html" navigation-title="Legal business solutions" aria-label="Legal business solutions "><span aria-hidden="true">Legal business solutions</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/mergers-and-acquisitions.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/mergers-and-acquisitions.html" navigation-title="M&amp;A tax" aria-label="M&amp;A tax "><span aria-hidden="true">M&amp;A tax</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/managed-services.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/managed-services.html" navigation-title="Managed services" aria-label="Managed services "><span aria-hidden="true">Managed services</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/deals/performance-and-restructuring.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/deals/performance-and-restructuring.html" navigation-title="Performance and restructuring" aria-label="Performance and restructuring "><span aria-hidden="true">Performance and restructuring</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="economics-subnav-2-10" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/global-economics.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/global-economics.html" navigation-title="Economics" aria-label="Economics "><span aria-hidden="true">Economics</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="family_business-subnav-2-11" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/family-business.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/family-business.html" navigation-title="Family business" aria-label="Family business "><span aria-hidden="true">Family business</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="forensics-subnav-2-12" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/forensics.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/forensics.html" navigation-title="Forensics" aria-label="Forensics "><span aria-hidden="true">Forensics</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="legal_business_solutions-subnav-2-13" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/legal-business-solutions.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions.html" navigation-title="Legal business solutions" aria-label="Legal business solutions "><span aria-hidden="true">Legal business solutions</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/legal-business-solutions/employment.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions/employment.html" navigation-title="Employment" aria-label="Employment "><span aria-hidden="true">Employment</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/legal-business-solutions/entity-governance-compliance.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions/entity-governance-compliance.html" navigation-title="Entity governance and compliance" aria-label="Entity governance and compliance "><span aria-hidden="true">Entity governance and compliance</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/legal-business-solutions/corporate-and-commercial.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions/corporate-and-commercial.html" navigation-title="International business reorganisations" aria-label="International business reorganisations "><span aria-hidden="true">International business reorganisations</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/legal-business-solutions/mergers-and-acquisitions.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions/mergers-and-acquisitions.html" navigation-title="Mergers and acquisitions" aria-label="Mergers and acquisitions "><span aria-hidden="true">Mergers and acquisitions</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/legal-business-solutions/new-law.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions/new-law.html" navigation-title="NewLaw " aria-label="NewLaw  "><span aria-hidden="true">NewLaw </span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="managed_services-subnav-2-14" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/managed-services.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/managed-services.html" navigation-title="Managed services" aria-label="Managed services "><span aria-hidden="true">Managed services</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="pwc_private-subnav-2-15" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/pwc-private.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/pwc-private.html" navigation-title="PwC Private" aria-label="PwC Private "><span aria-hidden="true">PwC Private</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="risk_services-subnav-2-16" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/risk.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/risk.html" navigation-title="Risk services" aria-label="Risk services "><span aria-hidden="true">Risk services</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="strategy-subnav-2-17" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.strategyand.pwc.com/gx/en/functions.html" target="_blank" class="lv2-label" navigation-title="Strategy" aria-label="Strategy Opens in a new tab" rel="noopener"><span aria-hidden="true">Strategy</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="sustainability_and_climate_change-subnav-2-18" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/sustainability.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/sustainability.html" navigation-title="Sustainability and climate change" aria-label="Sustainability and climate change "><span aria-hidden="true">Sustainability and climate change</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/sustainability/climate-risk-resilience-adaptation.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/sustainability/climate-risk-resilience-adaptation.html" navigation-title="Climate risk, resilience and adaptation" aria-label="Climate risk, resilience and adaptation "><span aria-hidden="true">Climate risk, resilience and adaptation</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/sustainability/energy-solutions.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/sustainability/energy-solutions.html" navigation-title="Energy solutions" aria-label="Energy solutions "><span aria-hidden="true">Energy solutions</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/legal-business-solutions/esg-legal.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions/esg-legal.html" navigation-title="Legal and sustainability" aria-label="Legal and sustainability "><span aria-hidden="true">Legal and sustainability</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/sustainability/transition-planning.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/sustainability/transition-planning.html" navigation-title="Transition planning" aria-label="Transition planning "><span aria-hidden="true">Transition planning</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/sustainability-reporting-assurance-services.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/sustainability-reporting-assurance-services.html" navigation-title="Sustainability assurance" aria-label="Sustainability assurance "><span aria-hidden="true">Sustainability assurance</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/sustainability/sustainability-in-deals.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/sustainability/sustainability-in-deals.html" navigation-title="Sustainability in deals" aria-label="Sustainability in deals "><span aria-hidden="true">Sustainability in deals</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/audit-assurance/corporate-reporting/esg-reporting.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/audit-assurance/corporate-reporting/esg-reporting.html" navigation-title="Sustainability reporting" aria-label="Sustainability reporting "><span aria-hidden="true">Sustainability reporting</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/esg-tax.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/esg-tax.html" navigation-title="Tax and sustainability" aria-label="Tax and sustainability "><span aria-hidden="true">Tax and sustainability</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="tax-subnav-2-19" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/tax.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax.html" navigation-title="Tax" aria-label="Tax "><span aria-hidden="true">Tax</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/indirect-taxes.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/indirect-taxes.html" navigation-title="Indirect taxes" aria-label="Indirect taxes "><span aria-hidden="true">Indirect taxes</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/international-tax-services.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/international-tax-services.html" navigation-title="International tax services" aria-label="International tax services "><span aria-hidden="true">International tax services</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/mergers-and-acquisitions.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/mergers-and-acquisitions.html" navigation-title="Mergers and acquisitions" aria-label="Mergers and acquisitions "><span aria-hidden="true">Mergers and acquisitions</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/sightline.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/sightline.html" navigation-title="Sightline" aria-label="Sightline "><span aria-hidden="true">Sightline</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/code-of-conduct.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/code-of-conduct.html" navigation-title="Tax code of conduct" aria-label="Tax code of conduct "><span aria-hidden="true">Tax code of conduct</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/tax-controversy-dispute-resolution.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/tax-controversy-dispute-resolution.html" navigation-title="Tax controversy and dispute resolution" aria-label="Tax controversy and dispute resolution "><span aria-hidden="true">Tax controversy and dispute resolution</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/tax-policy-administration.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/tax-policy-administration.html" navigation-title="Tax policy and administration" aria-label="Tax policy and administration "><span aria-hidden="true">Tax policy and administration</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/tax-reporting-strategy.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/tax-reporting-strategy.html" navigation-title="Tax transformation" aria-label="Tax transformation "><span aria-hidden="true">Tax transformation</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/tax/transfer-pricing.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/tax/transfer-pricing.html" navigation-title="Transfer pricing" aria-label="Transfer pricing "><span aria-hidden="true">Transfer pricing</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="trust-subnav-2-20" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/trust-services.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/services/trust-services.html" navigation-title="Trust" aria-label="Trust "><span aria-hidden="true">Trust</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="workforce-subnav-2-21" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Services</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/services/workforce.html" class="lv2-label" navigation-title="Workforce" aria-label="Workforce "><span aria-hidden="true">Workforce</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/culture-change-and-leadership.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/culture-change-and-leadership.html" navigation-title="Culture, leadership and change" aria-label="Culture, leadership and change "><span aria-hidden="true">Culture, leadership and change</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/legal-business-solutions/employment.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/legal-business-solutions/employment.html" navigation-title="Employment law" aria-label="Employment law "><span aria-hidden="true">Employment law</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/employment-tax-and-payroll.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/employment-tax-and-payroll.html" navigation-title="Employment tax and payroll" aria-label="Employment tax and payroll "><span aria-hidden="true">Employment tax and payroll</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/hr-transformation-technology.html" navigation-title="HR transformation and technology" aria-label="HR transformation and technology "><span aria-hidden="true">HR transformation and technology</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/diversity-and-inclusion.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/diversity-and-inclusion.html" navigation-title="Inclusion" aria-label="Inclusion "><span aria-hidden="true">Inclusion</span></a>
+                        
+                           <a class="levelThreeLink" target="_blank" href="https://www.strategyand.pwc.com/gx/en/functions/organisational-strategy.html" navigation-title="Organisational design" aria-label="Organisational design Opens in a new tab" rel="noopener"><span aria-hidden="true">Organisational design</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/people-analytics-and-insights.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/people-analytics-and-insights.html" navigation-title="People analytics and insights" aria-label="People analytics and insights "><span aria-hidden="true">People analytics and insights</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/people-in-deals.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/people-in-deals.html" navigation-title="People in deals" aria-label="People in deals "><span aria-hidden="true">People in deals</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/retirement-benefits-pensions.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/retirement-benefits-pensions.html" navigation-title="Retirement and pensions" aria-label="Retirement and pensions "><span aria-hidden="true">Retirement and pensions</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/reward-and-benefits.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/reward-and-benefits.html" navigation-title="Reward and benefits" aria-label="Reward and benefits "><span aria-hidden="true">Reward and benefits</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/workforce-risk.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/workforce-risk.html" navigation-title="Workforce risk" aria-label="Workforce risk "><span aria-hidden="true">Workforce risk</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/services/workforce/workforce-strategy.html" nextpage-canonical-url="https://www.pwc.com/gx/en/services/workforce/workforce-strategy.html" navigation-title="Workforce strategy" aria-label="Workforce strategy "><span aria-hidden="true">Workforce strategy</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               </span>
+               <div class="slim-featured search-hide">
+                  <p class="slim-featured-heading">Featured</p>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/services-ai.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/services-ai.html" navigation-title="Artificial Intelligence">
+                           <img src="/gx/en/ghosts/assets/artificial-intelligence-thumbnail.jpeg.pwcimage.150.100.jpg" alt=""/>
+                           <p>Artificial Intelligence</p>
+                        </a>
+                     </div>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/services-reinvention.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/services-reinvention.html" navigation-title="Reinvention">
+                           <img src="/glob/dpe/en/primary-context/mobile/pwc_gx_primary_800x450_gettyimages-565975441.jpg.pwcimage.150.100.jpg" alt=""/>
+                           <p>Reinvention</p>
+                        </a>
+                     </div>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/technology.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/technology.html" navigation-title="Technology ">
+                           <img src="/gx/en/ghosts/assets/technology-thumbnail.jpeg.pwcimage.150.100.jpg" alt=""/>
+                           <p>Technology </p>
+                        </a>
+                     </div>
+                  
+               </div>
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="issues-subnav-3" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">Issues</a>
+                        </div>
+                        <a href="https://www.pwc.com/gx/en/issues.html" aria-label="Issues " class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues.html" navigation-title="Issues"><span aria-hidden="true">Issues</span></a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues.html" aria-controls="see_all_issues-subnav-3-1" nextpage-canonical-url="https://www.pwc.com/gx/en/issues.html" navigation-title="See all issues" aria-label="See all issues "><span aria-hidden="true">See all issues</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/technology.html" aria-controls="ai__data__and_tech-subnav-3-2" navigation-title="AI, data, and tech" aria-label="AI, data, and tech "><span aria-hidden="true">AI, data, and tech</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/transformation.html" aria-controls="business_transformation-subnav-3-3" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/transformation.html" navigation-title="Business transformation" aria-label="Business transformation "><span aria-hidden="true">Business transformation</span></a>
+                     
+    					<a class="levelTwoLink has-lv3" data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/c-suite-insights.html" aria-controls="c_suite_insights-subnav-3-4" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/c-suite-insights.html" navigation-title="C-suite insights" aria-label="C-suite insights "><span aria-hidden="true">C-suite insights</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/esg.html" aria-controls="climate_and_sustainability-subnav-3-5" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/esg.html" navigation-title="Climate and sustainability" aria-label="Climate and sustainability "><span aria-hidden="true">Climate and sustainability</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/cybersecurity.html" aria-controls="cybersecurity-subnav-3-6" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/cybersecurity.html" navigation-title="Cybersecurity" aria-label="Cybersecurity "><span aria-hidden="true">Cybersecurity</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/megatrends.html" aria-controls="megatrends-subnav-3-7" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/megatrends.html" navigation-title="Megatrends" aria-label="Megatrends "><span aria-hidden="true">Megatrends</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/business-model-reinvention.html" aria-controls="reinvention-subnav-3-8" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/business-model-reinvention.html" navigation-title="Reinvention" aria-label="Reinvention "><span aria-hidden="true">Reinvention</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/risk-regulation.html" aria-controls="risk_and_regulation-subnav-3-9" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/risk-regulation.html" navigation-title="Risk and regulation" aria-label="Risk and regulation "><span aria-hidden="true">Risk and regulation</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/trust.html" aria-controls="trust-subnav-3-10" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/trust.html" navigation-title="Trust" aria-label="Trust "><span aria-hidden="true">Trust</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/upskilling.html" aria-controls="upskilling-subnav-3-11" navigation-title="Upskilling" aria-label="Upskilling "><span aria-hidden="true">Upskilling</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Issues" href="https://www.pwc.com/gx/en/issues/workforce.html" aria-controls="workforce-subnav-3-12" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/workforce.html" navigation-title="Workforce" aria-label="Workforce "><span aria-hidden="true">Workforce</span></a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="see_all_issues-subnav-3-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues.html" navigation-title="See all issues" aria-label="See all issues "><span aria-hidden="true">See all issues</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="ai__data__and_tech-subnav-3-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/technology.html" class="lv2-label" navigation-title="AI, data, and tech" aria-label="AI, data, and tech "><span aria-hidden="true">AI, data, and tech</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="business_transformation-subnav-3-3" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/transformation.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/transformation.html" navigation-title="Business transformation" aria-label="Business transformation "><span aria-hidden="true">Business transformation</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="c_suite_insights-subnav-3-4" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/c-suite-insights.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/c-suite-insights.html" navigation-title="C-suite insights" aria-label="C-suite insights "><span aria-hidden="true">C-suite insights</span></a>
+                        </div>
+                        <nav>
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/issues/transformation/accelerating-performance.html" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/transformation/accelerating-performance.html" navigation-title="Accelerating performance" aria-label="Accelerating performance "><span aria-hidden="true">Accelerating performance</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/issues/c-suite-insights/ceo-survey.html" navigation-title="Global CEO Survey" aria-label="Global CEO Survey "><span aria-hidden="true">Global CEO Survey</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/about/world-economic-forum/pwc-at-davos.html" nextpage-canonical-url="https://www.pwc.com/gx/en/about/world-economic-forum/pwc-at-davos.html" navigation-title="PwC at Davos" aria-label="PwC at Davos "><span aria-hidden="true">PwC at Davos</span></a>
+                        
+                           <a class="levelThreeLink" href="https://strategybusiness.pwc.com/" navigation-title="strategy+business digital issue" aria-label="strategy+business digital issue "><span aria-hidden="true">strategy+business digital issue</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/issues/reinventing-the-future/take-on-tomorrow.html" navigation-title="Take on Tomorrow: a strategy+business podcast" aria-label="Take on Tomorrow: a strategy+business podcast "><span aria-hidden="true">Take on Tomorrow: a strategy+business podcast</span></a>
+                        
+                           <a class="levelThreeLink" href="https://www.pwc.com/gx/en/issues/c-suite-insights/the-leadership-agenda.html" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/c-suite-insights/the-leadership-agenda.html" navigation-title="The Leadership Agenda" aria-label="The Leadership Agenda "><span aria-hidden="true">The Leadership Agenda</span></a>
+                        </nav>
+                     </div>
+                  </div>
+               
+                  <div id="climate_and_sustainability-subnav-3-5" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/esg.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/esg.html" navigation-title="Climate and sustainability" aria-label="Climate and sustainability "><span aria-hidden="true">Climate and sustainability</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="cybersecurity-subnav-3-6" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/cybersecurity.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/cybersecurity.html" navigation-title="Cybersecurity" aria-label="Cybersecurity "><span aria-hidden="true">Cybersecurity</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="megatrends-subnav-3-7" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/megatrends.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/megatrends.html" navigation-title="Megatrends" aria-label="Megatrends "><span aria-hidden="true">Megatrends</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="reinvention-subnav-3-8" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/business-model-reinvention.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/business-model-reinvention.html" navigation-title="Reinvention" aria-label="Reinvention "><span aria-hidden="true">Reinvention</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="risk_and_regulation-subnav-3-9" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/risk-regulation.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/risk-regulation.html" navigation-title="Risk and regulation" aria-label="Risk and regulation "><span aria-hidden="true">Risk and regulation</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="trust-subnav-3-10" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/trust.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/trust.html" navigation-title="Trust" aria-label="Trust "><span aria-hidden="true">Trust</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="upskilling-subnav-3-11" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/upskilling.html" class="lv2-label" navigation-title="Upskilling" aria-label="Upskilling "><span aria-hidden="true">Upskilling</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="workforce-subnav-3-12" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Issues</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/issues/workforce.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/workforce.html" navigation-title="Workforce" aria-label="Workforce "><span aria-hidden="true">Workforce</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </span>
+               <div class="slim-featured search-hide">
+                  <p class="slim-featured-heading">Featured</p>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/tech-data-ai-performance.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/tech-data-ai-performance.html" navigation-title="AI performance study">
+                           <img src="/gx/en/ghosts/assets/ai-performance-study-thumbnail.jpeg.pwcimage.150.100.jpg" alt=""/>
+                           <p>AI performance study</p>
+                        </a>
+                     </div>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/issues/value-in-motion.html" nextpage-canonical-url="https://www.pwc.com/gx/en/issues/value-in-motion.html" navigation-title="Value in motion">
+                           <img src="/gx/en/zz-test-brand-assets-pages-25/value-in-motion/thumb-vim.jpg.pwcimage.150.100.jpg" alt=""/>
+                           <p>Value in motion</p>
+                        </a>
+                     </div>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/ceo-survey-2026.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/ceo-survey-2026.html" navigation-title="CEO survey">
+                           <img src="/gx/en/ghosts/assets/ceo-survey-2026-thumbnail.jpeg.pwcimage.150.100.jpg" alt=""/>
+                           <p>CEO survey</p>
+                        </a>
+                     </div>
+                  
+               </div>
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="about_us-subnav-4" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">About us</a>
+                        </div>
+                        <a href="https://www.pwc.com/gx/en/about.html" aria-label="About us " class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about.html" navigation-title="About us"><span aria-hidden="true">About us</span></a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about.html" aria-controls="see_more_about_us-subnav-4-1" nextpage-canonical-url="https://www.pwc.com/gx/en/about.html" navigation-title="See more About Us" aria-label="See more About Us "><span aria-hidden="true">See more About Us</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/alumni-network.html" aria-controls="alumni-subnav-4-2" nextpage-canonical-url="https://www.pwc.com/gx/en/about/alumni-network.html" navigation-title="Alumni" aria-label="Alumni "><span aria-hidden="true">Alumni</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/analyst-relations.html" aria-controls="analyst_relations-subnav-4-3" nextpage-canonical-url="https://www.pwc.com/gx/en/about/analyst-relations.html" navigation-title="Analyst relations" aria-label="Analyst relations "><span aria-hidden="true">Analyst relations</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/pwc-asia-pacific.html" aria-controls="asia_pac-subnav-4-4" nextpage-canonical-url="https://www.pwc.com/gx/en/about/pwc-asia-pacific.html" navigation-title="Asia Pac" aria-label="Asia Pac "><span aria-hidden="true">Asia Pac</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/case-studies.html" aria-controls="client_case_studies-subnav-4-5" nextpage-canonical-url="https://www.pwc.com/gx/en/about/case-studies.html" navigation-title="Client case studies" aria-label="Client case studies "><span aria-hidden="true">Client case studies</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html" aria-controls="code_of_conduct-subnav-4-6" nextpage-canonical-url="https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html" navigation-title="Code of Conduct" aria-label="Code of Conduct "><span aria-hidden="true">Code of Conduct</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/corporate-sustainability.html" aria-controls="corporate_sustainability-subnav-4-7" nextpage-canonical-url="https://www.pwc.com/gx/en/about/corporate-sustainability.html" navigation-title="Corporate sustainability" aria-label="Corporate sustainability "><span aria-hidden="true">Corporate sustainability</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/ethics-business-conduct.html" aria-controls="ethics_and_compliance-subnav-4-8" nextpage-canonical-url="https://www.pwc.com/gx/en/about/ethics-business-conduct.html" navigation-title="Ethics and compliance" aria-label="Ethics and compliance "><span aria-hidden="true">Ethics and compliance</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/global-annual-review.html" aria-controls="global_annual_review-subnav-4-9" nextpage-canonical-url="https://www.pwc.com/gx/en/about/global-annual-review.html" navigation-title="Global Annual Review" aria-label="Global Annual Review "><span aria-hidden="true">Global Annual Review</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/human-rights-policy.html" aria-controls="human_rights_policy-subnav-4-10" nextpage-canonical-url="https://www.pwc.com/gx/en/about/human-rights-policy.html" navigation-title="Human rights policy" aria-label="Human rights policy "><span aria-hidden="true">Human rights policy</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/inclusion.html" aria-controls="inclusion-subnav-4-11" nextpage-canonical-url="https://www.pwc.com/gx/en/about/inclusion.html" navigation-title="Inclusion" aria-label="Inclusion "><span aria-hidden="true">Inclusion</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/leadership.html" aria-controls="network_leadership__governance__and_structure-subnav-4-12" nextpage-canonical-url="https://www.pwc.com/gx/en/about/leadership.html" navigation-title="Network leadership, governance, and structure" aria-label="Network leadership, governance, and structure "><span aria-hidden="true">Network leadership, governance, and structure</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/news-room.html" aria-controls="newsroom-subnav-4-13" nextpage-canonical-url="https://www.pwc.com/gx/en/news-room.html" navigation-title="Newsroom" aria-label="Newsroom "><span aria-hidden="true">Newsroom</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/office-locations.html" aria-controls="office_locations-subnav-4-14" nextpage-canonical-url="https://www.pwc.com/gx/en/about/office-locations.html" navigation-title="Office locations" aria-label="Office locations "><span aria-hidden="true">Office locations</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/global-regulatory-affairs.html" aria-controls="policy_and_regulation-subnav-4-15" nextpage-canonical-url="https://www.pwc.com/gx/en/about/global-regulatory-affairs.html" navigation-title="Policy and regulation" aria-label="Policy and regulation "><span aria-hidden="true">Policy and regulation</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html" aria-controls="purpose__values__and_behaviours-subnav-4-16" nextpage-canonical-url="https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html" navigation-title="Purpose, values, and behaviours" aria-label="Purpose, values, and behaviours "><span aria-hidden="true">Purpose, values, and behaviours</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="About us" href="https://www.strategyand.pwc.com/gx/en/about.html" aria-controls="strategy_-subnav-4-17" nextpage-canonical-url="https://www.strategyand.pwc.com/gx/en/about.html" navigation-title="Strategy&amp;" aria-label="Strategy&amp; "><span aria-hidden="true">Strategy&amp;</span></a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="see_more_about_us-subnav-4-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about.html" navigation-title="See more About Us" aria-label="See more About Us "><span aria-hidden="true">See more About Us</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="alumni-subnav-4-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/alumni-network.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/alumni-network.html" navigation-title="Alumni" aria-label="Alumni "><span aria-hidden="true">Alumni</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="analyst_relations-subnav-4-3" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/analyst-relations.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/analyst-relations.html" navigation-title="Analyst relations" aria-label="Analyst relations "><span aria-hidden="true">Analyst relations</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="asia_pac-subnav-4-4" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/pwc-asia-pacific.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/pwc-asia-pacific.html" navigation-title="Asia Pac" aria-label="Asia Pac "><span aria-hidden="true">Asia Pac</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="client_case_studies-subnav-4-5" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/case-studies.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/case-studies.html" navigation-title="Client case studies" aria-label="Client case studies "><span aria-hidden="true">Client case studies</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="code_of_conduct-subnav-4-6" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/ethics-business-conduct/code-of-conduct.html" navigation-title="Code of Conduct" aria-label="Code of Conduct "><span aria-hidden="true">Code of Conduct</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="corporate_sustainability-subnav-4-7" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/corporate-sustainability.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/corporate-sustainability.html" navigation-title="Corporate sustainability" aria-label="Corporate sustainability "><span aria-hidden="true">Corporate sustainability</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="ethics_and_compliance-subnav-4-8" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/ethics-business-conduct.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/ethics-business-conduct.html" navigation-title="Ethics and compliance" aria-label="Ethics and compliance "><span aria-hidden="true">Ethics and compliance</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="global_annual_review-subnav-4-9" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/global-annual-review.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/global-annual-review.html" navigation-title="Global Annual Review" aria-label="Global Annual Review "><span aria-hidden="true">Global Annual Review</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="human_rights_policy-subnav-4-10" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/human-rights-policy.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/human-rights-policy.html" navigation-title="Human rights policy" aria-label="Human rights policy "><span aria-hidden="true">Human rights policy</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="inclusion-subnav-4-11" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/inclusion.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/inclusion.html" navigation-title="Inclusion" aria-label="Inclusion "><span aria-hidden="true">Inclusion</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="network_leadership__governance__and_structure-subnav-4-12" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/leadership.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/leadership.html" navigation-title="Network leadership, governance, and structure" aria-label="Network leadership, governance, and structure "><span aria-hidden="true">Network leadership, governance, and structure</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="newsroom-subnav-4-13" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/news-room.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/news-room.html" navigation-title="Newsroom" aria-label="Newsroom "><span aria-hidden="true">Newsroom</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="office_locations-subnav-4-14" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/office-locations.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/office-locations.html" navigation-title="Office locations" aria-label="Office locations "><span aria-hidden="true">Office locations</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="policy_and_regulation-subnav-4-15" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/global-regulatory-affairs.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/global-regulatory-affairs.html" navigation-title="Policy and regulation" aria-label="Policy and regulation "><span aria-hidden="true">Policy and regulation</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="purpose__values__and_behaviours-subnav-4-16" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html" navigation-title="Purpose, values, and behaviours" aria-label="Purpose, values, and behaviours "><span aria-hidden="true">Purpose, values, and behaviours</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="strategy_-subnav-4-17" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">About us</a>
+                           </div>
+                           <a href="https://www.strategyand.pwc.com/gx/en/about.html" class="lv2-label" nextpage-canonical-url="https://www.strategyand.pwc.com/gx/en/about.html" navigation-title="Strategy&amp;" aria-label="Strategy&amp; "><span aria-hidden="true">Strategy&amp;</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </span>
+               <div class="slim-featured search-hide">
+                  <p class="slim-featured-heading">Featured</p>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/ghost/tech-data-ai-performance.html" nextpage-canonical-url="https://www.pwc.com/gx/en/ghost/tech-data-ai-performance.html" navigation-title="AI performance study">
+                           <img src="/gx/en/ghosts/assets/ai-performance-study-thumbnail.jpeg.pwcimage.150.100.jpg" alt=""/>
+                           <p>AI performance study</p>
+                        </a>
+                     </div>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/about/global-annual-review.html" nextpage-canonical-url="https://www.pwc.com/gx/en/about/global-annual-review.html" navigation-title="Global Annual Review 2025">
+                           <img src="/gx/en/global-annual-review/2025/gar-hp.jpg.pwcimage.150.100.jpg" alt=""/>
+                           <p>Global Annual Review 2025</p>
+                        </a>
+                     </div>
+                  
+               </div>
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+         <div id="careers-subnav-5" class="sublevel-container search-hide show-subnav">
+            <div class="sublevel-navs">
+               <div class="slimnav-level2 slimheader-slide-nav">
+                  <div class="slide-nav-contain">
+                     <div class="sublevel-title-container search-hide">
+                        <div class="slimnav-mobile-header">
+                           <p> Menu</p>
+                        </div>
+                        <div class="slimheader-breadcrumb is-hidden">
+                           <a href="#">Careers</a>
+                        </div>
+                        <a href="https://www.pwc.com/gx/en/careers.html" aria-label="Careers " class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/careers.html" navigation-title="Careers"><span aria-hidden="true">Careers</span></a>
+                     </div>
+                     <nav>
+    					<a class="levelTwoLink " data-breadcrumb="Careers" href="https://www.pwc.com/gx/en/careers.html" aria-controls="find_out_more_about_careers-subnav-5-1" nextpage-canonical-url="https://www.pwc.com/gx/en/careers.html" navigation-title="Find out more about careers" aria-label="Find out more about careers "><span aria-hidden="true">Find out more about careers</span></a>
+                     
+    					<a class="levelTwoLink " data-breadcrumb="Careers" href="https://www.pwc.com/gx/en/careers.html#territory-selector" aria-controls="search_for_a_job-subnav-5-2" navigation-title="Search for a job" aria-label="Search for a job "><span aria-hidden="true">Search for a job</span></a>
+                     </nav>
+                  </div>
+               </div>
+               <span class="slimnav-level3">
+                  <div id="find_out_more_about_careers-subnav-5-1" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Careers</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/careers.html" class="lv2-label" nextpage-canonical-url="https://www.pwc.com/gx/en/careers.html" navigation-title="Find out more about careers" aria-label="Find out more about careers "><span aria-hidden="true">Find out more about careers</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               
+                  <div id="search_for_a_job-subnav-5-2" class="slimheader-slide-nav">
+                     <div class="slide-nav-contain">
+                        <div class="sublevel-title-container search-hide">
+                           <div class="slimnav-mobile-header">
+                              <p> Menu</p>
+                           </div>
+                           <div class="slimheader-breadcrumb is-hidden">
+                              <a href="#">Careers</a>
+                           </div>
+                           <a href="https://www.pwc.com/gx/en/careers.html#territory-selector" class="lv2-label" navigation-title="Search for a job" aria-label="Search for a job "><span aria-hidden="true">Search for a job</span></a>
+                        </div>
+                        
+                     </div>
+                  </div>
+               </span>
+               <div class="slim-featured search-hide">
+                  <p class="slim-featured-heading">Featured</p>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/about/global-annual-review.html" nextpage-canonical-url="https://www.pwc.com/gx/en/about/global-annual-review.html" navigation-title="Global Annual Review 2025">
+                           <img src="/gx/en/global-annual-review/2025/gar-hp.jpg.pwcimage.150.100.jpg" alt=""/>
+                           <p>Global Annual Review 2025</p>
+                        </a>
+                     </div>
+                  
+                     <div class="slim-featured-item">
+                        <a class="featuredLink" href="https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html" nextpage-canonical-url="https://www.pwc.com/gx/en/about/purpose-values-and-behaviours.html" navigation-title="Purpose, values, and behaviours">
+                           <img src="/glob/dpe/en/primary-context/mobile/pwc_gx_primary_800x450_gettyimages-1626848397.jpg.pwcimage.150.100.jpg" alt=""/>
+                           <p>Purpose, values, and behaviours</p>
+                        </a>
+                     </div>
+                  
+               </div>
+            </div>
+            <button class="slimheader-close search-hide" aria-label="Menu Close"></button>
+         </div>
+      
+      
+      
+      <div class="sublevel-search-container search-hide">
+         <div class="search-loading">
+            <div class="slim-search-loader"></div>
+            <p>Loading Results</p>
+         </div>
+         <p class="slim-search-no-results is-hidden">No Match Found</p>
+         <div class="slim-search-results">
+            <button class="btn view-all-search is-hidden" href="https://www.pwc.com/gx/en/search.html">
+            View All Results
+            </button>
+         </div>
+      </div>
+      
+   </div>
+   
+</div>
+
+       
+<input type="hidden" id="locale" value='en_gx'/>
+<input type="hidden" name="mod_signInHref" class="mod_signInHref"/>
+<input type="hidden" name="mod_createAccountHref" class="mod_createAccountHref"/>
+<input type="hidden" name="mod_userLoginStatus" class="mod_userLoginStatus"/>
+
+<script>
+	//Analytics : Triggers loginSuccessful event on inter user's login
+    $(document).ready(function(){
+    	var prepareUserRegLinks;
+        var internal_login_status_cookie = Cookies.get("internal-login-status");
+        if(internal_login_status_cookie){
+            $(document).trigger("loginSuccessful");
+            rmvCookie("internal-login-status","/");
+        }
+
+        //PR-2366: User Access Control landing page's requestAccess button link updates based on user's request.
+        if ($('#access-control-section').length > 0) {
+            var accessControlSection = $('#access-control-section');
+            var accessControlButtonWrapper = $('#access-control-section').find($('#pwc-access-button'));
+            var accessControlButton = $(accessControlButtonWrapper).find('a');
+            const requestClasses = {requestAccess:"request-access", requestPending : "request-pending", requestApproved : "request-approved"};
+            $(accessControlSection).find('.help-block').html('Some error occured with creating access control request');
+            var userLoginStatus, approvalStatus="";
+            
+            var currentPagePath = $('.currentPagePath').val();
+            var currLocale= "en_gx";
+            var randomNo = Math.round(new Date().getTime() + (Math.random() * 100));
+            var datapp = 'currentPagePath='+ encodeURIComponent(currentPagePath) + '&currLocale='+ encodeURIComponent(currLocale) + '&'+randomNo+'=';
+            
+            $.ajax('/bin/dpe/logindata', {
+                data: datapp,
+                type: "GET",
+                dataType: 'json',
+                contentType: 'application/json; charset=utf-8',
+                mimeType: 'application/json; charset=utf-8',
+                success: function (rawData, status, xhr) {
+                    SuccessCode = rawData.SuccessCode;
+                    switch (SuccessCode) {
+                        case '[0000]':
+                            $(accessControlSection).find($('#accessControl_GeneralError')).hide();
+                            userLoginStatus = rawData.userLoginStatus;
+                            if(rawData.approvalStatus && rawData.approvalStatus !== "undefined"){
+                            	approvalStatus = rawData.approvalStatus;
+                            }
+                            $(".mod_userLoginStatus").attr("value",userLoginStatus);
+                            prepareUserRegLinks(userLoginStatus, approvalStatus);
+                            break;
+                        case '[1111]':
+                        default:
+                            $(accessControlSection).find($('#accessControl_GeneralError')).show();
+                    }
+                },
+                error: function (xhr, status, err) {
+                    $(accessControlSection).find($('#accessControl_GeneralError')).show();
+                    $(accessControlButton).button('reset');
+                    
+                    prepareUserRegLinks(false, approvalStatus);
+                }
+                
+            });
+            
+            prepareUserRegLinks = function(userLoginStatus, approvalStatus) {
+            	if (!userLoginStatus) {
+				if($(".mod_signInHref").val()==''){
+						$(".mod_signInHref").val($('.login-data .sign-in.userreg').attr('href'));
+                    }
+                    if($(".mod_createAccountHref").val()==''){
+						$(".mod_createAccountHref").val($('.login-data .register.userreg').attr('href'));
+                    }
+                    $(accessControlButton).attr('href', $('.login-data .sign-in.userreg').attr('data-href'));
+                    $(accessControlSection).find('#access-control-footer a').attr('href', $('.login-data .register.userreg').attr('href'));
+                } else {
+                	accessControlSection.removeClass("promo-banner--logged-out").addClass("promo-banner--logged-in");
+                    switch (approvalStatus) {
+                        case "":
+    					case 'rejected':
+                            var reqObj = new Object();
+                            reqObj.accessControlRequestedGroup = $(accessControlSection).data('accessControlGroup');
+                            reqObj.accessControlLandingPage = currentPagePath;
+                            reqObj.accessControlRequestedPage = $(accessControlButton).attr('href');
+                            reqObj.locale = 'en_gx';
+                            $(accessControlButton).attr('href', 'javascript:void(0);');
+                            $('#pwc-access-button a').click(function () {
+                                if ($(accessControlButtonWrapper).hasClass(requestClasses.requestAccess)) {
+                                    $(accessControlButton).button('loading');
+                                    reqObj.accessControlRequestedTime = "1788143569303";
+                                    $.ajax('/bin/requestAccessServlet', {
+                                        data: JSON.stringify(reqObj),
+                                        type: "POST",
+                                        dataType: 'json',
+                                        contentType: 'application/json; charset=utf-8',
+                                        mimeType: 'application/json; charset=utf-8',
+                                        success: function (rawData, status, xhr) {
+                                            SuccessCode = rawData.result.SuccessCode;
+                                            $(accessControlButton).button('reset');
+                                            switch (SuccessCode) {
+                                                case '[0000]':
+                                                    $(accessControlSection).find($('#accessControl_GeneralError')).hide();
+                                                    $(accessControlButtonWrapper).removeClass(requestClasses.requestAccess).addClass(requestClasses.requestPending);
+                                                    $(accessControlButton).html('Access pending approval');
+                                                    break;
+                                                case '[1111]':
+                                                default:
+                                                    $(accessControlSection).find($('#accessControl_GeneralError')).show();
+                                            }
+                                        },
+                                        error: function (xhr, status, err) {
+                                            $(accessControlSection).find($('#accessControl_GeneralError')).show();
+                                            $(accessControlButton).button('reset');
+                                        }
+                                    });
+                                }
+                            });
+                            break;
+                        case  'pending-approval':
+                            $(accessControlButtonWrapper).removeClass(requestClasses.requestAccess).addClass(requestClasses.requestPending);
+                            $(accessControlButton).html('Access pending approval');
+                            $(accessControlButton).attr('href', 'javascript:void(0);');
+                            break;
+                        case  'approved':
+                            $(accessControlButtonWrapper).removeClass(requestClasses.requestAccess).addClass(requestClasses.requestApproved);
+                            $(accessControlButton).addClass('unlocked').removeClass('locked');
+                            break;
+                        default:
+                            $(accessControlButton).attr('href', 'javascript:void(0);');
+                    }
+                }
+            };
+          
+        }
+    });
+</script>
+
+<script>
+     var cookieI18nValues = {};
+	cookieI18nValues.cookieDescription = "This site uses cookies to collect information about your browsing activities in order to provide you with more relevant content and promotional materials, and help us understand your interests and enhance the site. By continuing to browse this site you agree to the use of cookies. Visit our <a href=https:\/\/www.pwc.com\/gx\/en\/legal\u002Dnotices\/cookie\u002Dpolicy.html>cookie policy<\/a> to learn more.";
+	cookieI18nValues.cookieAcceptButton = "I understand";           
+</script>                </div>
+
+    
+</div>
+
+    </div>
+
+    
+</section>
+    
+
+
+
+    
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-b4d758e9f3" class="cmp-container">
+        
+        <div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="title" class="cmp-container  page-section page-section--col-white  fullwidth   videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementa9f8ec7d-3314-9d0f-3c56-384cebe805df" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:center top; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+            
+        <div class="title teaser hero-card-wrapper bg-white">
+
+    
+
+
+
+
+
+
+
+
+   
+      <div class="hero-card hero-card-wrapper--no-image">
+         <div class="hero-card__primary">
+            <div class="card__primary-wrap">
+               <p class="hero-card__primary-eyebrow">The page you were looking for doesn’t seem to exist</p>
+               <h1 class="hero-card__primary-title">Page not found</h1>
+            </div>
+         </div>
+         <div class="hero-card__secondary">
+            <div class="card__secondary-wrap">
+               <ul class="caption-text">
+                  
+                  
+                  
+               </ul>
+               
+            </div>
+         </div>
+      </div>
+   
+   
+
+
+
+</div>
+
+		</div>             
+        
+    </section>
+
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-ad07ca5db1" class="cmp-container">
+        
+        <div class="section container responsivegrid">
+
+    
+    
+    
+	 
+	 
+    
+    
+    <section id="search" class="cmp-container  page-section page-section--col-white     videobghost  " data-wcmmode="false" data-parallax="true" data-videoParallax="false" data-videoId="videoelementeb841037-b2dc-8cf1-f3b1-f40ab122b88b" data-videoAutoplay="false" data-videoLoop="false" style="height:;
+                    background-size:cover;                    
+                    background-position:center top; 
+                    background-image:; 
+                    background-color:;   
+			        ">
+
+      
+            
+        <div class="parsys sectionpar">
+            
+        <div class="text parbase section text-component-lead"><div></div>
+
+
+    
+
+    <div class="text-component" data-text-i18nkey="Opens in a new tab">
+        <p>Use the search box below to look for the content you wanted to explore.</p>
+
+    </div>
+
+
+    
+<script src="/etc.clientlibs/pwc/components/modernized/content/richtext/clientlibs-button.min.dd3ac9d8ad44469841bdd26828fcc915.js"></script>
+
+
+</div>
+<div class="html parbase">
+
+
+    
+
+
+
+    <div data-custom-code="Search">
+    	
+    	    <div><form action="https://www.pwc.com/gx/en/search.html" id="frmsearch" method="get" name="frmsearch">
+  <input accesskey="4" id="searchfield" name="searchfield" size="40" type="text" placeholder="Search for industries, products, services and more" value="">
+  <input type="hidden" name="pwcGeo" value="gx">
+  <input type="hidden" name="pwcLang" value="en">
+  <input type="hidden" value="long" name="tp">
+  <input type="hidden" name="pwcHideLevel" value="0">
+  <input type="hidden" value="" name="pwcSiteSection">
+
+  <button class="btn btn--primary" role="button" type="submit" alt="Search" id="searchsubmit" name="searchsubmit">Search</button>
+</form></div>
+	
+    </div>
+
+</div>
+<div class="html parbase">
+
+
+    
+
+
+
+    <div data-custom-code="CSS">
+    	
+    	    <div><style>
+/* New brand styling */
+#searchsubmit {
+    background: #fd5108;
+    color: #000000;
+}
+#searchsubmit:hover {
+    background: #000000;
+    color: #FFFFFF;
+} 
+.hero-card-wrapper .hero-card-wrapper--no-image.hero-card .hero-card__primary .card__primary-wrap {
+  display: flex;
+  flex-direction: column-reverse;
+}
+#wrapper .hero-card-wrapper .hero-card {
+  margin-bottom: 0;
+}
+#wrapper .hero-card-wrapper .hero-card-wrapper--no-image.hero-card .hero-card__primary {
+  padding-bottom: 0;
+} 
+#frmsearch {
+    margin-bottom: 40px;
+}
+#frmsearch #searchfield {
+    padding: 9px 10px;
+    width: 80%;
+    margin-top: 1rem;
+}
+#frmsearch #searchsubmit {
+    margin-top: -3px;
+}
+@media (width <= 480px) {
+  #frmsearch #searchsubmit {
+      margin-top: 1rem;
+  }
+}
+@media (width >= 1024px) {
+  #frmsearch #searchfield {
+    width: 50%;
+  }
+}
+@media (width >= 1200px) {
+  .hero-card-wrapper .hero-card-wrapper--no-image.hero-card .hero-card__primary .card__primary-wrap {
+    width: 1140px;
+  }
+  #frmsearch #searchfield {
+    width: 33%;
+  }
+}
+@media (width >= 1400px) {
+  .hero-card-wrapper .hero-card-wrapper--no-image.hero-card .hero-card__primary .card__primary-wrap {
+    width: 1340px;
+  }
+}
+
+.secondary-navigation > .container {
+  width: auto;
+}
+.secnav-twocol .strip-btn {
+  width: 100%;
+}
+</style></div>
+	
+    </div>
+
+</div>
+
+		</div>             
+        
+    </section>
+
+</div>
+
+        
+    </div>
+
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="cta-1"></div>
+
+
+	
+    
+
+
+
+    
+</div>
+<div class="container responsivegrid">
+
+    
+    
+    
+    <div id="container-dc2d27fc2c" class="cmp-container">
+        
+        
+        
+    </div>
+
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="cta-2"></div>
+
+
+	
+    
+
+
+
+    
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="related"></div>
+
+
+	
+    
+
+
+
+    
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="contactUs"></div>
+
+
+	
+    
+
+
+
+    
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section" data-id="followUs"></div>
+
+
+	<section id="followUs" style="height: auto" class="cmp-experiencefragment cmp-experiencefragment--gx-en fullwidth ">
+
+
+    
+    <div id="container-dd2cb7407f" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="socialfollow aem-GridColumn aem-GridColumn--default--12">
+
+    
+
+
+<div class="socialfollow section">
+	<div id="socialfollow" class="socialfollowInner">
+		<span>Follow us</span>
+		
+		<a href="http://pwc.to/PwCTwG" target="_self" class="socialfollow- Twitter Follow" aria-label="X Follow ">
+				<img src="/content/pwc/script/network/follow/follow_twitter.png" alt="X Follow"/>
+			</a> 
+		
+		<a href="https://www.facebook.com/PwC" target="_self" class="socialfollow- Facebook Follow" aria-label="Facebook Follow ">
+				<img src="/content/pwc/script/network/follow/follow_facebook.png" alt="Facebook Follow"/>
+			</a> 
+		
+		<a href="http://pwc.to/PwCLICo" target="_self" class="socialfollow- Linkedin Follow" aria-label="Linkedin Follow ">
+				<img src="/content/pwc/script/network/follow/follow_linkedin.png" alt="Linkedin Follow"/>
+			</a> 
+		
+		<a href="http://pwc.to/PwCYT" target="_self" class="socialfollow- Youtube Follow" aria-label="SocialFollow_Youtube ">
+				<img src="/content/pwc/script/network/follow/follow_youtube.png" alt="SocialFollow_Youtube"/>
+			</a> 
+		
+	</div>
+</div></div>
+
+    
+</div>
+
+    </div>
+
+    
+</section>
+    
+
+
+
+    
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section"></div>
+
+     
+	
+
+
+
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+<div class="ixfsection experiencefragment"><div class="mod-ixf-page-section"></div>
+
+
+	<section id="footer" style="height: auto" class="cmp-experiencefragment cmp-experiencefragment--gx-en fullwidth ">
+
+
+    
+    <div id="container-bcab0976b7" class="cmp-container">
+        
+
+
+<div class="aem-Grid aem-Grid--12 aem-Grid--default--12 ">
+    
+    <div class="html parbase aem-GridColumn aem-GridColumn--default--12">
+
+
+    
+
+
+
+    <div data-custom-code="Marketing">
+    	
+    	    <div><!-- placeholder --></div>
+	
+    </div>
+
+</div>
+<div class="footer aem-GridColumn aem-GridColumn--default--12"><!-- SDI include (path: /content/experience-fragments/pwc/gx/en/footer/gx-en/master/_jcr_content/root/footer.dynamic.html/pwc/components/modernized/content/footer, resourceType: pwc/components/modernized/content/footer) -->
+<div></div>
+
+    
+
+
+
+
+
+    
+
+<!-- START Sitemap Footer -->
+<div class="dpe-component-wrapper glb-footer glb-footer__block--reduced ">
+    <div class="container">
+    <!-- START bottom breadcrumb -->
+    
+    <!-- END bottom breadcrumbs -->
+    
+           
+	
+	<!-- start reduced Footer items -->
+	
+		<div class="row">
+			<div class="col-xs-12 col-sm-12 ">
+				<div class="glb-footer__block">
+					
+						<a class="serif glb-footer__link glb-footer__link--l1" href="/gx/en/about/office-locations.html" aria-label="PwC office locations ">
+						<span aria-hidden="true">PwC office locations</span>
+						</a>
+					
+						<a class="serif glb-footer__link glb-footer__link--l1" href="/gx/en/site-map.html" aria-label="Site map ">
+						<span aria-hidden="true">Site map</span>
+						</a>
+					
+						<a class="serif glb-footer__link glb-footer__link--l1" href="/gx/en/content/pwc/global/forms/contactUs.en_gx.html?parentPagePath=/content/pwc/gx/en&style=" aria-label="Contact us ">
+						<span aria-hidden="true">Contact us</span>
+						</a>
+					
+				</div>
+			</div>
+		</div>
+	
+	<!-- end reduced Footer items -->
+	
+	<!-- START Copyright statement -->
+	<div class="row">
+		<div class="col-xs-12  ">
+			<div class="glb-footer__disclaimer">
+				<div class="row">
+					<div class="col-md-8 glb-footer__disclaimer-text">
+						<a id="slim-footer-logo" href="" aria-label="PwC homepage" class="slim-footer-logo"></a>
+						<p>&copy;&nbsp;2017
+							
+							 - 2026 PwC. All rights reserved. PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity. Please see <a href="https://www.pwc.com/structure" style="text-decoration: underline;">www.pwc.com/structure</a> for further details. This content is for general information purposes only, and should not be used as a substitute for consultation with professional advisors. This website contains content generated by or created with the assistance of AI.
+						</p>
+						<!-- optional disclaimer links -->
+						<ul class="glb-footer__disclaimer-links" id="pgFooter">
+							
+								
+									<li>
+										<a href="/gx/en/legal-notices.html" aria-label="Legal notices ">
+										<span aria-hidden="true">Legal notices</span>
+										</a>
+									</li>
+								
+									<li>
+										<a href="/gx/en/legal-notices/pwc-privacy-statement.html" aria-label="Privacy ">
+										<span aria-hidden="true">Privacy</span>
+										</a>
+									</li>
+								
+									<li>
+										<a href="/gx/en/legal-notices/cookie-policy.html" aria-label="Cookie policy ">
+										<span aria-hidden="true">Cookie policy</span>
+										</a>
+									</li>
+								
+									<li>
+										<a href="/gx/en/legal-notices/legal-disclaimer.html" aria-label="Legal disclaimer ">
+										<span aria-hidden="true">Legal disclaimer</span>
+										</a>
+									</li>
+								
+									<li>
+										<a href="/gx/en/legal-notices/terms-and-conditions.html" aria-label="Terms and conditions ">
+										<span aria-hidden="true">Terms and conditions</span>
+										</a>
+									</li>
+								
+							
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- END Copyright statement -->
+
+	
+	</div>
+</div>
+<!-- END Sitemap Footer --></div>
+
+    
+</div>
+
+    </div>
+
+    
+</section>
+    
+
+
+
+    
+</div>
+
+        
+    </div>
+
+</div>
+
+
+            </div>
+            
+    
+    
+    
+<script src="/etc.clientlibs/pwc/components/modernized/common/mod-clientlibs/modernization-navigation.min.67058302dd2985c6dcad23f6e8090ea9.js"></script>
+<script src="/etc.clientlibs/pwc/components/modernized/common/mod-clientlibs/components-colors.min.7129407fda24b67372143a6b3aa6ee7a.js"></script>
+<script src="/etc.clientlibs/pwc/clientlibs/longform/script.min.ad5e79b340c643109fe07b41c66d53c8.js"></script>
+<script src="/etc.clientlibs/pwc/clientlibs/clientlib-vue/vue-bundle.min.586d71d03858300ba9f23782bbeb0f03.js"></script>
+
+
+
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/pwc/clientlibs/clientlib-vue/vue-bundle.min.d9f70d29d878338b1a887937dacc0d2f.css" type="text/css">
+
+
+
+<script>
+var getCookieByMatch = function(regex) {
+    var _cookies = document.cookie.split(/;\s*/),
+        _cookieArray = [],
+        i;
+    for (i = 0; i < _cookies.length; i++) {
+        if (_cookies[i].match(regex)) {
+            _cookieArray.push(_cookies[i]);
+        }
+    }
+    return _cookieArray;
+};
+
+function getUserMarketingID(value) {
+    const _regex = /^(.*)\|MCMID\|(\d+)\|(.*)/gm;
+    if ((_matchedArray = _regex.exec(value)) !== null && _matchedArray.length >= 3) {
+        return _matchedArray[2];
+    }
+}
+
+function setCookie(cname, cvalue, exdays, path) {
+    var expires = "expires=0"
+    if (exdays != 0) {
+        var d = new Date();
+        d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+        expires = "expires=" + d.toGMTString();
+    }
+    document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/;";
+}
+
+
+$( document ).ready(function() {
+    $.each(getCookieByMatch('AMCV_'), function(index, val) {
+		var cookie = val.split("=");
+        var userID = getUserMarketingID(decodeURIComponent(cookie[1]));
+			$('input[name="userMarketingID"]').each(function() {
+        	  $( this ).val(userID);
+        	});
+    });
+});
+</script>
+
+    
+
+    
+
+    
+    
+    
+
+            
+
+    </body>
+</html>
+

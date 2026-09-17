@@ -16,9 +16,11 @@
 
 % Floats: keep figures where they are written (fig-pos: H in _quarto.yml needs this),
 % and, where a figure does float, let pages fill more fully and avoid float-only pages.
-% Parts labelled by letter: "Part A", "Part B", ... (not "Part I"), no trailing dot.
-\renewcommand{\thepart}{\Alph{part}}
-\renewcommand*{\partformat}{\partname~\thepart}
+% The part number lives in the part TITLE ("Part I: 3500 BCE to 500 CE") so that it
+% shows in the HTML sidebar too. Suppress LaTeX's own part label and counter here, or
+% the PDF part page and its ToC entry would both read "Part I  Part I: ...".
+\renewcommand{\thepart}{}
+\renewcommand*{\partformat}{}
 
 \usepackage{float}
 \setcounter{topnumber}{3}

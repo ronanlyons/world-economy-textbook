@@ -32,6 +32,13 @@
 !/references.qmd
 !/parts/
 
+# book/ is re-admitted wholesale above, which means a stale chapter copy left in it
+# WILL publish. It holds superseded pre-2026-09-10 duplicates of every chapter, including
+# the ones withdrawn behind "Text to follow". Keep them out by path, not by hoping.
+/book/*.qmd
+/book/parts/
+/book/.gitignore
+
 # NOTE: topics/ is NOT re-admitted. It holds the decks, figures, recordings,
 # ledgers and superseded builds, none of which belongs in a public repo.
 
